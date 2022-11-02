@@ -1,0 +1,71 @@
+#Started on October 10th, 2016
+Show	Location	-573,91,-606
+Show	TextRadius	150
+#MainAudio
+0	Block	152	-579,89,-604
+#Balance (5)
+#189	Block	152	
+#378	Block	152	
+#568	Block	152	
+#Text Lyric Help : http://forums.wdwmagic.com/threads/believe-in-holiday-magic-lyrics.48691/ 
+#End at 568
+#Intro
+39.6	Text	&9Does your heart hold the magic of the holidays?
+43.7	Text	&9Is it filled with warm memories,
+45.7	Text	&9just waiting to be discovered again?
+48.8	Text	&9Well now is the time to open your heart,
+51.9	Text	&9believe in that magic, 
+54.1	Text	&9and remember those treasured moments.
+57	Text	&9Oh, they're still there,
+59.4	Text	&9deep within you,
+61.2	Text	&9waiting to touch you once more.
+64	Text	&9So come along,
+65.3	Text	&9as the magic of the season leads the way!
+#FirstSegment
+75.9	Text	&2Can you remember
+78.2	Text	&2How &cChristmas &2makes you feel
+82.1	Text	&2That special magic in the air
+86.1	Text	&2And all your dreams were real
+88.1	Text	&2Can you remember
+90.7	Text	&2The smell of &cgingerbread
+94.3	Text	&cC&fa&cn&fd&cy &fc&ca&fn&ce&fs &2and &9sugar plums
+98.4	Text	&2That dance inside your head
+103.2	Text	&2Remember when the twinkling stars at night
+107.2	Text	&2Told you reindeer were in flight
+111	Text	&2And jolly &cSanta Claus &2was on his way
+117.2	Text	&2The warmth of candle &eglow
+120.3	Text	&2A kiss of &amistletoe
+123.5	Text	&2And magic lives and we believe
+126.5	Text	&2It's in our hearts to stay
+134.4	Text	&2Remember the caring
+137.4	Text	&2A season worth sharing
+140.3	Text	&2Believe in the magic in our lives
+146.8	Text	&2Just open up your heart
+149.9	Text	&2And relive the feeling
+152.6	Text	&2Just remember the magic
+155.8	Text	&2Yes, remember the magic
+160.1	Text	&2One more time
+#FinalSegment
+506.4	Text	&2Treasure it again
+508.6	Text	&cRemember
+509.6	Text	&2It never has to end
+511.2	Text	&cJoy of sharing
+512.6	Text	&2Remember the magic in our lives
+516.9	Text	&cRemember the magic
+519.1	Text	&2Just open up your heart
+522.4	Text	&2Embrace all those feelings
+525.2	Text	&2Just remember the meaning
+527	Text	&cRemember
+528.4	Text	&2Yes, remember the feeling
+530.2	Text	&cRemember
+532.5	Text	&2For all time
+538.8	Text	&2For all time
+549.6	Text	&9&lCherish the holidays forever,
+552.7	Text	&9&land always believe!
+568	Text	&6Brought to you by:
+570	Text	 &eXavier9214 and Zafacon2
+572	Text	&6With help from --
+574	Text	&dN/A
+576	Text	&6Plugin -- &dChiss and the MCMagic Dev Team
+578	Text	&6And of course, the &bMCMagic Parks Family&6!
+580	Text	&cHappy &2Holidays!

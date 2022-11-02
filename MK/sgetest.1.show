@@ -1,0 +1,295 @@
+Show	Location	-1747,63,-1177
+Show	TextRadius	35
+#Audio
+0	Block	152	-1739,61,-1180
+#Text	
+2.7	Text	&f[&cPleakley&f] &2Attention!
+4.2	Text	&2Attention!
+5.9	Text	&2May I have your attention please!?
+9.4	Text	&2All rise for the &6Galactic Federation Grand Councilwoman!
+15.2	Text	&f[&6Grand Councilwoman&f] &eWelcome recruits to the Galactic Federation Prison and Teleport Center.
+20.3	Text	&eI commend you for making the brave decision to join our noble ranks as guards.
+26.1	Text	&eThe universe is filled with a wonderful integration of alien societies.
+32.3	Text	&eHowever, as in all societies, there are the nice, and the naughty.
+39.8	Text	&eHere, is where we teleport in the naughty.
+45.4	Text	&eYour job is to guard them until they have decided to become nice.
+50.4	Text	&eI will now leave you under the capable supervision of &9Captain Gantu.
+56.4	Text	&f[&9Gantu&f] &5At ease recruits.  As you will soon discover, being a guard of the Galatic Federation is filled with challenges.
+63.2	Text	&5Now I realize this is your first day, so I will give you until the end of your shift to familiarize yourself with all of our prisoners.
+71	Text	&5Memorize their names AND their faces.  Your life may depend on it.
+77.1	Text	&5Alright recruits, proceed to our prisoner teleportation chamber for further briefing.  &cPleakley!
+83.1	Text	&f[&cPleakley&f] &2At your service Captain! 
+85.3	Text	&2Ahem, Attention recruits! 
+88.9	Text	&2The access doors will open in 5 seconds, so be ready to march inside.  
+95	Text	&2ON THE DOUBLE!
+#TVLights	
+0	Block	152	-1741,66,-1171
+0	Block	152	-1745,66,-1172
+0	Block	152	-1749,66,-1173
+#TV Pixelator
+0	Block	152	-1740,61,-1178
+2.7	Block	152	-1741,61,-1178
+9.4	Block	152	-1742,61,-1178
+15.2	Block	152	-1743,61,-1178
+56.4	Block	152	-1744,61,-1178
+71	Block	152	-1745,61,-1178
+77.1	Block	152	-1744,61,-1178
+83.9	Block	152	-1747,61,-1178
+84.9	Block	152	-1748,61,-1178
+85.9	Block	152	-1749,61,-1178
+86.9	Block	152	-1750,61,-1178
+87.9	Block	152	-1751,61,-1178
+88.9	Block	152	-1752,61,-1178
+89.9	Block	152	-1747,61,-1176
+90.9	Block	152	-1748,61,-1176
+91.9	Block	152	-1749,61,-1176
+92.9	Block	152	-1750,61,-1176
+93.9	Block	152	-1751,61,-1176
+94.9	Block	152	-1752,61,-1176
+125	Block	152	-1739,61,-1178
+#Tv Lights Off
+96	Block	0	-1741,66,-1171
+96	Block	0	-1745,66,-1172
+96	Block	0	-1749,66,-1173
+#Pre-Show Room Lights
+0	Block	0	-1741,70,-1175
+0	Block	0	-1743,70,-1176
+0	Block	0	-1745,70,-1176
+0	Block	0	-1747,70,-1177
+0	Block	0	-1749,70,-1177
+0	Block	0	-1751,70,-1178
+#PRE SHOW ROOM LIGHTS
+96	Block	152	-1741,70,-1175
+96	Block	152	-1743,70,-1176
+96	Block	152	-1745,70,-1176
+96	Block	152	-1747,70,-1177
+96	Block	152	-1749,70,-1177
+96	Block	152	-1751,70,-1178
+#DoorOpening
+96	Block	0	-1757,61,-1179
+#DoorClosing
+125	Block	152	-1757,61,-1179
+#EXIT SIGNS (1 No Flash)
+96	Block	152	-1741,61,-1180
+96	Block	152	-1742,61,-1180
+96	Block	152	-1743,61,-1180
+96	Block	152	-1744,61,-1180
+#EXIT SIGNS (1 Flash)
+96.5	Block	152	-1745,61,-1180
+96.5	Block	152	-1746,61,-1180
+96.5	Block	152	-1747,61,-1180
+96.5	Block	152	-1748,61,-1180
+#EXIT SIGNS (2 No Flash)
+97	Block	152	-1741,61,-1180
+97	Block	152	-1742,61,-1180
+97	Block	152	-1743,61,-1180
+97	Block	152	-1744,61,-1180
+#EXIT SIGNS (2 Flash)
+97.5	Block	152	-1745,61,-1180
+97.5	Block	152	-1746,61,-1180
+97.5	Block	152	-1747,61,-1180
+97.5	Block	152	-1748,61,-1180
+#EXIT SIGNS (3 No Flash)
+98	Block	152	-1741,61,-1180
+98	Block	152	-1742,61,-1180
+98	Block	152	-1743,61,-1180
+98	Block	152	-1744,61,-1180
+#EXIT SIGNS (3 Flash)
+98.5	Block	152	-1745,61,-1180
+98.5	Block	152	-1746,61,-1180
+98.5	Block	152	-1747,61,-1180
+98.5	Block	152	-1748,61,-1180
+#EXIT SIGNS (4 No Flash)
+99	Block	152	-1741,61,-1180
+99	Block	152	-1742,61,-1180
+99	Block	152	-1743,61,-1180
+99	Block	152	-1744,61,-1180
+#EXIT SIGNS (4 Flash)
+99.5	Block	152	-1745,61,-1180
+99.5	Block	152	-1746,61,-1180
+99.5	Block	152	-1747,61,-1180
+99.5	Block	152	-1748,61,-1180
+#EXIT SIGNS (5 No Flash)
+100	Block	152	-1741,61,-1180
+100	Block	152	-1742,61,-1180
+100	Block	152	-1743,61,-1180
+100	Block	152	-1744,61,-1180
+#EXIT SIGNS (5 Flash)
+100.5	Block	152	-1745,61,-1180
+100.5	Block	152	-1746,61,-1180
+100.5	Block	152	-1747,61,-1180
+100.5	Block	152	-1748,61,-1180
+#EXIT SIGNS (6 No Flash)
+101	Block	152	-1741,61,-1180
+101	Block	152	-1742,61,-1180
+101	Block	152	-1743,61,-1180
+101	Block	152	-1744,61,-1180
+#EXIT SIGNS (6 Flash)
+101.5	Block	152	-1745,61,-1180
+101.5	Block	152	-1746,61,-1180
+101.5	Block	152	-1747,61,-1180
+101.5	Block	152	-1748,61,-1180
+#EXIT SIGNS (7 No Flash)
+102	Block	152	-1741,61,-1180
+102	Block	152	-1742,61,-1180
+102	Block	152	-1743,61,-1180
+102	Block	152	-1744,61,-1180
+#EXIT SIGNS (7 Flash)
+102.5	Block	152	-1745,61,-1180
+102.5	Block	152	-1746,61,-1180
+102.5	Block	152	-1747,61,-1180
+102.5	Block	152	-1748,61,-1180
+#EXIT SIGNS (8 No Flash)
+103	Block	152	-1741,61,-1180
+103	Block	152	-1742,61,-1180
+103	Block	152	-1743,61,-1180
+103	Block	152	-1744,61,-1180
+#EXIT SIGNS (8 Flash)
+103.5	Block	152	-1745,61,-1180
+103.5	Block	152	-1746,61,-1180
+103.5	Block	152	-1747,61,-1180
+103.5	Block	152	-1748,61,-1180
+#EXIT SIGNS (9 No Flash)
+104	Block	152	-1741,61,-1180
+104	Block	152	-1742,61,-1180
+104	Block	152	-1743,61,-1180
+104	Block	152	-1744,61,-1180
+#EXIT SIGNS (9 Flash)
+104.5	Block	152	-1745,61,-1180
+104.5	Block	152	-1746,61,-1180
+104.5	Block	152	-1747,61,-1180
+104.5	Block	152	-1748,61,-1180
+#EXIT SIGNS (10 No Flash)
+105	Block	152	-1741,61,-1180
+105	Block	152	-1742,61,-1180
+105	Block	152	-1743,61,-1180
+105	Block	152	-1744,61,-1180
+#EXIT SIGNS (10 Flash)
+105.5	Block	152	-1745,61,-1180
+105.5	Block	152	-1746,61,-1180
+105.5	Block	152	-1747,61,-1180
+105.5	Block	152	-1748,61,-1180
+#EXIT SIGNS (11 No Flash)
+106	Block	152	-1741,61,-1180
+106	Block	152	-1742,61,-1180
+106	Block	152	-1743,61,-1180
+106	Block	152	-1744,61,-1180
+#EXIT SIGNS (11 Flash)
+106.5	Block	152	-1745,61,-1180
+106.5	Block	152	-1746,61,-1180
+106.5	Block	152	-1747,61,-1180
+106.5	Block	152	-1748,61,-1180
+#EXIT SIGNS (12 No Flash)
+107	Block	152	-1741,61,-1180
+107	Block	152	-1742,61,-1180
+107	Block	152	-1743,61,-1180
+107	Block	152	-1744,61,-1180
+#EXIT SIGNS (12 Flash)
+107.5	Block	152	-1745,61,-1180
+107.5	Block	152	-1746,61,-1180
+107.5	Block	152	-1747,61,-1180
+107.5	Block	152	-1748,61,-1180
+#EXIT SIGNS (13 No Flash)
+108	Block	152	-1741,61,-1180
+108	Block	152	-1742,61,-1180
+108	Block	152	-1743,61,-1180
+108	Block	152	-1744,61,-1180
+#EXIT SIGNS (13 Flash)
+109.5	Block	152	-1745,61,-1180
+109.5	Block	152	-1746,61,-1180
+109.5	Block	152	-1747,61,-1180
+109.5	Block	152	-1748,61,-1180
+#EXIT SIGNS (14 No Flash)
+110	Block	152	-1741,61,-1180
+110	Block	152	-1742,61,-1180
+110	Block	152	-1743,61,-1180
+110	Block	152	-1744,61,-1180
+#EXIT SIGNS (14 Flash)
+110.5	Block	152	-1745,61,-1180
+110.5	Block	152	-1746,61,-1180
+110.5	Block	152	-1747,61,-1180
+110.5	Block	152	-1748,61,-1180
+#EXIT SIGNS (15 No Flash)
+111	Block	152	-1741,61,-1180
+111	Block	152	-1742,61,-1180
+111	Block	152	-1743,61,-1180
+111	Block	152	-1744,61,-1180
+#EXIT SIGNS (15 Flash)
+111.5	Block	152	-1745,61,-1180
+111.5	Block	152	-1746,61,-1180
+111.5	Block	152	-1747,61,-1180
+111.5	Block	152	-1748,61,-1180
+#EXIT SIGNS (16 No Flash)
+112	Block	152	-1741,61,-1180
+112	Block	152	-1742,61,-1180
+112	Block	152	-1743,61,-1180
+112	Block	152	-1744,61,-1180
+#EXIT SIGNS (16 Flash)
+112.5	Block	152	-1745,61,-1180
+112.5	Block	152	-1746,61,-1180
+112.5	Block	152	-1747,61,-1180
+112.5	Block	152	-1748,61,-1180
+#EXIT SIGNS (17 No Flash)
+113	Block	152	-1741,61,-1180
+113	Block	152	-1742,61,-1180
+113	Block	152	-1743,61,-1180
+113	Block	152	-1744,61,-1180
+#EXIT SIGNS (17 Flash)
+113.5	Block	152	-1745,61,-1180
+113.5	Block	152	-1746,61,-1180
+113.5	Block	152	-1747,61,-1180
+113.5	Block	152	-1748,61,-1180
+#EXIT SIGNS (18 No Flash)
+114	Block	152	-1741,61,-1180
+114	Block	152	-1742,61,-1180
+114	Block	152	-1743,61,-1180
+114	Block	152	-1744,61,-1180
+#EXIT SIGNS (18 Flash)
+114.5	Block	152	-1745,61,-1180
+114.5	Block	152	-1746,61,-1180
+114.5	Block	152	-1747,61,-1180
+114.5	Block	152	-1748,61,-1180
+#EXIT SIGNS (19 No Flash)
+115	Block	152	-1741,61,-1180
+115	Block	152	-1742,61,-1180
+115	Block	152	-1743,61,-1180
+115	Block	152	-1744,61,-1180
+#EXIT SIGNS (19 Flash)
+115.5	Block	152	-1745,61,-1180
+115.5	Block	152	-1746,61,-1180
+115.5	Block	152	-1747,61,-1180
+115.5	Block	152	-1748,61,-1180
+#EXIT SIGNS (20 No Flash)
+116	Block	152	-1741,61,-1180
+116	Block	152	-1742,61,-1180
+116	Block	152	-1743,61,-1180
+116	Block	152	-1744,61,-1180
+#EXIT SIGNS (20 Flash)
+116.5	Block	152	-1745,61,-1180
+116.5	Block	152	-1746,61,-1180
+116.5	Block	152	-1747,61,-1180
+116.5	Block	152	-1748,61,-1180
+#EXIT SIGNS (21 No Flash)
+117	Block	152	-1741,61,-1180
+117	Block	152	-1742,61,-1180
+117	Block	152	-1743,61,-1180
+117	Block	152	-1744,61,-1180
+#EXIT SIGNS (21 Flash)
+117.5	Block	152	-1745,61,-1180
+117.5	Block	152	-1746,61,-1180
+117.5	Block	152	-1747,61,-1180
+117.5	Block	152	-1748,61,-1180
+#Exit Sign Removal
+125	Block	0	-1740,65,-1177
+125	Block	0	-1744,65,-1178
+125	Block	0	-1748,65,-1179
+125	Block	0	-1752,65,-1180
+#Helpop
+125	Block	152	-1745,61,-1176
+
+
+
+
+
+
+

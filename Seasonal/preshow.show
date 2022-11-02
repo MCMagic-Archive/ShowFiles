@@ -1,0 +1,43 @@
+Show	Location	8,70,-623
+Show	TextRadius	10
+Show	Name	preshow
+#Mystic Manor for Skipper
+#Text
+1.7	Text	[&eLord Mystic&f] &bHello, can you hear me out there, from the back of the projection room?
+8.3	Text	 &bAh! Welcome to Mystic Manor!
+11.1	Text	 &bHome to a world-class collection of art, antiquities, and my personal residence.
+17.8	Text	 &bI am Lord Henry Mystic.
+20	Text	 &bThe young fellow by my side is Albert - my travelling companion, confidant and....
+27.5	Text	 &b..and rather mischievous	
+29.3	Text	[&eLord Mystic&f] &bYes Albert, that's you! Now run along, shoo!
+33.5	Text	 &bAh well. For several years now, Albert and I have traveled the world, in search of rare and precious artifacts-
+41	Text	 &bfor you to enjoy as you tour our home in Mystic Manor.
+45.7	Text	 &bThese are just a few of our treasures!
+48.5	Text	 &bAnd here's our latest acquisition-- an ancient music box.
+52.9	Text	 &bLegend has it that this charming music box has the power to bring inanimate objects to life, with a touch of its enchanting music.
+62.6	Text	 &bSuperstition and nonsense!
+65.8	Text	 &bOh my- well, we shall see when we open it shortly!
+72	Text	 &bLooks like that little fellow can't keep his hands off that music box.
+76.1	Text	 &bYes you like that box, don't you?
+79	Text	 &bWe'll examine it later. Now, shoo, shoo!
+82	Text	 &bNow what was I saying... Ye-oh, yes!
+85.6	Text	 &bWelcome one and all to Mystic Manor!
+90	Text	 &bHmm, I think I better go find that little bugger. He's always on to something!
+#Summon pixelators
+1	Block	152	16,55,-665
+11	Block	152	16,55,-664
+17	Block	152	16,55,-663
+34	Block	152	16,55,-662
+38.6	Block	152	16,55,-661
+41	Block	152	16,55,-660
+48.5	Block	152	16,55,-659
+52.6	Block	152	16,55,-658
+82	Block	152	16,55,-657
+85	Block	152	16,55,-656
+94	Block	152	16,55,-655
+100	Block	152	16,55,-654
+95	Block	0	1,71,-631
+95	Block	0	1,70,-631
+115	Block	17:1	1,71,-631
+115	Block	17:1	1,70,-631
+

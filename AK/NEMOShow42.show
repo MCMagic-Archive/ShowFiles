@@ -1,0 +1,5998 @@
+Show	Location	-1631,48,4390
+Show	TextRadius	55
+Show	Name	FNTM
+#Audio
+0	AudioStart	fntm
+5	AudioSync	fntm	5
+10	AudioSync	fntm	10
+30	AudioSync	fntm	30
+120	AudioSync	fntm	120
+240	AudioSync	fntm	240
+360	AudioSync	fntm	360
+480	AudioSync	fntm	480
+600	AudioSync	fntm	600
+720	AudioSync	fntm	720
+840	AudioSync	fntm	840
+960	AudioSync	fntm	960
+1080	AudioSync	fntm	1080
+1200	AudioSync	fntm	1200
+1320	AudioSync	fntm	1320
+1440	AudioSync	fntm	1440
+1560	AudioSync	fntm	1560
+1680	AudioSync	fntm	1680
+1800	AudioSync	fntm	1800
+1909	AudioStart	fntmpost
+#Text
+0	Text	** This show includes loud and ominous music, thundering explosions with blinding flashes of light, fire, and sparks. If you are sensitive to any of those special effects we ask that you watch at your own discretion. **
+23.5	Text	&f[&6Marlin&f]&e Wow!
+25.1	Text	&eLook at this spectacular view!
+28.3	Text	&eDid your man deliver, or did he deliver?
+31	Text	&f[&6Coral&f]&6 Marlin, &eShh!
+32.8	Text	&eYou`re gonna wake the kids!
+35.9	Text	&eWe still have to name them.
+37.5	Text	&eI like...
+38.6	Text	&6Nemo.
+40	Text	&f[&6Marlin&f]&6 Nemo?
+41.4	Text	&eWell, we`ll name one &6Nemo &ebut I`d like most of them to be &6Marlin Jr.
+46.5	Text	&eWhat`s that?
+48.7	Text	&eGet inside, &6Coral.
+51.2	Text	&6Coral...
+53	Text	&6Coral &edon`t! They`ll be fine!
+55.8	Text	&6CORAL!
+56.2	Text	&eNOOOO!!!
+61.7	Text	&6Coral?
+63.6	Text	&6Coral?!
+66.3	Text	&eOh...
+69	Text	&eThere, there,
+70.9	Text	&eDaddy`s got you.
+73.5	Text	&eI promise I will never let anything happen to you....
+78.8	Text	&6...Nemo.
+90.6	Text	&f[&6Marlin&f]&e Alright, we`re excited!
+92.5	Text	&eIt`s your first day of school &6Nemo!
+94.1	Text	&eWe`re ready to learn, 
+95.1	Text	&eto get some knowledge.
+97.3	Text	&3&5 &5*&3 Now what`s the one thing we remember before we head out from here? &5 &5*&3
+104.5	Text	&f[&6Nemo&f]&3 &5 &5*&3 The ocean`s not safe, &5 &5*&3
+106.2	Text	&3&5 &5*&3 So we have to check if the coast is clear. &5 &5*&3
+110	Text	&f[&6Marlin&f]&e Right.
+111.3	Text	&eWe go out,
+113.1	Text	&ethen back in.
+114.8	Text	&eAnd then we go out,
+116.5	Text	&eand then back in.
+118.2	Text	&eAnd one more time,
+119	Text	&eout,
+120	Text	&eand then back in.
+122.3	Text	&eAnd sometimes
+123.7	Text	&eIf you wanna do it four times.
+125	Text	&f[&6Nemo&f]&e Come on!
+125.7	Text	&f[&6Marlin&f]&e Ok.
+126.4	Text	&f[&6Nemo&f]&5 &5* &3Hey, Dad! &5 &5*&3
+127.2	Text	&5 &5*&3 Hey, Dad! &5 &5*&3
+128	Text	&5 &5*&3 Wouldn`t it be cool &5 &5*&3
+130.2	Text	&5 &5*&3 If I maybe met a shark while I`m at school? &5 &5*&3
+132.9	Text	&f[&6Marlin&f]&e No.
+133.8	Text	&f[&6Nemo&f]&5 &5* &3Or an angelfish! &5 &5*&3
+134.9	Text	&5 &5*&3 Is it true that they have wings? &5 &5*&3
+136.4	Text	&f[&6Marlin&f]&e I don`t think so.
+137.2	Text	&f[&6Nemo&f]&5 &5* &3Can you believe there are so many things... &5 &5*&3
+141.4	Text	&5 &5*&3 &bIn the big blue world.. &5 &5*&3
+145.9	Text	&5 &5*&3 I`m gonna go explore. &5 &5*&3
+148.4	Text	&5 &5*&3 &bIn the big blue world.. &5 &5*&3
+152.8	Text	&5 &5*&3 That I`ve never seen before. &5 &5*&3
+155.7	Text	&5 &5*&3 So many creatures &5 &5*&3
+158.8	Text	&5 &5*&3 Swimming `round the sea. &5 &5*&3
+163	Text	&5 &5*&3 &bIn the big blue world.. &5 &5*&3
+167.2	Text	&5 &5*&3 And all of them are waiting for me! &5 &5*&3
+170	Text	&f[&6Marlin&f]&e That`s what I`m afraid of.
+171.5	Text	&f[&6Nemo&f]&e Hey Dad!
+172	Text	&eDo you know how old sea turtles are?
+174	Text	&f[&6Marlin&f]&e Sea turtles?
+174.8	Text	&eI don`t know.
+175.5	Text	&f[&6Nemo&f]&c Sandy Plankton &esaid that they could live to be a hundred!
+178.5	Text	&f[&6Marlin&f]&e Well, if I ever meet one,
+179.2	Text	&eI`ll ask him.
+180	Text	&f[&6Nemo&f]&e Me too!
+181	Text	&eMaybe I`ll meet a sea turtle AND a shark!!
+184	Text	&f[&6Marlin&f]&5 &5* &3I know you`re excited, &5 &5*&3
+185.5	Text	&5 &5*&3 But let`s take a little pause. &5 &5*&3
+187	Text	&5 &5*&3 Sharks are not our friends, &6Nemo. &5 &5*&3
+189.3	Text	&5 &5*&3 Haven`t you seen Jaws? &5 &5*&3
+190	Text	&f[&6Nemo&f]&e What?
+191	Text	&f[&6Marlin&f]&5 &5* &3You don`t want to meet a swordfish, &5 &5*&3
+193	Text	&5 &5*&3 you don`t want to meet a whale, &5 &5*&3
+194	Text	&f[&6Nemo&f]&e I wanna meet a whale.
+195	Text	&f[&6Marlin&f]&5 &5* &3You need me around to watch your tail... &5 &5*&3
+199	Text	&5 &5*&3 &bIn the big blue world.. &5 &5*&3
+203.5	Text	&5 &5*&3 You`re just a little fish. &5 &5*&3
+205	Text	&f[&6Nemo&f]&e Aw, Dad.
+206	Text	&f[&6Marlin&f]&5 &5* &bIn the big blue world, &5 &5*&3
+210.5	Text	&5 &5*&3 You`ll be seen as a tasty dish. &5 &5*&3
+212	Text	&f[&6Nemo&f]&5 &5* &3No... &5 &5*&3
+213	Text	&f[&6Marlin&f]&5 &5* &3You mean so much to me, &5 &5*&3
+216.5	Text	&5 &5*&3 I don`t know what I would do, &5 &5*&3
+220.8	Text	&5 &5*&3 in this big blue world. &5 &5*&3
+225	Text	&5 &5*&3 if something should happen to you. &5 &5*&3
+228.8	Text	&f[&6Nemo&f]&5 &5* &3No need to worry, Dad, &5 &5*&3
+230.5	Text	&5 &5*&3 I`ll be okay. &5 &5*&3
+232	Text	&f[&6Marlin&f]&5 &5* &3I`m scared you`ll end up as a clownfish filet. &5 &5*&3
+235.5	Text	&5 &5*&3 We can turn right around! &5 &5*&3
+237.2	Text	&5 &5*&3 We could wait one more year. &5 &5*&3
+239.5	Text	&f[&6Nemo&f]&e Don`t be so boring, Dad.
+242	Text	&5 &5*&3 I belong here! &5 &5*&3
+0	Block	0	-1611,48,4393
+0	Block	0	-1651,48,4393
+1999	Block	101	-1611,48,4393
+1999	Block	101	-1651,48,4393
+242	Block	89	-1611,47,4400
+242	Block	89	-1651,47,4400
+275	Block	24:2	-1611,47,4400
+275	Block	24:2	-1651,47,4400
+249.5	Text	&eWow!
+251	Text	&eIsn`t it beautiful?
+253	Text	&f[&6Marlin&f]&6 Nemo!
+254.5	Text	&f[&6Nemo&f]&e Come on, Dad!
+257	Text	&f[&6Marlin&f]&e Hold my fin! Hold my fin!
+260	Text	&f[&3Sea Creatures&f] &5 &5*&3 Take a look around you. &5 &5*&3
+264	Text	&5 &5*&3 The &1Ocean`s &3alive! &5 &5*&3
+268	Text	&5 &5*&3 &bIn the big blue world, &5 &5*&3
+273	Text	&5 &5*&3 It`s time for you to arrive. &5 &5*&3
+275	Text	&f[&6Marlin&f]&e Is this where we meet his teacher?
+276.5	Text	&f[&eReef Dads&f] &bYup.
+276.8	Text	&bSure is.
+277	Text	&bMhmm.
+278	Text	&f[&cSheldon&f] &6What`s wrong with his fin?
+279	Text	&f[&aSeahorse Dad&f] &3Be nice.
+280	Text	&3It`s his first day of school.
+281.5	Text	&f[&6Marlin&f]&e He was born with it, kids.
+283	Text	&eWe call it his lucky fin!
+284.4	Text	&f[&6Nemo&f]&e Dad.
+285.5	Text	&f[&bMr. Ray&f] &5 &5*&3 Let`s name the zones, &5 &5*&3
+287	Text	&5 &5*&3 the zones, &5 &5*&3
+288	Text	&5 &5*&3 the zones. &5 &5*&3
+289	Text	&5 &5*&3 Let`s name the zones of the open sea! &5 &5*&3
+293	Text	&f[&eReef Kids&f] &bMr. Ray!
+294.5	Text	&f[&bMr. Ray&f] &9Climb aboard, explorers!
+296	Text	Who`s this?
+297	Text	&f[&6Nemo&f]&e I`m Nemo.
+298	Text	&f[&6Marlin&f]&e He`s got a little fin.
+299	Text	&eI find if he gets tired, just give him a break...
+301	Text	&eten, fifteen minutes...
+302	Text	&f[&6Nemo&f]&e Dad.
+302.5	Text	&f[&bMr. Ray&f] &9Don`t worry,
+303	Text	&9We`re gonna travel as a group.
+306	Text	&f[&6Marlin&f]&5 &5* &6Nemo, &3you`re such a special kid. &5 &5*&3
+310	Text	&eWant me to come with you?
+312	Text	&5 &5*&3 I`d feel better if I did. &5 &5*&3
+314.7	Text	&eRemember ev`rything I told you. 
+317	Text	&f[&6Nemo&f]&e Dad, I`ll be alright!
+319	Text	&f[&bMr. Ray&f] &9Climb aboard, explorers!
+321	Text	&5 &5*&3 Hold on tight! &5 &5*&3
+322	Text	&5 &5*&3 Are you ready? &5 &5*&3
+323	Text	&f[&6Nemo&f]&5 &5* &3Yes, I`m ready! &5 &5*&3
+326	Text	&f[&bMr. Ray&f] &5 &5*&3 Really ready? &5 &5*&3
+327.8	Text	&f[&6Marlin&f]&e I don`t think I`m ready.
+330.2	Text	&f[&bMr. Ray &8& &6Nemo&f] &5 &5*&3 We`re ready to go! &5 &5*&3
+332	Text	&f[&dEveryone&f] &5 &5*&3 &bIn the big blue world, &5 &5*&3
+334	Text	&5 &5*&3 (We`re ready to go). &5 &5*&3
+336	Text	&5 &5*&3 &bIn the big blue world, &5 &5*&3
+338	Text	&5 &5*&3 (We`re ready to go). &5 &5*&3
+343.5	Text	&f[&aSeahorse Dad&f] &3You`re doing really well for a first-timer!
+345.5	Text	&f[&dSquid Dad&f] &bI remember I was a mess when my kid first went to the drop-off.
+349	Text	&f[&6Marlin&f]&e Well, what are you gonna do?
+350	Text	&eYou gotta let `em go sometime.
+352.2	Text	&eThe Drop-off?!!
+358.5	Text	&f[&cSheldon&f] &6Look at us!
+359	Text	&6We`re gonna touch the boat!
+361	Text	&f[&dPearl&f] &bCome on, &6Nemo!
+363	Text	&f[&dTad&f] &9How far can you go?
+364.8	Text	&f[&6Nemo&f]&e Um.. my dad says it`s not safe, but...
+367	Text	&eIf you guys are gonna go, I
+368	Text	&f[&6Marlin&f]&5 &5* &3Nemo! &5 &5*&3
+368.6	Text	&5 &5*&3 No! &5 &5*&3
+369	Text	&5 &5*&3 You can`t be anywhere near here! &5 &5*&3
+370.8	Text	&f[&6Nemo&f]&5 &5* &3I wasn`t gonna! &5 &5*&3
+371.7	Text	&f[&6Marlin&f]&5 &5* &3You`re not ready! &5 &5*&3
+372	Text	&5 &5*&3 I was right! &5 &5*&3
+373	Text	&5 &5*&3 We`ll try school again next year. &5 &5*&3
+374.6	Text	&f[&6Nemo&f]&5 &5* &3But Dad! &5 &5*&3
+375	Text	&f[&6Marlin&f]&5 &5* &3You know that you can`t swim well, &5 &5*&3
+376.5	Text	&f[&6Nemo&f]&5 &5* &3I can! &5 &5*&3
+377.7	Text	&f[&6Marlin&f]&5 &5* &3No, you can`t! Now come along. &5 &5*&3
+379	Text	&5 &5*&3 You think that you can do these things, &5 &5*&3
+380.8	Text	&5 &5*&3 but YOU ARE WRONG! &5 &5*&3
+383.2	Text	&f[&6Nemo&f]&e I hate you.
+386.6	Text	&f[&6Marlin&f]&6 Nemo! What are you doing?
+388	Text	&eYou get back here!
+390	Text	&eYou are in big trouble, young man.
+392.2	Text	&eDo you hear me? Big... big...
+395	Text	&f[&6Nemo&f]&e Aaaahhhh! Daddy! Help me!
+399.8	Text	&f[&6Marlin&f]&e Neeemoooo!!!
+402	Text	&eI`m coming &6Nemo!
+403	Text	&eWait!
+403.8	Text	&6Nemo!
+405.8	Text	&eOh no. No, no, no.
+408.8	Text	&eIt`s gone, it`s gone.
+410	Text	&eNo, no, no.
+411.7	Text	&eIt can`t be gone.
+413	Text	&ePlease!
+414.7	Text	&eNo!
+#StartOfDitty`sScene
+421	Text	&f[&9Dory&f] &5 &5*&3 La la la la la la la la &5 &5*&3
+422.5	Text	&5 &5*&3 La la la la la la la la &5 &5*&3
+424	Text	&5 &5*&3 La la la la la &5 &5*&3
+425	Text	&bLOOK OUT!
+426.6	Text	&f[&9Dory&f]&b Sorry Sir,
+427.3	Text	&f[&6Marlin&f]&e Have you seen a boat?
+428.8	Text	&f[&9Dory&f]&b A boat! 
+429	Text	&bOh! I`ve seen a boat! 
+429.8	Text	&bFollow me!
+430.5	Text	&f[&6Marlin&f]&e Thank you.
+432	Text	&5 &5*&3 La la la la la la la la &5 &5*&3
+433.5	Text	&5 &5*&3 La la la la la la la la &5 &5*&3
+435	Text	&5 &5*&3 La la la la la &5 &5*&3
+438	Text	&bDo you mind?!
+438.8	Text	&f[&6Marlin&f]&e What?
+439.6	Text	&f[&9Dory&f]&b I`m trying to swim here!
+440.6	Text	&f[&6Marlin&f]&e But you were showing me which way the boat went.
+442.8	Text	&f[&9Dory&f]&b A boat!
+443	Text	&bOh! I`ve seen a boat! 
+443.9	Text	&bFollow me!
+444.8	Text	&f[&6Marlin&f]&e Wait!
+446	Text	&eWe already did this!
+447.8	Text	&f[&9Dory&f]&b We did?
+448.6	Text	&bOh dear.
+450	Text	&5 &5*&3 I guess I should explain, &5 &5*&3
+452.1	Text	&5 &5*&3 I got this problem with my brain. &5 &5*&3
+454.9	Text	&5 &5*&3 Things get really scrambled in my head. &5 &5*&3
+457.5	Text	&5 &5*&3 I have no short term memory. &5 &5*&3
+459.9	Text	&5 &5*&3 I forget things almost instantly. &5 &5*&3
+462.8	Text	&5 &5*&3 I`m not even sure what I just said. &5 &5*&3
+468.8	Text	May I help you?
+470	Text	&f[&6Marlin&f]&e There`s something wrong with you, really.
+472	Text	&eYou`re wasting my time.
+473	Text	&eI have to find my son!
+#EndOfDory`sDittyScene
+#SchematicStage
+482	Block	160:13	-1623,47,4406
+482	Block	160:13	-1623,48,4406
+482	Block	160:13	-1622,49,4406
+482	Block	160:13	-1622,50,4406
+482	Block	160:13	-1623,51,4406
+482	Block	160:13	-1623,52,4406
+482	Block	160:13	-1623,53,4406
+482	Block	160:13	-1622,54,4406
+482	Block	160:13	-1623,55,4406
+482	Block	160:13	-1624,55,4406
+482	Block	160:13	-1625,55,4406
+482	Block	160:13	-1626,54,4406
+482	Block	160:13	-1627,54,4406
+482	Block	160:13	-1628,54,4406
+482	Block	160:13	-1629,54,4406
+482	Block	160:13	-1630,55,4406
+482	Block	160:13	-1631,55,4406
+482	Block	160:13	-1632,55,4406
+482	Block	160:13	-1633,54,4406
+482	Block	160:13	-1634,54,4406
+482	Block	160:13	-1635,54,4406
+482	Block	160:13	-1636,55,4406
+482	Block	160:13	-1637,55,4406
+482	Block	160:13	-1638,55,4406
+482	Block	160:13	-1638,54,4406
+482	Block	160:13	-1639,51,4406
+482	Block	160:13	-1639,52,4406
+482	Block	160:13	-1639,53,4406
+482	Block	160:13	-1638,50,4406
+482	Block	160:13	-1638,49,4406
+482	Block	160:13	-1639,47,4406
+482	Block	160:13	-1639,48,4406
+482	Block	160:13	-1624,47,4408
+482	Block	160:13	-1624,48,4408
+482	Block	160:13	-1623,49,4408
+482	Block	160:13	-1623,50,4408
+482	Block	160:13	-1624,51,4408
+482	Block	160:13	-1624,52,4408
+482	Block	160:13	-1624,53,4408
+482	Block	160:13	-1623,54,4408
+482	Block	160:13	-1623,55,4408
+482	Block	160:13	-1624,56,4408
+482	Block	160:13	-1625,56,4408
+482	Block	160:13	-1626,56,4408
+482	Block	160:13	-1627,56,4408
+482	Block	160:13	-1628,56,4408
+482	Block	160:13	-1629,56,4408
+482	Block	160:13	-1630,56,4408
+482	Block	160:13	-1631,56,4408
+482	Block	160:13	-1632,56,4408
+482	Block	160:13	-1633,56,4408
+482	Block	160:13	-1634,56,4408
+482	Block	160:13	-1635,56,4408
+482	Block	160:13	-1636,56,4408
+482	Block	160:13	-1637,54,4408
+482	Block	160:13	-1637,55,4408
+482	Block	160:13	-1638,51,4408
+482	Block	160:13	-1638,52,4408
+482	Block	160:13	-1638,53,4408
+482	Block	160:13	-1637,49,4408
+482	Block	160:13	-1637,50,4408
+482	Block	160:13	-1638,47,4408
+482	Block	160:13	-1638,48,4408
+481	Schematic	fntmstage10	-1651	45	4404	ak	false
+480	Schematic	fntmstage9	-1651	45	4404	ak	false
+479	Schematic	fntmstage8	-1651	45	4404	ak	false
+478	Schematic	fntmstage7	-1651	45	4404	ak	false
+477	Schematic	fntmstage6	-1651	45	4404	ak	false
+476	Schematic	fntmstage5	-1651	45	4404	ak	false
+475	Schematic	fntmstage4	-1651	45	4404	ak	false
+474	Schematic	fntmstage3	-1651	45	4404	ak	false
+473	Schematic	fntmstage2	-1651	45	4404	ak	false
+#StartOfNotMyDad
+#SceneStartsAt690
+691	Text	&f[&bDentist&f] &aHey little guy!
+692.8	Text	&aYou`re gonna make a good present for my niece`s birthday on Friday.
+699.9	Text	&f[&6Nemo&f]&e Dad?
+702.9	Text	&eDaddy?
+702.9	Block	35:15	-1634,59,4414
+702.9	Block	35:11	-1634,58,4414
+695	Block	0	-1634,58,4414
+705.8	Text	&5 &5*&3 Where`s my dad? &5 &5*&3
+708.7	Text	&5 &5*&3 I`m all alone. &5 &5*&3
+712.1	Text	&5 &5*&3 I`m too small to be here on my own. &5 &5*&3
+717.8	Text	&5 &5*&3 I swam away &5 &5*&3
+720.6	Text	&5 &5*&3 `cause I got mad &5 &5*&3
+724.6	Text	&5 &5*&3 but now I really need him. &5 &5*&3
+728	Text	&5 &5*&3 Where`s my dad? &5 &5*&3
+70	Block	0	-1631,47,4414
+330	Schematic	fntmmrray2	-1651	45	4404	ak	false
+333	Schematic	fntmmrray	-1651	45	4404	ak	false
+336	Schematic	bbwfn	-1651	45	4404	ak	false
+340	Schematic	bbwfn2	-1651	45	4404	ak	false
+690	Schematic	tankremove	-1634	47	4411	ak	false
+691	Schematic	tankremove	-1634	47	4411	ak	false
+692	Schematic	tankremove	-1634	47	4411	ak	false
+693	Schematic	tankremove	-1634	47	4411	ak	false
+694	Schematic	tankremove	-1634	47	4411	ak	false
+695	Schematic	tankremove	-1634	47	4411	ak	false
+696	Schematic	tankremove	-1634	47	4411	ak	false
+697	Schematic	tankremove	-1634	47	4411	ak	false
+#EndOfNotMyDad
+#StartOfWhere`sMyDad
+#SceneStartsAt1260
+1260	Text	&f[&9Gill&f] &bHeya Sharkbait.
+1262	Text	&f[&6Nemo&f]&e I`m so sorry I ruined your plan, &9Gill.
+1264.9	Text	&eI couldn`t jam the filter - and now we`ll never get out.
+1267	Text	&f[&9Gill&f] &bNever say never, kid.
+1269	Text	&bThere`s other ways outta this place.
+1271.7	Text	&bRemember, all drains lead to the ocean.
+1275	Text	&bWe got a sink right there --
+1276.2	Text	&ba toilet over there...
+1278	Text	&f[&6Nemo&f]&e Ewww.
+1278.8	Text	&f[&9Gill&f] &bBesides, you got your dad out there lookin` for you.
+1282.8	Text	&bBet he`s on his way right now.
+1284.8	Text	&f[&6Nemo&f]&5 &5*  &3Not my Dad, &5 &5*&3
+1287	Text	&5 &5*&3 He`s not brave enough. &5 &5*&3
+1290.9	Text	&5 &5*&3 He`s afraid of whales and sharks and stuff. &5 &5*&3
+1295.9	Text	&5 &5*&3 He`s prob`ly angry &5 &5*&3
+1298	Text	&5 &5*&3 `cause I was bad &5 &5*&3
+1301.8	Text	&5 &5*&3 I`m sure that he`s not coming &5 &5*&3
+1305	Text	&5 &5*&3 Not my Dad. &5 &5*&3
+#StartOfSharks
+478	Block	22	-1629,46,4408
+478	Block	0	-1629,45,4408
+478	Block	152	-1631,60,4408
+478	Block	89	-1618,54,4406
+478	Block	89	-1621,51,4406
+478	Block	89	-1617,48,4406
+478	Block	89	-1644,45,4406
+478	Block	89	-1641,51,4406
+478	Block	89	-1642,54,4406
+478	Block	95:13	-1618,54,4405
+478	Block	95:13	-1621,51,4405
+478	Block	95:13	-1617,48,4405
+478	Block	95:13	-1644,45,4405
+478	Block	95:13	-1641,51,4405
+478	Block	95:13	-1642,54,4405
+478	Block	89	-1629,45,4410
+478	Block	89	-1633,45,4410
+478	Block	95:11	-1629,46,4410
+478	Block	95:11	-1633,46,4410
+482	Block	89	-1629,45,4410
+482	Block	89	-1633,45,4410
+482	Block	95:11	-1629,46,4410
+482	Block	95:11	-1633,46,4410
+478	Block	160:13	-1623,47,4406
+478	Block	160:13	-1623,48,4406
+478	Block	160:13	-1622,49,4406
+478	Block	160:13	-1622,50,4406
+478	Block	160:13	-1623,51,4406
+478	Block	160:13	-1623,52,4406
+478	Block	160:13	-1623,53,4406
+478	Block	160:13	-1622,54,4406
+478	Block	160:13	-1623,55,4406
+478	Block	160:13	-1624,55,4406
+478	Block	160:13	-1625,55,4406
+478	Block	160:13	-1626,54,4406
+478	Block	160:13	-1627,54,4406
+478	Block	160:13	-1628,54,4406
+478	Block	160:13	-1629,54,4406
+478	Block	160:13	-1630,55,4406
+478	Block	160:13	-1631,55,4406
+478	Block	160:13	-1632,55,4406
+478	Block	160:13	-1633,54,4406
+478	Block	160:13	-1634,54,4406
+478	Block	160:13	-1635,54,4406
+478	Block	160:13	-1636,55,4406
+478	Block	160:13	-1637,55,4406
+478	Block	160:13	-1638,55,4406
+478	Block	160:13	-1638,54,4406
+478	Block	160:13	-1639,51,4406
+478	Block	160:13	-1639,52,4406
+478	Block	160:13	-1639,53,4406
+478	Block	160:13	-1638,50,4406
+478	Block	160:13	-1638,49,4406
+478	Block	160:13	-1639,47,4406
+478	Block	160:13	-1639,48,4406
+478	Block	160:13	-1624,47,4408
+478	Block	160:13	-1624,48,4408
+478	Block	160:13	-1623,49,4408
+478	Block	160:13	-1623,50,4408
+478	Block	160:13	-1624,51,4408
+478	Block	160:13	-1624,52,4408
+478	Block	160:13	-1624,53,4408
+478	Block	160:13	-1623,54,4408
+478	Block	160:13	-1623,55,4408
+478	Block	160:13	-1624,56,4408
+478	Block	160:13	-1625,56,4408
+478	Block	160:13	-1626,56,4408
+478	Block	160:13	-1627,56,4408
+478	Block	160:13	-1628,56,4408
+478	Block	160:13	-1629,56,4408
+478	Block	160:13	-1630,56,4408
+478	Block	160:13	-1631,56,4408
+478	Block	160:13	-1632,56,4408
+478	Block	160:13	-1633,56,4408
+478	Block	160:13	-1634,56,4408
+478	Block	160:13	-1635,56,4408
+478	Block	160:13	-1636,56,4408
+478	Block	160:13	-1637,54,4408
+478	Block	160:13	-1637,55,4408
+478	Block	160:13	-1638,51,4408
+478	Block	160:13	-1638,52,4408
+478	Block	160:13	-1638,53,4408
+478	Block	160:13	-1637,49,4408
+478	Block	160:13	-1637,50,4408
+478	Block	160:13	-1638,47,4408
+478	Block	160:13	-1638,48,4408
+622	Block	160:14	-1623,47,4406
+622	Block	160:14	-1623,48,4406
+622	Block	160:14	-1622,49,4406
+622	Block	160:14	-1622,50,4406
+622	Block	160:14	-1623,51,4406
+622	Block	160:14	-1623,52,4406
+622	Block	160:14	-1623,53,4406
+622	Block	160:14	-1622,54,4406
+622	Block	160:14	-1623,55,4406
+622	Block	160:14	-1624,55,4406
+622	Block	160:14	-1625,55,4406
+622	Block	160:14	-1626,54,4406
+622	Block	160:14	-1627,54,4406
+622	Block	160:14	-1628,54,4406
+622	Block	160:14	-1629,54,4406
+622	Block	160:14	-1630,55,4406
+622	Block	160:14	-1631,55,4406
+622	Block	160:14	-1632,55,4406
+622	Block	160:14	-1633,54,4406
+622	Block	160:14	-1634,54,4406
+622	Block	160:14	-1635,54,4406
+622	Block	160:14	-1636,55,4406
+622	Block	160:14	-1637,55,4406
+622	Block	160:14	-1638,55,4406
+622	Block	160:14	-1638,54,4406
+622	Block	160:14	-1639,51,4406
+622	Block	160:14	-1639,52,4406
+622	Block	160:14	-1639,53,4406
+622	Block	160:14	-1638,50,4406
+622	Block	160:14	-1638,49,4406
+622	Block	160:14	-1639,47,4406
+622	Block	160:14	-1639,48,4406
+622	Block	160:14	-1624,47,4408
+622	Block	160:14	-1624,48,4408
+622	Block	160:14	-1623,49,4408
+622	Block	160:14	-1623,50,4408
+622	Block	160:14	-1624,51,4408
+622	Block	160:14	-1624,52,4408
+622	Block	160:14	-1624,53,4408
+622	Block	160:14	-1623,54,4408
+622	Block	160:14	-1623,55,4408
+622	Block	160:14	-1624,56,4408
+622	Block	160:14	-1625,56,4408
+622	Block	160:14	-1626,56,4408
+622	Block	160:14	-1627,56,4408
+622	Block	160:14	-1628,56,4408
+622	Block	160:14	-1629,56,4408
+622	Block	160:14	-1630,56,4408
+622	Block	160:14	-1631,56,4408
+622	Block	160:14	-1632,56,4408
+622	Block	160:14	-1633,56,4408
+622	Block	160:14	-1634,56,4408
+622	Block	160:14	-1635,56,4408
+622	Block	160:14	-1636,56,4408
+622	Block	160:14	-1637,54,4408
+622	Block	160:14	-1637,55,4408
+622	Block	160:14	-1638,51,4408
+622	Block	160:14	-1638,52,4408
+622	Block	160:14	-1638,53,4408
+622	Block	160:14	-1637,49,4408
+622	Block	160:14	-1637,50,4408
+622	Block	160:14	-1638,47,4408
+622	Block	160:14	-1638,48,4408
+622	Block	95:14	-1618,54,4405
+622	Block	95:14	-1621,51,4405
+622	Block	95:14	-1617,48,4405
+622	Block	95:14	-1644,45,4405
+622	Block	95:14	-1641,51,4405
+622	Block	95:14	-1642,54,4405
+477.8	Text	&f[&8Bruce&f] &3Hello.
+479	Text	&f[&9Dory&f]&b Well, hi!
+480.3	Text	&f[&8Bruce&f]&3 Name`s &8Bruce.
+481.8	Text	&f[&9Dory&f]&b I`m &9Dory! &bAnd this is...
+483	Text 	&f[&6Marlin&f]&e Uh, you don`t need to know, 
+485	Text	&eI`m nobody, really.
+486.5	Text	&eI was just leaving -
+487	Text	&f[&8Bruce&f]&3 I`d like to invite you morsels to a little party I`m havin`.
+491.5	Text 	&f[&9Dory&f]&b Hey look! Balloons! 
+492.5	Text	&bIt IS a party!
+493.3	Text 	&f[&8Bruce&f]&3 Ha ha. Mind your distance though.
+496	Text	&3You wouldn`t want one of them to pop.					
+498.5	Text	&7Anchor! Chum!
+500.3	Text	&f[&7Anchor&f] &3It`s about time, mate.
+502	Text	&3I`m starving!
+504	Text	&f[&7Chum&f]&3 What`dja bring for us, mate?
+505.8	Text	&f[&8Bruce&f]&3 Couple o` tasty bites.
+511	Text 	&3Right, then, 
+513	Text	&3our meeting has officially come to order.
+517.3	Text	&3Let us all say the pledge!
+#EndOfSharks
+#StartOfFishAreFriendsNotFood
+#SceneFinishesAt685
+521.5	Text	&f[&8Bruce&f]&3 &5 &5*&3 Fish are friends &5 &5*&3
+523	Text	&f[&7Anchor&f]&3 &5 &5*&3 Fish are friends &5 &5*&3
+524	Text	&f[&7Chum&f]&3 &5 &5*&3 Fish are friends &5 &5*&3
+525	Text	&f[&dAll&f]&a  &5 &5*&3 Not Food! &5 &5*&3
+529.5	Text	&5 &5*&3 Though we have long sharp teeth &5 &5*&3
+534	Text	&5 &5*&3 We`re nice sharks underneath &5 &5*&3
+538	Text	&5 &5*&3 We know that fish are friends, not food. &5 &5*&3
+542.5	Text	&f[&7Chum&f]&3 Well, sometimes we know.  
+546	Text	&f[&dAll&f]&a &5 &5*&3 Sure, we could eat you whole &5 &5*&3
+550	Text	&5 &5*&3 But we have self control &5 &5*&3
+554.5	Text	&5 &5*&3 We know that fish are friends, not food. &5 &5*&3
+558.8	Text	&f[&6Marlin&f]&e I - I`d like to be your friend.
+560.5	Text	&f[&8Bruce&f]&3 &5 &5*&3 The stress of life in the ocean`ll &5 &5*&3
+563.8	Text	&5 &5*&3 lead to emotional eating &5 &5*&3
+567.8	Text	&f[&7Anchor and Chum&7] &5 &5*&3 Yes it will! &5 &5*&3
+569	Text	&f[&8Bruce&f]&3 &5 &5*&3 When you need help gettin` through it &5 &5*&3
+572.3	Text	&5 &5*&3 And kelp just won`t do it &5 &5*&3
+574.7	Text	&5 &5*&3 Don`t start feeding &5 &5*&3
+576.5	Text	&f[&dAll&f]&a &5 &5*&3 Swim to our meeting! &5 &5*&3
+579.5	Text	&5 &5*&3 Oh yes, we`ve seen the light &5 &5*&3
+583.3	Text	&5 &5*&3 Each day we fight the fight &5 &5*&3
+587	Text	&5 &5*&3 To curb our appetite &5 &5*&3
+591	Text	&5 &5*&3 and change our attitude &5 &5*&3
+595	Text	&f[&8Bruce&f]&3 &5 &5*&3 Fish are friends! &5 &5*&3
+595.8	Text	&f[&7Anchor&f]&3 &5 &5*&3 Fish are friends! &5 &5*&3
+597	Text	&f[&8Bruce&f]&3 &5 &5*&3 Fish are friends! &5 &5*&3
+597.9	Text	&f[&7Chum&f]&3 Fish are food!
+599	Text	&f[&7Bruce and Anchor&f] &3No,
+600.2	Text	&f[&dAll&f]&a &5 &5*&3 Fish are friends, not food! &5 &5*&3
+603	Text	&f[&8Bruce&f]&3 Like we rehearsed, gentlemen...
+606	Text	&3Doh doh doh doh doh doh......
+608	Text	&f[&6Marlin&f]&e Look! That mask belonged to the diver that took my son!
+#GreenFlash
+534	Block	160:13	-1622,50,4416
+534	Block	160:13	-1622,51,4416
+534	Block	160:13	-1622,52,4416
+534	Block	160:13	-1623,53,4416
+534	Block	160:13	-1623,54,4416
+534	Block	160:13	-1623,55,4416
+534	Block	160:13	-1622,56,4416
+534	Block	160:13	-1623,57,4416
+534	Block	160:13	-1639,49,4416
+534	Block	160:13	-1639,50,4416
+534	Block	160:13	-1638,51,4416
+534	Block	160:13	-1638,52,4416
+534	Block	160:13	-1638,53,4416
+534	Block	160:13	-1639,54,4416
+534	Block	160:13	-1622,47,4420
+534	Block	160:13	-1623,48,4420
+534	Block	160:13	-1623,49,4420
+534	Block	160:13	-1623,50,4420
+534	Block	160:13	-1622,51,4420
+534	Block	160:13	-1622,52,4420
+534	Block	160:13	-1623,53,4420
+534	Block	160:13	-1623,54,4420
+534	Block	160:13	-1622,55,4420
+534	Block	160:13	-1622,56,4420
+534	Block	160:13	-1623,57,4420
+534	Block	160:13	-1639,48,4420
+534	Block	160:13	-1639,47,4420
+534	Block	160:13	-1638,49,4420
+534	Block	160:13	-1638,50,4420
+534	Block	160:13	-1639,51,4420
+534	Block	160:13	-1639,52,4420
+534	Block	160:13	-1639,53,4420
+534	Block	160:13	-1638,54,4420
+534	Block	160:13	-1637,55,4420
+534	Block	160:13	-1637,56,4420
+534	Block	160:13	-1636,57,4420
+534	Block	160:13	-1623,47,4424
+534	Block	160:13	-1623,48,4424
+534	Block	160:13	-1622,49,4424
+534	Block	160:13	-1622,50,4424
+534	Block	160:13	-1623,51,4424
+534	Block	160:13	-1623,52,4424
+534	Block	160:13	-1622,53,4424
+534	Block	160:13	-1622,54,4424
+534	Block	160:13	-1623,55,4424
+534	Block	160:13	-1623,56,4424
+534	Block	160:13	-1638,47,4424
+534	Block	160:13	-1638,48,4424
+534	Block	160:13	-1639,49,4424
+534	Block	160:13	-1639,50,4424
+534	Block	160:13	-1639,51,4424
+534	Block	160:13	-1638,52,4424
+534	Block	160:13	-1638,53,4424
+534	Block	160:13	-1639,54,4424
+534	Block	160:13	-1638,55,4424
+534	Block	95:13	-1618,54,4405
+534	Block	95:13	-1621,51,4405
+534	Block	95:13	-1617,48,4405
+534	Block	95:13	-1644,45,4405
+534	Block	95:13	-1641,51,4405
+534	Block	95:13	-1642,54,4405	
+#RedFlash
+533	Block	95:14	-1618,54,4405
+533	Block	95:14	-1621,51,4405
+533	Block	95:14	-1617,48,4405
+533	Block	95:14	-1644,45,4405
+533	Block	95:14	-1641,51,4405
+533	Block	95:14	-1642,54,4405
+533	Block	160:14	-1622,50,4416
+533	Block	160:14	-1622,51,4416
+533	Block	160:14	-1622,52,4416
+533	Block	160:14	-1623,53,4416
+533	Block	160:14	-1623,54,4416
+533	Block	160:14	-1623,55,4416
+533	Block	160:14	-1622,56,4416
+533	Block	160:14	-1623,57,4416
+533	Block	160:14	-1639,49,4416
+533	Block	160:14	-1639,50,4416
+533	Block	160:14	-1638,51,4416
+533	Block	160:14	-1638,52,4416
+533	Block	160:14	-1638,53,4416
+533	Block	160:14	-1639,54,4416
+533	Block	160:14	-1622,47,4420
+533	Block	160:14	-1623,48,4420
+533	Block	160:14	-1623,49,4420
+533	Block	160:14	-1623,50,4420
+533	Block	160:14	-1622,51,4420
+533	Block	160:14	-1622,52,4420
+533	Block	160:14	-1623,53,4420
+533	Block	160:14	-1623,54,4420
+533	Block	160:14	-1622,55,4420
+533	Block	160:14	-1622,56,4420
+533	Block	160:14	-1623,57,4420
+533	Block	160:14	-1639,48,4420
+533	Block	160:14	-1639,47,4420
+533	Block	160:14	-1638,49,4420
+533	Block	160:14	-1638,50,4420
+533	Block	160:14	-1639,51,4420
+533	Block	160:14	-1639,52,4420
+533	Block	160:14	-1639,53,4420
+533	Block	160:14	-1638,54,4420
+533	Block	160:14	-1637,55,4420
+533	Block	160:14	-1637,56,4420
+533	Block	160:14	-1636,57,4420
+533	Block	160:14	-1623,47,4424
+533	Block	160:14	-1623,48,4424
+533	Block	160:14	-1622,49,4424
+533	Block	160:14	-1622,50,4424
+533	Block	160:14	-1623,51,4424
+533	Block	160:14	-1623,52,4424
+533	Block	160:14	-1622,53,4424
+533	Block	160:14	-1622,54,4424
+533	Block	160:14	-1623,55,4424
+533	Block	160:14	-1623,56,4424
+533	Block	160:14	-1638,47,4424
+533	Block	160:14	-1638,48,4424
+533	Block	160:14	-1639,49,4424
+533	Block	160:14	-1639,50,4424
+533	Block	160:14	-1639,51,4424
+533	Block	160:14	-1638,52,4424
+533	Block	160:14	-1638,53,4424
+533	Block	160:14	-1639,54,4424
+533	Block	160:14	-1638,55,4424
+#DoryJellyLight
+1207	Block	95:11	-1635,46,4408
+1207	Block	89	-1635,45,4408
+1256	Block	22	-1635,46,4408
+1256	Block	0	-1635,45,4408
+#RedFlash
+550	Block	95:14	-1618,54,4405
+550	Block	95:14	-1621,51,4405
+550	Block	95:14	-1617,48,4405
+550	Block	95:14	-1644,45,4405
+550	Block	95:14	-1641,51,4405
+550	Block	95:14	-1642,54,4405
+550	Block	160:14	-1622,50,4416
+550	Block	160:14	-1622,51,4416
+550	Block	160:14	-1622,52,4416
+550	Block	160:14	-1623,53,4416
+550	Block	160:14	-1623,54,4416
+550	Block	160:14	-1623,55,4416
+550	Block	160:14	-1622,56,4416
+550	Block	160:14	-1623,57,4416
+550	Block	160:14	-1639,49,4416
+550	Block	160:14	-1639,50,4416
+550	Block	160:14	-1638,51,4416
+550	Block	160:14	-1638,52,4416
+550	Block	160:14	-1638,53,4416
+550	Block	160:14	-1639,54,4416
+550	Block	160:14	-1622,47,4420
+550	Block	160:14	-1623,48,4420
+550	Block	160:14	-1623,49,4420
+550	Block	160:14	-1623,50,4420
+550	Block	160:14	-1622,51,4420
+550	Block	160:14	-1622,52,4420
+550	Block	160:14	-1623,53,4420
+550	Block	160:14	-1623,54,4420
+550	Block	160:14	-1622,55,4420
+550	Block	160:14	-1622,56,4420
+550	Block	160:14	-1623,57,4420
+550	Block	160:14	-1639,48,4420
+550	Block	160:14	-1639,47,4420
+550	Block	160:14	-1638,49,4420
+550	Block	160:14	-1638,50,4420
+550	Block	160:14	-1639,51,4420
+550	Block	160:14	-1639,52,4420
+550	Block	160:14	-1639,53,4420
+550	Block	160:14	-1638,54,4420
+550	Block	160:14	-1637,55,4420
+550	Block	160:14	-1637,56,4420
+550	Block	160:14	-1636,57,4420
+550	Block	160:14	-1623,47,4424
+550	Block	160:14	-1623,48,4424
+550	Block	160:14	-1622,49,4424
+550	Block	160:14	-1622,50,4424
+550	Block	160:14	-1623,51,4424
+550	Block	160:14	-1623,52,4424
+550	Block	160:14	-1622,53,4424
+550	Block	160:14	-1622,54,4424
+550	Block	160:14	-1623,55,4424
+550	Block	160:14	-1623,56,4424
+550	Block	160:14	-1638,47,4424
+550	Block	160:14	-1638,48,4424
+550	Block	160:14	-1639,49,4424
+550	Block	160:14	-1639,50,4424
+550	Block	160:14	-1639,51,4424
+550	Block	160:14	-1638,52,4424
+550	Block	160:14	-1638,53,4424
+550	Block	160:14	-1639,54,4424
+550	Block	160:14	-1638,55,4424	
+#GreenFlash
+551	Block	95:13	-1618,54,4405
+551	Block	95:13	-1621,51,4405
+551	Block	95:13	-1617,48,4405
+551	Block	95:13	-1644,45,4405
+551	Block	95:13	-1641,51,4405
+551	Block	95:13	-1642,54,4405
+551	Block	160:13	-1622,50,4416
+551	Block	160:13	-1622,51,4416
+551	Block	160:13	-1622,52,4416
+551	Block	160:13	-1623,53,4416
+551	Block	160:13	-1623,54,4416
+551	Block	160:13	-1623,55,4416
+551	Block	160:13	-1622,56,4416
+551	Block	160:13	-1623,57,4416
+551	Block	160:13	-1639,49,4416
+551	Block	160:13	-1639,50,4416
+551	Block	160:13	-1638,51,4416
+551	Block	160:13	-1638,52,4416
+551	Block	160:13	-1638,53,4416
+551	Block	160:13	-1639,54,4416
+551	Block	160:13	-1622,47,4420
+551	Block	160:13	-1623,48,4420
+551	Block	160:13	-1623,49,4420
+551	Block	160:13	-1623,50,4420
+551	Block	160:13	-1622,51,4420
+551	Block	160:13	-1622,52,4420
+551	Block	160:13	-1623,53,4420
+551	Block	160:13	-1623,54,4420
+551	Block	160:13	-1622,55,4420
+551	Block	160:13	-1622,56,4420
+551	Block	160:13	-1623,57,4420
+551	Block	160:13	-1639,48,4420
+551	Block	160:13	-1639,47,4420
+551	Block	160:13	-1638,49,4420
+551	Block	160:13	-1638,50,4420
+551	Block	160:13	-1639,51,4420
+551	Block	160:13	-1639,52,4420
+551	Block	160:13	-1639,53,4420
+551	Block	160:13	-1638,54,4420
+551	Block	160:13	-1637,55,4420
+551	Block	160:13	-1637,56,4420
+551	Block	160:13	-1636,57,4420
+551	Block	160:13	-1623,47,4424
+551	Block	160:13	-1623,48,4424
+551	Block	160:13	-1622,49,4424
+551	Block	160:13	-1622,50,4424
+551	Block	160:13	-1623,51,4424
+551	Block	160:13	-1623,52,4424
+551	Block	160:13	-1622,53,4424
+551	Block	160:13	-1622,54,4424
+551	Block	160:13	-1623,55,4424
+551	Block	160:13	-1623,56,4424
+551	Block	160:13	-1638,47,4424
+551	Block	160:13	-1638,48,4424
+551	Block	160:13	-1639,49,4424
+551	Block	160:13	-1639,50,4424
+551	Block	160:13	-1639,51,4424
+551	Block	160:13	-1638,52,4424
+551	Block	160:13	-1638,53,4424
+551	Block	160:13	-1639,54,4424
+551	Block	160:13	-1638,55,4424
+#Code
+609	Block	0	-1629,45,4410
+609	Block	0	-1633,45,4410
+609	Block	22	-1629,46,4410
+609	Block	22	-1633,46,4410
+609	Block	95:11	-1626,46,4408
+609	Block	89	-1626,45,4408
+625	Block	22	-1626,46,4408
+625	Block	0	-1626,45,4408
+609	Block	35:4	-1624,48,4409
+609	Block	35:4	-1626,48,4409
+609	Block	35:15	-1625,47,4409
+625	Block	0	-1624,48,4409
+625	Block	0	-1626,48,4409
+625	Block	0	-1625,47,4409
+625	Block	0	-1627,51,4413
+625	Block	0	-1633,48,4413
+625	Block	0	-1634,48,4413
+630	Block	152	-1631,46,4415
+631	Block	0	-1631,46,4415
+632	Block	152	-1631,46,4415
+633	Block	0	-1631,46,4415
+634	Block	152	-1631,46,4415
+635	Block	0	-1631,46,4415
+636	Block	152	-1631,46,4415
+637	Block	0	-1631,46,4415
+638	Block	152	-1631,46,4415
+639	Block	0	-1631,46,4415
+640	Block	152	-1631,46,4415
+641	Block	0	-1631,46,4415
+642	Block	152	-1631,46,4415
+643	Block	0	-1631,46,4415
+644	Block	152	-1631,46,4415
+645	Block	0	-1631,46,4415
+646	Block	152	-1631,46,4415
+647	Block	0	-1631,46,4415
+648	Block	152	-1631,46,4415
+649	Block	0	-1631,46,4415
+650	Block	152	-1631,46,4415
+651	Block	0	-1631,46,4415
+650	Block	0	-1633,48,4414
+650	Block	0	-1634,48,4414
+650.1	Block	152	-1645,52,4364
+663	Block	152	-1646,52,4364
+622	Block	160:14	-1622,50,4416
+622	Block	160:14	-1622,51,4416
+622	Block	160:14	-1622,52,4416
+622	Block	160:14	-1623,53,4416
+622	Block	160:14	-1623,54,4416
+622	Block	160:14	-1623,55,4416
+622	Block	160:14	-1622,56,4416
+622	Block	160:14	-1623,57,4416
+622	Block	160:14	-1639,49,4416
+622	Block	160:14	-1639,50,4416
+622	Block	160:14	-1638,51,4416
+622	Block	160:14	-1638,52,4416
+622	Block	160:14	-1638,53,4416
+622	Block	160:14	-1639,54,4416
+622	Block	160:14	-1622,47,4420
+622	Block	160:14	-1623,48,4420
+622	Block	160:14	-1623,49,4420
+622	Block	160:14	-1623,50,4420
+622	Block	160:14	-1622,51,4420
+622	Block	160:14	-1622,52,4420
+622	Block	160:14	-1623,53,4420
+622	Block	160:14	-1623,54,4420
+622	Block	160:14	-1622,55,4420
+622	Block	160:14	-1622,56,4420
+622	Block	160:14	-1623,57,4420
+622	Block	160:14	-1639,48,4420
+622	Block	160:14	-1639,47,4420
+622	Block	160:14	-1638,49,4420
+622	Block	160:14	-1638,50,4420
+622	Block	160:14	-1639,51,4420
+622	Block	160:14	-1639,52,4420
+622	Block	160:14	-1639,53,4420
+622	Block	160:14	-1638,54,4420
+622	Block	160:14	-1637,55,4420
+622	Block	160:14	-1637,56,4420
+622	Block	160:14	-1636,57,4420
+622	Block	160:14	-1623,47,4424
+622	Block	160:14	-1623,48,4424
+622	Block	160:14	-1622,49,4424
+622	Block	160:14	-1622,50,4424
+622	Block	160:14	-1623,51,4424
+622	Block	160:14	-1623,52,4424
+622	Block	160:14	-1622,53,4424
+622	Block	160:14	-1622,54,4424
+622	Block	160:14	-1623,55,4424
+622	Block	160:14	-1623,56,4424
+622	Block	160:14	-1638,47,4424
+622	Block	160:14	-1638,48,4424
+622	Block	160:14	-1639,49,4424
+622	Block	160:14	-1639,50,4424
+622	Block	160:14	-1639,51,4424
+622	Block	160:14	-1638,52,4424
+622	Block	160:14	-1638,53,4424
+622	Block	160:14	-1639,54,4424
+622	Block	160:14	-1638,55,4424	
+611	Text	&f[&9Dory&f]&b Harpo?
+612	Text	&f[&6Marlin&f]&6 Nemo. &eWhat do these markings mean? I can`t read human.
+615.5	Text	&f[&9Dory&f]&b Hey! Look! Sharks! I bet they can help! 
+617	Text	&f[&6Marlin&f]&e No, no, no Dory!
+618	Text	&f[&9Dory&f]&b Hey fellas? Guys?
+619.8	Text	&f[&6Marlin&f]&e No Dory!
+620	Text	&f[&9Dory&f]&b If you could just...
+620.5	Text	&f[&6Marlin&f]&e Gimme it!
+620.8	Text	&f[&9Dory&f]&b I know what to...
+622.3	Text	&bOww!!
+622	Block	160:14	-1627,48,4408
+622	Block	160:0	-1628,48,4408
+623	Block	160:14	-1628,48,4409
+623	Block	160:14	-1628,49,4409
+623	Block	160:14	-1628,49,4409
+624	Block	0	-1627,48,4408
+624	Block	0	-1628,48,4408
+625	Block	0	-1628,48,4409
+625	Block	0	-1628,49,4409
+625	Block	0	-1628,49,4409
+622	Block	89	-1629,45,4410
+622	Block	89	-1633,45,4410
+622	Block	95:11	-1629,46,4410
+622	Block	95:11	-1633,46,4410
+623	Text	&f[&6Marlin&f]&e I`m sorry. Is your nose bleeding?
+624.5	Text	&f[&9Dory&f]&b You really clocked me there.
+626	Text	&f[&8Bruce&f]&3 oh, that`s good
+628	Text	&f[&7Anchor and Chum&f] &3INTERVENTION!!!!!
+628	Block	0	-1637,48,4415
+628	Block	0	-1636,47,4415
+630	Text	&f[&8Bruce&f]&3 &5 &5*&3 I need a little taste &5 &5*&3
+632	Text	&f[&7Anchor and Chum&f]&3 NO!
+632.8	Text	&f[&8Bruce&f]&3 Why let`em go to waste?
+635	Text	&f[&7Anchor and Chum&f]&3 BRUCE!
+635.8	Text	&3Remember fish are friends, not food!
+638.2	Text	&f[&8Bruce&f]&3 Foooooood!
+639.5	Text	&f[&7Anchor&f]&3 Remember the steps!
+641	Text	&f[&7Anchor and Chum&f]&3 &5 &5*&3 He`s really not so bad, &5 &5*&3
+644	Text	&3He never knew his dad.
+647	Text	&f[&8Bruce&f]&3 I need some food!
+648	Text	&3I need some food!!
+649.5	Text	&3I need some food!!!
+652.6	Text	&f[&6Marlin&f]&e There`s no way out!
+654	Text	&f[&9Dory&f]&b Ess-ca-pe`. That`s funny, it`s spelled the same as ``escape``.
+657.8	Text	&f[&6Marlin&f]&e Dory, you can read?!
+659	Text	&f[&9Dory&f]&b I can read? I can READ!
+661.2	Text	&f[&6Marlin&f]&e Well read the mask!!! Uh-oh.
+663.5	Text	&f[&8Bruce&f]&3 I`ve got you in my sight!
+663	Block	98	-1634,48,4414
+663	Block	98	-1633,48,4414
+665.8	Text	&f[&9Dory&f]&b AHH!
+666.8	Text	&f[&8Bruce&f]&3 &5 &5*&3 I`M HAVING FISH TONIGHT! &5 &5*&3
+668.9	Text	&f[&9Dory&f]&b This way!
+669.7	Text	&f[&7Anchor and Chum&f]&3 &5 &5*&3 Remember fish are friends! &5 &5*&3
+672	Text	&5 &5*&3 Remember fish are friends! &5 &5*&3
+675	Text	&5 &5*&3 Remember fish are friends! &5 &5*&3
+679	Text	&f[&8Bruce&f]&3 Swim away! Swim away!
+681.5	Text	&f[&7Anchor and Chum&f]&3 &5 &5*&3 Not food. &5 &5*&3
+#EndOfFishAreFriendsNotFood
+#StartOfTankGangScene
+733.8	Text	&f[&dAll&f]&a &5 &5*&3 Wanna-hawka-loogie! &5 &5*&3
+735.2	Text	&5 &5*&3 Wanna-ha-ka-lougie, &5 &5*&3
+736.8	Text	&5 &5*&3 Wanna-ha-ka-lougie, &5 &5*&3
+737.8	Text	&5 &5*&3 Wanna-ha-ka-lougie, &5 &5*&3
+738.8	Text	&5 &5*&3 Wanna-ha-ka-lougie, &5 &5*&3
+739.9	Text	&f[&bBubbles&f] &eBubbles, bubbles, bubbles, bubbles!
+740	Text	&5 &5*&3 Wanna-ha-ka-lougie, &5 &5*&3
+741	Text	&5 &5*&3 Wanna-ha-ka-lougie, &5 &5*&3
+742	Text	&5 &5*&3 Wanna-ha-ka-lougie, &5 &5*&3
+743	Text	&5 &5*&3 Wanna-ha-ka-lougie, &5 &5*&3
+744	Text	&5 &5*&3 Wanna-ha-ka-lougie, &5 &5*&3
+745	Text 	&f[&dAll&f]&a &3Welcome!
+746.8	Text 	&f[&6Nemo&f]&e Daaaaaddddyyyyyy!
+747.6	Text	&f[&9Deb&f] &dOh no! We scared him!
+749	Text	&f[&dPeach&f] &9I don`t know why we can`t just say hello.
+751.8	Text	&f[&6Nemo&f]&e I wanna go home!
+752.8	Text	&eDaddy!
+753.2	Text	&f[&9Deb&f]&d Honey, your dad is probably back in the pet store.
+756.3	Text	&f[&6Nemo&f]&e Pet store?
+757	Text	&f[&eBloat&f] &6Yeah, you know...... like I`m from Bob`s Fish Farm
+759	Text	&f[&9Deb&f]&d Fish-O-Rama!
+760	Text	&f[&bBubbles&f] &eMail-order!
+760.6	Text	&f[&dPeach&f] &9E-bay!
+761	Text	&f[&6Nemo&f]&e I`m... I`m from the ocean!
+763	Text	&f[&6Nigel&f] &eThe ocean, eh?
+764	Text	&f[&6Nemo&f]&e Aaaaaahhh!
+764.8	Text	&f[&dAll&f] &3Hi &6Nigel!
+766.3	Text	&f[&6Nigel&f] &eI`m from the ocean too!
+767.8	Text	&eSorry if I ever took a snap at ya, lad.
+770	Text	&eSo, what have we got today mates?
+771.5	Text	&f[&dPeach&f] &9Root canal!
+772.8	Text	&f[&6Nigel&f] &eOoh! Has he loosened the periodontal ligament?
+775.8	Text	&f[&bDentist&f]&a Shoo! Shoo! He`s not your fish!
+779.5	Text	&aHe`s going to my Darla!
+784	Text	&f[&eBloat&f]&6 Darla! Oh no.
+786	Text	&f[&6Nemo&f]&e What!? What`s wrong with her?
+787.8	Text	&f[&9Deb&f]&d She wouldn`t stop shaking the bag!
+789	Text	&f[&dPeach&f]&9 She`s a fish-killer!
+790.5	Text	&f[&6Nemo&f]&e I can`t go with her!
+792	Text 	&f[&bBubbles&f]&e Bubbles...
+792.3	Text	&f[&6Nemo&f]&e I have to get back to my dad!
+793.8	Text	&eDaddy! Daddy!
+796.5	Text	&eDADDY! DADDY!
+798.5 	Text	&f[&9Gill&f]&b STOP!!!
+#EndTankGangScene
+#StartOfWeSwimTogether
+801	Text	&f[&9Gill&f]&b Nobody move! I`ve been watching you kid.
+804.5	Text	&bYou`re small enough to break us free.
+807.2	Text	&f[&6Nemo&f]&e But I don`t swim well. I`ve got a bad fin.
+810.5	Text	&f[&9Gill&f]&b One bad fin never stopped me.
+813	Text	&f[&dPeach&f]&9 Your escape plans never work, Gill.
+815.8	Text	&f[&9Gill&f]&b But this time we got him.
+818	Text	&bI promise we will all get out,
+821	Text	&bas long as we can swim.
+824	Text	&5 &5*&3 Together, &5 &5*&3
+826.5	Text	&5 &5*&3 we swim together. &5 &5*&3
+829.9	Text	&5 &5*&3 Cooperation is the secret to our success! &5 &5*&3
+835	Text	&f[&bBubbles&f]&e Bubbles?
+836	Text	&f[&9Gill&f]&b &5 &5*&3 We swim in harmony! &5 &5*&3
+838	Text	&f[&eBloat&f]&6 &5 &5*&3 And we study dentistry! &5 &5*&3
+841	Text	&f[&9Gill&f]&b &5 &5*&3 We`re the fish of &cPablo Sherman, D.D.S! &5 &5*&3
+847	Text	&bThis little guy is one of us now and we can`t send him to off to his death.
+851	Text	&bDarla`s comin` in five days - but he`ll be gone long gone by then.
+854.7	Text	&bWe ALL will! If we do this the way we do everything else!
+860	Text	&f[&9Gill&f]&b &5 &5*&3 Together, &5 &5*&3
+862	Text	&f[&dAll&f]&a &5 &5*&3 We swim together! &5 &5*&3
+864.5	Text	&5 &5*&3 And together we`ll get out of here as a group! &5 &5*&3 
+869	Text	&f[&eBloat&f]&6 &5 &5*&3 Oh I believe we can! &5 &5*&3 
+872	Text	&f[&6Nemo&f]&e Yeah, but what`s the plan?
+874	Text	&f[&9Gill&f]&b We`re gonna jam the filter and fill this tank with POOP!
+878	Text	&f[&dAll&f]&a Huh?
+879.5	Text	&f[&9Gill&f]&b When this kid jams the filter,
+880	Text	&bthe tank will get filthy, 
+882	Text	&band the &bDentist &bwill have to clean it!
+883	Text	&bHe`ll put us into individual bags and we`ll roll out the window into the ocean!
+889	Text	&f[&dAll&f]&a Ooohhhh.
+890.5	Text	&f[&eBloat&f]&6 The whole poop thing threw me.
+893	Text	&f[&dAll&f]&a &5 &5*&3 Together, &5 &5*&3
+895	Text	&5 &5*&3 we swim together. &5 &5*&3
+898	Text	&f[&9Gill&f]&b &5 &5*&3 Little Clownfish, you`re our ticket to breakin` free! &5 &5*&3
+902	Text	&f[&dAll&f]&a &5 &5*&3 And if we all join fins, &5 &5*&3 
+905	Text	&5 &5*&3 Ev`rybody wins. &5 &5*&3
+907	Text	&5 &5*&3 And we`ll swim together &5 &5*&3
+909	Text	&5 &5*&3 in the open sea! &5 &5*&3
+914	Text	&f[&9Gill&f]&b So what`s your name kid?
+915	Text	&f[&6Nemo&f]&e I`m &6Nemo.
+#EndOfWeSwimTogether
+#StartOfGoWithThe&aflow
+1312	Block	152	-1634,51,4352
+1312	Text	&f[&aSea Turtle&f] &6Dude...
+1317	Text	&6Focus, Dude...
+1322	Text	&6Dude...
+1323	Text	&f[&6Marlin&f]&e Oooooh
+1324	Text	&f[&aCrush&f]&6 He lives!
+1325	Text	&f[&6Marlin&f]&e What happened?
+1326	Text	&f[&aCrush&f]&6 You took on the jellies, mini-man.
+1328	Text	&6Ya saved little blue!
+1330	Text	&f[&6Marlin&f]&e Little blue?! &9Dory! &eIs she okay?
+1332	Text	&f[&9Dory&f]&b Catch me if you can! Hi &aCrush!
+1335	Text	&f[&aSquirt&f]&6 Cowabunga dude!
+1336	Text	&f[&6Marlin&f]&e I`ve gotta get outta here! I gotta find my son! I gotta get to the EAC!
+1339	Text	&6Hey! How do I get to the EAC?!!
+1343	Text	&f[&aCrush&f]&6 &5 &5*&3 Dude &5 &5*&3
+1345	Text	&5 &5*&3 You have travelled far &5 &5*&3
+1349	Text	&5 &5*&3 Ya must be swimming under a lucky star. &5 &5*&3
+1356	Text	&5 &5*&3 You`re exactly where you`re meant to be &5 &5*&3
+1362	Text	&5 &5*&3 So grab some shell and surf the E.A.C. with me! &5 &5*&3
+1370	Text	&5 &5*&3 &aGo with the &aflow-o-o-o-o-o-o-o-o-o &5 &5*&3
+1371	Text	&f[&dEnsemble&f] &5 &5*&3 (That`s the only way to do it. Just give on over to it) &5 &5*&3
+1377	Text	&f[&aCrush&f]&6 &5 &5*&3 &aflow-o-o-o-o-o-o-o-o-o &5 &5*&3
+1377.8	Text	&f[&dEnsemble&f] &5 &5*&3 (That`s the only way to do it, Just give on over to it) &5 &5*&3
+1382	Text	&f[&aCrush&f]&6 &5 &5*&3 &aGo with the &aflow-o-o-o-o-o-o-o-o-o &5 &5*&3
+1389	Text	&f[&dEnsemble&f] &5 &5*&3 &a(Go with the &aflow) &5 &5*&3
+1390	Text	&f[&aCrush&f]&6 &5 &5*&3 Don`t be a high-strung fellow, &5 &5*&3
+1393	Text	&5 &5*&3 Kick back and keep it mellow &5 &5*&3
+1396	Text	&5 &5*&3 Whoa whoa whoa &5 &5*&3
+1399	Text	&5 &5*&3 &aGo with the &aflow! &5 &5*&3
+1403	Text	&aJellyman, Offspring...
+1405	Text	&f[&6Marlin&f]&e Hi.
+1406	Text	&f[&aCrush&f]&6 Offspring, Jellyman...
+1408	Text	&f[&aSquirt&f]&6 Jellies! Cool!
+1411	Text	&f[&aCrush&f]&6 Totally...
+1412	Text	&f[&9Dory&f]&b Well, what are you waiting for? Jump on `im!
+1415	Text	&f[&aSquirt&f]&6 Woah!
+1417	Text	&f[&6Marlin&f]&e Oh my goodness!	
+1417.8	Text	&f[&aCrush&f]&6 &5 &5*&3 Kill the motor dude &5 &5*&3
+1421	Text	&5 &5*&3 Why don`t ya take it slow? &5 &5*&3
+1426	Text	&5 &5*&3 Let us see how Squirt does flying solo &5 &5*&3
+1435	Text	&f[&aSquirt&f]&6 Whoah! That was so cool,
+1438	Text	&6Dad, did you see what I did?
+1440	Text	&f[&6Marlin&f]&e Well, I`ll be a sea-monkey`s uncle!
+1442	Text	&f[&aCrush&f]&6 YOU SO TOTALLY ROCK, &aSQUIRT!
+1445	Text	&5 &5*&3 You`re such an amazing kid &5 &5*&3
+1448	Text	&f[&6Marlin&f]&e Children, huh?
+1449	Text	&f[&aCrush&f]&6 &5 &5*&3 It`s awesome &5 &5*&3
+1451	Text	&5 &5*&3 They`re eggs on a beach then &5 &5*&3
+1453	Text	&5 &5*&3 Coo-Coo CaChoo &5 &5*&3
+1455	Text	&f[&dEnsemble&f] &5 &5*&3 (Coo-Coo CaChoo) &5 &5*&3
+1456	Text	&f[&aCrush&f]&6 &5 &5*&3 They find their own way back to the big ol` blue. &5 &5*&3
+1461	Text	&f[&6Marlin&f]&e All by themselves?
+1462	Text	&f[&6Marlin&f]&5 &5* &3But, what if they`re not ready &5 &5*&3
+1466	Text	&5 &5*&3 I mean how do you know? &5 &5*&3
+1467	Text	&f[&dEnsemble&f] &5 &5*&3 (How do you know?) &5 &5*&3
+1469	Text	&f[&aCrush&f]&6 &5 &5*&3 Well, you never really know &5 &5*&3
+1472	Text	&5 &5*&3 But if they`re ever gonna grow &5 &5*&3
+1475	Text	&f[&aCrush &7and &dEnsemble&f] &5 &5*&3Then you`ve gotta let `em go &5 &5*&3
+1479	Text	&5 &5*&3 Ya know? &5 &5*&3
+1482	Text	&f[&aCrush&f]&6 &5 &5*&3 Just &aGo with the &aflow-o-o-o-o-o-o-o-o-o &5 &5*&3
+1484	Text	&f[&dEnsemble&f] &5 &5*&3 (That`s the only way to do it, just give on over to it.) &5 &5*&3
+1489	Text	&f[&aCrush&f]&6 &5 &5*&3 Just &aGo with the &aflow-o-o-o-o-o-o-o-o-o &5 &5*&3
+1489.8	Text	&f[&dEnsemble&f] &5 &5*&3 (Rip it, roll it, curl it. Ride inside it, twirl it.) &5 &5*&3
+1495	Text	&f[&aCrush&f]&6 &5 &5*&3 &aGo with the &aflow! &5 &5*&3
+1495.5	Text	&f[&dEnsemble&f] &5 &5*&3 &aGo with the &aflow &5 &5*&3
+1503	Text	&f[&aCrush&f]&6 &5 &5*&3 When you`re raisin` sons and daughters &5 &5*&3
+1506	Text	&5 &5*&3 it`s like surfin` the mighty waters &5 &5*&3
+1509	Text	&5 &5*&3 Woah woah woah! &5 &5*&3
+1511	Text	&f[&dEnsemble&f] &5 &5*&3 &aGo with the &aflow! &5 &5*&3
+1511.5	Text	&5 &5*&3 &aGo with the &aflow &5 &5*&3
+1514	Text	&5 &5*&3 &aGo with the &aflow &5 &5*&3
+1513	Text	&f[&aCrush&f]&6 Get ready for Sydney!
+1514	Text	&6Your exit`s comin` up!
+1516	Text	&f[&6Marlin&f]&e Oh wait I forgot. 
+1518	Text	&eHow old are you?
+1519	Text	&f[&aCrush&f]&6 Hundred and fifty, dude! 
+1521	Text	&6And still young!
+1527	Text	&6Yeah!
+1527	Block	0	-1634,51,4352
+#EndOfGoWithThe&aflow
+#StartOfGossip
+1533	Text	&f[&5Octopus Mom&f] &dDid you hear about that poor little clownfish father whose son was taken
+1537	Text	&dfrom the reef?
+1533.5	Text	&f[&5Octopus Baby&f] &dMom? Mommy? Pick me up, mommy!... MOM!
+1537.8	Text	&f[&5Octopus Mom&f] &dWait a sec.
+1538.5	Text	&dNot now, sweety!!
+1540	Text	&dMommy`s only got eight hands!
+1545	Text	&f[&cLobster #1&f] &6He runs into three ferocious sharks
+1546	Text	&6and he`s wicked scared
+1548	Text	&6but what does he do? He goes n` blows `em up!
+1550	Text	&f[&cLobster #2&f]&6 Wow, now that`s a tale!
+1552	Text	&f[&cLobster #1&f]&6 (Admiring his tail) Why, thank you!
+1553.5	Text	&f[&cLobster #2&f]&6 (Awkwardly) Uh - didn`t mean it that way.
+1557	Text	&f[&9Swordfish #1&f] &3I heard he went face to face with a jellyfish!
+1559	Text	&f[&9Swordfish #2&f]&3 You heard incorrectly ol` chap, it was an entire jellyfish forest!
+1563	Text	&f[&9Swordfish #1&f]&3 Be that as it may, he made it out unharmed.
+1565	Text	&f[&9Swordfish #2&f]&3 HE may have, my good man, but will you?
+1568	Text	&f[&9Swordfish #1&f]&3 Touche.
+1571	Text	&f[&7Penguin #1&f] &6And then this whale comes along, takes him straight to Sydney Harbor and
+1574	Text	&6shoots him out his spout! Isn`t that amazing?
+1577	Text	&f[&7Penguin #2&f] &6That is amazing! Wait a minute. We`re penguins! We can`t fly!
+1582	Text	&f[&dBoth&f]	&3AAAAAHHH!
+1582	Block	152	-1652,45,4380
+1581	Block	0	-1633,46,4409
+1581	Block	0	-1632,46,4409
+1581	Block	0	-1631,46,4409
+1581	Block	0	-1630,46,4409
+1581	Block	0	-1629,46,4409
+#EndOfGossip
+#DoryAndMarlinScene
+922.4	Text	&f[&6Marlin&f]&6 Nemo...
+924	Text	&f[&9Dory&f]&b That sea monkey has my money...
+927	Text	&bYes, I`m a natural blue...
+930	Text	&f[&6Marlin&f]&e The mask! 
+931	Text	&eIt`s gone! 
+932	Text	&eWake up!
+932.5	Text	&f[&9Dory&f]&b AAAA! I WAS FRAMED!
+933.3	Text	&bI WAS FRAMED!
+934.8	Text	&bGood morning!
+935.3	Text	&f[&6Marlin&f]&e What`s so good about it?
+937	Text	&eThat mask was the only chance I had of finding my son!
+939.8	Text	&f[&9Dory&f]&b Chico?
+940	Text	&f[&6Marlin&f]&6 Nemo! &eHis name`s &6Nemo!
+942	Text	&eAnd I may never see him again!
+#JustKeepSwimming
+946.3	Text	&f[&9Dory&f]&b &5 &5*&3 Hey, Mister Grumpy Gills, &5 &5*&3
+949.3	Text	&5 &5*&3 Life`s full of little spills. &5 &5*&3
+952.8	Text	&5 &5*&3 Don`t throw your fins up in disgust. &5 &5*&3
+955.8	Text	&5 &5*&3 Oh, what`s the use of floatin` there, &5 &5*&3
+958.8	Text	&5 &5*&3 Not goin` anywhere? &5 &5*&3
+961.8	Text	&5 &5*&3 Swish your tail, &5 &5*&3
+963	Text	&5 &5*&3 and dive on in, &5 &5*&3 
+966	Text	&5 &5*&3 and trust... &5 &5*&3
+967.8	Text	&5 &5*&3 that... &5 &5*&3
+969	Text	&5 &5*&3 if... &5 &5*&3 
+970	Text	&5 &5*&3 you... &5 &5*&3
+971.5	Text 	&5 &5*&3 &bJust keep swimming, &5 &5*&3
+973	Text	&5 &5*&3 &bJust keep swimming, &5 &5*&3
+974.8	Text	&5 &5*&3 Life isn`t all that grim! &5 &5*&3
+976.8	Text	&f[&6Marlin&f]&e Ugh. 
+977.5	Text	&f[&9Dory&f]&b &5 &5*&3 &bJust keep swimming, &5 &5*&3
+979	Text	&5 &5*&3 &bJust keep swimming, &5 &5*&3
+979.8	Text	&5 &5*&3 What do we do? &5 &5*&3
+982	Text	&f[&6Marlin&f]&5 &5* &3We swim. &5 &5*&3 
+983	Text	&f[&9Dory&f]&b &5 &5*&3 RIGHT! &5 &5*&3
+984	Text	&5 &5*&3 La la la la la la la la &5 &5*&3
+984.5	Text	&f[&6Marlin&f]&5 &5* &3No singing. &5 &5*&3
+986	Text	&5 &5*&3 No singing, please! &5 &5*&3
+987	Text	&f[&9Dory&f]&b &5 &5*&3 La la la la la la la la &5 &5*&3 
+988.8	Text	&f[&6Marlin&f]&5 &5* &3Now that song is gonna be stuck in my head. &5 &5*&3
+991.8	Text	&f[&9Dory&f]&b &5 &5*&3 Look, there`s a shiny thing! &5 &5*&3
+992.8	Text	&bHey, that looks int`resting!
+994.5	Text	&f[&6Marlin&f]&5 &5* &3Please, &9Dory &3try to stay on task! &5 &5*&3
+996.8	Text	&f[&9Dory&f]&b &5 &5*&3 It says: ``&cP. Sherman, 42 Wallaby Way, Sydney.&3`` &5 &5*&3
+1000.8	Text	&bHmm, I guess it`s nothing.
+1001.8	Text	&f[&6Marlin&f]&e No, &9Dory! &eThat`s the mask!
+1003.8	Text	&f[&9Dory&f]&b Yay! We did it! 
+1004.8	Text	&f[&6Marlin&f]&e  Yeah, but now what?!
+1006.3	Text	&eWe don`t know how to get there!
+1007.8	Text	&f[&9Dory&f]&b So we follow our gut! 
+1009	Text	&f[&6Marlin&f]&e But... 
+1009.8	Text	&f[&9Dory&f]&b &5 &5*&3 &bJust keep swimming &5 &5*&3
+1011	Text	&5 &5*&3 &bJust keep swimming &5 &5*&3
+1012.8	Text	&5 &5*&3 Ev`rything will be O.K. &5 &5*&3
+1014.8	Text	&bSee? 
+1015.8	Text	&5 &5*&3 &bJust keep swimming &5 &5*&3
+1017	Text	&5 &5*&3 Move your tail and &5 &5*&3
+1018.8	Text	&5 &5*&3 Sure enough we`ll find our way! &5 &5*&3
+1021.3	Text	&5 &5*&3 Oh, sometime things look bad! &5 &5*&3
+1024	Text	&5 &5*&3 Then POOF! &5 &5*&3
+1025.3	Text	&5 &5*&3 The moment is gone! &5 &5*&3
+1027.5	Text	&5 &5*&3 And what do we do? &5 &5*&3
+1028.8	Text	&f[&dBoth&f] &5 &5*&3 We &bJust keep swimming on! &5 &5*&3
+1033.5	Text	&f[&9Dory&f]&b To &cP. Sherman 42, Wallaby Way, Sydney! 
+1034.5	Text	&f[&6Marlin&f]&e Hello, there...
+1035	Text	&eYah, .....excuse me.
+1037	Text	&eI`m looking for my son..........
+1037.3	Text	&f[&9Dory&f]&b &cP. Sherman 42, Wallaby Way, Sydney! 
+1039.5	Text	&f[&6Marlin&f]&e Hey! Wait a minute! 
+1039.8	Text	&f[&9Dory&f]&b &cP. Sherman 42, Wallaby Way, Sydney! 
+1040	Text	&f[&6Marlin&f]&e ...I`m trying to talk to you! 
+1042	Text	&f[&9Dory&f]&b &5 &5*&3 &cP. Sherman 42, Wallaby Way, Sydney! &5 &5*&3
+1043	Text	&f[&6Marlin&f]&e Please!! 
+1043.8	Text	&f[&9Dory&f]&b &cP. SHERMAN 42, WALLABY WAY, SYDNEY! 
+1046	Text	&f[&6Marlin&f]&e STOP!!! 
+1047.8	Text	&5 &5*&3 Look, you`ve been really great. &5 &5*&3
+1050.5	Text	&5 &5*&3 And I appreciate &5 &5*&3
+1053	Text	&5 &5*&3 All of the little things you`ve done. &5 &5*&3
+1055	Text	&f[&9Dory&f]&b Well, thanks! 
+1057.5	Text	&f[&6Marlin&f]&5 &5* &3But, perhaps I think it`s best &5 &5*&3
+1060	Text	&5 &5*&3 if you and I gave this a rest. &5 &5*&3
+1063	Text	&f[&9Dory&f]&b Huh? 
+1064	Text	&f[&6Marlin&f]&e How `bout you stay here, 
+1065.8	Text	&ewhile I go and find my son? 
+1068	Text	&f[&9Dory&f]&b Wait! Come back! 
+1069.8	Text	&bDon`t leave me on my own! 
+1071	Text	&f[&6Marlin&f]&e Sorry, but I really want 
+1073	Text	&eto carry on alone! 
+1075	Text	&f[&9Moonfish&f]&3 Hey Lady! 
+1075.5	Text	&3Is this guy bothering you?
+1077.5	Text	&f[&9Dory&f]&b Um... I don`t remember.
+1078.5	Text	&bWere you?
+1079	Text	&f[&6Marlin&f]&e No, no, no, no, no!
+1080	Text	&eDo you guys know how I can get to &cP. Sherm-
+1081.8	Text	&f[&9Moonfish&f]&3 Look pal. We`re talkin` to the lady.
+1083.8	Text	&f[&6Marlin&f]&e Fine!
+1084.3	Text	&f[&9Dory&f]&b Go easy on him, fellas.
+1086	Text	&bHe lost his son, Fabio.
+1088	Text	&f[&6Marlin&f]&6 Nemo.
+1088.8	Text	&f[&9Dory&f]&b Any of you heard of 
+1089.8	Text	&cP. Sherman, 42 Wallaby Way?
+1091	Text	&f[&9Moonfish&f]&3 Sydney?
+1093	Text	&5 &5*&3 Ahhhhh! &5 &5*&3
+1094.8	Text	&3What you want to do is follow the EAC.
+1097.3	Text	&3That`s, uh,
+1097.8	Text	&3the East Australian Current.
+1099.5	Text	&5 &5*&3 &bJust keep swimming &5 &5*&3
+1101	Text	&5 &5*&3 (Swimming!) &5 &5*&3
+1102	Text	&5 &5*&3 (Swimming!) &5 &5*&3
+1103	Text	&3Big current.
+1103.8	Text	&3Can`t miss it.
+1105	Text	&3It`s in that direction!
+1106.8	Text	&5 &5*&3 &bJust keep swimming &5 &5*&3
+1108	Text	&5 &5*&3 (Swimming!) &5 &5*&3
+1109.5	Text	&5 &5*&3 (Swimming!) &5 &5*&3
+1110.5	Text	&3And that little baby`s gonna put you right past Sydney!
+1113.5	Text	&5 &5*&3 It`s a big blue world out there &5 &5*&3
+1116.5	Text	&5 &5*&3 that can make a fish feel small. &5 &5*&3
+1118.5	Text	&f[&9Dory&f]&b They`re good!
+1119	Text	&f[&9Moonfish&f]&3 &5 &5*&3 But when friends point the way, &5 &5*&3
+1121	Text	&5 &5*&3 it`s not so big at all! &5 &5*&3
+1123.5	Text	&f[&6Marlin&f]&e To Sydney!
+1124	Text	&f[&9Moonfish&f]&3 &5 &5*&3 Ahhhh! &5 &5*&3
+1126	Text	&3Oh, hey, ma`am, one more thing.
+1127.5	Text	&3When you come to this trench,
+1129	Text	&3swim through it,
+1129.8	Text	&3not over it!
+1130.5	Text	&f[&9Dory&f]&b Through it, not over it.
+1131.5	Text	&bGot it!
+1132	Text	&f[&6Marlin&f]&5 &5* &3I don`t like this trench one bit. &5 &5*&3
+1133.5	Text	&5 &5*&3 We`re swimming over it. &5 &5*&3
+1134.8	Text	&f[&9Dory&f]&b &5 &5*&3 Something`s telling me we should swim through. &5 &5*&3
+1137.5	Text	&f[&6Marlin&f]&e Oh, why do I waste my breath? 
+1139.5	Text	&5 &5*&3 That way leads to certain death. &5 &5*&3
+1141	Text	&f[&9Dory&f]&b Come on, partner,
+1141.5	Text	&btrust me on this
+1142.5	Text	&bit`s what friends do...
+1144	Text	&f[&6Marlin&f]&e O.K. I guess. 
+1145	Text	&eIf you say so. 
+1146.8	Text	&eHey, look! Something shiny! 
+1148	Text	&f[&9Dory&f]&b Where? 
+1148.8	Text	&f[&6Marlin&f]&e Over the trench!
+1149.3	Text	&f[&9Dory&f]&b Let`s go! 
+1150	Text	&5 &5*&3 La la la la la la &5 &5*&3
+1150.3	Text	&f[&6Marlin&f]&5 &5* &3La la la &5 &5*&3
+1151	Text	&f[&9Dory&f]&b &5 &5*&3 La la la la la &5 &5*&3
+1152	Text	&f[&6Marlin&f]&5 &5* &3La la la &5 &5*&3
+1152.5	Text	&f[&9Dory&f]&b &5 &5*&3 La la la la la &5 &5*&3
+1153	Text	&bow ow ow ow
+1154.5	Text	&bOOWW!
+1155.8	Text	&f[&6Marlin&f]&e Dory! That`s a jellyfish!
+1157.8	Text	&eYou`ll be okay -
+1158.5	Text	&elet`s be thankful it was just a little one.
+1162.5	Text	&eUh-Oh!
+1163.8	Text	&f[&9Dory&f]&b Hey! Watch this!
+1164.8	Text	&bBoing!
+1165.8	Text	&bBoing!
+1166.8	Text	&bBoing!
+1167.5	Text	&f[&6Marlin&f]&e Dory, I have an idea, a game!
+1169	Text	&f[&9Dory&f]&b Ooh a game! Pick me! Pick me!
+1170	Text	&f[&6Marlin&f]&e First one out of the Jellyfish
+1171	Text	&ewithout touching the tentacles wins.
+1172.8	Text	&eReady, set, go!
+1174.5	Text	&f[&9Dory&f]&b Better move fast if you wanna win!
+1177	Text	&f[&6Marlin&f]&5 &5* &bJust keep swimming &5 &5*&3
+1179	Text	&f[&9Dory&f]&b &5 &5*&3 &bJust keep swimming &5 &5*&3
+1180.8	Text	&f[&dBoth&f] &5 &5*&3 Life isn`t always grim! &5 &5*&3
+1183.8	Text	&f[&6Marlin&f]&5 &5* &bJust keep swimming &5 &5*&3
+1185.5	Text	&f[&9Dory&f]&b &5 &5*&3 &bJust keep swimming! &5 &5*&3
+1187	Text	&f[&dBoth&f] &5 &5*&3 What do we do? &5 &5*&3
+1188.5	Text	&5 &5*&3 We swim! &5 &5*&3
+1190.3	Text	&f[&6Marlin&f]&5 &5* &bJust keep swimming &5 &5*&3
+1191	Text	&f[&9Dory&f]&b &5 &5*&3 &bJust keep swimming &5 &5*&3
+1192	Text	&f[&6Marlin&f]&5 &5* &bJust keep swimming &5 &5*&3
+1193.5	Text	&f[&9Dory&f]&b &5 &5*&3 This fish was built for speed! &5 &5*&3
+1195.5	Text	&f[&6Marlin&f]&e Ha ha! 
+1196.8	Text	&5 &5*&3 &bJust keep swimming &5 &5*&3
+1197.5	Text	&f[&9Dory&f]&b &5 &5*&3 &bJust keep swimming! &5 &5*&3
+1198.3	Text	&f[&6Marlin&f]&5 &5* &bJust keep swimming! &5 &5*&3
+1199.8	Text	&eAnd the clownfish takes the lead!
+1202.8	Text	&9Dory!
+1204.5	Text	&eOh No!
+1207	Text	&f[&9Dory&f]&b Am I disqualified?
+1209.8	Text	&f[&6Marlin&f]&e No,
+1210.8	Text	&eyou`re actually winning.
+1212	Text	&eBut you have to listen to me...
+1215.8	Text	&5 &5*&3 &bJust keep swimming... &5 &5*&3
+1218.5	Text	&5 &5*&3 Stay awake now... &5 &5*&3
+1221.5	Text	&5 &5*&3 Ev`ry thing will be O.K. &5 &5*&3
+1226.5	Text	&5 &5*&3 Just stay with me &5 &5*&3
+1229	Text	&5 &5*&3 `Til we get to... &5 &5*&3
+1231	Text	&f[&9Dory&f]&b &5 &5*&3 &e42 &5 &5*&3
+1232.8	Text	&5 &5*&3 &eWallaby Way &5 &5*&3
+1235	Text	&f[&6Marlin&f]&e Right. 
+1236.5	Text	&5 &5*&3 Sometimes things look bad. &5 &5*&3
+1240	Text	&5 &5*&3 Then poof, &5 &5*&3
+1241.5	Text	&5 &5*&3 the moment is gone... &5 &5*&3
+1244.3	Text	&5 &5*&3 And what do we do? &5 &5*&3
+1247.8	Text	&f[&9Dory&f]&b &5 &5*&3 We just keep &5 &5*&3
+1249.8	Text	&5 &5*&3 swimming... &5 &5*&3
+#EndJustKeepSwimmingw
+#That`sMyDadReprise
+1584.3	Text	&f[&6Nigel&f] &6Nemo! Nemo!!
+1585	Text	&eYour Dad`s been fightin` the entire ocean looking for YOU!
+1588.3	Text	&f[&6Nemo&f]&e My father?
+1588.8	Text	&eReally?!
+1589.3	Text	&f[&6Nigel&f] &eHe`s traveled hundreds of miles!
+1591.3	Text	&eHe`s made friends with whales and seaturtles!!
+1592.8	Text 	&eAnd he`s battled sharks and jellyfish...
+1594.8	Text	&f[&6Nemo&f]&5 &5* &3That`s my Dad, &5 &5*&3
+1596.5	Text	&5 &5*&3 I knew all along. &5 &5*&3
+1600	Text	&5 &5*&3 Underneath, he`s really brave and strong. &5 &5*&3
+1606	Text	&5 &5*&3 He`s on his way now, &5 &5*&3
+1608.5	Text	&5 &5*&3 and I`m so glad, &5 &5*&3
+1611.3	Text	&5 &5*&3 of all the fish in the ocean, &5 &5*&3
+1614.8	Text	&5 &5*&3 That`s &5 &5*&3
+1616.5	Text	&5 &5*&3 my&5 &5*&3
+1618.3	Text	&5 &5*&3 Dad. &5 &5*&3
+1619	Text	&f[&6Nigel&f] &e... and word is,
+1619.5	Text	&ehe`s in the Sydney Harbor right now!
+1621.5	Text	&eI`ll go find him!
+#EndThatsMyDadReprise
+#Darla
+1623	Text	&f[&9Gill&f]&6 Nemo!
+1623.8	Text	&bLook out!
+1624.8	Text	&f[&6Nemo&f]&9 Gill! &eHelp me!
+1626	Text	&f[&9Gill&f]&b Everybody jump in!
+1627.5	Text	&f[&dAll&f]&a &5 &5*&3 Together &5 &5*&3
+1630	Text	&5 &5*&3 We swim together! &5 &5*&3
+1635	Text	&3Yay!
+1638	Text	&3Oh no! Darla!
+1641.8	Text	&f[&6Nemo&f]&e Gill!
+1643	Text	&f[&bDentist&f]&a Happy Birthday, &5Darla.
+1644.8	Text	&f[&5Darla&f] &6Fishy!
+1646.8	Text	&f[&6Nigel&f] &6Nemo! 
+1647	Text	&eI found your father!
+1649	Text	&f[&6Marlin&f]&6 Nemo?
+1650	Text	&f[&5Darla&f] &6Fishy! Fishy!
+1650.8	Text	&6Wake up Fishy!
+1656	Text	&f[&9Dory&f]&b Oh no!
+1656.8	Text	&f[&6Marlin&f]&e We`re too late!
+#EndDarla
+#SewageTreatment
+1661	Text	&f[&9Dory&f]&b Hey,
+1662.5	Text	&bI`m so sorry...
+1664.3	Text	&f[&6Marlin&f]&e It`s over.
+1666.8	Text	&6Nemo`s &egone --
+1668.3	Text 	&eI couldn`t --
+1670	Text	&eI`m going home now.
+1673	Text	&f[&9Dory&f]&b Well, wait!
+1675	Text	&bPlease don`t go away!
+1677	Text	&bPlease?
+1680.3	Text	&f[&6Nemo&f]&e Whooooooooa!
+1684	Text	&eDa-aaad!
+1685	Text	&eDa-aaad!
+1686.5	Text	&f[&6Marlin&f]&6 Nemo?!
+1687	Text	&f[&6Nemo&f]&e Dad!
+1688	Text	&f[&9Dory&f]&6 Nemo!
+1689.5	Text	&bBut you`re dead!
+1691.5	Text	&bI`m &9Dory.
+1693.5	Text	&f[&6Nemo&f]&e I wasn`t dead!
+1694.5	Text	&eI was just pretending so they would flush me down the drain!
+1696.5	Text	&f[&6Marlin&f]&e Thank goodness!
+1697.8	Text	&f[&2Groupers&f] &3Swim away! Swim away! Go back!
+1698.5	Text	&f[&9Dory&f]&b AHH!
+1700.5	Text	&bHeeeeyelp!
+1701.5	Text	&bGet us out! Get us out!
+#EndSewageTreatment
+#Finale
+#WeSwimTogetherReprise
+1702.5	Text	&f[&6Marlin&f]&6 Nemo, 
+1703.5	Text	&eyou get back here!
+1705	Text	&f[&6Nemo&f]&e I know what to do!
+1706	Text	&eWe have to save Dory!
+1708	Text	&f[&6Marlin&f]&e I have to think of you!
+1710	Text	&f[&6Nemo&f]&e I know I can do this!
+1712	Text	&eDad, I have a plan!
+1713.8	Text	&f[&6Marlin&f]&e You think you can do these things, but-
+1718.8	Text	&5 &5*&3 I know you can. &5 &5*&3
+1721.9	Text	&f[&6Nemo&f]&e Tell everybody to swim down!
+1725	Text	&5 &5*&3 Together, &5 &5*&3
+1728	Text	&5 &5*&3 Swim down together. &5 &5*&3
+1731	Text	&f[&6Marlin&f]&e You heard my son!
+1733	Text	&f[&dBoth&f] &5 &5*&3 Together, &5 &5*&3
+1736	Text	&5 &5*&3 We swim together. &5 &5*&3
+1737.5	Text	&f[&9Dory&f]&b &5 &5*&3 &bJust keep swimming, &5 &5*&3
+1739	Text	&5 &5*&3 &bJust keep swimming, &5 &5*&3
+1741	Text	&f[&dBoth&f] &5 &5*&3 Together, &5 &5*&3
+1744	Text	&5 &5*&3 We swim together. &5 &5*&3 
+1747	Text	&f[&dEnsemble&f] &5 &5*&3 Swim together! &5 &5*&3
+1747.8	Text	&f[&6Marlin&f]&5 &5* &3Swim down!! &5 &5*&3
+1749.8	Text	&f[&6Nemo&f]&5 &5* &3That`s my dad! &5 &5*&3
+1753	Text	&f[&6Marlin&f]&5 &5* &3That`s my son! &5 &5*&3
+1757	Text	&f[&dAll&f]&a &5 &5*&3 Together! &5 &5*&3
+1760	Text	&5 &5*&3 We swim together! &5 &5*&3
+1765	Text	&5 &5*&3 Ah... &5 &5*&3
+1768	Text	&f[&6Marlin&f]&e Dory, are you okay?
+1770	Text	&f[&9Dory&f]&b Yeah.
+1770.8	Text	&bWhy wouldn`t I be?
+1771.9	Text	&f[&6Marlin&f]&6 Nemo!
+#EndOfWeSwimTogether
+#TheBigBlueWorldFinale
+1776	Text	&f[&6Nemo&f]&e Dad.....
+1777	Text	&eI...I don`t hate you.
+1779.8	Text	&f[&6Marlin&f]&e Oh no.
+1781	Text	&eNo!
+1782	Text	&eI`m... I`m so sorry, &6Nemo.
+1785.6	Text	&eHey! Guess what?!
+1787	Text	&eI met a &aSea Turtle &eand he was 150!
+1790	Text	&f[&6Nemo&f]&e 150!!
+1792	Text	&eBut &cSandy Plankton &esaid.....
+1793	Text	&f[&6Marlin&f]&c Sandy Plankton?
+1794.2	Text	&eDo you think after what I`ve been through I don`t know as much as &cSandy Plankton?
+1799	Text	&f[&6Nemo&f]&5 &5* &3So tell me Dad, &5 &5*&3
+1800.8	Text	&5 &5*&3 What`s it like to cross an entire sea. &5 &5*&3
+1804.3	Text	&f[&6Marlin&f]&5 &5* &3Well son I don`t know, &5 &5*&3
+1806	Text	&5 &5*&3 Let`s go home together, &5 &5*&3
+1808	Text	&5 &5*&3 then you`ll tell me. &5 &5*&3 
+1810	Text	&f[&9Dory&f]&b Wanna make it three?
+1811.8	Text	&f[&dLittle Fish&f] &3Time for school!
+1812.8	Text	&3Time for school!
+1814	Text	&f[&9Dory&f]&b I go to school??!!!
+1815	Text	&f[&6Marlin&f]&e Not really. 
+1816	Text	&f[&bMr. Ray&f] &9Climb aboard explorers! 
+1818.8	Text	&f[&6Marlin&f]&5 &5* &3Now, go and get some knowledge, &5 &5*&3
+1820	Text	&f[&9Dory&f]&b &5 &5*&3 and come home when you`re done. &5 &5*&3
+1822	Text	&f[&6Nemo&f]&e Don`t worry! I`ll be careful! 
+1824	Text	&f[&6Marlin&f]&e But remember to have fun. 
+1825	Text	&f[&bMr. Ray&f] &9Ev`rybody, find a buddy! 
+1827.7	Text	&6Nemo, &9that means you.
+1828.8	Text	&f[&6Nemo&f]&5 &5* &3Wait! &5 &5*&3
+1830	Text	&5 &5*&3 There`s something I forgot to do... &5 &5*&3
+1834	Text	&5 &5*&3 Love ya` Dad. &5 &5*&3
+1836	Text	&f[&6Marlin&f]&5 &5* &3I love you too son... &5 &5*&3
+1838	Text	&5 &5*&3 Now go have an adventure! &5 &5*&3
+1840.8	Text	&f[&dAll&f]&a &5 &5*&3 &bIn the big blue world. &5 &5*&3
+1845	Text	&5 &5*&3 we`re gonna go explore &5 &5*&3
+1848	Text	&5 &5*&3 &bIn the big blue world.. &5 &5*&3
+1852	Text	&5 &5*&3 Things we`ve never seen before. &5 &5*&3
+1854.2	Text	&5 &5*&3 What`s waiting out there? &5 &5*&3
+1858	Text	&5 &5*&3 We can never know. &5 &5*&3
+1862	Text	&5 &5*&3 &bIn the big blue world, &5 &5*&3
+1869	Text	&5 &5*&3 We`re ready to go. &5 &5*&3
+1871	Text	&5 &5*&3 (&bIn the big blue world..) &5 &5*&3
+1873	Text	&5 &5*&3 (We`re ready to go.) &5 &5*&3
+1875	Text	&5 &5*&3 (&bIn the big blue world..) &5 &5*&3
+1877	Text	&5 &5*&3 (We`re ready to go.) &5 &5*&3
+1878	Text	&5 &5*&3 (&bIn the big blue world..) &5 &5*&3
+1881.7	Text	&f[&9Dory&f]&b Bye Elmo!
+1882.8	Text	&f[&6Marlin&f]&6 Nemo. 
+1884	Text	&f[&6Nemo&f]&e Bye Dory!
+1885.3	Text	&eBye Dad! 
+1889	Text	&f[&6Marlin&f]&e Bye son.
+1906	Block	152	-1648,51,4354
+1909	Text	&6Brought to you by:
+1911	Text	&eXavier9214 and Zafacon2
+1913	Text	&6Plugin by -- The MCMagic Dev Team
+1915	Text	&6And of course, the &bMCMagic Parks Family!
+2005	Text	&6Thanks for watching and have an &bMCMagical &6day!
+2009	Block	152	-1646,51,4354
+2009	Block	0	-1646,50,4388
+2009	Block	0	-1645,50,4388
+2009	Block	0	-1638,50,4388
+2009	Block	0	-1637,50,4388
+2009	Block	0	-1625,50,4388
+2009	Block	0	-1624,50,4388
+2009	Block	0	-1617,50,4388
+2009	Block	0	-1616,50,4388
+2009	Block	0	-1616,49,4392
+2009	Block	0	-1617,49,4392
+2009	Block	0	-1618,49,4392
+2009	Block	0	-1624,49,4392
+2009	Block	0	-1625,49,4392
+2009	Block	0	-1637,49,4392
+2009	Block	0	-1638,49,4392
+2009	Block	0	-1644,49,4392
+2009	Block	0	-1645,49,4392
+2009	Block	0	-1646,49,4392
+2269	Block	166	-1646,50,4388
+2269	Block	166	-1645,50,4388
+2269	Block	166	-1638,50,4388
+2269	Block	166	-1637,50,4388
+2269	Block	166	-1625,50,4388
+2269	Block	166	-1624,50,4388
+2269	Block	166	-1617,50,4388
+2269	Block	166	-1616,50,4388
+2269	Block	166	-1616,49,4392
+2269	Block	166	-1617,49,4392
+2269	Block	166	-1618,49,4392
+2269	Block	166	-1624,49,4392
+2269	Block	166	-1625,49,4392
+2269	Block	166	-1637,49,4392
+2269	Block	166	-1638,49,4392
+2269	Block	166	-1644,49,4392
+2269	Block	166	-1645,49,4392
+2269	Block	166	-1646,49,4392
+#ChatMute
+2005	Block	152	-1627,56,4369
+#LightsOn
+2009	Block	152	-1637,56,4368
+2009	Block	152	-1631,56,4364
+2009	Schematic	fnroof	-1647	59	4370	ak	false
+2009	Block	152	-1627,56,4365
+#ExitDoors
+2009	Block	0	-1635,56,4365
+#EndOfShow
+2009	Block	152	-1635,56,4369
+2009	Block	152	-1633,56,4369
+#ResetLights
+2009	Block	0	-1632,60,4404
+2009	Block	0	-1631,60,4408
+2011	Block	152	-1646,51,4362
+#ShowHasStarted
+0	Block	152	-1631,56,4369
+#CharacterStageLights
+367.5	Block	95:11	-1627,46,4410
+367.5	Block	89	-1627,45,4410
+402.5	Block	22	-1627,46,4410
+402.5	Block	0	-1627,45,4410
+402.5	Block	95:11	-1629,46,4410
+402.5	Block	89	-1629,45,4410
+404	Block	22	-1629,46,4410
+404	Block	0	-1629,45,4410
+404	Block	95:11	-1631,46,4411
+404	Block	89	-1631,45,4411
+405	Block	22	-1631,46,4411
+405	Block	0	-1631,45,4411
+405	Block	95:11	-1633,46,4410
+405	Block	89	-1633,45,4410
+406	Block	22	-1633,46,4410
+406	Block	0	-1633,45,4410
+406	Block	95:11	-1635,46,4409
+406	Block	89	-1635,45,4409
+407	Block	22	-1635,46,4409
+407	Block	0	-1635,45,4409
+407	Block	95:11	-1634,46,4408
+407	Block	89	-1634,45,4408
+408	Block	22	-1634,46,4408
+408	Block	0	-1634,45,4408
+408	Block	95:11	-1632,46,4407
+408	Block	89	-1632,45,4407
+409	Block	22	-1632,46,4407
+409	Block	0	-1632,45,4407
+409	Block	95:11	-1631,46,4405
+409	Block	89	-1631,45,4405
+410	Block	22	-1631,46,4405
+410	Block	0	-1631,45,4405
+410	Block	95:11	-1631,46,4403
+410	Block	89	-1631,45,4403
+411	Block	22	-1631,46,4403
+411	Block	0	-1631,45,4403
+411	Block	95:11	-1631,46,4401
+411	Block	89	-1631,45,4401
+412	Block	22	-1631,46,4401
+412	Block	0	-1631,45,4401
+412	Block	95:11	-1631,46,4399
+412	Block	89	-1631,45,4399
+413	Block	22	-1631,46,4399
+413	Block	0	-1631,45,4399
+413	Block	95:11	-1631,46,4398
+413	Block	89	-1631,45,4398
+414	Block	22	-1631,46,4398
+414	Block	0	-1631,45,4399
+414	Block	95:11	-1630,46,4398
+414	Block	89	-1630,45,4398
+415	Block	22	-1630,46,4398
+415	Block	0	-1630,45,4398
+415	Block	95:11	-1628,47,4397
+415	Block	89	-1628,46,4397
+416	Block	22	-1628,47,4397
+416	Block	0	-1628,46,4397
+416	Block	95:11	-1627,47,4396
+416	Block	89	-1627,46,4396
+417	Block	22	-1627,47,4396
+417	Block	0	-1627,46,4396
+417	Block	95:11	-1627,47,4394
+417	Block	89	-1627,46,4394
+418.5	Block	22	-1627,47,4394
+418.5	Block	0	-1627,46,4394
+418.5	Block	95:11	-1627,47,4392
+418.5	Block	89	-1627,46,4392
+419	Block	95:1	-1612,47,4390
+419	Block	89	-1612,46,4390
+420	Block	24:2	-1612,47,4390
+420	Block	0	-1612,46,4390
+420	Block	95:1	-1615,47,4390
+420	Block	89	-1615,46,4390
+421	Block	24:2	-1615,47,4390
+421	Block	0	-1615,46,4390
+421	Block	95:1	-1618,47,4390
+421	Block	89	-1618,46,4390
+422	Block	24:2	-1618,47,4390
+422	Block	0	-1618,46,4390
+422	Block	95:1	-1620,47,4390
+422	Block	89	-1620,46,4390
+423	Block	24:2	-1620,47,4390
+423	Block	0	-1620,46,4390
+423	Block	95:1	-1622,47,4390
+423	Block	89	-1622,46,4390
+424	Block	24:2	-1622,47,4390
+424	Block	0	-1622,46,4390
+424	Block	95:1	-1624,47,4390
+424	Block	89	-1624,46,4390
+425	Block	123	-1624,47,4390
+425	Block	35:13	-1624,46,4390
+425	Block	95:1	-1627,47,4390
+425	Block	89	-1627,46,4390
+432.5	Block	24:2	-1627,47,4390
+432.5	Block	0	-1627,46,4390
+433	Block	22	-1627,47,4392
+433	Block	0	-1627,46,4392
+433	Block	95:11	-1627,47,4394
+433	Block	89	-1627,46,4394
+434	Block	22	-1627,47,4394
+434	Block	0	-1627,46,4394
+434	Block	95:11	-1627,47,4396
+434	Block	89	-1627,46,4396
+435	Block	22	-1627,47,4396
+435	Block	0	-1627,46,4396
+435	Block	95:11	-1628,47,4397
+435	Block	89	-1628,46,4397
+436	Block	22	-1628,47,4397
+436	Block	0	-1628,46,4397
+436	Block	95:11	-1630,46,4398
+436	Block	89	-1630,45,4398
+437	Block	22	-1630,46,4398
+437	Block	0	-1630,45,4398
+437	Block	95:11	-1631,46,4398
+437	Block	89	-1631,45,4398
+438	Block	22	-1631,46,4398
+438	Block	0	-1631,45,4398
+438	Block	95:11	-1631,46,4401
+438	Block	89	-1631,45,4401
+439	Block	22	-1631,46,4401
+439	Block	0	-1631,45,4401
+439	Block	95:11	-1631,46,4402
+439	Block	89	-1631,45,4402
+445	Block	22	-1631,46,4402
+445	Block	0	-1631,45,4402
+445	Block	95:11	-1631,46,4403
+445	Block	89	-1631,45,4403
+446	Block	22	-1631,46,4403
+446	Block	0	-1631,45,4403
+446	Block	95:11	-1631,46,4404
+446	Block	89	-1631,45,4404
+447	Block	22	-1631,46,4404
+447	Block	0	-1631,45,4404
+447	Block	95:11	-1631,46,4405
+447	Block	89	-1631,45,4405
+448	Block	22	-1631,46,4405
+448	Block	0	-1631,45,4405
+448	Block	95:11	-1631,46,4406
+448	Block	89	-1631,45,4406
+449	Block	22	-1631,46,4406
+449	Block	0	-1631,45,4406
+449	Block	95:11	-1630,46,4407
+449	Block	89	-1630,45,4407
+450	Block	22	-1630,46,4407
+450	Block	0	-1630,40,4407
+450	Block	95:11	-1629,46,4408
+450	Block	89	-1629,45,4408
+#ClosingDoors
+406	Block	22	-1620,58,4410
+406	Block	22	-1620,57,4410
+406	Block	22	-1620,56,4410
+406	Block	22	-1620,55,4410
+406	Block	22	-1619,56,4410
+406	Block	22	-1621,54,4410
+406	Block	22	-1623,49,4410
+406	Block	22	-1623,50,4410
+406	Block	22	-1622,50,4410
+406	Block	22	-1622,51,4410
+406	Block	22	-1621,50,4410
+406	Block	22	-1621,51,4410
+406	Block	22	-1620,49,4410
+406	Block	22	-1619,49,4410
+406	Block	22	-1620,51,4410
+406	Block	22	-1619,52,4410
+406	Block	22	-1637,57,4410
+406	Block	22	-1637,54,4410
+406	Block	22	-1638,54,4410
+406	Block	22	-1639,54,4410
+406	Block	22	-1638,55,4410
+406	Block	22	-1638,56,4410
+406	Block	22	-1639,57,4410
+406	Block	22	-1639,56,4410
+406	Block	22	-1640,58,4410
+406	Block	22	-1640,57,4410
+406	Block	22	-1640,56,4410
+406	Block	22	-1641,58,4410
+406	Block	22	-1641,57,4410
+406	Block	22	-1641,56,4410
+406	Block	22	-1641,55,4410
+406	Block	22	-1639,52,4410
+406	Block	22	-1640,53,4410
+406	Block	22	-1641,52,4410
+406	Block	22	-1642,53,4410
+406	Block	22	-1643,53,4410
+406	Block	22	-1643,58,4410
+406	Block	22	-1643,57,4410
+406	Block	22	-1643,56,4410
+406	Block	22	-1642,58,4410
+406	Block	22	-1642,57,4410
+406	Block	22	-1640,50,4410
+406	Block	22	-1639,50,4410
+406	Block	22	-1640,49,4410
+406	Block	22	-1626,47,4410
+406	Block	22	-1625,47,4410
+406	Block	22	-1625,48,4410
+406	Block	22	-1625,49,4410
+406	Block	22	-1625,50,4410
+406	Block	22	-1624,48,4410
+406	Block	22	-1624,49,4410
+406	Block	22	-1624,50,4410
+406	Block	22	-1624,51,4410
+406	Block	22	-1624,52,4410
+406	Block	22	-1623,51,4410
+406	Block	22	-1623,52,4410
+406	Block	35:15	-1631,50,4413
+406	Block	35:4	-1632,50,4413
+406	Block	35:4	-1631,51,4413
+408	Block	0	-1631,50,4413
+408	Block	0	-1632,50,4413
+408	Block	0	-1631,51,4413
+408.1	Block	89	-1631,46,4414
+410	Block	22	-1631,46,4414
+408.1	Block	35:15	-1631,47,4413
+408.1	Block	35:4	-1631,48,4413
+408.1	Block	35:4	-1630,47,4413
+410	Block	0	-1631,47,4413
+410	Block	0	-1631,48,4413
+410	Block	0	-1630,47,4413
+406	Block	22	-1623,53,4410
+406	Block	22	-1623,54,4410
+406	Block	22	-1622,53,4410
+406	Block	22	-1622,54,4410
+406	Block	22	-1622,55,4410
+406	Block	22	-1622,56,4410
+406	Block	22	-1622,57,4410
+406	Block	22	-1622,58,4410
+406	Block	22	-1621,55,4410
+406	Block	22	-1621,56,4410
+406	Block	22	-1621,57,4410
+406	Block	22	-1621,58,4410
+406	Block	22	-1639,47,4410
+406	Block	22	-1639,48,4410
+406	Block	22	-1638,47,4410
+406	Block	22	-1638,48,4410
+406	Block	22	-1638,49,4410
+406	Block	22	-1638,50,4410
+406	Block	22	-1638,51,4410
+406	Block	22	-1637,49,4410
+406	Block	22	-1637,50,4410
+406	Block	22	-1637,51,4410
+406	Block	22	-1637,52,4410
+406	Block	22	-1637,53,4410
+406	Block	22	-1636,52,4410
+406	Block	22	-1636,53,4410
+406	Block	22	-1636,54,4410
+406	Block	22	-1636,55,4410
+406	Block	22	-1635,54,4410
+406	Block	22	-1635,55,4410
+406	Block	22	-1635,56,4410
+406	Block	22	-1635,57,4410
+406	Block	22	-1635,58,4410
+406	Block	22	-1634,56,4410
+406	Block	22	-1634,57,4410
+406	Block	22	-1634,58,4410
+406	Block	22	-1640,47,4410
+406	Block	22	-1640,48,4410
+406	Block	22	-1641,47,4410
+406	Block	22	-1641,48,4410
+406	Block	22	-1642,47,4410
+406	Block	22	-1642,48,4410
+406	Block	22	-1643,47,4410
+406	Block	22	-1641,49,4410
+406	Block	22	-1624,47,4410
+406	Block	22	-1623,47,4410
+406	Block	22	-1623,48,4410
+406	Block	22	-1622,49,4410
+406	Block	22	-1622,48,4410
+406	Block	22	-1622,47,4410
+406	Block	22	-1621,49,4410
+406	Block	22	-1621,48,4410
+406	Block	22	-1621,47,4410
+406	Block	22	-1620,48,4410
+406	Block	22	-1620,47,4410
+406	Block	22	-1619,48,4410
+406	Block	22	-1619,47,4410
+407	Block	22	-1628,47,4410
+407	Block	22	-1627,47,4410
+407	Block	22	-1627,48,4410
+407	Block	22	-1627,49,4410
+407	Block	22	-1627,50,4410
+407	Block	22	-1626,48,4410
+407	Block	22	-1626,49,4410
+407	Block	22	-1626,50,4410
+407	Block	22	-1626,51,4410
+407	Block	22	-1626,52,4410
+407	Block	22	-1625,51,4410
+407	Block	22	-1625,52,4410
+407	Block	22	-1625,53,4410
+407	Block	22	-1625,54,4410
+407	Block	22	-1624,53,4410
+407	Block	22	-1624,54,4410
+407	Block	22	-1624,55,4410
+407	Block	22	-1624,56,4410
+407	Block	22	-1624,57,4410
+407	Block	22	-1624,58,4410
+407	Block	22	-1623,55,4410
+407	Block	22	-1623,56,4410
+407	Block	22	-1623,57,4410
+407	Block	22	-1623,58,4410
+407	Block	22	-1637,47,4410
+407	Block	22	-1637,48,4410
+407	Block	22	-1636,47,4410
+407	Block	22	-1636,48,4410
+407	Block	22	-1636,49,4410
+407	Block	22	-1636,50,4410
+407	Block	22	-1636,51,4410
+407	Block	22	-1635,49,4410
+407	Block	22	-1635,50,4410
+407	Block	22	-1635,51,4410
+407	Block	22	-1635,52,4410
+407	Block	22	-1635,53,4410
+407	Block	22	-1634,52,4410
+407	Block	22	-1634,53,4410
+407	Block	22	-1634,54,4410
+407	Block	22	-1634,55,4410
+407	Block	22	-1633,54,4410
+407	Block	22	-1633,55,4410
+407	Block	22	-1633,56,4410
+407	Block	22	-1633,57,4410
+407	Block	22	-1633,58,4410
+407	Block	22	-1632,56,4410
+407	Block	22	-1632,57,4410
+407	Block	22	-1632,58,4410
+408	Block	22	-1630,47,4410
+408	Block	22	-1629,47,4410
+#EndOfTank
+914	Block	123	-1626,51,4418
+914	Block	123	-1624,47,4414
+914	Block	123	-1625,47,4417
+914	Block	123	-1626,47,4416
+914	Block	123	-1626,47,4415
+914	Block	123	-1627,49,4415
+914	Block	123	-1627,47,4417
+914	Block	123	-1634,54,4418
+914	Block	123	-1639,48,4414
+914	Block	123	-1635,48,4414
+914	Block	123	-1634,47,4416
+914	Block	123	-1637,51,4416
+916.5	Block	123	-1633,47,4417
+916.5	Block	123	-1632,47,4416
+916.5	Block	123	-1630,47,4415
+916.5	Block	123	-1631,47,4414
+916.5	Block	123	-1629,47,4416
+#OtherCode
+408	Block	22	-1629,48,4410
+408	Block	22	-1629,49,4410
+408	Block	22	-1629,50,4410
+408	Block	22	-1628,48,4410
+408	Block	22	-1628,49,4410
+408	Block	22	-1628,50,4410
+408	Block	22	-1628,51,4410
+408	Block	22	-1628,52,4410
+408	Block	22	-1627,51,4410
+408	Block	22	-1627,52,4410
+408	Block	22	-1627,53,4410
+408	Block	22	-1627,54,4410
+408	Block	22	-1626,53,4410
+408	Block	22	-1626,54,4410
+408	Block	22	-1626,55,4410
+408	Block	22	-1626,56,4410
+408	Block	22	-1626,57,4410
+408	Block	22	-1626,58,4410
+408	Block	22	-1625,55,4410
+408	Block	22	-1625,56,4410
+408	Block	22	-1625,57,4410
+408	Block	22	-1625,58,4410
+408	Block	22	-1635,47,4410
+408	Block	22	-1635,48,4410
+408	Block	22	-1634,47,4410
+408	Block	22	-1634,48,4410
+408	Block	22	-1634,49,4410
+408	Block	22	-1634,50,4410
+408	Block	22	-1634,51,4410
+408	Block	22	-1633,49,4410
+408	Block	22	-1633,50,4410
+408	Block	22	-1633,51,4410
+408	Block	22	-1633,52,4410
+408	Block	22	-1633,53,4410
+408	Block	22	-1632,52,4410
+408	Block	22	-1632,53,4410
+408	Block	22	-1632,54,4410
+408	Block	22	-1632,55,4410
+408	Block	22	-1631,54,4410
+408	Block	22	-1631,55,4410
+408	Block	22	-1631,56,4410
+408	Block	22	-1631,57,4410
+408	Block	22	-1631,58,4410
+408	Block	22	-1630,56,4410
+408	Block	22	-1630,57,4410
+408	Block	22	-1630,58,4410
+409	Block	22	-1631,47,4410
+409	Block	22	-1630,48,4410
+409	Block	22	-1630,49,4410
+409	Block	22	-1630,50,4410
+409	Block	22	-1629,51,4410
+409	Block	22	-1629,52,4410
+409	Block	22	-1628,53,4410
+409	Block	22	-1628,54,4410
+409	Block	22	-1627,55,4410
+409	Block	22	-1627,56,4410
+409	Block	22	-1627,57,4410
+409	Block	22	-1627,58,4410
+409	Block	22	-1633,47,4410
+409	Block	22	-1633,48,4410
+409	Block	22	-1632,49,4410
+409	Block	22	-1632,50,4410
+409	Block	22	-1632,51,4410
+409	Block	22	-1631,52,4410
+409	Block	22	-1631,53,4410
+409	Block	22	-1630,54,4410
+409	Block	22	-1630,55,4410
+409	Block	22	-1629,56,4410
+409	Block	22	-1629,57,4410
+409	Block	22	-1629,58,4410
+410	Block	160:15	-1632,47,4410
+410	Block	160:15	-1632,48,4410
+410	Block	160:15	-1631,48,4410
+410	Block	160:15	-1631,49,4410
+410	Block	160:15	-1631,50,4410
+410	Block	160:15	-1631,51,4410
+410	Block	160:15	-1630,51,4410
+410	Block	160:15	-1630,52,4410
+410	Block	160:15	-1630,53,4410
+411	Schematic	fntmstage1	-1651	45	4404	ak	false
+410	Block	160:15	-1629,53,4410
+410	Block	160:15	-1629,54,4410
+410	Block	160:15	-1629,55,4410
+410	Block	160:15	-1628,55,4410
+410	Block	160:15	-1628,56,4410
+410	Block	160:15	-1628,57,4410
+410	Block	160:15	-1628,58,4410
+410	Block	35:15	-1632,47,4411
+410	Block	35:15	-1632,48,4411
+410	Block	35:15	-1631,48,4411
+410	Block	35:15	-1631,49,4411
+410	Block	35:15	-1631,50,4411
+410	Block	35:15	-1631,51,4411
+410	Block	35:15	-1630,51,4411
+410	Block	35:15	-1630,52,4411
+410	Block	35:15	-1630,53,4411
+410	Block	35:15	-1629,53,4411
+410	Block	35:15	-1629,54,4411
+410	Block	35:15	-1629,55,4411
+410	Block	35:15	-1628,55,4411
+410	Block	35:15	-1628,56,4411
+410	Block	35:15	-1628,57,4411
+410	Block	35:15	-1628,58,4411
+#LightsOut
+0	Block	0	-1637,56,4368
+0	Block	0	-1631,56,4364
+0	Block	0	-1627,56,4365
+0	Block	0	-1632,60,4404
+#ExitDoors
+0	Block	152	-1635,56,4365
+#StageLights
+6	Block	152	-1632,60,4404
+12	Block	0	-1632,60,4404
+244	Block	152	-1631,60,4408
+343	Block	0	-1631,60,4408
+395	Block	0	-1636,52,4415
+#Flash
+58	Block	152	-1655,45,4372
+#CancelFlashForStage
+58	Block	152	-1643,45,4372
+#Emerald
+57	Block	152	-1645,45,4372
+#BigBlueWorldIsleLights
+242	Block	89	-1614,46,4390
+242	Block	89	-1631,46,4390
+242	Block	89	-1648,46,4390
+242	Block	89	-1634,46,4397
+242	Block	89	-1628,46,4397
+242	Block	95:11	-1614,47,4390
+242	Block	95:10	-1631,47,4390
+242	Block	95:14	-1648,47,4390
+242	Block	95:1	-1634,47,4397
+242	Block	95:13	-1628,47,4397
+275	Block	0	-1614,46,4390
+275	Block	0	-1631,46,4390
+275	Block	0	-1648,46,4390
+275	Block	0	-1634,46,4397
+275	Block	0	-1628,46,4397
+275	Block	123	-1614,47,4390
+275	Block	123	-1631,47,4390
+275	Block	123	-1648,47,4390
+275	Block	22	-1634,47,4397
+275	Block	22	-1628,47,4397
+242	Block	89	-1654,47,4390
+242	Block	89	-1608,47,4390
+275	Block	24:2	-1608,47,4390
+275	Block	24:2	-1654,47,4390
+#DestroyingBoat
+670	Block	0	-1631,47,4412
+670	Block	0	-1631,47,4413
+670	Block	0	-1631,51,4414
+670	Block	0	-1631,51,4415
+670	Block	22	-1631,46,4412
+670	Block	22	-1631,46,4413
+670	Block	0	-1631,47,4414
+670	Block	0	-1631,48,4414
+670	Block	0	-1631,49,4414
+670	Block	0	-1631,50,4414
+670	Block	0	-1631,47,4415
+670	Block	0	-1631,50,4415
+670	Block	22	-1631,46,4415
+670	Block	22	-1631,46,4414
+670	Block	0	-1631,47,4416
+670	Block	0	-1631,48,4416
+670	Block	0	-1631,49,4416
+670	Block	0	-1631,50,4416
+670	Block	22	-1631,46,4416
+670	Block	22	-1631,46,4417
+670	Block	98	-1632,50,4415
+670	Block	98	-1632,50,4416
+670	Block	0	-1632,52,4416
+670	Block	98	-1632,47,4414
+670	Block	98	-1635,47,4414
+670	Block	0	-1632,49,4418
+670	Block	0	-1632,48,4418
+670	Block	0	-1632,47,4418
+670	Block	0	-1632,48,4417
+670	Block	0	-1632,49,4417
+670	Block	22	-1632,46,4417
+670	Block	22	-1629,46,4418
+670	Block	22	-1633,46,4418
+670	Block	0	-1628,48,4417
+670	Block	0	-1628,49,4417
+670	Block	0	-1628,47,4418
+670	Block	0	-1628,48,4418
+670	Block	0	-1628,49,4418
+673	Block	0	-1630,47,4412
+673	Block	0	-1630,47,4413
+673	Block	22	-1630,46,4413
+673	Block	0	-1630,51,4414
+673	Block	0	-1630,50,4414
+673	Block	0	-1630,49,4414
+673	Block	0	-1630,48,4414
+673	Block	0	-1630,47,4414
+673	Block	0	-1630,50,4416
+673	Block	0	-1630,49,4416
+673	Block	0	-1630,48,4416
+673	Block	0	-1630,47,4416
+673	Block	0	-1630,51,4415
+673	Block	0	-1630,47,4415
+673	Block	0	-1630,50,4415
+673	Block	22	-1630,46,4414
+673	Block	22	-1630,46,4414
+673	Block	22	-1630,46,4414
+673	Block	22	-1630,46,4414
+676	Block	0	-1629,47,4412
+676	Block	0	-1629,47,4413
+676	Block	22	-1629,46,4413
+676	Block	0	-1629,51,4414
+676	Block	0	-1629,50,4414
+676	Block	0	-1629,49,4414
+676	Block	0	-1629,48,4414
+676	Block	0	-1629,47,4414
+676	Block	0	-1629,50,4416
+676	Block	0	-1629,49,4416
+676	Block	0	-1629,48,4416
+676	Block	0	-1629,47,4416
+676	Block	0	-1629,51,4415
+676	Block	0	-1629,47,4415
+676	Block	0	-1629,50,4415
+676	Block	22	-1629,46,4414
+676	Block	22	-1629,46,4414
+676	Block	22	-1629,46,4414
+676	Block	22	-1629,46,4414
+#Effect
+Effect	explosion	BURST,RED&WHITE&YELLOW
+#Explosion
+683	Firework	-1637,54,4414	explosion	0	0,1,0	1
+684.5	Firework	-1647,47,4406	explosion	0	0,1,0	1
+685	Firework	-1650,52,4406	explosion	0	0,1,0	1	
+685.5	Firework	-1647,55,4406	explosion	0	0,1,0	1
+686	Firework	-1649,49,4406	explosion	0	0,1,0	1
+684.5	Firework	-1646,51,4406	explosion	0	0,1,0	1
+685	Firework	-1650,57,4406	explosion	0	0,1,0	1
+685.5	Firework	-1645,50,4403	explosion	0	0,1,0	1
+686	Firework	-1646,57,4403	explosion	0	0,1,0	1
+685	Firework	-1626,55,4412	explosion	0	0,1,0	1
+685	Firework	-1634,55,4418	explosion	0	0,1,0	1
+685	Firework	-1624,55,4417	explosion	0	0,1,0	1
+686	Firework	-1628,57,4403	explosion	0	0,1,0	1
+684.5	Firework	-1617,51,4404	explosion	0	0,1,0	1
+685	Firework	-1612,55,4406	explosion	0	0,1,0	1
+685.5	Firework	-1614,49,4406	explosion	0	0,1,0	1
+686	Firework	-1612,46,4406	explosion	0	0,1,0	1
+684.5	Firework	-1616,54,4406	explosion	0	0,1,0	1
+685	Firework	-1615,47,4406	explosion	0	0,1,0	1
+#DoorsClose
+684	Block	22	-1626,47,4410
+684	Block	22	-1626,48,4410	
+684	Block	22	-1625,47,4410
+684	Block	22	-1625,48,4410	
+684	Block	22	-1625,49,4410
+684	Block	22	-1625,50,4410	
+684	Block	22	-1624,48,4410	
+684	Block	22	-1624,49,4410
+684	Block	22	-1624,50,4410	
+684	Block	22	-1624,51,4410	
+684	Block	22	-1624,52,4410	
+684	Block	22	-1624,53,4410	
+684	Block	22	-1624,54,4410	
+684	Block	22	-1624,55,4410	
+684	Block	22	-1624,56,4410	
+684	Block	22	-1624,57,4410	
+684	Block	22	-1624,58,4410	
+684	Block	22	-1623,50,4410	
+684	Block	22	-1623,51,4410	
+684	Block	22	-1623,52,4410	
+684	Block	22	-1623,53,4410	
+684	Block	22	-1623,54,4410	
+684	Block	22	-1623,55,4410	
+684	Block	22	-1623,56,4410	
+684	Block	22	-1623,57,4410	
+684	Block	22	-1623,58,4410	
+684	Block	22	-1637,53,4410
+684	Block	22	-1636,56,4410
+684	Block	22	-1635,58,4410
+685	Block	22	-1628,47,4410
+685	Block	22	-1627,47,4410
+685	Block	22	-1627,48,4410
+685	Block	22	-1627,49,4410
+685	Block	22	-1626,49,4410
+685	Block	22	-1626,50,4410
+685	Block	22	-1626,51,4410
+685	Block	22	-1625,51,4410
+685	Block	22	-1625,52,4410
+685	Block	22	-1625,53,4410
+685	Block	22	-1625,54,4410
+685	Block	22	-1625,55,4410
+685	Block	22	-1625,56,4410
+685	Block	22	-1625,57,4410
+685	Block	22	-1625,58,4410
+685	Block	22	-1637,47,4410
+685	Block	22	-1637,48,4410
+685	Block	22	-1637,49,4410
+685	Block	22	-1637,50,4410
+685	Block	22	-1637,51,4410
+685	Block	22	-1637,52,4410
+685	Block	22	-1636,52,4410
+685	Block	22	-1636,53,4410
+685	Block	22	-1636,54,4410
+685	Block	22	-1636,55,4410
+685	Block	22	-1635,55,4410
+685	Block	22	-1635,56,4410
+685	Block	22	-1635,57,4410
+685	Block	22	-1634,57,4410
+685	Block	22	-1634,58,4410
+686	Block	22	-1629,47,4410
+686	Block	22	-1629,48,4410
+686	Block	22	-1628,48,4410
+686	Block	22	-1628,49,4410
+686	Block	22	-1628,50,4410
+686	Block	22	-1627,50,4410
+686	Block	22	-1627,51,4410
+686	Block	22	-1627,52,4410
+686	Block	22	-1626,52,4410
+686	Block	22	-1626,53,4410
+686	Block	22	-1626,54,4410
+686	Block	22	-1626,55,4410
+686	Block	22	-1626,56,4410
+686	Block	22	-1626,57,4410
+686	Block	22	-1626,58,4410
+686	Block	22	-1632,58,4410
+686	Block	22	-1633,58,4410
+686	Block	22	-1633,57,4410
+686	Block	22	-1633,56,4410
+686	Block	22	-1634,56,4410
+686	Block	22	-1634,55,4410
+686	Block	22	-1634,54,4410
+686	Block	22	-1635,54,4410
+686	Block	22	-1635,53,4410
+686	Block	22	-1635,52,4410
+686	Block	22	-1635,51,4410
+686	Block	22	-1636,51,4410
+686	Block	22	-1636,50,4410
+686	Block	22	-1636,49,4410
+686	Block	22	-1636,48,4410
+686	Block	22	-1636,47,4410
+687	Block	22	-1630,47,4410
+687	Block	22	-1630,48,4410
+687	Block	22	-1630,49,4410
+687	Block	22	-1629,49,4410
+687	Block	22	-1629,50,4410
+687	Block	22	-1629,51,4410
+687	Block	22	-1628,51,4410
+687	Block	22	-1628,52,4410
+687	Block	22	-1628,53,4410
+687	Block	22	-1627,53,4410
+687	Block	22	-1627,54,4410
+687	Block	22	-1627,55,4410
+687	Block	22	-1627,56,4410
+687	Block	22	-1627,57,4410
+687	Block	22	-1627,58,4410
+687	Block	22	-1635,47,4410
+687	Block	22	-1635,48,4410
+687	Block	22	-1635,49,4410
+687	Block	22	-1635,50,4410
+687	Block	22	-1634,50,4410
+687	Block	22	-1634,51,4410
+687	Block	22	-1634,52,4410
+687	Block	22	-1634,53,4410
+687	Block	22	-1633,53,4410
+687	Block	22	-1633,54,4410
+687	Block	22	-1633,55,4410
+687	Block	22	-1632,55,4410
+687	Block	22	-1632,56,4410
+687	Block	22	-1632,57,4410
+687	Block	22	-1631,57,4410
+687	Block	22	-1631,58,4410
+688	Block	22	-1632,47,4410
+688	Block	22	-1631,47,4410
+688	Block	22	-1631,48,4410
+688	Block	22	-1631,49,4410
+688	Block	22	-1631,50,4410
+688	Block	22	-1630,50,4410
+688	Block	22	-1630,51,4410
+688	Block	22	-1630,52,4410
+688	Block	22	-1629,52,4410
+688	Block	22	-1629,53,4410
+688	Block	22	-1629,54,4410
+688	Block	22	-1628,54,4410
+688	Block	22	-1628,55,4410
+688	Block	22	-1628,56,4410
+688	Block	22	-1628,57,4410
+688	Block	22	-1628,58,4410
+688	Block	22	-1634,47,4410
+688	Block	22	-1634,48,4410
+688	Block	22	-1634,49,4410
+688	Block	22	-1633,49,4410
+688	Block	22	-1633,50,4410
+688	Block	22	-1633,51,4410
+688	Block	22	-1633,52,4410
+688	Block	22	-1632,52,4410
+688	Block	22	-1632,53,4410
+688	Block	22	-1632,54,4410
+688	Block	22	-1631,54,4410
+688	Block	22	-1631,55,4410
+688	Block	22	-1631,56,4410
+688	Block	22	-1630,56,4410
+688	Block	22	-1630,57,4410
+688	Block	22	-1630,58,4410
+689	Block	35:15	-1633,47,4410
+689	Block	35:15	-1633,48,4410
+689	Block	35:15	-1632,48,4410
+689	Block	35:15	-1632,49,4410
+689	Block	35:15	-1632,50,4410
+689	Block	35:15	-1632,51,4410
+689	Block	35:15	-1631,51,4410
+689	Block	35:15	-1631,52,4410
+689	Block	35:15	-1631,53,4410
+689	Block	35:15	-1630,53,4410
+689	Block	35:15	-1630,54,4410
+689	Block	35:15	-1630,55,4410
+689	Block	35:15	-1629,55,4410
+689	Block	35:15	-1629,56,4410
+689	Block	35:15	-1629,57,4410
+689	Block	35:15	-1629,58,4410
+#OpenDoorTank
+698	Block	0	-1626,47,4410
+698	Block	0	-1626,48,4410	
+698	Block	0	-1625,47,4410
+698	Block	0	-1625,48,4410	
+698	Block	0	-1625,49,4410
+698	Block	0	-1625,50,4410	
+698	Block	0	-1624,48,4410	
+698	Block	0	-1624,49,4410
+698	Block	0	-1624,50,4410	
+698	Block	0	-1624,51,4410	
+698	Block	0	-1624,52,4410	
+698	Block	0	-1624,53,4410	
+698	Block	0	-1624,54,4410	
+698	Block	0	-1624,55,4410	
+698	Block	0	-1624,56,4410	
+698	Block	0	-1624,57,4410	
+698	Block	0	-1624,58,4410	
+698	Block	0	-1623,50,4410	
+698	Block	0	-1623,51,4410	
+698	Block	0	-1623,52,4410	
+698	Block	0	-1623,53,4410	
+698	Block	0	-1623,54,4410	
+698	Block	0	-1623,55,4410	
+698	Block	0	-1623,56,4410	
+698	Block	0	-1623,57,4410	
+698	Block	0	-1623,58,4410	
+698	Block	0	-1637,53,4410
+698	Block	0	-1636,56,4410
+698	Block	0	-1635,58,4410
+696	Block	0	-1628,47,4410
+696	Block	0	-1627,47,4410
+696	Block	0	-1627,48,4410
+696	Block	0	-1627,49,4410
+696	Block	0	-1626,49,4410
+696	Block	0	-1626,50,4410
+696	Block	0	-1626,51,4410
+696	Block	0	-1625,51,4410
+696	Block	0	-1625,52,4410
+696	Block	0	-1625,53,4410
+696	Block	0	-1625,54,4410
+696	Block	0	-1625,55,4410
+696	Block	0	-1625,56,4410
+696	Block	0	-1625,57,4410
+696	Block	0	-1625,58,4410
+696	Block	0	-1637,47,4410
+696	Block	0	-1637,48,4410
+696	Block	0	-1637,49,4410
+696	Block	0	-1637,50,4410
+696	Block	0	-1637,51,4410
+696	Block	0	-1637,52,4410
+696	Block	0	-1636,52,4410
+696	Block	0	-1636,53,4410
+696	Block	0	-1636,54,4410
+696	Block	0	-1636,55,4410
+696	Block	0	-1635,55,4410
+696	Block	0	-1635,56,4410
+696	Block	0	-1635,57,4410
+696	Block	0	-1634,57,4410
+696	Block	0	-1634,58,4410
+695	Block	0	-1629,47,4410
+695	Block	0	-1629,48,4410
+695	Block	0	-1628,48,4410
+695	Block	0	-1628,49,4410
+695	Block	0	-1628,50,4410
+695	Block	0	-1627,50,4410
+695	Block	0	-1627,51,4410
+695	Block	0	-1627,52,4410
+695	Block	0	-1626,52,4410
+695	Block	0	-1626,53,4410
+695	Block	0	-1626,54,4410
+695	Block	0	-1626,55,4410
+695	Block	0	-1626,56,4410
+695	Block	0	-1626,57,4410
+695	Block	0	-1626,58,4410
+695	Block	0	-1632,58,4410
+695	Block	0	-1633,58,4410
+695	Block	0	-1633,57,4410
+695	Block	0	-1633,56,4410
+695	Block	0	-1634,56,4410
+695	Block	0	-1634,55,4410
+695	Block	0	-1634,54,4410
+695	Block	0	-1635,54,4410
+695	Block	0	-1635,53,4410
+695	Block	0	-1635,52,4410
+695	Block	0	-1635,51,4410
+695	Block	0	-1636,51,4410
+695	Block	0	-1636,50,4410
+695	Block	0	-1636,49,4410
+695	Block	0	-1636,48,4410
+695	Block	0	-1636,47,4410
+694	Block	0	-1630,47,4410
+694	Block	0	-1630,48,4410
+694	Block	0	-1630,49,4410
+694	Block	0	-1629,49,4410
+694	Block	0	-1629,50,4410
+694	Block	0	-1629,51,4410
+694	Block	0	-1628,51,4410
+694	Block	0	-1628,52,4410
+694	Block	0	-1628,53,4410
+694	Block	0	-1627,53,4410
+694	Block	0	-1627,54,4410
+694	Block	0	-1627,55,4410
+694	Block	0	-1627,56,4410
+694	Block	0	-1627,57,4410
+694	Block	0	-1627,58,4410
+694	Block	0	-1635,47,4410
+694	Block	0	-1635,48,4410
+694	Block	0	-1635,49,4410
+694	Block	0	-1635,50,4410
+694	Block	0	-1634,50,4410
+694	Block	0	-1634,51,4410
+694	Block	0	-1634,52,4410
+694	Block	0	-1634,53,4410
+694	Block	0	-1633,53,4410
+694	Block	0	-1633,54,4410
+694	Block	0	-1633,55,4410
+694	Block	0	-1632,55,4410
+694	Block	0	-1632,56,4410
+694	Block	0	-1632,57,4410
+694	Block	0	-1631,57,4410
+694	Block	0	-1631,58,4410
+693	Block	0	-1632,47,4410
+693	Block	0	-1631,47,4410
+693	Block	0	-1631,48,4410
+693	Block	0	-1631,49,4410
+693	Block	0	-1631,50,4410
+693	Block	0	-1630,50,4410
+693	Block	0	-1630,51,4410
+693	Block	0	-1630,52,4410
+693	Block	0	-1629,52,4410
+693	Block	0	-1629,53,4410
+693	Block	0	-1629,54,4410
+693	Block	0	-1628,54,4410
+693	Block	0	-1628,55,4410
+693	Block	0	-1628,56,4410
+693	Block	0	-1628,57,4410
+693	Block	0	-1628,58,4410
+693	Block	0	-1634,47,4410
+693	Block	0	-1634,48,4410
+693	Block	0	-1634,49,4410
+693	Block	0	-1633,49,4410
+693	Block	0	-1633,50,4410
+693	Block	0	-1633,51,4410
+693	Block	0	-1633,52,4410
+693	Block	0	-1632,52,4410
+693	Block	0	-1632,53,4410
+693	Block	0	-1632,54,4410
+693	Block	0	-1631,54,4410
+693	Block	0	-1631,55,4410
+693	Block	0	-1631,56,4410
+693	Block	0	-1630,56,4410
+693	Block	0	-1630,57,4410
+693	Block	0	-1630,58,4410
+692	Block	0	-1633,47,4410
+692	Block	0	-1633,48,4410
+692	Block	0	-1632,48,4410
+692	Block	0	-1632,49,4410
+692	Block	0	-1632,50,4410
+692	Block	0	-1632,51,4410
+692	Block	0	-1631,51,4410
+692	Block	0	-1631,52,4410
+692	Block	0	-1631,53,4410
+692	Block	0	-1630,53,4410
+692	Block	0	-1630,54,4410
+692	Block	0	-1630,55,4410
+692	Block	0	-1629,55,4410
+692	Block	0	-1629,56,4410
+692	Block	0	-1629,57,4410
+692	Block	0	-1629,58,4410
+#MainTankLights
+699	Block	89	-1633,47,4417
+699	Block	89	-1634,47,4416
+699	Block	89	-1635,48,4414
+699	Block	44	-1633,48,4415
+734	Block	89	-1631,58,4413
+735	Block	123	-1631,58,4413
+735	Block	89	-1637,58,4413
+735	Block	89	-1625,58,4413
+736	Block	123	-1637,58,4413
+736	Block	123	-1625,58,4413
+736	Block	89	-1631,58,4413
+737	Block	123	-1631,58,4413
+737	Block	89	-1637,58,4413
+737	Block	89	-1625,58,4413
+738	Block	123	-1637,58,4413
+738	Block	123	-1625,58,4413
+738	Block	89	-1631,58,4413
+739	Block	123	-1631,58,4413
+739	Block	89	-1637,58,4413
+739	Block	89	-1625,58,4413
+740	Block	123	-1637,58,4413
+740	Block	123	-1625,58,4413
+740	Block	89	-1631,58,4413
+741	Block	123	-1631,58,4413
+741	Block	89	-1637,58,4413
+741	Block	89	-1625,58,4413
+742	Block	123	-1637,58,4413
+742	Block	123	-1625,58,4413
+742	Block	89	-1631,58,4413
+743	Block	123	-1631,58,4413
+743	Block	89	-1637,58,4413
+743	Block	89	-1625,58,4413
+744	Block	123	-1637,58,4413
+744	Block	123	-1625,58,4413
+744	Block	89	-1631,58,4413
+745	Block	123	-1631,58,4413
+734	Block	30	-1637,52,4416
+735	Block	30	-1637,53,4416
+736	Block	30	-1637,54,4416
+737	Block	30	-1636,54,4416
+738	Block	30	-1636,54,4415
+739	Block	30	-1637,55,4416
+740	Block	30	-1637,54,4415
+741	Block	30	-1635,55,4415
+745	Block	0	-1637,52,4416
+746	Block	0	-1637,53,4416
+747	Block	0	-1637,54,4416
+748	Block	0	-1636,54,4416
+749	Block	0	-1636,54,4415
+750	Block	0	-1637,55,4416
+751	Block	0	-1637,54,4415
+752	Block	0	-1635,55,4415
+734	Block	160	-1638,53,4415
+734	Block	160	-1638,52,4414
+734	Block	160	-1638,50,4415
+734	Block	160	-1635,52,4417
+734	Block	160	-1636,52,4415
+734	Block	160	-1636,53,4416
+734	Block	160	-1635,51,4415
+735	Block	160:14	-1638,53,4415
+735	Block	160:14	-1638,52,4414
+735	Block	160:14	-1638,50,4415
+735	Block	160:14	-1635,52,4417
+735	Block	160:14	-1636,52,4415
+735	Block	160:14	-1636,53,4416
+735	Block	160:14	-1635,51,4415
+736	Block	160	-1638,53,4415
+736	Block	160	-1638,52,4414
+736	Block	160	-1638,50,4415
+736	Block	160	-1635,52,4417
+736	Block	160	-1636,52,4415
+736	Block	160	-1636,53,4416
+736	Block	160	-1635,51,4415
+737	Block	160:14	-1638,53,4415
+737	Block	160:14	-1638,52,4414
+737	Block	160:14	-1638,50,4415
+737	Block	160:14	-1635,52,4417
+737	Block	160:14	-1636,52,4415
+737	Block	160:14	-1636,53,4416
+737	Block	160:14	-1635,51,4415
+738	Block	160	-1638,53,4415
+738	Block	160	-1638,52,4414
+738	Block	160	-1638,50,4415
+738	Block	160	-1635,52,4417
+738	Block	160	-1636,52,4415
+738	Block	160	-1636,53,4416
+738	Block	160	-1635,51,4415
+739	Block	160:14	-1638,53,4415
+739	Block	160:14	-1638,52,4414
+739	Block	160:14	-1638,50,4415
+739	Block	160:14	-1635,52,4417
+739	Block	160:14	-1636,52,4415
+739	Block	160:14	-1636,53,4416
+739	Block	160:14	-1635,51,4415
+740	Block	160	-1638,53,4415
+740	Block	160	-1638,52,4414
+740	Block	160	-1638,50,4415
+740	Block	160	-1635,52,4417
+740	Block	160	-1636,52,4415
+740	Block	160	-1636,53,4416
+740	Block	160	-1635,51,4415
+741	Block	160:14	-1638,53,4415
+741	Block	160:14	-1638,52,4414
+741	Block	160:14	-1638,50,4415
+741	Block	160:14	-1635,52,4417
+741	Block	160:14	-1636,52,4415
+741	Block	160:14	-1636,53,4416
+741	Block	160:14	-1635,51,4415
+742	Block	160	-1638,53,4415
+742	Block	160	-1638,52,4414
+742	Block	160	-1638,50,4415
+742	Block	160	-1635,52,4417
+742	Block	160	-1636,52,4415
+742	Block	160	-1636,53,4416
+742	Block	160	-1635,51,4415
+743	Block	160:14	-1638,53,4415
+743	Block	160:14	-1638,52,4414
+743	Block	160:14	-1638,50,4415
+743	Block	160:14	-1635,52,4417
+743	Block	160:14	-1636,52,4415
+743	Block	160:14	-1636,53,4416
+743	Block	160:14	-1635,51,4415
+744	Block	160	-1638,53,4415
+744	Block	160	-1638,52,4414
+744	Block	160	-1638,50,4415
+744	Block	160	-1635,52,4417
+744	Block	160	-1636,52,4415
+744	Block	160	-1636,53,4416
+744	Block	160	-1635,51,4415
+745	Block	160:14	-1638,53,4415
+745	Block	160:14	-1638,52,4414
+745	Block	160:14	-1638,50,4415
+745	Block	160:14	-1635,52,4417
+745	Block	160:14	-1636,52,4415
+745	Block	160:14	-1636,53,4416
+745	Block	160:14	-1635,51,4415
+745	Block	89	-1637,51,4416
+745	Block	89	-1624,47,4414
+745	Block	89	-1625,47,4417
+745	Block	89	-1627,47,4417
+745	Block	89	-1626,47,4416 
+745	Block	89	-1626,47,4415
+745	Block	89	-1627,49,4415
+745	Block	89	-1629,47,4416
+745	Block	89	-1631,47,4414
+745	Block	89	-1630,47,4415
+745	Block	89	-1632,47,4416
+745	Block	89	-1634,54,4418
+745	Block	89	-1639,48,4414
+745	Block	89	-1626,51,4418
+#SceneLightOrder
+0	Block	0	-1631,66,4387
+0	Block	0	-1630,66,4387
+0	Block	0	-1629,66,4387
+0	Block	0	-1628,66,4387
+0	Block	0	-1627,66,4387
+0	Block	0	-1626,66,4387
+0	Block	0	-1625,66,4387
+0	Block	0	-1624,66,4387
+0	Block	0	-1623,66,4387
+0	Block	0	-1622,66,4387
+0	Block	0	-1621,66,4387
+0	Block	0	-1620,66,4387
+0	Block	0	-1619,66,4387
+0	Block	0	-1618,66,4387
+0	Block	0	-1617,66,4387
+0	Block	0	-1616,66,4387
+0	Block	0	-1615,66,4387
+0	Block	0	-1614,66,4387
+0	Block	0	-1613,66,4387
+3	Block	152	-1631,66,4387
+89	Block	152	-1630,66,4387
+356	Block	152	-1629,66,4387
+418	Block	152	-1628,66,4387
+475	Block	152	-1627,66,4387
+520	Block	152	-1626,66,4387
+689	Block	152	-1625,66,4387
+734	Block	152	-1624,66,4387
+824	Block	152	-1623,66,4387
+918	Block	152	-1622,66,4387
+967	Block	152	-1621,66,4387
+1257	Block	152	-1620,66,4387
+1312	Block	152	-1619,66,4387
+1530	Block	152	-1618,66,4387
+1584	Block	152	-1617,66,4387
+1623	Block	152	-1616,66,4387
+1680	Block	152	-1615,66,4387
+1722	Block	152	-1614,66,4387
+1786	Block	152	-1613,66,4387
+#Schematics
+0	Schematic	fntmdefault	-1651	45	4404	ak	false
+12	Schematic	fntm1	-1651	45	4404	ak	false
+13	Schematic	fntm2	-1651	45	4404	ak	false
+14	Schematic	fntm3	-1651	45	4404	ak	false
+15	Schematic	fntm4	-1651	45	4404	ak	false
+16	Schematic	fntm5	-1651	45	4404	ak	false
+88	Schematic	fntm6	-1651	45	4404	ak	false
+242	Schematic	fntm7	-1651	45	4404	ak	false
+243	Schematic	fntm8	-1651	45	4404	ak	false
+244	Schematic	fntm9	-1651	45	4404	ak	false
+245	Schematic	fntm10	-1651	45	4404	ak	false
+343	Schematic	fntm11	-1651	45	4404	ak	false
+355.5	Schematic	fntm12	-1651	45	4404	ak	false
+285.5	Schematic	fntmmrray	-1651	45	4404	ak	false
+288.5	Schematic	fntmmrray2	-1651	45	4404	ak	false
+291	Schematic	fntmmrray3	-1651	45	4404	ak	false
+460	Schematic	faf	-1651	44	4412	ak	false	
+691.1	Schematic	fntank	-1651	47	4412	ak	false	
+691.2	Block	0	-1634,59,4414
+670	Schematic	fafboat	-1630	47	4411	ak	false
+673	Schematic	fafboat	-1629	47	4411	ak	false
+676	Schematic	fafboat	-1628	47	4411	ak	false
+763	Schematic	fnbird	-1651	45	4404	ak	false
+762	Schematic	fnbirdmove	-1643	47	4407	ak	false
+761	Schematic	fnbirdmove	-1644	47	4407	ak	false
+777	Schematic	fnbirdmove	-1643	47	4407	ak	false
+778	Schematic	fnbirdmove	-1644	47	4407	ak	false
+779	Schematic	fndefault	-1651	45	4404	ak	false
+779.1	Block	89	-1618,54,4406
+779.1	Block	89	-1642,54,4406
+779.1	Block	95:2	-1618,54,4405
+779.1	Block	95:2	-1642,54,4405
+782	Schematic	fndefault	-1651	45	4404	ak	false
+782	Schematic	fntank	-1651	47	4412	ak	false
+783.5	Schematic	fndefault	-1651	45	4404	ak	false
+689	Schematic	fndefault	-1651	45	4404	ak	false
+691	Schematic	fntmstage1	-1651	45	4404	ak	false
+916.5	Schematic	fntmstage9	-1651	45	4404	ak	false
+917	Schematic	fntmstage8	-1651	45	4404	ak	false
+917.5	Schematic	fntmstage7	-1651	45	4404	ak	false
+918	Schematic	fntmstage6	-1651	45	4404	ak	false
+918.5	Schematic	fntmstage5	-1651	45	4404	ak	false
+919	Schematic	fntmstage4	-1651	45	4404	ak	false
+919.5	Schematic	fntmstage3	-1651	45	4404	ak	false
+920	Schematic	fntmstage2	-1651	45	4404	ak	false
+920.5	Schematic	fntmstage1	-1651	45	4404	ak	false
+1034	Schematic	fntmstage2	-1651	45	4404	ak	false
+1126	Schematic	moonfishfn	-1651	45	4404	ak	false
+1034	Block	152	-1631,60,4408
+1034	Block	95:0	-1628,46,4413
+1034	Block	95:0	-1629,46,4413
+1034	Block	95:0	-1630,46,4413
+1034	Block	95:0	-1631,46,4413
+1034	Block	95:0	-1632,46,4413
+1034	Block	95:0	-1633,46,4413
+1034	Block	95:0	-1634,46,4413
+1034	Block	89	-1628,45,4413
+1034	Block	89	-1629,45,4413
+1034	Block	89	-1630,45,4413
+1034	Block	89	-1631,45,4413
+1034	Block	89	-1632,45,4413
+1034	Block	89	-1633,45,4413
+1034	Block	89	-1634,45,4413
+1038	Schematic	fntmstage10	-1651	45	4404	ak	false
+1037.5	Schematic	fntmstage9	-1651	45	4404	ak	false
+1037	Schematic	fntmstage8	-1651	45	4404	ak	false
+1036.5	Schematic	fntmstage7	-1651	45	4404	ak	false
+1036	Schematic	fntmstage6	-1651	45	4404	ak	false
+1035.5	Schematic	fntmstage5	-1651	45	4404	ak	false
+1035	Schematic	fntmstage4	-1651	45	4404	ak	false
+1034.5	Schematic	fntmstage3	-1651	45	4404	ak	false
+1231	Schematic	fntmstage9	-1651	45	4404	ak	false
+1232	Schematic	fntmstage8	-1651	45	4404	ak	false
+1233	Schematic	fntmstage7	-1651	45	4404	ak	false
+1234	Schematic	fntmstage6	-1651	45	4404	ak	false
+1235	Schematic	fntmstage5	-1651	45	4404	ak	false
+1236	Schematic	fntmstage4	-1651	45	4404	ak	false
+1237	Schematic	fntmstage3	-1651	45	4404	ak	false
+1238	Schematic	fntmstage2	-1651	45	4404	ak	false
+1239	Schematic	fntmstage1	-1651	45	4404	ak	false
+1258	Schematic	tankpiece	-1631	47	4407	ak	false
+1260.5	Block	89	-1629,46,4409
+1260.5	Block	89	-1627,48,4409
+1310	Block	123	-1629,46,4409
+1310	Block	123	-1627,48,4409
+1311	Schematic	fntmstage1	-1651	45	4404	ak	false
+1313	Schematic	dudescene	-1651	47	4412	ak	false
+1150	Schematic	jelly1	-1627	48	4413	ak	false
+1165	Schematic	jelly	-1647	49	4390	ak	false
+1165	Schematic	jelly	-1617	49	4390	ak	false
+1167	Block	0	-1616,49,4390
+1167	Block	0	-1616,50,4391
+1167	Block	0	-1616,51,4391
+1167	Block	0	-1616,52,4391
+1167	Block	0	-1616,51,4390
+1167	Block	0	-1616,51,4392
+1167	Block	0	-1615,51,4391
+1167	Block	0	-1617,51,4391
+1167	Block	0	-1646,49,4390
+1167	Block	0	-1646,50,4391
+1167	Block	0	-1646,51,4391
+1167	Block	0	-1646,52,4391
+1167	Block	0	-1646,51,4390
+1167	Block	0	-1646,51,4392
+1167	Block	0	-1645,51,4391
+1167	Block	0	-1647,51,4391
+1167	Schematic	jelly	-1643	49	4390	ak	false
+1167	Schematic	jelly	-1622	49	4390	ak	false
+1170	Block	0	-1641,49,4390
+1170	Block	0	-1641,50,4391
+1170	Block	0	-1641,51,4391
+1170	Block	0	-1641,52,4391
+1170	Block	0	-1641,51,4390
+1170	Block	0	-1641,51,4392
+1170	Block	0	-1640,51,4391
+1170	Block	0	-1642,51,4391
+1170	Block	0	-1621,49,4390
+1170	Block	0	-1621,50,4391
+1170	Block	0	-1621,51,4391
+1170	Block	0	-1621,52,4391
+1170	Block	0	-1642,49,4390
+1170	Block	0	-1642,51,4390
+1170	Block	0	-1642,51,4392
+1170	Block	0	-1643,51,4391
+1170	Block	0	-1642,52,4391
+1170	Block	0	-1642,50,4391
+1170	Block	0	-1621,51,4390
+1170	Block	0	-1621,51,4392
+1170	Block	0	-1620,51,4391
+1170	Block	0	-1622,51,4391
+1170	Schematic	jelly	-1637	49	4390	ak	false
+1170	Schematic	jelly	-1627	49	4390	ak	false
+1173	Block	0	-1636,49,4390
+1173	Block	0	-1636,50,4391
+1173	Block	0	-1636,51,4391
+1173	Block	0	-1636,52,4391
+1173	Block	0	-1636,51,4390
+1173	Block	0	-1636,51,4392
+1173	Block	0	-1635,51,4391
+1173	Block	0	-1637,51,4391
+1173	Block	0	-1626,49,4390
+1173	Block	0	-1626,50,4391
+1173	Block	0	-1626,51,4391
+1173	Block	0	-1626,52,4391
+1173	Block	0	-1626,51,4390
+1173	Block	0	-1626,51,4392
+1173	Block	0	-1625,51,4391
+1173	Block	0	-1627,51,4391
+1173	Schematic	jelly	-1636	49	4397	ak	false
+1173	Schematic	jelly	-1628	49	4397	ak	false
+1175	Block	0	-1635,49,4397
+1175	Block	0	-1635,50,4398
+1175	Block	0	-1635,51,4397
+1175	Block	0	-1635,51,4398
+1175	Block	0	-1634,51,4398
+1175	Block	0	-1636,51,4398
+1175	Block	0	-1635,52,4398
+1175	Block	0	-1635,51,4399
+1175	Block	0	-1627,49,4397
+1175	Block	0	-1627,50,4398
+1175	Block	0	-1627,51,4397
+1175	Block	0	-1627,51,4398
+1175	Block	0	-1626,51,4398
+1175	Block	0	-1628,51,4398
+1175	Block	0	-1627,52,4398
+1175	Block	0	-1627,51,4399
+1175	Schematic	jelly	-1632	48	4402	ak	false
+1180	Block	0	-1631,48,4402
+1180	Block	0	-1631,49,4403
+1180	Block	0	-1631,50,4402
+1180	Block	0	-1631,50,4403
+1180	Block	0	-1631,50,4404
+1180	Block	0	-1631,51,4403
+1180	Block	0	-1632,50,4403
+1180	Block	0	-1630,50,4403
+1165	Schematic	squishy1	-1651	45	4404	ak	false
+1165.1	Block	152	-1631,45,4419
+1175	Schematic	squishy2	-1651	45	4404	ak	false
+1202	Schematic	squishy3	-1651	45	4404	ak	false
+1202	Lightning	-1635,46,4412
+1202	Block	152	-1656,45,4376
+1321	Schematic	fntmstage2	-1651	45	4404	ak	false
+1321.5	Schematic	fntmstage3	-1651	45	4404	ak	false
+1322	Schematic	fntmstage4	-1651	45	4404	ak	false
+1322.5	Schematic	fntmstage5	-1651	45	4404	ak	false
+1323	Schematic	fntmstage6	-1651	45	4404	ak	false
+1475	Schematic	dudewall	-1651	45	4404	ak	false
+1478	Schematic	dudewall2	-1651	45	4404	ak	false
+1526	Schematic	fntmstage9	-1651	45	4404	ak	false
+1526.5	Schematic	fntmstage8	-1651	45	4404	ak	false
+1527	Schematic	fntmstage7	-1651	45	4404	ak	false
+1527.5	Schematic	fntmstage6	-1651	45	4404	ak	false
+1528	Schematic	fntmstage5	-1651	45	4404	ak	false
+1528.5	Schematic	fntmstage4	-1651	45	4404	ak	false
+1529	Schematic	fntmstage3	-1651	45	4404	ak	false
+1529.5	Schematic	fntmstage2	-1651	45	4404	ak	false
+1530	Schematic	fntmstage1	-1651	45	4404	ak	false
+1530.1	Block	22	-1622,50,4407
+1530.1	Block	22	-1623,50,4407
+1530.1	Block	22	-1624,50,4407
+1530.1	Block	22	-1625,50,4407
+1530.1	Block	22	-1624,50,4408
+1530.1	Block	22	-1626,50,4408
+1530.1	Block	22	-1625,50,4408
+1530.1	Block	22	-1625,50,4409
+1530.1	Block	22	-1624,50,4409
+1530.1	Block	22	-1623,50,4409
+1530.1	Block	22	-1622,50,4409
+1530.1	Block	22	-1636,50,4407
+1530.1	Block	22	-1637,50,4407
+1530.1	Block	22	-1638,50,4407
+1530.1	Block	22	-1635,50,4408
+1530.1	Block	22	-1636,50,4408
+1530.1	Block	22	-1637,50,4408
+1530.1	Block	22	-1636,50,4409
+1530.1	Block	22	-1637,50,4409
+1530.1	Block	22	-1638,50,4409
+1530.1	Block	22	-1637,50,4408
+1530.1	Block	22	-1624,49,4408
+1586.1	Schematic	fnbird	-1651	45	4404	ak	false
+1585.1	Schematic	fnbirdmove	-1643	47	4407	ak	false
+1585.6	Schematic	fnbirdmove	-1643	47	4407	ak	false
+1584.2	Schematic	fnbirdmove	-1644	47	4407	ak	false
+1584.6	Schematic	fnbirdmove	-1644	47	4407	ak	false
+1586.6	Schematic	fnbird	-1651	45	4404	ak	false
+1587.1	Schematic	fnbird	-1651	45	4404	ak	false
+1587.6	Schematic	fnbird	-1651	45	4404	ak	false
+1588.1	Schematic	fnbird	-1651	45	4404	ak	false
+1622	Schematic	fnbirdmove	-1643	47	4407	ak	false
+1623	Schematic	fnbirdmove	-1644	47	4407	ak	false
+1624	Schematic	fndefault	-1651	45	4404	ak	false
+1624	Block	160:5	-1624,51,4412
+1624	Block	160:5	-1625,51,4412
+1624	Block	160:5	-1626,51,4412
+1624	Block	160:5	-1627,51,4412
+1625	Block	160:5	-1629,51,4412
+1625	Block	160:5	-1628,50,4412
+1625	Block	160:5	-1630,50,4412
+1625	Block	160:5	-1629,49,4412
+1625	Block	160:5	-1627,49,4412
+1625	Block	160:13	-1628,51,4412
+1625	Block	160:13	-1630,51,4412
+1625	Block	160:13	-1629,50,4412
+1625	Block	160:13	-1627,50,4412
+1625	Block	160:13	-1630,49,4412
+1625	Block	160:13	-1628,49,4412
+1628	Schematic	fntank	-1651	47	4412	ak	false
+1628.1	Block	160:5	-1624,51,4412
+1628.1	Block	160:5	-1625,51,4412
+1628.1	Block	160:5	-1626,51,4412
+1628.1	Block	160:5	-1627,51,4412
+1628.1	Block	160:5	-1629,51,4412
+1628.1	Block	160:5	-1628,50,4412
+1628.1	Block	160:5	-1630,50,4412
+1628.1	Block	160:5	-1629,49,4412
+1628.1	Block	160:5	-1627,49,4412
+1628.1	Block	160:13	-1628,51,4412
+1628.1	Block	160:13	-1630,51,4412
+1628.1	Block	160:13	-1629,50,4412
+1628.1	Block	160:13	-1627,50,4412
+1628.1	Block	160:13	-1630,49,4412
+1628.1	Block	160:13	-1628,49,4412
+1628.1	Block	0	-1633,48,4415
+1628.1	Block	89	-1629,47,4416
+1628.1	Block	89	-1624,47,4414
+1628.1	Block	89	-1627,49,4415
+1635	Schematic	fntank	-1651	47	4412	ak	false
+1635.1	Block	44	-1633,48,4415
+1635.1	Block	89	-1624,47,4414
+1635.1	Block	89	-1629,47,4416
+1635.1	Block	89	-1634,47,4416
+1635.1	Block	89	-1637,51,4416
+1635.1	Block	89	-1624,47,4414
+1635.1	Block	89	-1625,47,4417
+1635.1	Block	89	-1627,47,4417
+1635.1	Block	89	-1626,47,4416 
+1635.1	Block	89	-1633,47,4417
+1635.1	Block	89	-1635,48,4414
+1635.1	Block	89	-1639,48,4414
+1635.1	Block	89	-1626,47,4415
+1635.1	Block	89	-1627,49,4415
+1635.1	Block	89	-1629,47,4416
+1635.1	Block	89	-1631,47,4414
+1635.1	Block	89	-1630,47,4415
+1635.1	Block	89	-1632,47,4416
+1635.1	Block	89	-1634,54,4418
+1635.1	Block	89	-1626,51,4418
+1636.3	Schematic	fntank	-1651	47	4412	ak	false
+1636.4	Block	0	-1633,48,4415
+1637.8	Block	44	-1633,48,4415
+1637.8	Block	89	-1624,47,4414
+1637.8	Block	89	-1629,47,4416
+1637.8	Block	89	-1634,47,4416
+1637.8	Block	89	-1637,51,4416
+1637.8	Block	89	-1624,47,4414
+1637.8	Block	89	-1625,47,4417
+1637.8	Block	89	-1627,47,4417
+1637.8	Block	89	-1626,47,4416 
+1637.8	Block	89	-1633,47,4417
+1637.8	Block	89	-1635,48,4414
+1637.8	Block	89	-1639,48,4414
+1637.8	Block	89	-1626,47,4415
+1637.8	Block	89	-1627,49,4415
+1637.8	Block	89	-1629,47,4416
+1637.8	Block	89	-1631,47,4414
+1637.8	Block	89	-1630,47,4415
+1637.8	Block	89	-1632,47,4416
+1637.8	Block	89	-1634,54,4418
+1637.8	Block	89	-1626,51,4418
+1640	Schematic	fntank	-1651	47	4412	ak	false
+1640.1	Block	160:0	-1624,51,4412
+1640.1	Block	160:0	-1625,51,4412
+1640.1	Block	160:0	-1626,51,4412
+1640.1	Block	160:0	-1627,51,4412
+1640.1	Block	160:0	-1629,51,4412
+1640.1	Block	160:0	-1628,50,4412
+1640.1	Block	160:0	-1630,50,4412
+1640.1	Block	160:0	-1629,49,4412
+1640.1	Block	160:0	-1627,49,4412
+1640.1	Block	160:0	-1628,51,4412
+1640.1	Block	160:0	-1630,51,4412
+1640.1	Block	160:0	-1629,50,4412
+1640.1	Block	160:0	-1627,50,4412
+1640.1	Block	160:0	-1630,49,4412
+1640.1	Block	160:0	-1628,49,4412
+1640.1	Block	0	-1633,48,4415
+1641	Block	89	-1629,47,4416
+1641	Block	89	-1624,47,4414
+1641	Block	89	-1627,49,4415
+1648	Schematic	fnbird	-1651	45	4404	ak	false
+1647	Schematic	fnbirdmove	-1643	47	4407	ak	false
+1646	Schematic	fnbirdmove	-1644	47	4407	ak	false
+1649	Schematic	fnbirdmove	-1643	47	4407	ak	false
+1650	Schematic	fnbirdmove	-1644	47	4407	ak	false
+1651	Schematic	fndefault	-1651	45	4404	ak	false
+1651.1	Block	95:11	-1626,46,4409
+1651.1	Block	89	-1626,45,4409
+1646	Block	95:11	-1626,46,4409
+1646	Block	89	-1626,45,4409
+1653	Schematic	fntmstage9	-1651	45	4404	ak	false
+1653.1	Block	95:11	-1626,46,4409
+1653.1	Block	89	-1626,45,4409
+1654	Schematic	fntmstage8	-1651	45	4404	ak	false
+1654.1	Block	95:11	-1626,46,4409
+1654.1	Block	89	-1626,45,4409
+1655	Schematic	fntmstage7	-1651	45	4404	ak	false
+1655.1	Block	95:11	-1626,46,4409
+1655.1	Block	89	-1626,45,4409
+1656	Schematic	fntmstage6	-1651	45	4404	ak	false
+1656.1	Block	95:11	-1626,46,4409
+1656.1	Block	89	-1626,45,4409
+1657	Schematic	fntmstage5	-1651	45	4404	ak	false
+1657.1	Block	95:11	-1626,46,4409
+1657.1	Block	89	-1626,45,4409
+1658	Schematic	fntmstage4	-1651	45	4404	ak	false
+1658.1	Block	95:11	-1626,46,4409
+1658.1	Block	89	-1626,45,4409
+1659	Schematic	fntmstage3	-1651	45	4404	ak	false
+1659.1	Block	95:11	-1626,46,4409
+1659.1	Block	89	-1626,45,4409
+1660	Schematic	fntmstage2	-1651	45	4404	ak	false
+1660.1	Block	95:11	-1626,46,4409
+1660.1	Block	89	-1626,45,4409
+1661	Schematic	fntmstage1	-1651	45	4404	ak	false
+1661.1	Block	95:11	-1626,46,4409
+1661.1	Block	89	-1626,45,4409
+1673	Block	0	-1626,45,4409
+1673	Block	22	-1626,46,4409
+1673	Block	95:11	-1629,46,4407
+1673	Block	89	-1629,45,4407
+1677	Block	95:11	-1631,46,4404
+1677	Block	89	-1631,45,4404
+1677	Block	22	-1629,46,4407
+1677	Block	0	-1629,45,4407
+1680	Block	95:11	-1634,46,4408
+1680	Block	89	-1634,45,4408
+1689	Block	22	-1629,46,4407
+1689	Block	0	-1629,45,4407
+1692	Block	95:11	-1631,46,4408
+1692	Block	89	-1631,45,4408
+1692	Block	22	-1634,46,4408
+1692	Block	0	-1634,45,4408
+1693	Schematic	fntmstage2	-1651	45	4404	ak	false
+1693.1	Block	95:11	-1631,46,4408
+1693.1	Block	89	-1631,45,4408
+1693.5	Schematic	fntmstage3	-1651	45	4404	ak	false
+1693.6	Block	95:11	-1631,46,4408
+1693.6	Block	89	-1631,45,4408
+1694	Schematic	fntmstage4	-1651	45	4404	ak	false
+1694.1	Block	95:11	-1631,46,4408
+1694.1	Block	89	-1631,45,4408
+1694.5	Schematic	fntmstage5	-1651	45	4404	ak	false
+1694.6	Block	95:11	-1631,46,4408
+1694.6	Block	89	-1631,45,4408
+1695	Schematic	fntmstage6	-1651	45	4404	ak	false
+1695.1	Block	95:11	-1631,46,4408
+1695.1	Block	89	-1631,45,4408
+1695.5	Schematic	fntmstage7	-1651	45	4404	ak	false
+1695.6	Block	95:11	-1631,46,4408
+1695.6	Block	89	-1631,45,4408
+1696	Schematic	fntmstage8	-1651	45	4404	ak	false
+1696.1	Block	95:11	-1631,46,4408
+1696.1	Block	89	-1631,45,4408
+1696.5	Schematic	fntmstage9	-1651	45	4404	ak	false
+1696.6	Block	95:11	-1631,46,4408
+1696.6	Block	89	-1631,45,4408
+1697	Schematic	fntmstage10	-1651	45	4404	ak	false
+1697.1	Block	152	-1631,60,4408
+1693	Schematic	ladder	-1633	47	4411	ak	false
+1697.1	Block	89	-1631,46,4413
+1697.1	Block	89	-1631,46,4422
+1703	Block	123	-1631,46,4413
+1703	Block	0	-1631,60,4408
+1703	Block	95:11	-1627,46,4410
+1703	Block	89	-1627,45,4410
+1725	Block	22	-1627,46,4410
+1725	Block	0	-1627,45,4410
+1725	Block	89	-1631,46,4413
+1725	Block	152	-1631,60,4408
+1767	Schematic	fntmstage1	-1651	45	4404	ak	false
+1767.1	Schematic	fntmstage10	-1651	45	4404	ak	false
+1767.1	Block	89	-1631,46,4413
+1767.1	Schematic	fnjellywall	-1651	47	4420	ak	false
+1800	Schematic	bbwfn2	-1651	45	4404	ak	false
+1805	Schematic	bbwfn	-1651	45	4404	ak	false
+1810	Schematic	fnfinale	-1651	45	4404	ak	false
+1800.1	Block	123	-1642,54,4406
+1800.1	Block	123	-1641,51,4406
+1800.1	Block	123	-1644,45,4406
+1800.1	Block	123	-1617,48,4406
+1800.1	Block	123	-1618,54,4406
+1800.1	Block	123	-1621,51,4406
+1840	Schematic	fnfinale	-1651	45	4404	ak	false
+127	Schematic	fncoral	-1651	45	4404	ak	false
+1881	Block	0	-1614,46,4390
+1881	Block	0	-1631,46,4390
+1881	Block	0	-1648,46,4390
+1881	Block	0	-1634,46,4397
+1881	Block	0	-1628,46,4397
+1881	Block	123	-1614,47,4390
+1881	Block	123	-1631,47,4390
+1881	Block	123	-1648,47,4390
+1241	Block	0	-1635,46,4408
+1881	Block	22	-1634,47,4397
+1881	Block	22	-1628,47,4397
+1881	Block	0	-1631,60,4408
+1881	Schematic	bbwfn	-1651	45	4404	ak	false
+1883	Schematic	bbwfn2	-1651	45	4404	ak	false
+1885	Schematic	fntmstage1	-1651	45	4404	ak	false
+1885.1	Schematic	fntmstage10	-1651	45	4404	ak	false
+1881.2	Block	95:11	-1626,46,4409
+1881.2	Block	89	-1626,45,4409
+1881.2	Block	95:11	-1635,46,4414
+1881.2	Block	89	-1635,45,4414
+1811	Schematic	fntmmrray	-1651	45	4404	ak	false
+1813	Schematic	fntmmrray2	-1651	45	4404	ak	false
+1815	Schematic	fntmmrray3	-1651	45	4404	ak	false
+1836	Schematic	fntmmrray2	-1651	45	4404	ak	false
+1838	Schematic	fntmmrray	-1651	45	4404	ak	false
+1885.3	Block	95:11	-1626,46,4409
+1885.3	Block	89	-1626,45,4409
+1885.3	Block	95:11	-1635,46,4414
+1885.3	Block	89	-1635,45,4414
+1888	Block	22	-1635,46,4414
+1888	Block	0	-1635,45,4414
+1903	Block	22	-1626,46,4409
+1903	Block	0	-1626,45,4409
+1898	Block	152	-1644,51,4354
+1909	Schematic	fncredits	-1651	45	4404	ak	false
+1909	Block	166	-1655,48,4392
+1909	Block	166	-1654,48,4392
+1909	Block	166	-1608,48,4392
+1909	Block	166	-1607,48,4392
+0	Block	0	-1655,48,4392
+0	Block	0	-1654,48,4392
+0	Block	0	-1608,48,4392
+0	Block	0	-1607,48,4392
+0	Block	166	-1656,49,4391
+0	Block	166	-1656,49,4390
+0	Block	166	-1656,49,4389
+1909	Block	0	-1656,49,4391
+1909	Block	0	-1656,49,4390
+1909	Block	0	-1656,49,4389
+0	Block	166	-1606,49,4391
+0	Block	166	-1606,49,4390
+0	Block	166	-1606,49,4389
+1909	Block	0	-1606,49,4391
+1909	Block	0	-1606,49,4390
+1909	Block	0	-1606,49,4389
+1909	Block	89	-1628,46,4397
+1909	Block	89	-1634,46,4397
+1909	Block	95:11	-1628,47,4397
+1909	Block	95:11	-1634,47,4397
+1909	Block	89	-1614,46,4390
+1909	Block	89	-1631,46,4390
+1909	Block	89	-1648,46,4390
+1909	Block	95:11	-1614,47,4390
+1909	Block	95:10	-1631,47,4390
+1909	Block	95:14	-1648,47,4390
+1999	Block	0	-1614,46,4390
+1999	Block	0	-1631,46,4390
+1999	Block	0	-1648,46,4390
+1999	Block	123	-1614,47,4390
+1999	Block	123	-1631,47,4390
+1999	Block	123	-1648,47,4390
+1909	Block	89	-1611,47,4400
+1909	Block	89	-1651,47,4400
+1999	Block	24:2	-1611,47,4400
+1999	Block	24:2	-1651,47,4400
+1909	Block	152	-1631,60,4408
+1999	Block	0	-1631,60,4408
+1999	Block	0	-1628,46,4397
+1999	Block	0	-1634,46,4397
+1999	Block	22	-1628,47,4397
+1999	Block	22	-1634,47,4397
+1999	Block	152	-1656,51,4362
+1994	Block	152	-1654,51,4362
+1989	Block	152	-1652,51,4362
+1984	Block	152	-1650,51,4362
+1969	Block	152	-1648,51,4362	
+1999	Schematic	fntmstage9	-1651	45	4404	ak	false
+1999.5	Schematic	fntmstage8	-1651	45	4404	ak	false
+2000	Schematic	fntmstage7	-1651	45	4404	ak	false
+2000.5	Schematic	fntmstage6	-1651	45	4404	ak	false
+2001	Schematic	fntmstage5	-1651	45	4404	ak	false
+2001.5	Schematic	fntmstage4	-1651	45	4404	ak	false
+2002	Schematic	fntmstage3	-1651	45	4404	ak	false
+2002.5	Schematic	fntmstage2	-1651	45	4404	ak	false
+2003	Schematic	fntmstage1	-1651	45	4404	ak	false
+2005	Schematic	fntmdefault	-1651	45	4404	ak	false
+2005	Block	152	-1627,56,4365
+1840	Block	89	-1614,46,4390
+1840	Block	89	-1631,46,4390
+1840	Block	89	-1648,46,4390
+1840	Block	89	-1634,46,4397
+1840	Block	89	-1628,46,4397
+1840	Block	95:11	-1614,47,4390
+1840	Block	95:10	-1631,47,4390
+1840	Block	95:14	-1648,47,4390
+1840	Block	95:1	-1634,47,4397
+1840	Block	95:13	-1628,47,4397
+1533	Block	89	-1624,50,4408
+1207	Block	0	-1635,51,4410
+1207	Block	0	-1637,51,4412
+1207	Block	0	-1534,52,4415
+1207	Block	0	-1634,52,4415
+1207	Block	0	-1632,50,4417
+1207	Block	0	-1634,58,4413
+1207	Block	0	-1631,58,4409
+1207	Block	0	-1637,58,4409
+1542.5	Block	22	-1624,50,4408
+1544.5	Block	89	-1638,50,4408
+1555	Block	22	-1638,50,4408
+6.3	Block	152	-1631,60,4408
+10.5	Block	0	-1631,60,4408
+1038	Schematic	fnjellywall	-1651	47	4420	ak	false
+1202	Block	0	-1631,60,4408
+1557	Block	95:3	-1633,47,4390
+1557	Block	95:3	-1635,47,4390
+1557	Block	89	-1633,46,4390
+1557	Block	89	-1635,46,4390
+1569	Block	24:2	-1633,47,4390
+1569	Block	24:2	-1635,47,4390
+1569	Block	0	-1633,46,4390
+1569	Block	0	-1635,46,4390
+1571	Block	89	-1631,58,4409
+1571	Block	35	-1632,50,4410
+1571	Block	35	-1629,51,4410
+1571	Block	35	-1630,51,4410
+1571	Block	35	-1631,51,4410
+1571	Block	35	-1632,51,4410
+1571	Block	35	-1628,52,4410
+1571	Block	35	-1629,52,4410
+1571	Block	35	-1630,52,4410
+1571	Block	35	-1631,52,4410
+1571	Block	35	-1632,52,4410
+1571	Block	35	-1633,52,4410
+1571	Block	35	-1634,52,4410
+1571	Block	35	-1630,53,4410
+1571	Block	35	-1631,53,4410
+1571	Block	35	-1632,53,4410
+1571	Block	35	-1633,53,4410
+1571	Block	35	-1631,54,4410
+1571	Block	35	-1632,54,4410
+1584	Schematic	fntmstage1	-1651	45	4404	ak	false
+1584.1	Schematic	fntank	-1651	47	4412	ak	false
+1584.1	Schematic	fntmstage2	-1651	45	4404	ak	false
+1584.5	Schematic	fntmstage3	-1651	45	4404	ak	false
+1585	Schematic	fntmstage4	-1651	45	4404	ak	false
+1585.5	Schematic	fntmstage5	-1651	45	4404	ak	false
+1586	Schematic	fntmstage6	-1651	45	4404	ak	false
+1586.5	Schematic	fntmstage7	-1651	45	4404	ak	false
+1587	Schematic	fntmstage8	-1651	45	4404	ak	false
+1587.5	Schematic	fntmstage9	-1651	45	4404	ak	false
+1588	Schematic	fntmstage10	-1651	45	4404	ak	false
+355.5	Schematic	fntmstage2	-1651	45	4404	ak	false
+355.3	Schematic	fntmstage3	-1651	45	4404	ak	false
+355	Schematic	fntmstage4	-1651	45	4404	ak	false
+354.7	Schematic	fntmstage5	-1651	45	4404	ak	false
+354.5	Schematic	fntmstage6	-1651	45	4404	ak	false
+354.3	Schematic	fntmstage7	-1651	45	4404	ak	false
+354.1	Schematic	fntmstage8	-1651	45	4404	ak	false
+354	Schematic	fntmstage9	-1651	45	4404	ak	false
+355.7	Schematic	fntmstage3	-1651	45	4404	ak	false
+355.9	Schematic	fntmstage4	-1651	45	4404	ak	false
+356	Schematic	fntmstage5	-1651	45	4404	ak	false
+356.3	Schematic	fntmstage6	-1651	45	4404	ak	false
+356.5	Schematic	fntmstage7	-1651	45	4404	ak	false
+356.7	Schematic	fntmstage8	-1651	45	4404	ak	false
+356.9	Schematic	fntmstage9	-1651	45	4404	ak	false
+357	Schematic	fntmstage10	-1651	45	4404	ak	false
+1584.1	Block	44	-1633,48,4415
+1584.1	Block	89	-1624,47,4414
+1584.1	Block	89	-1629,47,4416
+1584.1	Block	89	-1634,47,4416
+1584.1	Block	89	-1637,51,4416
+1584.1	Block	89	-1624,47,4414
+1584.1	Block	89	-1625,47,4417
+1584.1	Block	89	-1627,47,4417
+1584.1	Block	89	-1626,47,4416 
+1584.1	Block	89	-1633,47,4417
+1584.1	Block	89	-1635,48,4414
+1584.1	Block	89	-1639,48,4414
+1584.1	Block	89	-1626,47,4415
+1584.1	Block	89	-1627,49,4415
+1584.1	Block	89	-1629,47,4416
+1584.1	Block	89	-1631,47,4414
+1584.1	Block	89	-1630,47,4415
+1584.1	Block	89	-1632,47,4416
+1584.1	Block	89	-1634,54,4418
+1584.1	Block	89	-1626,51,4418
+1530	Block	0	-1631,60,4408
+1370	Block	89	-1637,52,4417
+1370	Block	89	-1637,51,4416
+1370	Block	89	-1625,51,4415
+1370	Block	89	-1625,52,4416
+1370	Schematic	fntmstage7	-1651	45	4404	ak	false
+1371	Schematic	fntmstage8	-1651	45	4404	ak	false
+1372	Schematic	fntmstage9	-1651	45	4404	ak	false
+1373	Schematic	fntmstage10	-1651	45	4404	ak	false
+1373.1	Block	89	-1642,54,4406
+1373.1	Block	89	-1641,51,4406
+1373.1	Block	89	-1644,45,4406
+1373.1	Block	89	-1618,54,4406
+1373.1	Block	89	-1621,51,4406
+1373.1	Block	89	-1617,48,4406
+1373.1	Block	152	-1631,60,4408
+1332	Block	95:11	-1631,46,4410
+1332	Block	89	-1631,45,4410
+1333	Block	22	-1631,46,4410
+1333	Block	0	-1631,45,4410
+1333	Block	95:11	-1633,46,4408
+1333	Block	89	-1633,45,4408
+1336	Block	22	-1633,46,4408
+1336	Block	0	-1633,45,4408
+1336	Block	95:11	-1631,46,4410
+1336	Block	89	-1631,45,4410
+1337	Block	22	-1631,46,4410
+1337	Block	0	-1631,45,4410
+1231.1	Block	95:11	-1635,46,4408
+1231.1	Block	89	-1635,45,4408
+1232.1	Block	95:11	-1635,46,4408
+1232.1	Block	89	-1635,45,4408
+1233.1	Block	95:11	-1635,46,4408
+1233.1	Block	89	-1635,45,4408
+1234.1	Block	95:11	-1635,46,4408
+1234.1	Block	89	-1635,45,4408
+1235.1	Block	95:11	-1635,46,4408
+1235.1	Block	89	-1635,45,4408
+1236.1	Block	95:11	-1635,46,4408
+1236.1	Block	89	-1635,45,4408
+1237.1	Block	95:11	-1635,46,4408
+1237.1	Block	89	-1635,45,4408
+1238.1	Block	95:11	-1635,46,4408
+1238.1	Block	89	-1635,45,4408
+1239.1	Block	95:11	-1635,46,4408
+1239.1	Block	89	-1635,45,4408
+#AfterTank
+922	Block	89	-1618,54,4406
+922	Block	95:4	-1618,54,4405
+923	Block	123	-1618,54,4406
+923	Block	95	-1618,54,4405
+923	Block	89	-1621,51,4406
+923	Block	95:4	-1621,51,4405
+924	Block	123	-1621,51,4406
+924	Block	95	-1621,51,4405
+924	Block	89	-1617,48,4406
+924	Block	95:4	-1617,48,4405
+925	Block	123	-1617,48,4406
+925	Block	95	-1617,48,4405
+920.6	Block	22	-1622,50,4407
+920.6	Block	22	-1623,50,4407
+920.6	Block	22	-1624,50,4407
+920.6	Block	22	-1625,50,4407
+920.6	Block	22	-1624,50,4408
+920.6	Block	22	-1624,49,4408
+920.6	Block	22	-1638,49,4408
+920.6	Block	22	-1640,50,4409
+920.6	Block	22	-1639,50,4409
+920.6	Block	22	-1638,50,4409
+920.6	Block	22	-1637,50,4409
+920.6	Block	22	-1636,50,4408
+920.6	Block	22	-1637,50,4408
+920.6	Block	22	-1638,50,4408
+920.6	Block	22	-1637,50,4407
+920.6	Block	22	-1638,50,4407
+971	Block	89	-1627,58,4409
+975	Block	0	-1627,58,4409
+975	Block	89	-1630,58,4409
+982	Block	0	-1630,58,4409
+982	Block	89	-1635,58,4409
+984	Block	0	-1635,58,4409
+984	Block	89	-1631,58,4409
+985	Block	0	-1631,58,4409
+985	Block	89	-1626,58,4409
+991	Block	89	-1631,58,4409
+991	Block	0	-1626,58,4409
+997	Block	0	-1631,58,4409
+1008	Block	0	-1634,58,4409
+1008	Block	89	-1629,58,4409
+1005	Block	22	-1638,50,4408
+1008	Block	0	-1637,51,4407
+1008	Block	0	-1636,52,4407
+1008	Block	0	-1638,52,4407
+1011	Block	0	-1629,58,4409
+1011	Block	89	-1627,58,4409
+1011	Block	89	-1635,58,4409
+997	Block	89	-1634,58,4409
+989	Block	22	-1624,50,4408
+989	Block	22	-1636,50,4409
+989	Block	22	-1636,50,4407
+989	Block	22	-1635,50,4408
+989	Block	35:15	-1637,51,4407
+989	Block	35:4	-1636,52,4407
+989	Block	35:4	-1638,52,4407
+991	Block	89	-1638,50,4408
+920.6	Block	22	-1639,50,4407
+920.6	Block	22	-1640,50,4407
+920.6	Block	22	-1625,50,4408
+920.6	Block	22	-1626,50,4408
+920.6	Block	22	-1622,50,4409
+920.6	Block	22	-1623,50,4409
+920.6	Block	22	-1624,50,4409
+920.6	Block	22	-1625,50,4409
+924	Block	89	-1624,50,4408
+#LightsBack
+782.1	Block	44	-1633,48,4415
+782.1	Block	89	-1624,47,4414
+782.1	Block	89	-1629,47,4416
+782.1	Block	89	-1634,47,4416
+783.5	Block	89	-1637,51,4416
+783.5	Block	89	-1624,47,4414
+783.5	Block	89	-1625,47,4417
+783.5	Block	89	-1627,47,4417
+783.5	Block	89	-1626,47,4416 
+783.5	Block	89	-1633,47,4417
+783.5	Block	89	-1635,48,4414
+783.5	Block	89	-1639,48,4414
+783.5	Block	89	-1626,47,4415
+783.5	Block	89	-1627,49,4415
+783.5	Block	89	-1629,47,4416
+783.5	Block	89	-1631,47,4414
+783.5	Block	89	-1630,47,4415
+783.5	Block	89	-1632,47,4416
+783.5	Block	89	-1634,54,4418
+783.5	Block	89	-1626,51,4418
+#Bird
+775	Block	89	-1618,54,4406
+775	Block	89	-1642,54,4406
+775	Block	95:2	-1618,54,4405
+775	Block	95:2	-1642,54,4405
+762.5	Block	160:1	-1634,50,4407
+764	Block	0	-1634,50,4407
+766	Block	160:1	-1634,50,4407
+767	Block	0	-1634,50,4407
+768	Block	160:1	-1634,50,4407
+769	Block	0	-1634,50,4407
+770	Block	160:1	-1634,50,4407
+771	Block	0	-1634,50,4407
+773	Block	160:1	-1634,50,4407
+774	Block	0	-1634,50,4407
+775	Block	160:1	-1634,50,4407
+776	Block	0	-1634,50,4407
+776	Block	160:11	-1638,51,4408
+776	Block	0	-1644,47,4407
+776	Block	0	-1644,48,4407
+776	Block	0	-1644,49,4407
+776	Block	0	-1644,50,4407
+776	Block	0	-1644,51,4407
+776	Block	0	-1644,52,4407
+776	Block	0	-1644,53,4407
+776	Block	0	-1644,54,4407
+776	Block	0	-1644,55,4407
+#FillInHoles
+670	Block	0	-1629,47,4418
+670	Block	0	-1633,47,4418
+670	Block	0	-1634,46,4417
+670	Block	0	-1633,46,4417
+670	Block	0	-1628,46,4417
+673	Block	22	-1630,46,4413
+673	Block	22	-1630,46,4414
+673	Block	22	-1630,46,4415
+673	Block	22	-1630,46,4416
+673	Block	22	-1630,46,4417
+676	Block	22	-1629,46,4413
+676	Block	22	-1629,46,4414
+676	Block	22	-1629,46,4415
+676	Block	22	-1629,46,4416
+676	Block	22	-1629,46,4417
+#tnt
+679	Block	0	-1629,45,4410
+679	Block	0	-1633,45,4410
+679	Block	22	-1629,46,4410
+679	Block	22	-1633,46,4410
+679	Block	4	-1636,54,4415
+679	Block	4	-1637,53,4415
+679	Block	4	-1638,54,4415
+679	Block	0	-1620,59,4391
+679	Block	0	-1620,59,4390
+679	Block	0	-1620,59,4389
+679	Block	0	-1621,59,4391
+679	Block	0	-1621,59,4390
+679	Block	0	-1621,59,4389
+679	Block	0	-1621,60,4391
+679	Block	0	-1621,60,4390
+679	Block	0	-1621,60,4389
+679	Block	0	-1622,59,4391
+679	Block	0	-1622,59,4390
+679	Block	0	-1622,59,4389
+679	Block	0	-1630,59,4391
+679	Block	0	-1630,59,4390
+679	Block	0	-1630,59,4389
+679	Block	0	-1631,59,4391
+679	Block	0	-1631,59,4390
+679	Block	0	-1631,59,4389
+679	Block	0	-1632,59,4391
+679	Block	0	-1632,59,4390
+679	Block	0	-1632,59,4389
+679	Block	0	-1640,59,4391
+679	Block	0	-1640,59,4390
+679	Block	0	-1640,59,4389
+679	Block	0	-1641,59,4391
+679	Block	0	-1641,59,4390
+679	Block	0	-1641,59,4389
+679	Block	0	-1642,59,4391
+679	Block	0	-1642,59,4390
+679	Block	0	-1642,59,4389
+679	Block	0	-1631,60,4391
+679	Block	0	-1631,60,4390
+679	Block	0	-1631,60,4389
+679	Block	0	-1641,60,4391
+679	Block	0	-1641,60,4390
+679	Block	0	-1641,60,4389
+679	Block	89	-1621,61,4390
+679	Block	89	-1631,61,4390
+679	Block	89	-1641,61,4390
+681	Block	46	-1621,62,4390
+681	Block	46	-1631,62,4390
+681	Block	46	-1641,62,4390
+681.1	Block	152	-1621,63,4390
+681.1	Block	152	-1631,63,4390
+681.1	Block	152	-1641,63,4390	
+690	Block	159:9	-1621,63,4390
+690	Block	159:9	-1631,63,4390
+690	Block	159:9	-1641,63,4390
+684	Block	0	-1621,61,4390
+684	Block	0	-1631,61,4390
+684	Block	0	-1641,61,4390
+679	Block	4	-1625,54,4413
+679	Block	4	-1626,53,4413
+679	Block	4	-1627,54,4413
+679	Block	4	-1626,54,4412
+679	Block	4	-1630,53,4420
+679	Block	4	-1632,53,4420
+679	Block	4	-1631,53,4420
+679	Block	4	-1631,52,4421
+679	Block	4	-1628,53,4422
+679	Block	4	-1629,53,4422
+679	Block	4	-1630,53,4422
+679	Block	4	-1629,52,4423
+679	Block	46	-1626,54,4413
+679	Block	46	-1637,54,4415
+679	Block	46	-1624,55,4418
+679	Block	46	-1634,55,4419
+679	Block	46	-1631,53,4421
+685	Block	35:15	-1620,59,4391
+685	Block	35:15	-1620,59,4389
+685	Block	35:15	-1620,59,4390
+685	Block	35:15	-1622,59,4391
+685	Block	35:15	-1621,59,4391
+685	Block	123	-1621,59,4390
+685	Block	35:15	-1621,59,4389
+689	Block	331	-1621,60,4391
+689	Block	331	-1621,60,4390
+689	Block	331	-1621,60,4389
+685	Block	35:15	-1622,59,4390
+685	Block	35:15	-1622,59,4389
+685	Block	35:15	-1630,59,4391
+685	Block	35:15	-1630,59,4389
+685	Block	35:15	-1630,59,4390
+685	Block	35:15	-1632,59,4391
+685	Block	35:15	-1631,59,4391
+685	Block	123	-1631,59,4390
+685	Block	35:15	-1631,59,4389
+685.1	Block	331	-1631,60,4391
+685.1	Block	331	-1631,60,4390
+685.1	Block	331	-1631,60,4389
+685	Block	35:15	-1632,59,4390
+685	Block	35:15	-1632,59,4389
+685	Block	35:15	-1640,59,4391
+685	Block	35:15	-1640,59,4389
+685	Block	35:15	-1640,59,4390
+685	Block	35:15	-1642,59,4391
+685	Block	35:15	-1641,59,4391
+685	Block	123	-1641,59,4390
+685	Block	35:15	-1641,59,4389
+686	Block	331	-1641,60,4391
+686	Block	331	-1641,60,4390
+686	Block	331	-1641,60,4389
+685	Block	35:15	-1642,59,4390
+685	Block	35:15	-1642,59,4389
+679	Block	46	-1629,53,4423
+679	Block	0	-1631,60,4408
+679	Block	89	-1637,55,4416
+679	Block	123	-1618,54,4406
+679	Block	123	-1621,51,4406
+679	Block	123	-1617,48,4406
+679	Block	123	-1642,54,4406
+679	Block	123	-1641,51,4406
+679	Block	123	-1644,45,4406
+680	Block	152	-1637,54,4416
+681	Block	0	-1637,55,4416
+680	Block	0	-1624,48,4413
+680	Block	0	-1624,49,4413
+680	Block	0	-1624,48,4413
+680	Block	0	-1625,50,4413
+680	Block	0	-1635,48,4413
+680	Block	0	-1635,49,4413
+680	Block	0	-1632,48,4413
+680	Block	0	-1632,49,4413
+680	Block	0	-1632,50,4413
+680	Block	0	-1629,54,4424
+680	Block	0	-1631,54,4422
+680	Block	0	-1636,48,4415
+680	Block	0	-1626,55,4414
+681	Block	152	-1634,55,4420
+681	Block	152	-1631,53,4422
+681	Block	152	-1629,53,4424
+681	Block	152	-1624,55,4419
+681	Block	152	-1626,54,4414
+#Sets
+9	Block	89	-1621,46,4406
+9	Block	89	-1619,49,4406
+9	Block	89	-1619,55,4406
+9	Block	89	-1641,48,4406
+9	Block	89	-1644,51,4406
+9	Block	89	-1643,55,4406
+9	Block	0	-1625,49,4409
+9	Block	0	-1624,49,4409
+9	Block	0	-1630,47,4409
+9	Block	0	-1631,47,4409
+9	Block	0	-1634,47,4409
+9	Block	0	-1635,47,4409
+9	Block	0	-1636,48,4409
+9	Block	0	-1637,48,4409
+9	Block	0	-1636,50,4409
+9	Block	0	-1636,52,4409
+9	Block	0	-1637,52,4409
+9	Block	0	-1637,53,4409
+9	Block	0	-1637,54,4409
+9	Block	0	-1636,54,4409
+9	Block	0	-1635,54,4409
+9	Block	0	-1635,53,4409
+9	Block	0	-1634,54,4409
+9	Block	0	-1625,54,4409
+9	Block	0	-1625,55,4409
+9	Block	0	-1626,54,4409
+9	Block	0	-1625,53,4409
+9	Block	0	-1628,55,4409
+9	Block	160:1	-1626,51,4409
+9	Block	160:1	-1627,51,4409
+9	Block	160:1	-1628,51,4409
+9	Block	160	-1635,51,4409
+9	Block	160	-1633,51,4409
+9	Block	160	-1634,51,4409
+9	Block	160	-1630,51,4409
+9	Block	160	-1631,51,4409
+9	Block	160	-1632,51,4409
+9	Block	160:3	-1630,48,4409
+9	Block	160:3	-1634,48,4409
+9	Block	160:3	-1635,48,4409
+9	Block	160:1	-1629,49,4409
+9	Block	160:3	-1627,49,4409
+9	Block	160:3	-1628,49,4409
+9	Block	160:3	-1635,49,4409
+9	Block	160	-1631,50,4409
+9	Block	160	-1632,50,4409
+9	Block	160	-1633,50,4409
+15	Block	35:15	-1618,58,4412
+15	Block	35:15	-1618,57,4412
+15	Block	35:15	-1618,56,4412
+15	Block	35:15	-1618,55,4412
+15	Block	35:15	-1618,54,4412
+15	Block	35:15	-1618,53,4412
+15	Block	35:15	-1618,52,4412
+15	Block	35:15	-1618,51,4412
+15	Block	35:15	-1618,50,4412
+15	Block	35:15	-1618,49,4412
+15	Block	35:15	-1618,48,4412
+15	Block	35:15	-1618,47,4412
+15	Block	35:15	-1619,58,4412
+15	Block	35:15	-1619,57,4412
+15	Block	35:15	-1619,56,4412
+15	Block	35:15	-1619,55,4412
+15	Block	35:15	-1619,54,4412
+15	Block	35:15	-1619,53,4412
+15	Block	35:15	-1619,52,4412
+15	Block	35:15	-1619,51,4412
+15	Block	35:15	-1619,50,4412
+15	Block	35:15	-1619,49,4412
+15	Block	35:15	-1619,48,4412
+15	Block	35:15	-1619,47,4412
+15	Block	35:15	-1620,58,4412
+15	Block	35:15	-1620,57,4412
+15	Block	35:15	-1620,56,4412
+15	Block	35:15	-1620,55,4412
+15	Block	35:15	-1620,54,4412
+15	Block	35:15	-1620,53,4412
+15	Block	35:15	-1620,52,4412
+15	Block	35:15	-1620,51,4412
+15	Block	35:15	-1620,50,4412
+15	Block	35:15	-1620,49,4412
+15	Block	35:15	-1620,48,4412
+15	Block	35:15	-1620,47,4412
+15	Block	35:15	-1621,58,4412
+15	Block	35:15	-1621,57,4412
+15	Block	35:15	-1621,56,4412
+15	Block	35:15	-1621,55,4412
+15	Block	35:15	-1621,54,4412
+15	Block	35:15	-1621,53,4412
+15	Block	35:15	-1621,52,4412
+15	Block	35:15	-1621,51,4412
+15	Block	35:15	-1621,50,4412
+15	Block	35:15	-1621,49,4412
+15	Block	35:15	-1621,48,4412
+15	Block	35:15	-1621,47,4412
+15	Block	35:15	-1622,58,4412
+15	Block	35:15	-1622,57,4412
+15	Block	35:15	-1622,54,4412
+15	Block	35:15	-1622,53,4412
+15	Block	35:15	-1622,52,4412
+15	Block	35:15	-1622,51,4412
+15	Block	35:15	-1622,48,4412
+15	Block	35:15	-1622,47,4412
+15	Block	35:15	-1623,58,4412
+15	Block	35:15	-1624,58,4412
+15	Block	35:15	-1625,58,4412
+15	Block	35:15	-1626,58,4412
+15	Block	35:15	-1627,58,4412
+15	Block	35:15	-1628,58,4412
+15	Block	35:15	-1629,58,4412
+15	Block	35:15	-1630,58,4412
+15	Block	35:15	-1631,58,4412
+15	Block	35:15	-1632,58,4412
+15	Block	35:15	-1633,58,4412
+15	Block	35:15	-1634,58,4412
+15	Block	35:15	-1635,58,4412
+15	Block	35:15	-1636,58,4412
+15	Block	35:15	-1637,58,4412
+15	Block	35:15	-1638,58,4412
+15	Block	35:15	-1639,58,4412
+15	Block	35:15	-1640,58,4412
+15	Block	35:15	-1641,58,4412
+15	Block	35:15	-1642,58,4412
+15	Block	35:15	-1643,58,4412
+15	Block	35:15	-1644,58,4412
+15	Block	35:15	-1645,58,4412
+15	Block	35:15	-1639,57,4412
+15	Block	35:15	-1640,57,4412
+15	Block	35:15	-1641,57,4412
+15	Block	35:15	-1642,57,4412
+15	Block	35:15	-1643,57,4412
+15	Block	35:15	-1644,57,4412
+15	Block	35:15	-1645,57,4412
+15	Block	35:15	-1638,56,4412
+15	Block	35:15	-1640,56,4412
+15	Block	35:15	-1641,56,4412
+15	Block	35:15	-1642,56,4412
+15	Block	35:15	-1643,56,4412
+15	Block	35:15	-1644,56,4412
+15	Block	35:15	-1645,56,4412
+15	Block	35:15	-1639,55,4412
+15	Block	35:15	-1640,55,4412
+15	Block	35:15	-1641,55,4412
+15	Block	35:15	-1642,55,4412
+15	Block	35:15	-1643,55,4412
+15	Block	35:15	-1644,55,4412
+15	Block	35:15	-1645,55,4412
+15	Block	35:15	-1639,54,4412
+15	Block	35:15	-1640,54,4412
+15	Block	35:15	-1641,54,4412
+15	Block	35:15	-1642,54,4412
+15	Block	35:15	-1643,54,4412
+15	Block	35:15	-1644,54,4412
+15	Block	35:15	-1645,54,4412
+15	Block	35:15	-1645,53,4412
+15	Block	35:15	-1644,53,4412
+15	Block	35:15	-1643,53,4412
+15	Block	35:15	-1642,53,4412
+15	Block	35:15	-1641,53,4412
+15	Block	35:15	-1640,53,4412
+15	Block	35:15	-1645,52,4412
+15	Block	35:15	-1644,52,4412
+15	Block	35:15	-1643,52,4412
+15	Block	35:15	-1642,52,4412
+15	Block	35:15	-1641,52,4412
+15	Block	35:15	-1640,52,4412
+15	Block	35:15	-1645,51,4412
+15	Block	35:15	-1644,51,4412
+15	Block	35:15	-1643,51,4412
+15	Block	35:15	-1642,51,4412
+15	Block	35:15	-1641,51,4412
+15	Block	35:15	-1640,51,4412
+15	Block	35:15	-1645,50,4412
+15	Block	35:15	-1644,50,4412
+15	Block	35:15	-1643,50,4412
+15	Block	35:15	-1642,50,4412
+15	Block	35:15	-1641,50,4412
+15	Block	35:15	-1640,50,4412
+15	Block	35:15	-1645,49,4412
+15	Block	35:15	-1644,49,4412
+15	Block	35:15	-1643,49,4412
+15	Block	35:15	-1642,49,4412
+15	Block	35:15	-1641,49,4412
+15	Block	35:15	-1640,49,4412
+15	Block	35:15	-1645,48,4412
+15	Block	35:15	-1644,48,4412
+15	Block	35:15	-1643,48,4412
+15	Block	35:15	-1642,48,4412
+15	Block	35:15	-1641,48,4412
+15	Block	35:15	-1640,48,4412
+15	Block	35:15	-1645,47,4412
+15	Block	35:15	-1644,47,4412
+15	Block	35:15	-1643,47,4412
+15	Block	35:15	-1642,47,4412
+15	Block	35:15	-1641,47,4412
+15	Block	35:15	-1640,47,4412
+15	Block	35:15	-1639,49,4412
+15	Block	35:15	-1639,50,4412
+15	Block	35:15	-1618,58,4416
+15	Block	35:15	-1618,57,4416
+15	Block	35:15	-1618,56,4416
+15	Block	35:15	-1618,55,4416
+15	Block	35:15	-1618,54,4416
+15	Block	35:15	-1618,53,4416
+15	Block	35:15	-1618,52,4416
+15	Block	35:15	-1618,51,4416
+15	Block	35:15	-1618,50,4416
+15	Block	35:15	-1618,49,4416
+15	Block	35:15	-1618,48,4416
+15	Block	35:15	-1618,47,4416
+15	Block	35:15	-1619,58,4416
+15	Block	35:15	-1619,57,4416
+15	Block	35:15	-1619,56,4416
+15	Block	35:15	-1619,55,4416
+15	Block	35:15	-1619,54,4416
+15	Block	35:15	-1619,53,4416
+15	Block	35:15	-1619,52,4416
+15	Block	35:15	-1619,51,4416
+15	Block	35:15	-1619,50,4416
+15	Block	35:15	-1619,49,4416
+15	Block	35:15	-1619,48,4416
+15	Block	35:15	-1619,47,4416
+15	Block	35:15	-1620,58,4416
+15	Block	35:15	-1620,57,4416
+15	Block	35:15	-1620,56,4416
+15	Block	35:15	-1620,55,4416
+15	Block	35:15	-1620,54,4416
+15	Block	35:15	-1620,53,4416
+15	Block	35:15	-1620,52,4416
+15	Block	35:15	-1620,51,4416
+15	Block	35:15	-1620,50,4416
+15	Block	35:15	-1620,49,4416
+15	Block	35:15	-1620,48,4416
+15	Block	35:15	-1620,47,4416
+15	Block	35:15	-1621,58,4416
+15	Block	35:15	-1621,57,4416
+15	Block	35:15	-1621,56,4416
+15	Block	35:15	-1621,55,4416
+15	Block	35:15	-1621,54,4416
+15	Block	35:15	-1621,53,4416
+15	Block	35:15	-1621,52,4416
+15	Block	35:15	-1621,51,4416
+15	Block	35:15	-1621,50,4416
+15	Block	35:15	-1621,49,4416
+15	Block	35:15	-1621,48,4416
+15	Block	35:15	-1621,47,4416
+15	Block	35:15	-1622,58,4416
+15	Block	35:15	-1622,57,4416
+15	Block	35:15	-1622,54,4416
+15	Block	35:15	-1622,53,4416
+15	Block	35:15	-1622,48,4416
+15	Block	35:15	-1622,47,4416
+15	Block	35:15	-1623,58,4416
+15	Block	35:15	-1624,58,4416
+15	Block	35:15	-1625,58,4416
+15	Block	35:15	-1626,58,4416
+15	Block	35:15	-1627,58,4416
+15	Block	35:15	-1628,58,4416
+15	Block	35:15	-1629,58,4416
+15	Block	35:15	-1630,58,4416
+15	Block	35:15	-1631,58,4416
+15	Block	35:15	-1632,58,4416
+15	Block	35:15	-1633,58,4416
+15	Block	35:15	-1634,58,4416
+15	Block	35:15	-1635,58,4416
+15	Block	35:15	-1636,58,4416
+15	Block	35:15	-1637,58,4416
+15	Block	35:15	-1638,58,4416
+15	Block	35:15	-1639,58,4416
+15	Block	35:15	-1640,58,4416
+15	Block	35:15	-1641,58,4416
+15	Block	35:15	-1642,58,4416
+15	Block	35:15	-1643,58,4416
+15	Block	35:15	-1644,58,4416
+15	Block	35:15	-1645,58,4416
+15	Block	35:15	-1639,57,4416
+15	Block	35:15	-1640,57,4416
+15	Block	35:15	-1641,57,4416
+15	Block	35:15	-1642,57,4416
+15	Block	35:15	-1643,57,4416
+15	Block	35:15	-1644,57,4416
+15	Block	35:15	-1645,57,4416
+15	Block	35:15	-1638,56,4416
+15	Block	35:15	-1640,56,4416
+15	Block	35:15	-1641,56,4416
+15	Block	35:15	-1642,56,4416
+15	Block	35:15	-1643,56,4416
+15	Block	35:15	-1644,56,4416
+15	Block	35:15	-1645,56,4416
+15	Block	35:15	-1639,55,4416
+15	Block	35:15	-1640,55,4416
+15	Block	35:15	-1641,55,4416
+15	Block	35:15	-1642,55,4416
+15	Block	35:15	-1643,55,4416
+15	Block	35:15	-1644,55,4416
+15	Block	35:15	-1645,55,4416
+15	Block	35:15	-1640,54,4416
+15	Block	35:15	-1641,54,4416
+15	Block	35:15	-1642,54,4416
+15	Block	35:15	-1643,54,4416
+15	Block	35:15	-1644,54,4416
+15	Block	35:15	-1645,54,4416
+15	Block	35:15	-1645,53,4416
+15	Block	35:15	-1644,53,4416
+15	Block	35:15	-1643,53,4416
+15	Block	35:15	-1642,53,4416
+15	Block	35:15	-1641,53,4416
+15	Block	35:15	-1640,53,4416
+15	Block	35:15	-1645,52,4416
+15	Block	35:15	-1644,52,4416
+15	Block	35:15	-1643,52,4416
+15	Block	35:15	-1642,52,4416
+15	Block	35:15	-1641,52,4416
+15	Block	35:15	-1640,52,4416
+15	Block	35:15	-1645,51,4416
+15	Block	35:15	-1644,51,4416
+15	Block	35:15	-1643,51,4416
+15	Block	35:15	-1642,51,4416
+15	Block	35:15	-1641,51,4416
+15	Block	35:15	-1640,51,4416
+15	Block	35:15	-1645,50,4416
+15	Block	35:15	-1644,50,4416
+15	Block	35:15	-1643,50,4416
+15	Block	35:15	-1642,50,4416
+15	Block	35:15	-1641,50,4416
+15	Block	35:15	-1640,50,4416
+15	Block	35:15	-1645,49,4416
+15	Block	35:15	-1644,49,4416
+15	Block	35:15	-1643,49,4416
+15	Block	35:15	-1642,49,4416
+15	Block	35:15	-1641,49,4416
+15	Block	35:15	-1640,49,4416
+15	Block	35:15	-1645,48,4416
+15	Block	35:15	-1644,48,4416
+15	Block	35:15	-1643,48,4416
+15	Block	35:15	-1642,48,4416
+15	Block	35:15	-1641,48,4416
+15	Block	35:15	-1640,48,4416
+15	Block	35:15	-1645,47,4416
+15	Block	35:15	-1644,47,4416
+15	Block	35:15	-1643,47,4416
+15	Block	35:15	-1642,47,4416
+15	Block	35:15	-1641,47,4416
+15	Block	35:15	-1640,47,4416
+15	Block	35:15	-1622,49,4416
+15	Block	35:15	-1639,48,4416
+15	Block	35:15	-1639,47,4416
+15	Block	35:15	-1639,51,4416
+15	Block	35:15	-1639,52,4416
+15	Block	35:15	-1639,53,4416
+15	Block	35:15	-1637,57,4416
+15	Block	35:15	-1638,57,4416
+15	Block	35:15	-1638,56,4416
+15	Block	35:15	-1622,55,4416
+15	Block	35:15	-1613,58,4418
+15	Block	35:15	-1614,58,4418
+15	Block	35:15	-1615,58,4418
+15	Block	35:15	-1616,58,4418
+15	Block	35:15	-1617,58,4418
+15	Block	35:15	-1618,58,4418
+15	Block	35:15	-1619,58,4418
+15	Block	35:15	-1620,58,4418
+15	Block	35:15	-1621,58,4418
+15	Block	35:15	-1622,58,4418
+15	Block	35:15	-1623,58,4418
+15	Block	35:15	-1624,58,4418
+15	Block	35:15	-1625,58,4418
+15	Block	35:15	-1626,58,4418
+15	Block	35:15	-1627,58,4418
+15	Block	35:15	-1628,58,4418
+15	Block	35:15	-1629,58,4418
+15	Block	35:15	-1630,58,4418
+15	Block	35:15	-1631,58,4418
+15	Block	35:15	-1632,58,4418
+15	Block	35:15	-1633,58,4418
+15	Block	35:15	-1634,58,4418
+15	Block	35:15	-1635,58,4418
+15	Block	35:15	-1636,58,4418
+15	Block	35:15	-1637,58,4418
+15	Block	35:15	-1638,58,4418
+15	Block	35:15	-1639,58,4418
+15	Block	35:15	-1640,58,4418
+15	Block	35:15	-1641,58,4418
+15	Block	35:15	-1642,58,4418
+15	Block	35:15	-1643,58,4418
+15	Block	35:15	-1644,58,4418
+15	Block	35:15	-1645,58,4418
+15	Block	35:15	-1646,58,4418
+15	Block	35:15	-1647,58,4418
+15	Block	35:15	-1648,58,4418
+15	Block	35:15	-1613,57,4418
+15	Block	35:15	-1614,57,4418
+15	Block	35:15	-1615,57,4418
+15	Block	35:15	-1616,57,4418
+15	Block	35:15	-1617,57,4418
+15	Block	35:15	-1618,57,4418
+15	Block	35:15	-1619,57,4418
+15	Block	35:15	-1620,57,4418
+15	Block	35:15	-1621,57,4418
+15	Block	35:15	-1622,57,4418
+15	Block	35:15	-1623,57,4418
+15	Block	35:15	-1624,57,4418
+15	Block	35:15	-1625,57,4418
+15	Block	35:15	-1626,57,4418
+15	Block	35:15	-1627,57,4418
+15	Block	35:15	-1628,57,4418
+15	Block	35:15	-1629,57,4418
+15	Block	35:15	-1630,57,4418
+15	Block	35:15	-1631,57,4418
+15	Block	35:15	-1632,57,4418
+15	Block	35:15	-1633,57,4418
+15	Block	35:15	-1634,57,4418
+15	Block	35:15	-1635,57,4418
+15	Block	35:15	-1636,57,4418
+15	Block	35:15	-1637,57,4418
+15	Block	35:15	-1638,57,4418
+15	Block	35:15	-1639,57,4418
+15	Block	35:15	-1640,57,4418
+15	Block	35:15	-1641,57,4418
+15	Block	35:15	-1642,57,4418
+15	Block	35:15	-1643,57,4418
+15	Block	35:15	-1644,57,4418
+15	Block	35:15	-1645,57,4418
+15	Block	35:15	-1646,57,4418
+15	Block	35:15	-1647,57,4418
+15	Block	35:15	-1648,57,4418
+15	Block	35:15	-1613,56,4418
+15	Block	35:15	-1614,56,4418
+15	Block	35:15	-1615,56,4418
+15	Block	35:15	-1616,56,4418
+15	Block	35:15	-1617,56,4418
+15	Block	35:15	-1618,56,4418
+15	Block	35:15	-1619,56,4418
+15	Block	35:15	-1620,56,4418
+15	Block	35:15	-1621,56,4418
+15	Block	35:15	-1622,56,4418
+15	Block	35:15	-1623,56,4418
+15	Block	35:15	-1624,56,4418
+15	Block	35:15	-1625,56,4418
+15	Block	35:15	-1626,56,4418
+15	Block	35:15	-1627,56,4418
+15	Block	35:15	-1628,56,4418
+15	Block	35:15	-1629,56,4418
+15	Block	35:15	-1630,56,4418
+15	Block	35:15	-1631,56,4418
+15	Block	35:15	-1632,56,4418
+15	Block	35:15	-1633,56,4418
+15	Block	35:15	-1634,56,4418
+15	Block	35:15	-1635,56,4418
+15	Block	35:15	-1636,56,4418
+15	Block	35:15	-1637,56,4418
+15	Block	35:15	-1638,56,4418
+15	Block	35:15	-1639,56,4418
+15	Block	35:15	-1640,56,4418
+15	Block	35:15	-1641,56,4418
+15	Block	35:15	-1642,56,4418
+15	Block	35:15	-1643,56,4418
+15	Block	35:15	-1644,56,4418
+15	Block	35:15	-1645,56,4418
+15	Block	35:15	-1646,56,4418
+15	Block	35:15	-1647,56,4418
+15	Block	35:15	-1648,56,4418
+15	Block	35:15	-1613,55,4418
+15	Block	35:15	-1614,55,4418
+15	Block	35:15	-1615,55,4418
+15	Block	35:15	-1616,55,4418
+15	Block	35:15	-1617,55,4418
+15	Block	35:15	-1618,55,4418
+15	Block	35:15	-1619,55,4418
+15	Block	35:15	-1620,55,4418
+15	Block	35:15	-1621,55,4418
+15	Block	35:15	-1622,55,4418
+15	Block	35:15	-1623,55,4418
+15	Block	35:15	-1624,55,4418
+15	Block	35:15	-1625,55,4418
+15	Block	35:15	-1626,55,4418
+15	Block	35:15	-1627,55,4418
+15	Block	35:15	-1628,55,4418
+15	Block	35:15	-1629,55,4418
+15	Block	35:15	-1630,55,4418
+15	Block	35:15	-1631,55,4418
+15	Block	35:15	-1632,55,4418
+15	Block	35:15	-1633,55,4418
+15	Block	35:15	-1634,55,4418
+15	Block	35:15	-1635,55,4418
+15	Block	35:15	-1636,55,4418
+15	Block	35:15	-1637,55,4418
+15	Block	35:15	-1638,55,4418
+15	Block	35:15	-1639,55,4418
+15	Block	35:15	-1640,55,4418
+15	Block	35:15	-1641,55,4418
+15	Block	35:15	-1642,55,4418
+15	Block	35:15	-1643,55,4418
+15	Block	35:15	-1644,55,4418
+15	Block	35:15	-1645,55,4418
+15	Block	35:15	-1646,55,4418
+15	Block	35:15	-1647,55,4418
+15	Block	35:15	-1648,55,4418
+15	Block	35:15	-1613,54,4418
+15	Block	35:15	-1614,54,4418
+15	Block	35:15	-1615,54,4418
+15	Block	35:15	-1616,54,4418
+15	Block	35:15	-1617,54,4418
+15	Block	35:15	-1618,54,4418
+15	Block	35:15	-1619,54,4418
+15	Block	35:15	-1620,54,4418
+15	Block	35:15	-1621,54,4418
+15	Block	35:15	-1622,54,4418
+15	Block	35:15	-1623,54,4418
+15	Block	35:15	-1624,54,4418
+15	Block	35:15	-1625,54,4418
+15	Block	35:15	-1626,54,4418
+15	Block	35:15	-1627,54,4418
+15	Block	35:15	-1628,54,4418
+15	Block	35:15	-1629,54,4418
+15	Block	35:15	-1630,54,4418
+15	Block	35:15	-1631,54,4418
+15	Block	35:15	-1632,54,4418
+15	Block	35:15	-1633,54,4418
+15	Block	35:15	-1634,54,4418
+15	Block	35:15	-1635,54,4418
+15	Block	35:15	-1636,54,4418
+15	Block	35:15	-1637,54,4418
+15	Block	35:15	-1638,54,4418
+15	Block	35:15	-1639,54,4418
+15	Block	35:15	-1640,54,4418
+15	Block	35:15	-1641,54,4418
+15	Block	35:15	-1642,54,4418
+15	Block	35:15	-1643,54,4418
+15	Block	35:15	-1644,54,4418
+15	Block	35:15	-1645,54,4418
+15	Block	35:15	-1646,54,4418
+15	Block	35:15	-1647,54,4418
+15	Block	35:15	-1648,54,4418
+15	Block	35:15	-1613,53,4418
+15	Block	35:15	-1614,53,4418
+15	Block	35:15	-1615,53,4418
+15	Block	35:15	-1616,53,4418
+15	Block	35:15	-1617,53,4418
+15	Block	35:15	-1618,53,4418
+15	Block	35:15	-1619,53,4418
+15	Block	35:15	-1620,53,4418
+15	Block	35:15	-1621,53,4418
+15	Block	35:15	-1622,53,4418
+15	Block	35:15	-1623,53,4418
+15	Block	35:15	-1624,53,4418
+15	Block	35:15	-1625,53,4418
+15	Block	35:15	-1626,53,4418
+15	Block	35:15	-1627,53,4418
+15	Block	35:15	-1628,53,4418
+15	Block	35:15	-1629,53,4418
+15	Block	35:15	-1630,53,4418
+15	Block	35:15	-1631,53,4418
+15	Block	35:15	-1632,53,4418
+15	Block	35:15	-1633,53,4418
+15	Block	35:15	-1634,53,4418
+15	Block	35:15	-1635,53,4418
+15	Block	35:15	-1636,53,4418
+15	Block	35:15	-1637,53,4418
+15	Block	35:15	-1638,53,4418
+15	Block	35:15	-1639,53,4418
+15	Block	35:15	-1640,53,4418
+15	Block	35:15	-1641,53,4418
+15	Block	35:15	-1642,53,4418
+15	Block	35:15	-1643,53,4418
+15	Block	35:15	-1644,53,4418
+15	Block	35:15	-1645,53,4418
+15	Block	35:15	-1646,53,4418
+15	Block	35:15	-1647,53,4418
+15	Block	35:15	-1648,53,4418
+15	Block	35:15	-1613,52,4418
+15	Block	35:15	-1614,52,4418
+15	Block	35:15	-1615,52,4418
+15	Block	35:15	-1616,52,4418
+15	Block	35:15	-1617,52,4418
+15	Block	35:15	-1618,52,4418
+15	Block	35:15	-1619,52,4418
+15	Block	35:15	-1620,52,4418
+15	Block	35:15	-1621,52,4418
+15	Block	35:15	-1622,52,4418
+15	Block	35:15	-1623,52,4418
+15	Block	35:15	-1624,52,4418
+15	Block	35:15	-1625,52,4418
+15	Block	35:15	-1626,52,4418
+15	Block	35:15	-1627,52,4418
+15	Block	35:15	-1628,52,4418
+15	Block	35:15	-1629,52,4418
+15	Block	35:15	-1630,52,4418
+15	Block	35:15	-1631,52,4418
+15	Block	35:15	-1632,52,4418
+15	Block	35:15	-1633,52,4418
+15	Block	35:15	-1634,52,4418
+15	Block	35:15	-1635,52,4418
+15	Block	35:15	-1636,52,4418
+15	Block	35:15	-1637,52,4418
+15	Block	35:15	-1638,52,4418
+15	Block	35:15	-1639,52,4418
+15	Block	35:15	-1640,52,4418
+15	Block	35:15	-1641,52,4418
+15	Block	35:15	-1642,52,4418
+15	Block	35:15	-1643,52,4418
+15	Block	35:15	-1644,52,4418
+15	Block	35:15	-1645,52,4418
+15	Block	35:15	-1646,52,4418
+15	Block	35:15	-1647,52,4418
+15	Block	35:15	-1648,52,4418
+15	Block	35:15	-1613,51,4418
+15	Block	35:15	-1614,51,4418
+15	Block	35:15	-1615,51,4418
+15	Block	35:15	-1616,51,4418
+15	Block	35:15	-1617,51,4418
+15	Block	35:15	-1618,51,4418
+15	Block	35:15	-1619,51,4418
+15	Block	35:15	-1620,51,4418
+15	Block	35:15	-1621,51,4418
+15	Block	35:15	-1622,51,4418
+15	Block	35:15	-1623,51,4418
+15	Block	35:15	-1624,51,4418
+15	Block	35:15	-1625,51,4418
+15	Block	35:15	-1626,51,4418
+15	Block	35:15	-1627,51,4418
+15	Block	35:15	-1628,51,4418
+15	Block	35:15	-1629,51,4418
+15	Block	35:15	-1630,51,4418
+15	Block	35:15	-1631,51,4418
+15	Block	35:15	-1632,51,4418
+15	Block	35:15	-1633,51,4418
+15	Block	35:15	-1634,51,4418
+15	Block	35:15	-1635,51,4418
+15	Block	35:15	-1636,51,4418
+15	Block	35:15	-1637,51,4418
+15	Block	35:15	-1638,51,4418
+15	Block	35:15	-1639,51,4418
+15	Block	35:15	-1640,51,4418
+15	Block	35:15	-1641,51,4418
+15	Block	35:15	-1642,51,4418
+15	Block	35:15	-1643,51,4418
+15	Block	35:15	-1644,51,4418
+15	Block	35:15	-1645,51,4418
+15	Block	35:15	-1646,51,4418
+15	Block	35:15	-1647,51,4418
+15	Block	35:15	-1648,51,4418
+15	Block	35:15	-1613,50,4418
+15	Block	35:15	-1614,50,4418
+15	Block	35:15	-1615,50,4418
+15	Block	35:15	-1616,50,4418
+15	Block	35:15	-1617,50,4418
+15	Block	35:15	-1618,50,4418
+15	Block	35:15	-1619,50,4418
+15	Block	35:15	-1620,50,4418
+15	Block	35:15	-1621,50,4418
+15	Block	35:15	-1622,50,4418
+15	Block	35:15	-1623,50,4418
+15	Block	35:15	-1624,50,4418
+15	Block	35:15	-1625,50,4418
+15	Block	35:15	-1626,50,4418
+15	Block	35:15	-1627,50,4418
+15	Block	35:15	-1628,50,4418
+15	Block	35:15	-1629,50,4418
+15	Block	35:15	-1630,50,4418
+15	Block	35:15	-1631,50,4418
+15	Block	35:15	-1632,50,4418
+15	Block	35:15	-1633,50,4418
+15	Block	35:15	-1634,50,4418
+15	Block	35:15	-1635,50,4418
+15	Block	35:15	-1636,50,4418
+15	Block	35:15	-1637,50,4418
+15	Block	35:15	-1638,50,4418
+15	Block	35:15	-1639,50,4418
+15	Block	35:15	-1640,50,4418
+15	Block	35:15	-1641,50,4418
+15	Block	35:15	-1642,50,4418
+15	Block	35:15	-1643,50,4418
+15	Block	35:15	-1644,50,4418
+15	Block	35:15	-1645,50,4418
+15	Block	35:15	-1646,50,4418
+15	Block	35:15	-1647,50,4418
+15	Block	35:15	-1648,50,4418
+15	Block	35:15	-1613,49,4418
+15	Block	35:15	-1614,49,4418
+15	Block	35:15	-1615,49,4418
+15	Block	35:15	-1616,49,4418
+15	Block	35:15	-1617,49,4418
+15	Block	35:15	-1618,49,4418
+15	Block	35:15	-1619,49,4418
+15	Block	35:15	-1620,49,4418
+15	Block	35:15	-1621,49,4418
+15	Block	35:15	-1622,49,4418
+15	Block	35:15	-1623,49,4418
+15	Block	35:15	-1624,49,4418
+15	Block	35:15	-1625,49,4418
+15	Block	35:15	-1626,49,4418
+15	Block	35:15	-1627,49,4418
+15	Block	35:15	-1628,49,4418
+15	Block	35:15	-1629,49,4418
+15	Block	35:15	-1630,49,4418
+15	Block	35:15	-1631,49,4418
+15	Block	35:15	-1632,49,4418
+15	Block	35:15	-1633,49,4418
+15	Block	35:15	-1634,49,4418
+15	Block	35:15	-1635,49,4418
+15	Block	35:15	-1636,49,4418
+15	Block	35:15	-1637,49,4418
+15	Block	35:15	-1638,49,4418
+15	Block	35:15	-1639,49,4418
+15	Block	35:15	-1640,49,4418
+15	Block	35:15	-1641,49,4418
+15	Block	35:15	-1642,49,4418
+15	Block	35:15	-1643,49,4418
+15	Block	35:15	-1644,49,4418
+15	Block	35:15	-1645,49,4418
+15	Block	35:15	-1646,49,4418
+15	Block	35:15	-1647,49,4418
+15	Block	35:15	-1648,49,4418
+15	Block	35:15	-1613,48,4418
+15	Block	35:15	-1614,48,4418
+15	Block	35:15	-1615,48,4418
+15	Block	35:15	-1616,48,4418
+15	Block	35:15	-1617,48,4418
+15	Block	35:15	-1618,48,4418
+15	Block	35:15	-1619,48,4418
+15	Block	35:15	-1620,48,4418
+15	Block	35:15	-1621,48,4418
+15	Block	35:15	-1622,48,4418
+15	Block	35:15	-1623,48,4418
+15	Block	35:15	-1624,48,4418
+15	Block	35:15	-1625,48,4418
+15	Block	35:15	-1626,48,4418
+15	Block	35:15	-1627,48,4418
+15	Block	35:15	-1628,48,4418
+15	Block	35:15	-1629,48,4418
+15	Block	35:15	-1630,48,4418
+15	Block	35:15	-1631,48,4418
+15	Block	35:15	-1632,48,4418
+15	Block	35:15	-1633,48,4418
+15	Block	35:15	-1634,48,4418
+15	Block	35:15	-1635,48,4418
+15	Block	35:15	-1636,48,4418
+15	Block	35:15	-1637,48,4418
+15	Block	35:15	-1638,48,4418
+15	Block	35:15	-1639,48,4418
+15	Block	35:15	-1640,48,4418
+15	Block	35:15	-1641,48,4418
+15	Block	35:15	-1642,48,4418
+15	Block	35:15	-1643,48,4418
+15	Block	35:15	-1644,48,4418
+15	Block	35:15	-1638,57,4412
+15	Block	35:15	-1645,48,4418
+15	Block	35:15	-1639,56,4412
+15	Block	35:15	-1639,56,4416
+15	Block	35:15	-1646,48,4418
+15	Block	35:15	-1647,48,4418
+15	Block	35:15	-1648,48,4418
+15	Block	35:15	-1613,47,4418
+15	Block	35:15	-1614,47,4418
+15	Block	35:15	-1615,47,4418
+15	Block	35:15	-1616,47,4418
+15	Block	35:15	-1617,47,4418
+15	Block	35:15	-1618,47,4418
+15	Block	35:15	-1619,47,4418
+15	Block	35:15	-1620,47,4418
+15	Block	35:15	-1621,47,4418
+15	Block	35:15	-1622,47,4418
+15	Block	35:15	-1623,47,4418
+15	Block	35:15	-1624,47,4418
+15	Block	35:15	-1625,47,4418
+15	Block	35:15	-1626,47,4418
+15	Block	35:15	-1627,47,4418
+15	Block	35:15	-1628,47,4418
+15	Block	35:15	-1629,47,4418
+15	Block	35:15	-1630,47,4418
+15	Block	35:15	-1631,47,4418
+15	Block	35:15	-1632,47,4418
+15	Block	35:15	-1633,47,4418
+15	Block	35:15	-1634,47,4418
+15	Block	35:15	-1635,47,4418
+15	Block	35:15	-1636,47,4418
+15	Block	35:15	-1637,47,4418
+15	Block	35:15	-1638,47,4418
+15	Block	35:15	-1639,47,4418
+15	Block	35:15	-1640,47,4418
+15	Block	35:15	-1641,47,4418
+15	Block	35:15	-1642,47,4418
+15	Block	35:15	-1643,47,4418
+15	Block	35:15	-1644,47,4418
+15	Block	35:15	-1645,47,4418
+15	Block	35:15	-1646,47,4418
+15	Block	35:15	-1647,47,4418
+15	Block	35:15	-1648,47,4418
+17	Block	0	-1651,45,4405
+17	Block	0	-1650,48,4405
+17	Block	0	-1694,50,4405
+17	Block	0	-1651,52,4405
+17	Block	0	-1647,55,4405
+17	Block	0	-1650,56,4405
+17	Block	0	-1646,58,4405
+17	Block	0	-1640,57,4405
+17	Block	0	-1636,58,4405
+17	Block	0	-1630,57,4405
+17	Block	0	-1627,58,4405
+17	Block	0	-1617,58,4405
+17	Block	0	-1614,58,4405
+17	Block	0	-1611,57,4405
+17	Block	0	-1614,54,4405
+17	Block	0	-1611,52,4405
+17	Block	0	-1611,47,4405
+17	Block	0	-1613,46,4405
+17	Block	0	-1642,47,4409
+17	Block	0	-1641,49,4409
+17	Block	0	-1643,52,4409
+17	Block	0	-1642,56,4409
+17	Block	0	-1640,57,4409
+17	Block	0	-1620,56,4409
+17	Block	0	-1620,54,4409
+17	Block	0	-1619,52,4409
+17	Block	0	-1620,49,4409
+17	Block	0	-1621,47,4409
+17	Block	89	-1631,46,4414
+17	Block	0	-1626,58,4410
+17	Block	0	-1626,57,4410
+17	Block	0	-1626,56,4410
+17	Block	0	-1626,55,4410
+17	Block	0	-1627,58,4410
+17	Block	0	-1627,57,4410
+17	Block	0	-1627,56,4410
+17	Block	0	-1627,55,4410
+17	Block	0	-1627,54,4410
+17	Block	0	-1627,53,4409
+17	Block	0	-1628,54,4410
+17	Block	0	-1628,53,4410
+17	Block	0	-1628,52,4410
+17	Block	0	-1628,51,4410
+17	Block	0	-1649,50,4405
+17	Block	0	-1629,52,4410
+17	Block	0	-1629,51,4410
+17	Block	0	-1629,50,4410
+17	Block	0	-1629,49,4410
+17	Block	0	-1629,48,4410
+17	Block	0	-1630,50,4410
+17	Block	0	-1630,49,4410
+17	Block	0	-1630,48,4410
+17	Block	0	-1630,47,4410
+17	Block	0	-1631,47,4410
+17	Block	0	-1630,58,4410
+17	Block	0	-1630,57,4410
+17	Block	0	-1630,56,4410
+17	Block	0	-1631,55,4410
+17	Block	0	-1631,54,4410
+17	Block	0	-1632,53,4410
+17	Block	0	-1632,52,4410
+17	Block	0	-1633,51,4410
+17	Block	0	-1633,50,4410
+17	Block	0	-1633,49,4410
+17	Block	0	-1634,48,4410
+17	Block	0	-1634,47,4410
+19	Block	89	-1629,46,4417
+19	Block	89	-1630,46,4417
+19	Block	89	-1631,46,4417
+19	Block	89	-1632,46,4417
+19	Block	89	-1618,46,4417
+19	Block	89	-1619,46,4417
+19	Block	89	-1620,46,4417
+19	Block	89	-1621,46,4417
+19	Block	89	-1640,46,4417
+19	Block	89	-1641,46,4417
+19	Block	89	-1642,46,4417
+19	Block	89	-1643,46,4417
+19	Block	89	-1644,46,4417
+19	Block	89	-1645,46,4417
+19	Block	35:11	-1619,47,4418
+19	Block	35:11	-1620,47,4418
+19	Block	35:11	-1620,48,4418
+19	Block	35:11	-1621,47,4418
+19	Block	35:11	-1621,48,4418
+19	Block	35:11	-1621,49,4418
+19	Block	22	-1621,50,4418
+19	Block	35:9	-1621,51,4418
+19	Block	35:9	-1621,52,4418
+19	Block	35:9	-1621,53,4418
+19	Block	35:9	-1622,52,4418
+19	Block	35:9	-1622,53,4418
+19	Block	22	-1622,51,4418
+19	Block	35:11	-1622,50,4418
+19	Block	35:11	-1622,49,4418
+19	Block	35:11	-1622,48,4418
+19	Block	35:11	-1622,47,4418
+19	Block	35:9	-1623,52,4418
+19	Block	35:9	-1623,53,4418
+19	Block	22	-1623,51,4418
+19	Block	35:11	-1623,50,4418
+19	Block	35:11	-1623,49,4418
+19	Block	35:11	-1623,48,4418
+19	Block	35:11	-1623,47,4418
+19	Block	35:9	-1624,53,4418
+19	Block	22	-1624,52,4418
+19	Block	35:11	-1624,51,4418
+19	Block	35:11	-1624,50,4418
+19	Block	35:11	-1624,49,4418
+19	Block	35:11	-1624,48,4418
+19	Block	35:11	-1624,47,4418
+19	Block	35:9	-1625,53,4418
+19	Block	22	-1625,52,4418
+19	Block	35:11	-1625,51,4418
+19	Block	35:11	-1625,50,4418
+19	Block	35:11	-1625,49,4418
+19	Block	35:11	-1625,48,4418
+19	Block	35:11	-1625,47,4418
+19	Block	35:9	-1626,54,4418
+19	Block	35:9	-1626,53,4418
+19	Block	22	-1626,52,4418
+19	Block	35:11	-1626,51,4418
+19	Block	35:11	-1626,50,4418
+19	Block	35:11	-1626,49,4418
+19	Block	35:11	-1626,48,4418
+19	Block	35:11	-1626,47,4418
+19	Block	35:9	-1627,54,4418
+19	Block	22	-1627,53,4418
+19	Block	22	-1627,52,4418
+19	Block	35:11	-1627,51,4418
+19	Block	35:11	-1627,50,4418
+19	Block	35:11	-1627,49,4418
+19	Block	35:11	-1627,48,4418
+19	Block	35:3	-1627,47,4418
+19	Block	35:9	-1628,54,4418
+19	Block	22	-1628,53,4418
+19	Block	35:11	-1628,52,4418
+19	Block	35:11	-1628,51,4418
+19	Block	35:11	-1628,50,4418
+19	Block	35:11	-1628,49,4418
+19	Block	35:3	-1628,48,4418
+19	Block	35:3	-1628,47,4418
+19	Block	35:9	-1629,54,4418
+19	Block	22	-1629,53,4418
+19	Block	35:11	-1629,52,4418
+19	Block	35:11	-1629,51,4418
+19	Block	35:11	-1629,50,4418
+19	Block	35:11	-1629,49,4418
+19	Block	35:3	-1629,48,4418
+19	Block	35:3	-1629,47,4418
+19	Block	35:9	-1630,54,4418
+19	Block	22	-1630,53,4418
+19	Block	35:11	-1630,52,4418
+19	Block	35:11	-1630,51,4418
+19	Block	35:11	-1630,50,4418
+19	Block	35:3	-1630,49,4418
+19	Block	35:3	-1630,48,4418
+19	Block	35:3	-1630,47,4418
+19	Block	35:9	-1631,54,4418
+19	Block	22	-1631,53,4418
+19	Block	35:11	-1631,52,4418
+19	Block	35:11	-1631,51,4418
+19	Block	35:11	-1631,50,4418
+19	Block	35:3	-1631,49,4418
+19	Block	35:3	-1631,48,4418
+19	Block	35:3	-1631,47,4418
+19	Block	35:9	-1632,54,4418
+19	Block	22	-1632,53,4418
+19	Block	35:11	-1632,52,4418
+19	Block	35:11	-1632,51,4418
+19	Block	35:11	-1632,50,4418
+19	Block	35:3	-1632,49,4418
+19	Block	35:3	-1632,48,4418
+19	Block	35:3	-1632,47,4418
+19	Block	35:9	-1633,54,4418
+19	Block	35:9	-1633,53,4418
+19	Block	22	-1633,52,4418
+19	Block	35:11	-1633,51,4418
+19	Block	35:11	-1633,50,4418
+19	Block	35:11	-1633,49,4418
+19	Block	35:3	-1633,48,4418
+19	Block	35:3	-1633,47,4418
+19	Block	35:9	-1634,55,4418
+19	Block	35:9	-1634,54,4418
+19	Block	35:9	-1634,53,4418
+19	Block	22	-1634,52,4418
+19	Block	35:11	-1634,51,4418
+19	Block	35:11	-1634,50,4418
+19	Block	35:11	-1634,49,4418
+19	Block	35:11	-1634,48,4418
+19	Block	35:3	-1634,47,4418
+19	Block	35:9	-1635,55,4418
+19	Block	35:9	-1635,54,4418
+19	Block	35:9	-1635,53,4418
+19	Block	22	-1635,52,4418
+19	Block	35:11	-1635,51,4418
+19	Block	35:11	-1635,50,4418
+19	Block	35:11	-1635,49,4418
+19	Block	35:11	-1635,48,4418
+19	Block	35:11	-1635,47,4418
+19	Block	35:9	-1636,55,4418
+19	Block	35:9	-1636,54,4418
+19	Block	35:9	-1636,53,4418
+19	Block	22	-1636,52,4418
+19	Block	35:11	-1636,51,4418
+19	Block	35:11	-1636,50,4418
+19	Block	35:11	-1636,49,4418
+19	Block	35:11	-1636,48,4418
+19	Block	35:11	-1636,47,4418
+19	Block	35:9	-1637,55,4418
+19	Block	35:9	-1637,54,4418
+19	Block	35:9	-1637,53,4418
+19	Block	22	-1637,52,4418
+19	Block	22	-1637,51,4418
+19	Block	35:11	-1637,50,4418
+19	Block	35:11	-1637,49,4418
+19	Block	35:11	-1637,48,4418
+19	Block	35:11	-1637,47,4418
+19	Block	35:9	-1638,55,4418
+19	Block	35:9	-1638,54,4418
+19	Block	35:9	-1638,53,4418
+19	Block	35:9	-1638,52,4418
+19	Block	22	-1638,51,4418
+19	Block	35:11	-1638,50,4418
+19	Block	35:11	-1638,49,4418
+19	Block	35:11	-1638,48,4418
+19	Block	35:11	-1638,47,4418
+19	Block	35:9	-1639,55,4418
+19	Block	35:9	-1639,54,4418
+19	Block	35:9	-1639,53,4418
+19	Block	35:9	-1639,52,4418
+19	Block	35:9	-1639,51,4418
+19	Block	22	-1639,50,4418
+19	Block	35:11	-1639,49,4418
+19	Block	35:11	-1639,48,4418
+19	Block	35:11	-1639,47,4418
+19	Block	35:11	-1640,48,4418
+19	Block	35:11	-1640,47,4418
+19	Block	35:11	-1641,47,4418
+22	Block	35:11	-1621,54,4418
+22	Block	35:3	-1621,55,4418
+22	Block	35:3	-1621,56,4418
+22	Block	35:11	-1622,54,4418
+22	Block	35:3	-1622,55,4418
+22	Block	35:3	-1622,56,4418
+22	Block	22	-1623,54,4418
+22	Block	35:3	-1623,55,4418
+22	Block	35:3	-1623,56,4418
+22	Block	35:11	-1624,54,4418
+22	Block	35:3	-1624,55,4418
+22	Block	35:3	-1624,56,4418
+22	Block	35:11	-1625,54,4418
+22	Block	35:3	-1625,55,4418
+22	Block	35:3	-1625,56,4418
+22	Block	35:3	-1625,57,4418
+22	Block	35:11	-1626,55,4418
+22	Block	35:3	-1626,56,4418
+22	Block	35:3	-1626,57,4418
+22	Block	35:3	-1626,58,4418
+22	Block	35:11	-1627,55,4418
+22	Block	35:3	-1627,56,4418
+22	Block	35:3	-1627,57,4418
+22	Block	35:3	-1627,58,4418
+22	Block	35:11	-1628,55,4418
+22	Block	35:3	-1628,56,4418
+22	Block	35:3	-1628,57,4418
+22	Block	35:3	-1628,58,4418
+22	Block	22	-1629,55,4418
+22	Block	35:3	-1629,56,4418
+22	Block	35:3	-1629,57,4418
+22	Block	35:3	-1629,58,4418
+22	Block	22	-1630,55,4418
+22	Block	35:3	-1630,56,4418
+22	Block	35:3	-1630,57,4418
+22	Block	35:3	-1630,58,4418
+22	Block	35:11	-1631,55,4418
+22	Block	35:3	-1631,56,4418
+22	Block	35:3	-1631,57,4418
+22	Block	35:3	-1631,58,4418
+22	Block	35:9	-1632,55,4418
+22	Block	22	-1632,56,4418
+22	Block	35:3	-1632,57,4418
+22	Block	35:3	-1632,58,4418
+22	Block	35:9	-1633,55,4418
+22	Block	22	-1633,56,4418
+22	Block	35:3	-1633,57,4418
+22	Block	22	-1634,56,4418
+22	Block	35:3	-1634,57,4418
+22	Block	22	-1635,56,4418
+22	Block	35:3	-1635,57,4418
+22	Block	35:11	-1636,56,4418
+22	Block	35:3	-1636,57,4418
+22	Block	35:11	-1637,56,4418
+22	Block	35:3	-1637,57,4418
+22	Block	35:11	-1638,56,4418
+22	Block	35:3	-1638,57,4418
+22	Block	35:9	-1639,56,4418
+22	Block	35:3	-1639,57,4418
+22	Block	89	-1642,53,4417
+22	Block	89	-1643,53,4417
+22	Block	89	-1644,53,4417
+22	Block	89	-1645,53,4417
+22	Block	89	-1620,53,4417
+22	Block	89	-1619,53,4417
+22	Block	89	-1618,53,4417
+22	Block	89	-1638,58,4417
+22	Block	89	-1621,58,4417
+46	Block	35:7	-1621,51,4418
+46	Block	35:7	-1621,52,4418
+46	Block	35:7	-1621,53,4418
+46	Block	35:7	-1622,52,4418
+46	Block	35:7	-1622,53,4418
+46	Block	35:7	-1623,52,4418
+46	Block	35:7	-1623,53,4418
+46	Block	35:7	-1624,53,4418
+46	Block	35:7	-1625,53,4418
+46	Block	35:7	-1626,54,4418
+46	Block	35:7	-1626,53,4418
+46	Block	35:7	-1627,54,4418
+46	Block	35:7	-1628,54,4418
+46	Block	35:7	-1629,54,4418
+46	Block	35:7	-1630,54,4418
+46	Block	35:7	-1621,50,4418 
+46	Block	35:7	-1622,51,4418
+46	Block	35:7	-1631,54,4418
+46	Block	35:7	-1632,54,4418
+46	Block	35:7	-1633,54,4418
+46	Block	35:7	-1633,53,4418
+46	Block	35:7	-1634,55,4418
+46	Block	35:7	-1634,54,4418
+46	Block	35:7	-1634,53,4418
+46	Block	35:7	-1635,55,4418
+46	Block	35:7	-1635,54,4418
+46	Block	35:7	-1635,53,4418
+46	Block	35:7	-1636,55,4418
+46	Block	35:7	-1636,54,4418
+46	Block	35:7	-1636,53,4418
+46	Block	35:7	-1637,55,4418
+46	Block	35:7	-1637,54,4418
+46	Block	35:7	-1637,53,4418
+46	Block	35:7	-1638,55,4418
+46	Block	35:7	-1638,54,4418
+46	Block	35:7	-1638,53,4418
+46	Block	35:7	-1638,52,4418
+46	Block	35:7	-1639,55,4418
+46	Block	35:7	-1639,54,4418
+46	Block	35:7	-1639,53,4418
+46	Block	35:7	-1639,52,4418
+46	Block	35:7	-1639,51,4418
+46	Block	35:7	-1632,55,4418
+46	Block	35:7	-1633,55,4418
+46	Block	35:7	-1639,56,4418
+46	Block	22	-1629,46,4417
+46	Block	22	-1630,46,4417
+46	Block	22	-1631,46,4417
+46	Block	22	-1632,46,4417
+46	Block	22	-1618,46,4417
+46	Block	22	-1619,46,4417
+46	Block	22	-1620,46,4417
+46	Block	22	-1621,46,4417
+46	Block	22	-1640,46,4417
+46	Block	22	-1641,46,4417
+46	Block	22	-1642,46,4417
+46	Block	22	-1643,46,4417
+46	Block	22	-1644,46,4417
+46	Block	22	-1645,46,4417
+46	Block	0	-1642,53,4417
+46	Block	0	-1643,53,4417
+46	Block	0	-1644,53,4417
+46	Block	0	-1645,53,4417
+46	Block	0	-1620,53,4417
+46	Block	0	-1619,53,4417
+46	Block	0	-1618,53,4417
+46	Block	0	-1638,58,4417
+46	Block	0	-1621,58,4417
+46	Block	35:15	-1623,51,4418
+46	Block	35:15	-1624,52,4418
+46	Block	35:15	-1625,52,4418
+46	Block	35:15	-1626,52,4418
+46	Block	35:15	-1627,53,4418
+46	Block	35:15	-1627,52,4418
+46	Block	35:15	-1628,53,4418
+46	Block	35:15	-1629,53,4418
+46	Block	35:15	-1630,53,4418
+46	Block	35:15	-1631,53,4418
+46	Block	35:15	-1632,53,4418
+46	Block	35:15	-1633,52,4418
+46	Block	35:15	-1634,52,4418
+46	Block	35:15	-1635,52,4418
+46	Block	35:15	-1636,52,4418
+46	Block	35:15	-1637,52,4418
+46	Block	35:15	-1637,51,4418
+46	Block	35:15	-1638,51,4418
+46	Block	35:15	-1639,50,4418
+46	Block	35:15	-1623,54,4418
+46	Block	35:15	-1629,55,4418
+46	Block	35:15	-1630,55,4418
+46	Block	35:15	-1632,56,4418
+46	Block	35:15	-1633,56,4418
+46	Block	35:15	-1634,56,4418
+46	Block	35:15	-1635,56,4418
+46	Block   35:15	-1619,47,4418
+46	Block	35:15	-1620,47,4418
+46	Block	35:15	-1620,48,4418
+46	Block	35:15	-1621,47,4418
+46	Block	35:15	-1621,48,4418
+46	Block	35:15	-1621,49,4418
+46	Block	35:15	-1622,50,4418
+46	Block	35:15	-1622,49,4418
+46	Block	35:15	-1622,48,4418
+46	Block	35:15	-1622,47,4418
+46	Block	35:15	-1623,50,4418
+46	Block	35:15	-1623,49,4418
+46	Block	35:15	-1623,48,4418
+46	Block	35:15	-1623,47,4418
+46	Block	35:15	-1624,51,4418
+46	Block	35:15	-1624,50,4418
+46	Block	35:15	-1624,49,4418
+46	Block	35:15	-1624,48,4418
+46	Block	35:15	-1624,47,4418
+46	Block	35:15	-1625,51,4418
+46	Block	35:15	-1625,50,4418
+46	Block	35:15	-1625,49,4418
+46	Block	35:15	-1625,48,4418
+46	Block	35:15	-1625,47,4418
+46	Block	35:15	-1626,51,4418
+46	Block	35:15	-1626,50,4418
+46	Block	35:15	-1626,49,4418
+46	Block	35:15	-1626,48,4418
+46	Block	35:15	-1626,47,4418
+46	Block	35:15	-1627,51,4418
+46	Block	35:15	-1627,50,4418
+46	Block	35:15	-1627,49,4418
+46	Block	35:15	-1627,48,4418
+46	Block	35:15	-1628,52,4418
+46	Block	35:15	-1628,51,4418
+46	Block	35:15	-1628,50,4418
+46	Block	35:15	-1628,49,4418
+46	Block	35:15	-1629,52,4418
+46	Block	35:15	-1629,51,4418
+46	Block	35:15	-1629,50,4418
+46	Block	35:15	-1630,52,4418
+46	Block	35:15	-1630,51,4418
+46	Block	35:15	-1630,50,4418
+46	Block	35:15	-1631,52,4418
+46	Block	35:15	-1631,51,4418
+46	Block	35:15	-1631,50,4418
+46	Block	35:15	-1632,52,4418
+46	Block	35:15	-1632,51,4418
+46	Block	35:15	-1632,50,4418
+46	Block	35:15	-1633,51,4418
+46	Block	35:15	-1633,50,4418
+46	Block	35:15	-1633,49,4418
+46	Block	35:15	-1634,51,4418
+46	Block	35:15	-1634,50,4418
+46	Block	35:15	-1634,49,4418
+46	Block	35:15	-1634,48,4418
+46	Block	35:15	-1635,51,4418
+46	Block	35:15	-1635,50,4418
+46	Block	35:15	-1635,49,4418
+46	Block	35:15	-1635,48,4418
+46	Block	35:15	-1635,47,4418
+46	Block	35:15	-1636,51,4418
+46	Block	35:15	-1636,50,4418
+46	Block	35:15	-1636,49,4418
+46	Block	35:15	-1636,48,4418
+46	Block	35:15	-1636,47,4418
+46	Block	35:15	-1637,50,4418
+46	Block	35:15	-1637,49,4418
+46	Block	35:15	-1637,48,4418
+46	Block	35:15	-1637,47,4418
+46	Block	35:15	-1638,50,4418
+46	Block	35:15	-1638,49,4418
+46	Block	35:15	-1638,48,4418
+46	Block	35:15	-1638,47,4418
+46	Block	35:15	-1639,49,4418
+46	Block	35:15	-1639,48,4418
+46	Block	35:15	-1639,47,4418
+46	Block	35:15	-1640,48,4418
+46	Block	35:15	-1640,47,4418
+46	Block	35:15	-1641,47,4418
+46	Block	35:15	-1621,54,4418
+46	Block	35:15	-1622,54,4418
+46	Block	35:15	-1624,54,4418
+46	Block	35:15	-1625,54,4418
+46	Block	35:15	-1626,55,4418
+46	Block	35:15	-1627,55,4418
+46	Block	35:15	-1628,55,4418
+46	Block	35:15	-1631,55,4418
+46	Block	35:15	-1636,56,4418
+46	Block	35:15	-1637,56,4418
+46	Block	35:15	-1638,56,4418
+46	Block	35:11	-1627,47,4418
+46	Block	35:11	-1628,48,4418
+46	Block	35:11	-1628,47,4418 
+46	Block	35:11	-1629,48,4418
+46	Block	35:11	-1629,47,4418
+46	Block	35:11	-1630,49,4418
+46	Block	35:11	-1630,48,4418
+46	Block	35:11	-1630,47,4418
+46	Block	35:11	-1631,49,4418
+46	Block	35:11	-1631,48,4418
+46	Block	35:11	-1631,47,4418
+46	Block	35:11	-1632,49,4418
+46	Block	35:11	-1632,48,4418
+46	Block	35:11	-1632,47,4418
+46	Block	35:11	-1633,48,4418
+46	Block	35:11	-1633,47,4418
+46	Block	35:11	-1634,47,4418
+46	Block	35:11	-1621,55,4418
+46	Block	35:11	-1621,56,4418
+46	Block	35:11	-1622,55,4418
+46	Block	35:11	-1622,56,4418
+46	Block	35:11	-1623,55,4418
+46	Block	35:11	-1623,56,4418
+46	Block	35:11	-1624,55,4418
+46	Block	35:11	-1624,56,4418
+46	Block	35:11	-1625,55,4418
+46	Block	35:11	-1625,56,4418
+46	Block	35:11	-1625,57,4418
+46	Block	35:11	-1626,56,4418
+46	Block	35:11	-1626,57,4418
+46	Block	35:11	-1626,58,4418
+46	Block	35:11	-1627,56,4418
+46	Block	35:11	-1627,57,4418
+46	Block	35:11	-1627,58,4418
+46	Block	35:11	-1628,56,4418
+46	Block	35:11	-1628,57,4418
+46	Block	35:11	-1628,58,4418
+46	Block	35:11	-1629,56,4418
+46	Block	35:11	-1629,57,4418
+46	Block	35:11	-1629,58,4418
+46	Block	35:11	-1630,56,4418
+46	Block	35:11	-1630,57,4418
+46	Block	35:11	-1630,58,4418
+46	Block	35:11	-1631,56,4418
+46	Block	35:11	-1631,57,4418
+46	Block	35:11	-1631,58,4418
+46	Block	35:11	-1632,57,4418
+46	Block	35:11	-1632,58,4418
+46	Block	35:11	-1633,57,4418
+46	Block	35:11	-1634,57,4418
+46	Block	35:11	-1635,57,4418
+46	Block	35:11	-1636,57,4418
+46	Block	35:11	-1637,57,4418
+46	Block	35:11	-1638,57,4418
+46	Block	35:11	-1639,57,4418
+57	Block	22	-1631,46,4414
+57	Block	152	-1630,60,4408
+57	Block	171:1	-1630,47,4414
+57	Block	171:1	-1631,47,4413
+57	Block	171:1	-1632,47,4413
+57	Block	171:1	-1632,47,4414
+57	Block	0	-1631,48,4414
+57	Block	35:7	-1637,49,4409
+57	Block	35:7	-1636,48,4409
+57	Block	35:7	-1635,48,4409
+57	Block	35:7	-1635,49,4409
+57	Block	35:7	-1635,51,4409
+57	Block	35:7	-1636,50,4409
+57	Block	85	-1635,50,4409
+57	Block	85	-1636,49,4409
+57	Block	85	-1637,50,4409
+57	Block	35:7	-1634,49,4409
+57	Block	35:7	-1634,50,4409
+57	Block	35:7	-1634,51,4409
+57	Block	35:7	-1633,50,4409
+57	Block	35:7	-1632,50,4409
+57	Block	35:7	-1633,52,4409
+57	Block	35:7	-1632,52,4409
+57	Block	35:7	-1628,50,4409
+57	Block	35:7	-1628,51,4409
+57	Block	35:7	-1628,52,4409
+57	Block	35:7	-1629,50,4409
+57	Block	35:7	-1629,51,4409
+57	Block	35:7	-1629,52,4409
+57	Block	35:7	-1630,50,4409
+57	Block	35:7	-1630,51,4409
+57	Block	35:7	-1630,52,4409
+57	Block	35:7	-1631,50,4409
+57	Block	35:7	-1631,51,4409
+57	Block	35:7	-1631,52,4409
+57	Block	35:7	-1627,53,4409
+57	Block	35:7	-1627,51,4409
+57	Block	35:7	-1627,52,4409
+57	Block	35:7	-1626,52,4409
+57	Block	35:7	-1626,53,4409
+57	Block	35:7	-1626,54,4409
+57	Block	35:0	-1633,51,4409
+57	Block	35:4	-1632,51,4409
+57	Block	24:2	-1624,53,4409
+57	Block	24:2	-1625,54,4409
+57	Block	24:2	-1625,53,4409
+57	Block	24:2	-1625,52,4409
+57	Block	24:2	-1630,53,4409
+57	Block	24:2	-1630,49,4409
+57	Block	98	-1631,49,4409
+57	Block	98	-1629,49,4409
+57	Block	44:1	-1629,51,4408
+57	Block	44:1	-1630,51,4408
+57	Block	44:5	-1629,53,4409
+57	Block	44:5	-1631,53,4409
+57	Block	98	-1625,51,4409
+57	Block	44:5	-1625,55,4409
+57	Block	44:1	-1624,54,4409
+57	Block	24:0	-1624,52,4409
+59	Block	0	-1637,49,4409
+59	Block	0	-1636,48,4409
+59	Block	0	-1635,48,4409
+59	Block	0	-1635,49,4409
+59	Block	0	-1635,51,4409
+59	Block	0	-1636,50,4409
+59	Block	0	-1635,50,4409
+59	Block	0	-1636,49,4409
+59	Block	0	-1637,50,4409
+59	Block	0	-1634,49,4409
+59	Block	0	-1634,50,4409
+59	Block	0	-1634,51,4409
+59	Block	0	-1633,50,4409
+59	Block	0	-1632,50,4409
+59	Block	0	-1633,52,4409
+59	Block	0	-1632,52,4409
+59	Block	0	-1628,50,4409
+59	Block	0	-1628,51,4409
+59	Block	0	-1628,52,4409
+59	Block	0	-1629,50,4409
+59	Block	0	-1629,51,4409
+59	Block	0	-1629,52,4409
+59	Block	0	-1630,50,4409
+59	Block	0	-1630,51,4409
+59	Block	0	-1630,52,4409
+59	Block	0	-1631,50,4409
+59	Block	0	-1631,51,4409
+59	Block	0	-1631,52,4409
+59	Block	0	-1627,53,4409
+59	Block	0	-1627,51,4409
+59	Block	0	-1627,52,4409
+59	Block	0	-1626,52,4409
+59	Block	0	-1626,53,4409
+59	Block	0	-1626,54,4409
+59	Block	0	-1633,51,4409
+59	Block	0	-1632,51,4409
+59	Block	0	-1624,53,4409
+59	Block	0	-1625,54,4409
+59	Block	0	-1625,53,4409
+59	Block	0	-1625,52,4409
+59	Block	0	-1630,53,4409
+59	Block	0	-1630,49,4409
+59	Block	0	-1631,49,4409
+59	Block	0	-1629,49,4409
+59	Block	0	-1629,51,4408
+59	Block	0	-1630,51,4408
+59	Block	0	-1629,53,4409
+59	Block	0	-1631,53,4409
+59	Block	0	-1625,51,4409
+59	Block	0	-1625,55,4409
+59	Block	0	-1624,54,4409
+59	Block	0	-1624,52,4409
+59	Block	0	-1630,60,4408
+62	Block	89	-1631,46,4414
+80	Block	22	-1631,46,4414
+80	Block	35:15	-1630,47,4410
+80	Block	35:15	-1629,48,4410
+80	Block	35:15	-1629,49,4410
+80	Block	35:15	-1629,50,4410
+80	Block	35:15	-1628,53,4410
+80	Block	35:15	-1628,52,4410
+80	Block	35:15	-1628,51,4410
+80	Block	35:15	-1627,54,4410
+80	Block	35:15	-1626,55,4410
+80	Block	35:15	-1626,56,4410
+80	Block	35:15	-1626,57,4410
+80	Block	35:15	-1626,58,4410
+80	Block	35:15	-1634,47,4410
+80	Block	35:15	-1634,48,4410
+80	Block	35:15	-1633,49,4410
+80	Block	35:15	-1633,50,4410
+80	Block	35:15	-1633,51,4410
+80	Block	35:15	-1632,52,4410
+80	Block	35:15	-1632,53,4410
+80	Block	35:15	-1631,54,4410
+80	Block	35:15	-1631,55,4410
+80	Block	35:15	-1630,56,4410
+80	Block	35:15	-1630,57,4410
+80	Block	35:15	-1630,58,4410
+81	Block	35:15	-1631,47,4410
+81	Block	35:15	-1630,48,4410
+81	Block	35:15	-1630,49,4410
+81	Block	35:15	-1630,50,4410
+81	Block	35:15	-1629,51,4410
+81	Block	35:15	-1629,52,4410
+81	Block	35:15	-1629,53,4410
+81	Block	35:15	-1628,54,4410
+81	Block	35:15	-1627,55,4410
+81	Block	35:15	-1627,56,4410
+81	Block	35:15	-1627,57,4410
+81	Block	35:15	-1627,58,4410
+81	Block	35:15	-1633,47,4410
+81	Block	35:15	-1633,48,4410
+81	Block	35:15	-1632,49,4410
+81	Block	35:15	-1632,50,4410
+81	Block	35:15	-1632,51,4410
+81	Block	35:15	-1631,52,4410
+81	Block	35:15	-1630,54,4410
+81	Block	35:15	-1631,53,4410
+81	Block	35:15	-1630,55,4410
+81	Block	35:15	-1629,56,4410
+81	Block	35:15	-1629,57,4410
+81	Block	35:15	-1629,58,4410
+82	Block	35:15	-1632,47,4411
+82	Block	35:15	-1632,48,4411
+82	Block	35:15	-1631,48,4411
+82	Block	35:15	-1631,49,4411
+82	Block	35:15	-1631,50,4411
+82	Block	35:15	-1631,51,4411
+82	Block	35:15	-1630,51,4411
+82	Block	35:15	-1630,52,4411
+82	Block	35:15	-1630,53,4411
+82	Block	35:15	-1629,53,4411
+82	Block	35:15	-1629,54,4411
+82	Block	35:15	-1629,55,4411
+82	Block	35:15	-1628,55,4411
+82	Block	35:15	-1628,56,4411
+82	Block	35:15	-1628,57,4411
+82	Block	35:15	-1628,58,4411
+82	Block	160:15	-1632,47,4410
+82	Block	160:15	-1632,48,4410
+82	Block	160:15	-1631,48,4410
+82	Block	160:15	-1631,49,4410
+82	Block	160:15	-1631,50,4410
+82	Block	160:15	-1631,51,4410
+82	Block	160:15	-1630,51,4410
+82	Block	160:15	-1630,52,4410
+82	Block	160:15	-1630,53,4410
+82	Block	160:15	-1629,53,4410
+82	Block	160:15	-1629,54,4410
+82	Block	160:15	-1629,55,4410
+82	Block	160:15	-1628,55,4410
+82	Block	160:15	-1628,56,4410
+82	Block	160:15	-1628,57,4410
+82	Block	160:15	-1628,58,4410
+90	Block	22	-1630,47,4407
+90	Block	22	-1633,47,4407
+90	Block	89	-1621,51,4406
+90	Block	89	-1618,54,4406
+90	Block	89	-1617,48,4406
+90	Block	89	-1642,54,4406
+90	Block	89	-1641,51,4406
+90	Block	89	-1644,45,4406
+90	Block	89	-1626,46,4409
+90	Block	89	-1630,46,4409
+90	Block	89	-1634,46,4409
+90	Block	89	-1637,46,4409 
+90	Block	0	-1632,47,4411
+90	Block	0	-1632,48,4411
+90	Block	0	-1627,48,4409
+90	Block	160:10	-1626,48,4409
+90	Block	160:2	-1625,49,4409
+90	Block	160:10	-1624,50,4409
+90	Block	160:10	-1625,50,4409
+90	Block	160:10	-1625,51,4409
+90	Block	160:2	-1626,51,4409
+90	Block	160:5	-1630,47,4409
+90	Block	160:13	-1628,48,4409
+90	Block	160:5	-1629,49,4409
+90	Block	160:13	-1630,49,4409
+90	Block	160:13	-1630,50,4409
+90	Block	160:13	-1630,51,4409
+90	Block	160:13	-1629,51,4409
+90	Block	160:9	-1633,48,4408
+90	Block	160:9	-1632,48,4408
+90	Block	160:11	-1635,47,4409
+90	Block	160:9	-1634,48,4409
+90	Block	160:9	-1634,49,4409
+90	Block	160:3	-1633,49,4409
+90	Block	160:3	-1633,50,4409
+90	Block	160:3	-1632,50,4409
+90	Block	160:9	-1632,51,4409
+90	Block	160:4	-1637,48,4409
+90	Block	160:4	-1635,50,4409
+90	Block	160:4	-1636,50,4409
+90	Block	160:1	-1636,51,4409
+90	Block	160:1	-1637,51,4409
+91	Block	160:10	-1625,53,4409
+91	Block	160:10	-1625,52,4409
+91	Block	160:10	-1626,52,4409
+91	Block	35:1	-1629,48,4407
+91	Block	35:1	-1631,48,4407
+91	Block	35:1	-1633,48,4407
+91	Block	160:1	-1629,48,4406
+91	Block	160:1	-1631,48,4406
+91	Block	160:1	-1633,48,4406
+91	Block	160:5	-1631,49,4409
+91	Block	160:5	-1630,52,4409
+91	Block	160:11	-1632,52,4409
+91	Block	160:11	-1633,52,4409
+91	Block	160:3	-1633,53,4409
+91	Block	160:4	-1635,52,4409
+91	Block	160:4	-1637,52,4409
+91	Block	160:4	-1636,53,4409
+91	Block	160:1	-1636,52,4409
+92	Block	160:2	-1626,48,4408
+92	Block	35:1	-1628,49,4407
+92	Block	35:1	-1629,49,4407
+92	Block	35:1	-1631,49,4407
+92	Block	35:1	-1632,49,4407
+92	Block	35:1	-1634,49,4407
+92	Block	160:14	-1628,49,4406
+92	Block	160:14	-1632,49,4406
+92	Block	160:4	-1629,49,4406
+92	Block	160:4	-1631,49,4406
+92	Block	160:14	-1634,49,4406
+93	Block	160:1	-1635,50,4406
+92	Block	160:10	-1625,49,4408
+92	Block	160:2	-1627,52,4408
+92	Block	160:2	-1626,52,4408
+92	Block	160:2	-1626,54,4409
+92	Block	160:2	-1626,55,4409
+92	Block	160:2	-1625,54,4408
+92	Block	160:10	-1625,54,4409
+92	Block	160:13	-1630,53,4409
+92	Block	160:13	-1631,53,4409
+92	Block	160:13	-1631,53,4408
+92	Block	160:13	-1630,54,4409
+92	Block	160:13	-1629,54,4408
+92	Block	160:13	-1630,54,4408
+92	Block	95:11	-1632,48,4411
+92	Block	95:11	-1632,47,4411
+92	Block	0	-1633,48,4408
+92	Block	0	-1632,48,4408
+92	Block	160:9	-1632,48,4409
+92	Block	160:9	-1632,50,4408
+92	Block	160:9	-1633,52,4408
+92	Block	160:9	-1634,52,4408
+92	Block	160:11	-1632,54,4409
+92	Block	160:11	-1633,54,4409
+92	Block	160:4	-1636,53,4408
+92	Block	160:1	-1636,54,4409
+92	Block	160:1	-1635,54,4409
+92	Block	160:1	-1636,51,4408
+92	Block	160:4	-1635,50,4408
+92	Block	160:1	-1636,48,4408
+93	Block	35:1	-1627,50,4407
+93	Block	35:1	-1630,50,4407
+93	Block	35:1	-1632,50,4407
+93	Block	35:1	-1635,50,4407
+93	Block	160:1	-1632,50,4406
+93	Block	160:1	-1632,50,4406
+93	Block	160:14	-1630,50,4406
+93	Block	160:4	-1627,50,4406
+94	Block	35:1	-1629,51,4407
+94	Block	35:1	-1633,51,4407
+94	Block	160:14	-1629,51,4406
+94	Block	160:14	-1633,51,4406
+94	Block	160:5	-1630,55,4409
+94	Block	160:5	-1631,55,4409
+94	Block	0	-1632,50,4408
+94	Block	160:3	-1633,55,4409
+94	Block	160:3	-1634,55,4409
+94	Block	160:1	-1636,55,4409
+94	Block	0	-1635,50,4408
+242	Block	0	-1632,47,4411
+242	Block	0	-1632,48,4411
+242	Block	0	-1631,48,4411
+242	Block	0	-1631,49,4411
+242	Block	0	-1631,50,4411
+242	Block	0	-1631,51,4411
+242	Block	0	-1630,51,4411
+242	Block	0	-1630,52,4411
+242	Block	0	-1630,53,4411
+242	Block	0	-1629,53,4411
+242	Block	0	-1629,54,4411
+242	Block	0	-1629,55,4411
+242	Block	0	-1628,55,4411
+242	Block	0	-1628,56,4411
+242	Block	0	-1628,57,4411
+242	Block	0	-1628,58,4411
+242	Block	0	-1632,50,4407
+242	Block	0	-1633,50,4407
+242	Block	0	-1634,50,4407
+242	Block	0	-1635,50,4407
+242	Block	0	-1636,50,4407
+242	Block	0	-1630,50,4407
+242	Block	0	-1629,50,4407
+242	Block	0	-1628,50,4407
+242	Block	0	-1627,50,4407
+242	Block	0	-1626,50,4407
+242	Block	0	-1635,49,4407
+242	Block	0	-1634,49,4407
+242	Block	0	-1633,49,4407
+242	Block	0	-1629,49,4407
+242	Block	0	-1628,49,4407
+242	Block	0	-1627,49,4407
+242	Block	0	-1635,49,4406
+242	Block	0	-1633,49,4406
+242	Block	0	-1629,49,4406
+242	Block	0	-1627,49,4406
+242	Block	0	-1628,48,4407
+242	Block	0	-1628,47,4407
+242	Block	0	-1634,48,4407
+242	Block	0	-1634,47,4407
+353	Block	0	-1620,47,4413
+355	Block	0	-1624,50,4412
+355	Block	0	-1622,49,4412
+355	Block	0	-1623,49,4412
+355	Block	0	-1624,49,4412
+355	Block	0	-1625,50,4412
+355	Block	0	-1626,50,4412
+355	Block	0	-1625,50,4411
+355	Block	0	-1624,50,4411
+355	Block	0	-1623,50,4411
+355	Block	0	-1622,50,4411
+355	Block	0	-1625,50,4413
+355	Block	0	-1621,49,4413
+355	Block	0	-1620,48,4413
+355	Block	0	-1619,47,4413
+355	Block	0	-1624,50,4413
+355	Block	0	-1623,50,4413
+355	Block	0	-1622,50,4413
+358.5	Block	89	-1636,52,4415
+395	Block	0	-1636,51,4415
+395	Block	35:3	-1625,48,4418
+395	Block	35:3	-1629,50,4418
+395	Block	35:3	-1635,48,4418
+395	Block	35:3	-1632,53,4418
+395	Block	35:3	-1623,53,4418
+395	Block	35:3	-1635,55,4418
+395	Block	35:3	-1626,56,4418
+395	Block	35:3	-1631,57,4418
+395	Block	85	-1626,50,4416
+395	Block	85	-1626,51,4416
+395	Block	85	-1627,51,4416
+395	Block	85	-1627,52,4416
+395	Block	30	-1625,53,4416
+395	Block	30	-1626,53,4416
+395	Block	30	-1626,53,4417
+395	Block	30	-1627,53,4417
+395	Block	30	-1628,53,4417
+395	Block	30	-1626,54,4416
+395	Block	30	-1627,54,4416
+395	Block	30	-1627,54,4417
+395	Block	30	-1627,55,4416
+397	Block	0	-1626,50,4416
+397	Block	0	-1626,51,4416
+397	Block	0	-1627,51,4416
+397	Block	0	-1627,52,4416
+397	Block	0	-1625,53,4416
+397	Block	0	-1626,53,4416
+397	Block	0	-1626,53,4417
+397	Block	0	-1627,53,4417
+397	Block	0	-1628,53,4417
+397	Block	0	-1626,54,4416
+397	Block	0	-1627,54,4416
+397	Block	0	-1627,54,4417
+397	Block	0	-1627,55,4416
+397	Block	35:9	-1613,58,4418
+397	Block	35:9	-1614,58,4418
+397	Block	35:9	-1615,58,4418
+397	Block	35:9	-1616,58,4418
+397	Block	35:9	-1617,58,4418
+397	Block	35:9	-1618,58,4418
+397	Block	35:9	-1619,58,4418
+397	Block	35:9	-1620,58,4418
+397	Block	35:9	-1621,58,4418
+397	Block	35:9	-1622,58,4418
+397	Block	35:9	-1623,58,4418
+397	Block	35:9	-1624,58,4418
+397	Block	35:9	-1625,58,4418
+397	Block	35:9	-1626,58,4418
+397	Block	35:9	-1627,58,4418
+397	Block	35:9	-1628,58,4418
+397	Block	35:9	-1629,58,4418
+397	Block	35:9	-1630,58,4418
+397	Block	35:9	-1631,58,4418
+397	Block	35:9	-1632,58,4418
+397	Block	35:9	-1633,58,4418
+397	Block	35:9	-1634,58,4418
+397	Block	35:9	-1635,58,4418
+397	Block	35:9	-1636,58,4418
+397	Block	35:9	-1637,58,4418
+397	Block	35:9	-1638,58,4418
+397	Block	35:9	-1639,58,4418
+397	Block	35:9	-1640,58,4418
+397	Block	35:9	-1641,58,4418
+397	Block	35:9	-1642,58,4418
+397	Block	35:9	-1643,58,4418
+397	Block	35:9	-1644,58,4418
+397	Block	35:9	-1645,58,4418
+397	Block	35:9	-1646,58,4418
+397	Block	35:9	-1647,58,4418
+397	Block	35:9	-1648,58,4418
+397	Block	35:9	-1613,57,4418
+397	Block	35:9	-1614,57,4418
+397	Block	35:9	-1615,57,4418
+397	Block	35:9	-1616,57,4418
+397	Block	35:9	-1617,57,4418
+397	Block	35:9	-1618,57,4418
+397	Block	35:9	-1619,57,4418
+397	Block	35:9	-1620,57,4418
+397	Block	35:9	-1621,57,4418
+397	Block	35:9	-1622,57,4418
+397	Block	35:9	-1623,57,4418
+397	Block	35:9	-1624,57,4418
+397	Block	35:9	-1625,57,4418
+397	Block	35:9	-1626,57,4418
+397	Block	35:9	-1627,57,4418
+397	Block	35:9	-1628,57,4418
+397	Block	35:9	-1629,57,4418
+397	Block	35:4	-1632,53,4418
+397	Block	35:9	-1631,57,4418
+397	Block	35:9	-1633,57,4418
+397	Block	35:9	-1634,57,4418
+397	Block	35:9	-1635,57,4418
+397	Block	35:9	-1636,57,4418
+397	Block	35:9	-1637,57,4418
+397	Block	35:9	-1638,57,4418
+397	Block	35:9	-1639,57,4418
+397	Block	35:9	-1640,57,4418
+397	Block	35:9	-1641,57,4418
+397	Block	35:9	-1642,57,4418
+397	Block	35:9	-1643,57,4418
+397	Block	35:9	-1644,57,4418
+397	Block	35:9	-1645,57,4418
+397	Block	35:9	-1646,57,4418
+397	Block	35:9	-1647,57,4418
+397	Block	35:9	-1648,57,4418
+397	Block	35:9	-1613,56,4418
+397	Block	35:9	-1614,56,4418
+397	Block	35:9	-1615,56,4418
+397	Block	35:9	-1616,56,4418
+397	Block	35:9	-1617,56,4418
+397	Block	35:9	-1618,56,4418
+397	Block	35:9	-1619,56,4418
+397	Block	35:9	-1620,56,4418
+397	Block	35:9	-1621,56,4418
+397	Block	35:9	-1622,56,4418
+397	Block	35:9	-1623,56,4418
+397	Block	35:9	-1624,56,4418
+397	Block	35:9	-1625,56,4418
+397	Block	35:9	-1626,56,4418
+397	Block	35:9	-1627,56,4418
+397	Block	35:9	-1628,56,4418
+397	Block	35:9	-1629,56,4418
+397	Block	35:9	-1630,56,4418
+397	Block	35:9	-1631,56,4418
+397	Block	35:9	-1632,56,4418
+397	Block	35:9	-1634,56,4418
+397	Block	35:9	-1636,56,4418
+397	Block	35:9	-1637,56,4418
+397	Block	35:9	-1638,56,4418
+397	Block	35:9	-1639,56,4418
+357	Block	35:9	-1640,56,4418
+397	Block	35:9	-1641,56,4418
+397	Block	35:9	-1642,56,4418
+397	Block	35:9	-1643,56,4418
+397	Block	35:9	-1644,56,4418
+397	Block	35:9	-1645,56,4418
+397	Block	35:9	-1646,56,4418
+397	Block	35:9	-1647,56,4418
+397	Block	35:9	-1648,56,4418
+397	Block	35:9	-1613,55,4418
+397	Block	35:9	-1614,55,4418
+397	Block	35:9	-1615,55,4418
+397	Block	35:9	-1616,55,4418
+397	Block	35:9	-1617,55,4418
+397	Block	35:9	-1618,55,4418
+397	Block	35:9	-1619,55,4418
+397	Block	35:9	-1620,55,4418
+397	Block	35:9	-1621,55,4418
+397	Block	35:9	-1622,55,4418
+397	Block	35:9	-1623,55,4418
+397	Block	35:9	-1624,55,4418
+397	Block	35:9	-1625,55,4418
+397	Block	35:9	-1626,55,4418
+397	Block	35:9	-1627,55,4418
+397	Block	35:9	-1628,55,4418
+397	Block	35:9	-1629,55,4418
+397	Block	35:9	-1630,55,4418
+397	Block	35:9	-1631,55,4418
+397	Block	35:9	-1632,55,4418
+397	Block	35:9	-1634,55,4418
+397	Block	35:9	-1635,55,4418
+397	Block	35:9	-1636,55,4418
+397	Block	35:9	-1637,55,4418
+397	Block	35:9	-1638,55,4418
+397	Block	35:9	-1639,55,4418
+397	Block	35:9	-1640,55,4418
+397	Block	35:9	-1641,55,4418
+397	Block	35:9	-1642,55,4418
+397	Block	35:9	-1643,55,4418
+397	Block	35:9	-1644,55,4418
+397	Block	35:9	-1645,55,4418
+397	Block	35:9	-1646,55,4418
+397	Block	35:9	-1647,55,4418
+397	Block	35:9	-1648,55,4418
+397	Block	35:9	-1613,54,4418
+397	Block	35:9	-1614,54,4418
+397	Block	35:9	-1615,54,4418
+397	Block	35:9	-1616,54,4418
+397	Block	35:9	-1617,54,4418
+397	Block	35:9	-1618,54,4418
+397	Block	35:9	-1619,54,4418
+397	Block	35:9	-1620,54,4418
+397	Block	35:9	-1621,54,4418
+397	Block	35:9	-1622,54,4418
+397	Block	35:9	-1623,54,4418
+397	Block	35:9	-1624,54,4418
+397	Block	35:9	-1625,54,4418
+397	Block	35:9	-1626,54,4418
+397	Block	35:9	-1632,54,4418
+397	Block	35:9	-1633,54,4418
+397	Block	35:9	-1634,54,4418
+397	Block	35:9	-1635,54,4418
+397	Block	35:9	-1636,54,4418
+397	Block	35:9	-1637,54,4418
+397	Block	35:9	-1638,54,4418
+397	Block	35:9	-1639,54,4418
+397	Block	35:9	-1640,54,4418
+397	Block	35:9	-1641,54,4418
+397	Block	35:9	-1642,54,4418
+397	Block	35:9	-1643,54,4418
+397	Block	35:9	-1644,54,4418
+397	Block	35:9	-1645,54,4418
+397	Block	35:9	-1646,54,4418
+397	Block	35:9	-1647,54,4418
+397	Block	35:9	-1648,54,4418
+397	Block	35:9	-1613,53,4418
+397	Block	35:9	-1614,53,4418
+397	Block	35:9	-1615,53,4418
+397	Block	35:9	-1616,53,4418
+397	Block	35:9	-1617,53,4418
+397	Block	35:9	-1618,53,4418
+397	Block	35:9	-1619,53,4418
+397	Block	35:9	-1620,53,4418
+397	Block	35:9	-1621,53,4418
+397	Block	35:9	-1622,53,4418
+397	Block	35:9	-1623,53,4418
+397	Block	35:9	-1624,53,4418
+397	Block	35:9	-1625,53,4418
+397	Block	35:9	-1633,53,4418
+397	Block	35:9	-1634,53,4418
+397	Block	35:9	-1635,53,4418
+397	Block	35:9	-1636,53,4418
+397	Block	35:9	-1637,53,4418
+397	Block	35:9	-1638,53,4418
+397	Block	35:9	-1639,53,4418
+397	Block	35:9	-1640,53,4418
+397	Block	35:9	-1641,53,4418
+397	Block	35:9	-1642,53,4418
+397	Block	35:9	-1643,53,4418
+397	Block	35:9	-1644,53,4418
+397	Block	35:9	-1645,53,4418
+397	Block	35:9	-1646,53,4418
+397	Block	35:9	-1647,53,4418
+397	Block	35:9	-1648,53,4418
+397	Block	35:9	-1613,52,4418
+397	Block	35:9	-1614,52,4418
+397	Block	35:9	-1615,52,4418
+397	Block	35:9	-1616,52,4418
+397	Block	35:9	-1617,52,4418
+397	Block	35:9	-1618,52,4418
+397	Block	35:9	-1619,52,4418
+397	Block	35:9	-1620,52,4418
+397	Block	35:9	-1621,52,4418
+397	Block	35:9	-1622,52,4418
+397	Block	35:9	-1623,52,4418
+397	Block	35:9	-1624,52,4418
+397	Block	35:9	-1634,52,4418
+397	Block	35:9	-1635,52,4418
+397	Block	35:9	-1636,52,4418
+397	Block	35:9	-1637,52,4418
+397	Block	35:9	-1638,52,4418
+397	Block	35:9	-1639,52,4418
+397	Block	35:9	-1640,52,4418
+397	Block	35:9	-1641,52,4418
+397	Block	35:9	-1642,52,4418
+397	Block	35:9	-1643,52,4418
+397	Block	35:9	-1644,52,4418
+397	Block	35:9	-1645,52,4418
+397	Block	35:9	-1646,52,4418
+397	Block	35:9	-1647,52,4418
+397	Block	35:9	-1648,52,4418
+397	Block	35:9	-1613,51,4418
+397	Block	35:9	-1614,51,4418
+397	Block	35:9	-1615,51,4418
+397	Block	35:9	-1616,51,4418
+397	Block	35:9	-1617,51,4418
+397	Block	35:9	-1618,51,4418
+397	Block	35:9	-1619,51,4418
+397	Block	35:9	-1620,51,4418
+397	Block	35:9	-1621,51,4418
+397	Block	35:9	-1622,51,4418
+397	Block	35:9	-1623,51,4418
+397	Block	35:9	-1624,51,4418
+397	Block	35:9	-1634,51,4418
+397	Block	35:9	-1635,51,4418
+397	Block	35:9	-1636,51,4418
+397	Block	35:9	-1637,51,4418
+397	Block	35:9	-1638,51,4418
+397	Block	35:9	-1639,51,4418
+397	Block	35:9	-1640,51,4418
+397	Block	35:9	-1641,51,4418
+397	Block	35:9	-1642,51,4418
+397	Block	35:9	-1643,51,4418
+397	Block	35:9	-1644,51,4418
+397	Block	35:9	-1645,51,4418
+397	Block	35:9	-1646,51,4418
+397	Block	35:9	-1647,51,4418
+397	Block	35:9	-1648,51,4418
+397	Block	35:9	-1613,50,4418
+397	Block	35:9	-1614,50,4418
+397	Block	35:9	-1615,50,4418
+397	Block	35:9	-1616,50,4418
+397	Block	35:9	-1617,50,4418
+397	Block	35:9	-1618,50,4418
+397	Block	35:9	-1619,50,4418
+397	Block	35:9	-1620,50,4418
+397	Block	35:9	-1621,50,4418
+397	Block	35:9	-1622,50,4418
+397	Block	35:9	-1623,50,4418
+397	Block	35:9	-1624,50,4418
+397	Block	35:9	-1629,50,4418
+397	Block	35:9	-1634,50,4418
+397	Block	35:9	-1635,50,4418
+397	Block	35:9	-1636,50,4418
+397	Block	35:9	-1637,50,4418
+397	Block	35:9	-1638,50,4418
+397	Block	35:9	-1639,50,4418
+397	Block	35:9	-1640,50,4418
+397	Block	35:9	-1641,50,4418
+397	Block	35:9	-1642,50,4418
+397	Block	35:9	-1643,50,4418
+397	Block	35:9	-1644,50,4418
+397	Block	35:9	-1645,50,4418
+397	Block	35:9	-1646,50,4418
+397	Block	35:9	-1647,50,4418
+397	Block	35:9	-1648,50,4418
+397	Block	35:9	-1613,49,4418
+397	Block	35:9	-1614,49,4418
+397	Block	35:9	-1615,49,4418
+397	Block	35:9	-1616,49,4418
+397	Block	35:9	-1617,49,4418
+397	Block	35:9	-1618,49,4418
+397	Block	35:9	-1619,49,4418
+397	Block	35:9	-1620,49,4418
+397	Block	35:9	-1621,49,4418
+397	Block	35:9	-1622,49,4418
+397	Block	35:9	-1623,49,4418
+397	Block	35:9	-1624,49,4418
+397	Block	35:9	-1628,49,4418
+397	Block	35:9	-1629,49,4418
+397	Block	35:9	-1630,49,4418
+397	Block	35:9	-1633,49,4418
+397	Block	35:9	-1634,49,4418
+397	Block	35:9	-1635,49,4418
+397	Block	35:9	-1636,49,4418
+397	Block	35:9	-1637,49,4418
+397	Block	35:9	-1638,49,4418
+397	Block	35:9	-1639,49,4418
+397	Block	35:9	-1640,49,4418
+397	Block	35:9	-1641,49,4418
+397	Block	35:9	-1642,49,4418
+397	Block	35:9	-1643,49,4418
+397	Block	35:9	-1644,49,4418
+397	Block	35:9	-1645,49,4418
+397	Block	35:9	-1646,49,4418
+397	Block	35:9	-1647,49,4418
+397	Block	35:9	-1648,49,4418
+397	Block	35:9	-1613,48,4418
+397	Block	35:9	-1614,48,4418
+397	Block	35:9	-1615,48,4418
+397	Block	35:9	-1616,48,4418
+397	Block	35:9	-1617,48,4418
+397	Block	35:9	-1618,48,4418
+397	Block	35:9	-1619,48,4418
+397	Block	35:9	-1620,48,4418
+397	Block	35:9	-1621,48,4418
+397	Block	35:9	-1622,48,4418
+397	Block	35:9	-1623,48,4418
+397	Block	35:9	-1624,48,4418
+397	Block	35:9	-1629,48,4418
+397	Block	35:9	-1631,48,4418
+397	Block	35:9	-1632,48,4418
+397	Block	35:9	-1634,48,4418
+397	Block	35:9	-1635,48,4418
+397	Block	35:9	-1636,48,4418
+397	Block	35:9	-1637,48,4418
+397	Block	35:9	-1638,48,4418
+397	Block	35:9	-1639,48,4418
+397	Block	35:9	-1640,48,4418
+397	Block	35:9	-1641,48,4418
+397	Block	35:9	-1642,48,4418
+397	Block	35:9	-1643,48,4418
+397	Block	35:9	-1644,48,4418
+397	Block	35:9	-1645,48,4418
+397	Block	35:9	-1646,48,4418
+397	Block	35:9	-1647,48,4418
+397	Block	35:9	-1648,48,4418
+397	Block	35:9	-1613,47,4418
+397	Block	35:9	-1614,47,4418
+397	Block	35:9	-1615,47,4418
+397	Block	35:9	-1616,47,4418
+397	Block	35:9	-1617,47,4418
+397	Block	35:9	-1618,47,4418
+397	Block	35:9	-1619,47,4418
+397	Block	35:9	-1620,47,4418
+397	Block	35:9	-1621,47,4418
+397	Block	35:9	-1622,47,4418
+397	Block	35:9	-1623,47,4418
+397	Block	35:9	-1624,47,4418
+397	Block	35:9	-1625,47,4418
+397	Block	35:9	-1633,47,4418
+397	Block	35:9	-1634,47,4418
+397	Block	35:9	-1635,47,4418
+397	Block	35:9	-1636,47,4418
+397	Block	35:9	-1637,47,4418
+397	Block	35:9	-1638,47,4418
+397	Block	35:9	-1639,47,4418
+397	Block	35:9	-1640,47,4418
+397	Block	35:9	-1641,47,4418
+397	Block	35:9	-1642,47,4418
+397	Block	35:9	-1643,47,4418
+397	Block	35:9	-1644,47,4418
+397	Block	35:9	-1645,47,4418
+397	Block	35:9	-1646,47,4418
+397	Block	35:9	-1647,47,4418
+397	Block	35:9	-1648,47,4418
+397	Block	35:3	-1632,57,4418
+397	Block	35:3	-1635,56,4418
+397	Block	35:3	-1633,55,4418
+397	Block	35:4	-1627,54,4418
+397	Block	35:4	-1628,54,4418
+397	Block	35:4	-1629,54,4418
+397	Block	35:4	-1630,54,4418
+397	Block	35:4	-1631,54,4418
+397	Block	35:4	-1630,53,4418
+397	Block	35:4	-1629,53,4418
+397	Block	35:4	-1628,53,4418
+397	Block	35:4	-1629,52,4418
+397	Block	35:4	-1629,51,4418
+397	Block	35:4	-1632,53,3318
+397	Block	35:4	-1626,53,3318
+397	Block	35:4	-1633,52,4418
+397	Block	35:4	-1633,51,4418
+397	Block	35:4	-1633,50,4418
+397	Block	35:4	-1632,49,4418
+397	Block	35:4	-1631,49,4418
+397	Block	35:4	-1630,50,4418
+397	Block	35:4	-1628,50,4418
+397	Block	35:4	-1627,49,4418
+397	Block	35:4	-1626,49,4418
+397	Block	35:4	-1625,52,4418
+397	Block	35:4	-1625,51,4418
+397	Block	35:4	-1625,50,4418
+397	Block	95:3	-1631,51,4418
+397	Block	95:3	-1627,51,4418
+397	Block	35:7	-1625,49,4418
+397	Block	35:7	-1625,48,4418
+397	Block	35:7	-1626,47,4418
+397	Block	35:7	-1626,48,4418
+397	Block	35:7	-1627,47,4418
+397	Block	35:7	-1627,48,4418
+397	Block	35:7	-1628,48,4418
+397	Block	35:7	-1628,47,4418
+397	Block	35:7	-1629,47,4418
+397	Block	35:7	-1630,47,4418
+397	Block	35:7	-1630,48,4418
+397	Block	35:7	-1632,47,4418
+397	Block	35:7	-1631,47,4418
+397	Block	35:7	-1633,48,4418
+397 	Block	35:15	-1626,52,4418
+397 	Block	35:15	-1626,51,4418
+397 	Block	35:15	-1626,50,4418
+397 	Block	35:15	-1627,53,4418
+397 	Block	35:15	-1627,52,4418
+397 	Block	35:15	-1627,50,4418
+397 	Block	35:15	-1628,52,4418
+397 	Block	35:15	-1628,51,4418
+397 	Block	35:15	-1632,52,4418
+397 	Block	35:15	-1632,51,4418
+397 	Block	35:15	-1632,50,4418
+397 	Block	35:15	-1631,53,4418
+397 	Block	35:15	-1631,52,4418
+397 	Block	35:15	-1631,50,4418
+397 	Block	35:15	-1630,52,4418
+397 	Block	35:15	-1630,51,4418
+397	Block	89	-1629,49,4417
+397	Block	35:0	-1631,48,4417
+397	Block	35:11	-1629,50,4417
+397	Block	35:11	-1629,48,4417
+397	Block	35:11	-1628,49,4417
+397	Block	35:11	-1630,49,4417
+397	Block	35:11	-1632,48,4417
+397	Block	35:11	-1633,49,4417
+397	Block	35:11	-1634,50,4417
+397	Block	35:11	-1635,51,4417
+397	Block	35:11	-1635,52,4417
+397	Block	35:11	-1636,53,4417
+397	Block	35:11	-1636,54,4417
+397	Block	35:11	-1637,55,4417
+397	Block	35:11	-1638,56,4417
+397	Block	85	-1633,50,4416
+397	Block	85	-1633,51,4416
+397	Block	85	-1634,51,4416
+397	Block	85	-1634,52,4416
+397	Block	30	-1634,53,4416
+397	Block	30	-1633,52,4416
+397	Block	30	-1633,52,4415
+397	Block	30	-1634,52,4415
+402	Block	35:9	-1627,54,4418
+402	Block	35:9	-1628,54,4418
+402	Block	35:9	-1629,54,4418
+402	Block	35:9	-1630,54,4418
+402	Block	35:9	-1631,54,4418
+402	Block	35:9	-1630,53,4418
+402	Block	35:9	-1629,53,4418
+402	Block	35:9	-1628,53,4418
+402	Block	35:9	-1629,52,4418
+402	Block	35:9	-1629,51,4418
+402	Block	35:9	-1632,53,3318
+402	Block	35:9	-1626,53,3318
+402	Block	35:9	-1633,52,4418
+402	Block	35:9	-1633,51,4418
+402	Block	35:9	-1633,50,4418
+402	Block	35:9	-1632,49,4418
+402	Block	35:9	-1631,49,4418
+402	Block	35:9	-1630,50,4418
+402	Block	35:9	-1628,50,4418
+402	Block	35:9	-1627,49,4418
+402	Block	35:9	-1626,49,4418
+402	Block	35:9	-1625,52,4418
+402	Block	35:9	-1625,51,4418
+402	Block	35:9	-1625,50,4418
+402	Block	35:9	-1625,49,4418
+402	Block	35:9	-1625,48,4418
+402	Block	35:9	-1626,47,4418
+402	Block	35:9	-1626,48,4418
+402	Block	35:9	-1627,47,4418
+402	Block	35:9	-1627,48,4418
+402	Block	35:9	-1628,48,4418
+402	Block	35:9	-1628,47,4418
+402	Block	35:9	-1629,47,4418
+402	Block	35:9	-1630,47,4418
+402	Block	35:9	-1630,48,4418
+402	Block	35:9	-1632,47,4418
+402	Block	35:9	-1631,47,4418
+402	Block	35:9	-1633,48,4418
+402 	Block	35:9	-1626,52,4418
+402 	Block	35:9	-1626,51,4418
+402 	Block	35:9	-1626,50,4418
+402 	Block	35:9	-1627,53,4418
+402 	Block	35:9	-1627,52,4418
+402 	Block	35:9	-1627,50,4418
+402 	Block	35:9	-1628,52,4418
+402 	Block	35:9	-1628,51,4418
+402 	Block	35:9	-1632,52,4418
+402 	Block	35:9	-1632,51,4418
+402 	Block	35:9	-1632,50,4418
+402 	Block	35:9	-1631,53,4418
+402 	Block	35:9	-1631,52,4418
+402 	Block	35:9	-1631,50,4418
+402 	Block	35:9	-1630,52,4418
+402 	Block	35:9	-1630,51,4418
+402	Block	35:9	-1631,51,4418
+402	Block	35:9	-1627,51,4418
+402	Block	35:9	-1632,57,4418
+402	Block	35:9	-1626,53,4418
+402	Block	35:9	-1632,53,4418
+402	Block	35:9	-1635,56,4418
+402	Block	35:9	-1633,55,4418
+402	Block	0	-1629,49,4417
+402	Block	0	-1631,48,4417
+402	Block	0	-1629,50,4417
+402	Block	0	-1629,48,4417
+402	Block	0	-1628,49,4417
+402	Block	0	-1630,49,4417
+402	Block	0	-1632,48,4417
+402	Block	0	-1633,49,4417
+402	Block	0	-1634,50,4417
+402	Block	0	-1635,51,4417
+402	Block	0	-1635,52,4417
+402	Block	0	-1636,53,4417
+402	Block	0	-1636,54,4417
+402	Block	0	-1637,55,4417
+402	Block	0	-1638,56,4417
+402	Block	0	-1633,50,4416
+402	Block	0	-1633,51,4416
+402	Block	0	-1634,51,4416
+402	Block	0	-1634,52,4416
+402	Block	0	-1634,53,4416
+402	Block	0	-1633,52,4416
+402	Block	0	-1633,52,4415
+402	Block	0	-1634,52,4415
+402	Block	0	-1625,56,4414
+402	Block	0	-1626,56,4414
+402	Block	0	-1627,56,4414
+402	Block	0	-1628,56,4414
+402	Block	0	-1629,56,4414
+402	Block	0	-1626,55,4414
+402	Block	0	-1627,55,4414
+402	Block	0	-1628,55,4414
+402	Block	0	-1628,56,4415
+402	Block	0	-1627,56,4415
+402	Block	0	-1626,56,4415
+402	Block	0	-1626,56,4413
+402	Block	0	-1627,56,4413
+402	Block	0	-1628,56,4413
+1176	Block	166	-1646,50,4388
+1176	Block	166	-1645,50,4388
+1176	Block	166	-1638,50,4388
+1176	Block	166	-1637,50,4388
+1176	Block	166	-1625,50,4388
+1176	Block	166	-1624,50,4388
+1176	Block	166	-1617,50,4388
+1176	Block	166	-1616,50,4388
+1176	Block	166	-1616,49,4392
+1176	Block	166	-1617,49,4392
+1176	Block	166	-1618,49,4392
+1176	Block	166	-1624,49,4392
+1176	Block	166	-1625,49,4392
+1176	Block	166	-1637,49,4392
+1176	Block	166	-1638,49,4392
+1176	Block	166	-1644,49,4392
+1176	Block	166	-1645,49,4392
+1176	Block	166	-1646,49,4392

@@ -1,0 +1,11 @@
+Show	Location	-1614,64,-353
+Show	TextRadius	100
+#5BC
+0	Block	152	-1593,57,-471
+#BarriersOn
+0	Block	152	-1633,57,-458
+#Schematics
+#RailsOff
+0	Schematic	MKRailsOff	-1614	64	-273	mk	false
+#MainShow
+300	Block	152	-1597,56,-472

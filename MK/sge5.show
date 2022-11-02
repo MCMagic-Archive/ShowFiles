@@ -1,0 +1,14 @@
+Show    Location        -1747,63,-1177
+Show    TextRadius      35
+0	Block	152	-1735,65,-1175
+0       Block   152     -1732,64,-1172
+75	Block	152	-1730,65,-1180
+150	Block	152	-1732,65,-1180
+225	Block	152	-1731,65,-1180
+#Start Show
+305	Block	152	-1730,61,-1176
+#Close Doors
+300	Block	152	-1735,65,-1177
+301	Block	57	-1735,65,-1177
+#CM Chat Announcement
+300	Block	152	-1730,61,-1174

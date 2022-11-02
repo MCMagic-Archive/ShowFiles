@@ -1,0 +1,198 @@
+#Dapper Dans Original Boy Band
+Show	Location	-1639,64,-264
+Show	TextRadius	25
+#Mainstreet musics
+90	Block	152	-1633,70,-296
+170	Block	152	-1633,70,-297
+#Barriers
+0	Block	166	-1652,65,-276
+0	Block	166	-1653,65,-275
+0	Block	166	-1654,65,-274
+0	Block	166	-1653,65,-273
+0	Block	166	-1652,65,-272
+0	Block	166	-1651,65,-271
+0	Block	166	-1650,65,-270
+0	Block	166	-1649,65,-269
+0	Block	166	-1648,65,-269
+0	Block	166	-1647,65,-269
+0	Block	166	-1646,65,-269
+0	Block	166	-1645,65,-269
+0	Block	166	-1644,65,-269
+0	Block	166	-1643,65,-269
+0	Block	166	-1642,65,-269
+0	Block	166	-1641,65,-269
+0	Block	166	-1640,65,-269
+0	Block	166	-1639,65,-269
+0	Block	166	-1638,65,-269
+0	Block	166	-1637,65,-269
+0	Block	166	-1636,65,-269
+0	Block	166	-1635,65,-269
+0	Block	166	-1634,65,-269
+0	Block	166	-1634,65,-268
+0	Block	166	-1634,65,-267
+0	Block	166	-1634,65,-266
+0	Block	166	-1634,65,-265
+0	Block	166	-1634,65,-264
+0	Block	166	-1634,65,-263
+0	Block	166	-1634,65,-262
+0	Block	166	-1635,65,-262
+0	Block	166	-1636,65,-262
+0	Block	166	-1637,65,-262
+0	Block	166	-1638,65,-262
+0	Block	166	-1639,65,-262
+0	Block	166	-1640,65,-262
+0	Block	166	-1641,65,-262
+0	Block	166	-1642,65,-262
+0	Block	166	-1643,65,-262
+0	Block	166	-1644,65,-262
+0	Block	166	-1645,65,-262
+0	Block	166	-1646,65,-262
+0	Block	166	-1647,65,-262
+0	Block	166	-1648,65,-262
+0	Block	166	-1649,65,-262
+0	Block	166	-1650,65,-262
+0	Block	166	-1651,65,-262
+0	Block	166	-1652,65,-262
+0	Block	166	-1653,65,-262
+0	Block	166	-1654,65,-262
+0	Block	166	-1655,65,-262
+#TP Out
+0	Block	152	-1645,60,-243
+#2	Block	152	-1644,61,-264
+#Announcement
+#12	Block	152	-1644,60,-264
+#WalkOut
+0	Block	152	-1638,70,-312
+#Talk
+0	Text	&3Ladies and gentlemen at this time our &9Dapper Dans &3will be singing a quick tune for your pleasure at &6/warp barbershop
+37	Block	152	-1630,61,-262
+37	Text	&f[&5Purple Dan&f] &dYou know we've been hearing alot about these boy bands lately.
+38	Block	152	-1637,60,-260
+42	Text	&dYou know what I'm talking about, One Direction, Backstreet boys, Kitchen Sink.
+47	Text	&f[&4Red Dan&f] &cThat's N'Sync
+47	Block	152	-1624,61,-262
+52	Text	&f[&5Purple Dan&f] &dRight Right, Well anyway, They seem to be the latest craze.
+52	Block	152	-1630,61,-262
+57	Text	&f[&6Yellow Dan&f] &eAnd... a real hit with the ladies!
+57	Block	152	-1633,61,-262
+62	Text	&f[&5Purple Dan&f] &dSo I said to the Dan's 'Dans?'
+66.5	Block	152	-1637,61,-251
+66.5	Block	152	-1637,61,-250
+66.5	Block	152	-1637,61,-249
+67	Block	152	-1633,61,-262
+67.1	Block	152	-1627,61,-262
+67.2	Block	152	-1624,61,-262
+67	Text	&f[&6Yellow Dan&f] &eYes
+67.1	Text	&f[&4Red Dan&f] &cYes
+67.2	Text	&f[&9Blue Dan&f] &bYes
+70	Block	152	-1637,61,-248
+70	Block	152	-1637,61,-247
+70	Block	152	-1637,61,-246
+72	Block	152	-1630,61,-262
+72	Text	&f[&5Purple Dan&f] &dWe've been doing this for a while right?
+76	Block	152	-1640,60,-260
+77	Block	152	-1627,61,-262
+77	Text	&f[&9Blue Dan&f] &bEver since I was a tenor.
+82	Text	&f[&5Purple Dan&f] &dYou know I think that we may have invented this craze. I mean we are the original boy band.
+84	Block	152	-1640,61,-260
+87	Block	152	-1643,60,-260
+87	Text	&f[&4Red Dan&f] &cSo without further ado ladies and gentlemen, we'd like to present this song done in it's original style.
+90	Block	152	-1643,61,-260
+92	Text	&f[&5Purple Dan&f] &dHit it boys!
+92	Block	152	-1637,61,-260
+#StartSinging
+93	Block	152	-1646,60,-260
+93	Text	We're the original boy band
+96	Text	With songs we never sing
+103	Text	Everyone else in the room can see it.
+106.5	Text	Everyone else but you oo
+109.5	Text	Baby you light up my world like nobody else,
+113.5	Text	The way that you flip your hair get me overwhelmed,
+114	Block	152	-1637,61,-251
+114	Block	152	-1637,61,-250
+114	Block	152	-1637,61,-249
+117	Text	But when you smile at the ground it ain't hard to tell,
+119	Block	152	-1637,61,-248
+119	Block	152	-1637,61,-247
+119	Block	152	-1637,61,-246
+121	Text	You don't know,
+122	Text	Oh, oh,
+123	Text	You don't know you're beautiful
+126	Text	If only you saw what I can see,
+128.5	Text	You'll understand why I want you so desperately
+132.25	Text	Right now I'm looking at you and I can't believe,
+136	Text	Oh, oh, woah, oh oh
+138	Text	You don't know you're beautiful
+140.5	Text	Oh, oh, woah, oh, oh
+142.33	Text	That's what makes you beautiful
+144	Text	Oooooooooo
+150	Block	152	-1630,61,-262
+150	Text	&f[&5Purple Dan&f] &dThank you very much folks!  
+155	Block	152	-1627,61,-262
+155	Text	&f[&9Blue Dan&f] &bIf you enjoyed our show we are the Dapper Dans of Main Street. 
+#Turns right
+160	Block	152	-1633,61,-262
+160	Text	&f[&6Yellow Dan&f] &e And if you did not enjoy our show ...
+#Turns left
+162	Block	152	-1624,61,-262
+165	Text	&f[&4Red Dan&f] &cYou paid too much!
+170	Block	1	-1645,60,-243
+170	Block	152	-1645,60,-255
+170	Block	152	-1645,60,-253
+170	Block	152	-1645,60,-252
+170	Block	152	-1645,60,-251
+170	Block	152	-1645,60,-250
+200	Block	152	-1645,60,-243
+#RemoveBarriers
+
+200	Block	0	-1652,65,-276
+200	Block	0	-1653,65,-275
+200	Block	0	-1654,65,-274
+200	Block	0	-1653,65,-273
+200	Block	0	-1652,65,-272
+200	Block	0	-1651,65,-271
+200	Block	0	-1650,65,-270
+200	Block	0	-1649,65,-269
+200	Block	0	-1648,65,-269
+200	Block	0	-1647,65,-269
+200	Block	0	-1646,65,-269
+200	Block	0	-1645,65,-269
+200	Block	0	-1644,65,-269
+200	Block	0	-1643,65,-269
+200	Block	0	-1642,65,-269
+200	Block	0	-1641,65,-269
+200	Block	0	-1640,65,-269
+200	Block	0	-1639,65,-269
+200	Block	0	-1638,65,-269
+200	Block	0	-1637,65,-269
+200	Block	0	-1636,65,-269
+200	Block	0	-1635,65,-269
+200	Block	0	-1634,65,-269
+200	Block	0	-1634,65,-268
+200	Block	0	-1634,65,-267
+200	Block	0	-1634,65,-266
+200	Block	0	-1634,65,-265
+200	Block	0	-1634,65,-264
+200	Block	0	-1634,65,-263
+200	Block	0	-1634,65,-262
+200	Block	0	-1635,65,-262
+200	Block	0	-1636,65,-262
+200	Block	0	-1637,65,-262
+200	Block	0	-1638,65,-262
+200	Block	0	-1639,65,-262
+200	Block	0	-1640,65,-262
+200	Block	0	-1641,65,-262
+200	Block	0	-1642,65,-262
+200	Block	0	-1643,65,-262
+200	Block	0	-1644,65,-262
+200	Block	0	-1645,65,-262
+200	Block	0	-1646,65,-262
+200	Block	0	-1647,65,-262
+200	Block	0	-1648,65,-262
+200	Block	0	-1649,65,-262
+200	Block	0	-1650,65,-262
+200	Block	0	-1651,65,-262
+200	Block	0	-1652,65,-262
+200	Block	0	-1653,65,-262
+200	Block	0	-1654,65,-262
+200	Block	0	-1655,65,-262

@@ -1,0 +1,125 @@
+Show	Location	-1747,63,-1177
+Show	TextRadius	35
+#Text	
+2.7	Text	&f[cPleakley&f] &2Attention!
+4.2	Text	&2Attention!
+5.9	Text	&2May I have your attention please!?
+9.4	Text	&2All rise for the &6Galactic Federation Grand Councilwoman!
+15.2	Text	&f[&6Grand Councilwoman&f] &eWelcome recruits to the Galactic Federation Prison and Teleport Center.
+20.3	Text	&eI commend you for making the brave decision to join our noble ranks as guards.
+26.1	Text	&eThe universe is filled with a wonderful integration of alien societies.
+32.3	Text	&eHowever, as in all societies, there are the nice, and the naughty.
+39.8	Text	&eHere, is where we teleport in the naughty.
+45.4	Text	&eYour job is to guard them until they have decided to become nice.
+50.4	Text	&eI will now leave you under the capable supervision of &9Captain Gantu.
+56.4	Text	&f[&9Gantu&f] &7At ease recruits.  As you will soon discover, being a guard of the Galatic Federation is filled with challenges.
+63.2	Text	&7Now I realize this is your first day, so I will give you until the end of your shift to familiarize yourself with all of our prisoners.
+71	Text	&7Memorize their names AND their faces.  Your life may depend on it.
+77.1	Text	&7Alright recruits, proceed to our prisoner teleportation chamber for further briefing.  &cPleakley!
+83.1	Text	&f[&cPleakley&f] &2At your service Captain! 
+85.3	Text	&2Ahem, Attention recruits! 
+88.9	Text	&2The access doors will open in 5 seconds, so be ready to march inside.  
+95	Text	&2ON THE DOUBLE!
+#Pre-Show Room Lights
+0	Block	0	-1741,70,-1175
+0	Block	0	-1743,70,-1176
+0	Block	0	-1745,70,-1176
+0	Block	0	-1747,70,-1177
+0	Block	0	-1749,70,-1177
+0	Block	0	-1751,70,-1178
+#PRE SHOW ROOM LIGHTS
+96	Block	152	-1741,70,-1175
+96	Block	152	-1743,70,-1176
+96	Block	152	-1745,70,-1176
+96	Block	152	-1747,70,-1177
+96	Block	152	-1749,70,-1177
+96	Block	152	-1751,70,-1178
+#DoorOpening
+96	Block	0	-1757,61,-1179
+#DoorClosing
+114	Block	152	-1757,61,-1179
+#EXIT SIGNS (1 No Flash)
+96	Block	152	-1754,54,-1190
+96	Block	152	-1751,53,-1190
+96	Block	152	-1748,54,-1190
+96	Block	152	-1745,54,-1190
+96.2	Block	0	-1754,54,-1190
+96.2	Block	0	-1751,53,-1190
+96.2	Block	0	-1748,54,-1190
+96.2	Block	0	-1745,54,-1190
+#EXIT SIGNS (1 Flash)
+96.3	Block	152	-1754,54,-1194
+96.3	Block	152	-1741,54,-1195
+96.3	Block	152	-1741,54,-1193
+96.3	Block	152	-1741,54,-1191
+97	Block	0	-1754,54,-1194
+97	Block	0	-1741,54,-1195
+97	Block	0	-1741,54,-1193
+97	Block	0	-1741,54,-1191
+#EXIT SIGNS (2 No Flash)
+97.1	Block	152	-1754,54,-1190
+97.1	Block	152	-1751,53,-1190
+97.1	Block	152	-1748,54,-1190
+97.1	Block	152	-1745,54,-1190
+97.7	Block	0	-1754,54,-1190
+97.7	Block	0	-1751,53,-1190
+97.7	Block	0	-1748,54,-1190
+97.7	Block	0	-1745,54,-1190
+#EXIT SIGNS (2 Flash)
+97.8	Block	152	-1754,54,-1194
+97.8	Block	152	-1741,54,-1195
+97.8	Block	152	-1741,54,-1193
+97.8	Block	152	-1741,54,-1191
+98.3	Block	0	-1754,54,-1194
+98.3	Block	0	-1741,54,-1195
+98.3	Block	0	-1741,54,-1193
+98.3	Block	0	-1741,54,-1191
+#EXIT SIGNS (3 No Flash)
+98.4	Block	152	-1754,54,-1190
+98.4	Block	152	-1751,53,-1190
+98.4	Block	152	-1748,54,-1190
+98.4	Block	152	-1745,54,-1190
+99	Block	0	-1754,54,-1190
+99	Block	0	-1751,53,-1190
+99	Block	0	-1748,54,-1190
+99	Block	0	-1745,54,-1190
+#EXIT SIGNS (3 Flash)
+99.1	Block	152	-1754,54,-1194
+99.1	Block	152	-1741,54,-1195
+99.1	Block	152	-1741,54,-1193
+99.1	Block	152	-1741,54,-1191
+99.9	Block	0	-1754,54,-1194
+99.9	Block	0	-1741,54,-1195
+99.9	Block	0	-1741,54,-1193
+99.9	Block	0	-1741,54,-1191
+#EXIT SIGNS (4 No Flash)
+100	Block	152	-1754,54,-1190
+100	Block	152	-1751,53,-1190
+100	Block	152	-1748,54,-1190
+100	Block	152	-1745,54,-1190
+100.9	Block	0	-1754,54,-1190
+100.9	Block	0	-1751,53,-1190
+100.9	Block	0	-1748,54,-1190
+100.9	Block	0	-1745,54,-1190
+#EXIT SIGNS (4 Flash)
+101	Block	152	-1754,54,-1194
+101	Block	152	-1741,54,-1195
+101	Block	152	-1741,54,-1193
+101	Block	152	-1741,54,-1191
+101.9	Block	0	-1754,54,-1194
+101.9	Block	0	-1741,54,-1195
+101.9	Block	0	-1741,54,-1193
+101.9	Block	0	-1741,54,-1191
+#EXIT SIGNS (4 No Flash)
+102	Block	152	-1754,54,-1190
+102	Block	152	-1751,53,-1190
+102	Block	152	-1748,54,-1190
+102	Block	152	-1745,54,-1190
+#EXTRA Removing last sign
+116	Block	0	-1752,65,-1180
+
+
+
+
+
+

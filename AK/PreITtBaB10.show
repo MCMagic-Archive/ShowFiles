@@ -1,0 +1,60 @@
+Show	Location	-1937,25,4318
+Show	TextRadius	50
+#10MinuteBroadcast
+0	Block	152	-1936,45,4324
+#10MinuteHelpOp
+0	Block	152	-1937,45,4323
+#5MinuteBroadcast
+300	Block	152	-1936,45,4325
+#5MinuteHelpOp
+300	Block	152	-1937,45,4322
+#OpenDoors
+300	Block	0	-1949,23,4336
+#Barriers
+300	Block	0	-1958,29,4333
+300	Block	0	-1957,29,4334
+300	Block	0	-1956,29,4334
+300	Block	0	-1955,29,4333
+300	Block	0	-1953,28,4333
+300	Block	0	-1952,28,4334
+300	Block	0	-1951,28,4334
+300	Block	0	-1950,28,4333
+300	Block	0	-1949,27,4333
+300	Block	0	-1948,27,4334
+300	Block	0	-1947,27,4334
+300	Block	0	-1946,27,4333
+300	Block	0	-1942,26,4333
+300	Block	0	-1941,26,4334
+300	Block	0	-1940,26,4334
+300	Block	0	-1939,26,4333
+#ExitDoors
+300	Block	152	-1949,22,4296
+#2MinuteHelpOp
+480	Block	152	-1936,45,4327
+#ShowStart
+600	Block	152	-1907,27,4308
+#PreShowMusic
+42	Block	152	-1936,45,4315
+#MuteChatWarning
+590	Block	152	-1937,45,4321
+#MuteChatBc
+#9m
+60	Block	152	-1936,45,4322
+#6m
+240	Block	152	-1936,45,4322
+#2m
+480	Block	152	-1936,45,4322
+#AudioPackBc
+#7m
+180	Block	152	-1936,45,4322
+#3m
+420	Block	152	-1936,45,4322
+#EffectBc
+#8m
+120	Block	152	-1936,45,4322
+#4m
+360	Block	152	-1936,45,4322
+#1m
+540	Block	152	-1936,45,4322
+
+

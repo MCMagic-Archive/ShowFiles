@@ -1,0 +1,262 @@
+Show	Location	-1614,64,-347
+Show	TextRadius	100
+#A few minutes announcement
+1	Text	During the Electrical Parade, the chat will be disabled park-wide. ?We will re-enable it after the parade. 
+1	Schematic	nomkrails	-1618	64	-436	 world	false
+4	Block	152	-1647,70,-337
+5	Block	0	-1647,70,-337
+5.2	Text	Ladies and gentleman
+1	Block	151	-1707,64,-267
+7	Text	boys and girls, 
+9	Text	in just a few minutes 
+11	Text	you're invited to celebrate with us 
+14	Text	as we share in the glow with 
+16	Text	Disney's Main Street Electrical Parade.
+20	Text	In order for you to fully experience tonight presentation, 
+24	Text	the Magic Kingdom 
+26	Text	lighting will be reduced. 
+28	Text	We recommend for your own 
+30	Text	safety and convenience 
+32	Text	that you enjoy our parade performance 
+34.5	Text	by remaining in one location 
+37	Text	until the lighting returns to normal.
+40	Text	We also ask 
+41.3	Text	for the safety of our performers that you 
+44	Text	refrain from the use of video camera lighting. 
+48	Text	Aerial lights will be dimmed 
+49.9	Text	so you will fully experience this glittering Disney classic. 
+55	Text	Please try to remain in the same area 
+58	Text	until the lights return to normal. 
+62	Text	Thank you. 
+#Music Start (1)
+65	Block	152	-1615,61,-347
+67	Block	0	-1615,61,-347
+#Announcement (1)
+86	Text	Ladies and gentlemen, boys and girls! 
+88	Text	The Magic Kingdom proudly presents 
+91	Text	our spectacular festival pageant of nighttime magic 
+94.5	Text	and imagination. 
+96	Text	In thousands of sparkling lights, 
+101	Text	and electro-synthe-magnetic musical sounds: 
+103	Text	the Main Street Electrical Parade!
+#LIGHTS OUT 106
+#MSEP1 (Tinkerbell)
+130.9	Schematic	MSEP1	-1617	64	-293	 world	true
+#MSEP2 (Casey JR. Train)
+179.8	Schematic	MSEP2	-1616	64	-304	 world	true
+#MSEP3 (Purple/Green Turtle)
+208.8	Schematic	MSEP3	-1616	64	-287	 world	true
+#MSEP4 (Purple/Green Snail)
+217.9	Schematic	MSEP4	-1616	64	-287	 world	true
+#MSEP5 (First Mushroom w/ butterfly)
+234.9	Schematic	MSEP5	 -1617	64	-290	 world	true
+#MSEP6 (Firefly)
+254.9	Schematic	MSEP6	-1616	64	-287	 world	true
+#MSEP7 (Alice Yellow Mushroom)
+267.8	Schematic	MSEP7	-1617	64	-291	 world	true
+#MSEP8 (Green Turtle w/ hat)
+284.8	Schematic	MSEP8	-1616	64	-287	 world	true
+#MSEP9 (Red, Yellow, Orange Snail)
+296	Schematic	MSEP9	-1616	64	-287	 world	true
+#MSEP10 (Centipede Mushroom)
+306.9	Schematic	MSEP10	-1617	64	-290	 world	true
+#MSEP11 (Cinderella¡¯s Carriage )
+325.4	Schematic	MSEP11	-1616	64	-291	 world	true
+#MSEP12 (Dancing Princes/Princesses)
+342.5	Schematic	MSEP12	-1616	64	-290	 world	true
+#MSEP13 (Prince Charming Stairway)
+366.7	Schematic	MSEP13	-1616	64	-292	 world	true
+#MSEP14 (Dancing Princes/Princesses[2nd Float])
+381.8	Schematic	MSEP14	-1616	64	-290	 world	true
+#MSEP15 (Clock Tower)
+392.9	Schematic	MSEP15	-1617	64	-288	 world	true
+#MSEP16 (Hooks Ship)
+420.2	Schematic	MSEP16	-1617	64	-294	 world	true
+#MSEP17 (Mr Smee¡¯s boat)
+438.6	Schematic	MSEP17	-1617	64	-289	 world	true
+#MSEP18 (Dopey¡¯s Mine Train)
+481.2	Schematic	MSEP18	-1617	64	-311	 world	true
+#MSEP19 (Dwarfs Mine)
+507.6	Schematic	MSEP19	-1617	64	-289	 world	true
+#MSEP20 (Pinnochio¡¯s Float [Pleasure Island 1])
+551.4	Schematic	MSEP20	-1618	64	-299	 world	true
+#MSEP21 (Pleasure Island 2)
+581.3	Schematic	MSEP21	-1616	64	-302	 world	true
+#MSEP22 (Pete¡¯s Dragon)
+642.2	Schematic	MSEP22	-1618	64	-308	 world	true
+#MSEP23 (Honor to America)
+727	Schematic	MSEP23	-1618	64	-318	 world	true
+#Lights out top of buildings
+106	Block	0	-1601,74,-279
+106	Block	0	-1596,73,-351
+106	Block	0	-1627,75,-349
+106	Block	0	-1567,70,-323
+106	Block	0	-1661,75,-237
+#Mainstreet building lights (Glowstone)
+106	Block	123	-1605,68,-372
+106	Block	123	-1602,68,-374
+106	Block	123	-1600,68,-364
+106	Block	123	-1600,68,-356
+106	Block	123	-1600,68,-352
+106	Block	123	-1600,68,-348
+106	Block	123	-1600,68,-344
+106	Block	123	-1596,68,-344
+106	Block	123	-1596,68,-348
+106	Block	123	-1596,68,-352
+106	Block	123	-1596,68,356
+#Mainstreet beacons
+106	Block	0	-1622,68,-272
+106	Block	0	-1620,68,-377
+106	Block	0	-1608,68,-378
+106	Block	0	-1605,67,-418
+106	Block	0	-1623,67,-418
+106	Block	0	-1608,68,-363
+106	Block	0	-1620,68,-352
+106	Block	0	-1620,68,-336
+106	Block	0	-1608,68,-334
+106	Block	0	-1620,68,-316
+106	Block	0	-1608,68,-317
+106	Block	0	-1597,68,-325
+106	Block	0	-1583,68,-322
+106	Block	0	-1620,68,-294
+106	Block	0	-1608,68,-293
+106	Block	0	-1619,68,-279
+106	Block	0	-1606,68,-270
+106	Block	0	-1596,68,-267
+106	Block	0	-1632,68,-269
+106	Block	0	-1644,68,-269
+106	Block	0	-1564,68,-274
+106	Block	0	-1565,68,-275
+#Beacons near flag
+106	Block	0	-1621,69,-255
+106	Block	0	-1620,67,-255
+106	Block	0	-1621,67,-256
+106	Block	0	-1622,67,-255
+106	Block	0	-1621,67,-254
+106	Block	0	-1627,68,-387
+106	Block	0	-1607,69,-255
+106	Block	0	-1607,67,-256
+106	Block	0	-1607,67,-254
+106	Block	0	-1608,67,-255
+106	Block	0	-1606,67,-255
+#Glowstone in trees
+106	Block	0	-1627,75,-385
+106	Block	0	-1629,74,-397
+106	Block	0	-1598,71,-400
+106	Block	0	-1601,69,-391
+106	Block	0	-1580,71,-397
+106	Block	0	-1649,76,-390
+106	Block	0	-1647,73,-397
+#Beacons in shop
+106	Block	0	-1632,71,-321
+106	Block	0	-1628,68,-334
+106	Block	0	-1631,68,-331
+106	Block	0	-1598,67,-333
+106	Block	0	-1598,67,-334
+#Redstone block in shop
+106	Block	0	-1644,69,-288
+106	Block	0	-1602,68,-302
+106	Block	0	-1602,68,-311
+106	Block	0	-1587,69,-284
+106	Block	0	-1637,69,-362
+106	Block	0	-1642,69,-361
+106	Block	0	-1584,68,-305
+106	Block	0	-1589,68,-311
+#Disable Fountain (air)
+106	Block	152	-1614,60,-430
+
+#Lights Enabled 
+#Lights in top of buildings
+963	Block	0	-1707,64,-267
+964	Block	331	-1601,74,-279
+964	Block	331	-1596,73,-351
+964	Block	331	-1627,75,-349
+964	Block	331	-1567,70,-323
+964	Block	331	-1661,75,-237
+#Mainstreet building lights (Glowstone)
+964	Block	89	-1605,68,-372
+964	Block	89	-1602,68,-374
+964	Block	89	-1600,68,-364
+964	Block	89	-1600,68,-356
+964	Block	89	-1600,68,-352
+964	Block	89	-1600,68,-348
+964	Block	89	-1600,68,-344
+964	Block	89	-1596,68,-344
+964	Block	89	-1596,68,-348
+964	Block	89	-1596,68,-352
+964	Block	89	-1596,68,356
+#Mainstreet beacons
+964	Block	138	-1622,68,-272
+964	Block	138	-1620,68,-377
+964	Block	138	-1608,68,-378
+964	Block	138	-1605,67,-418
+964	Block	138	-1623,67,-418
+964	Block	138	-1608,68,-363
+964	Block	138	-1620,68,-352
+964	Block	138	-1620,68,-336
+964	Block	138	-1608,68,-334
+964	Block	138	-1620,68,-316
+964	Block	138	-1608,68,-317
+964	Block	138	-1597,68,-325
+964	Block	138	-1583,68,-322
+964	Block	138	-1620,68,-294
+964	Block	138	-1608,68,-293
+964	Block	138	-1619,68,-279
+964	Block	138	-1606,68,-270
+964	Block	138	-1596,68,-267
+964	Block	138	-1632,68,-269
+964	Block	138	-1644,68,-269
+964	Block	138	-1564,68,-274
+964	Block	138	-1565,68,-275
+#Beacons near flag
+996	Block	138	-1621,69,-255
+964	Block	138	-1620,67,-255
+964	Block	138	-1621,67,-256
+964	Block	138	-1622,67,-255
+964	Block	138	-1621,67,-254
+964	Block	138	-1627,68,-387
+964	Block	138	-1607,69,-255
+964	Block	138	-1607,67,-256
+964	Block	138	-1607,67,-254
+964	Block	138	-1608,67,-255
+964	Block	138	-1606,67,-255
+#Glowstone in trees
+964	Block	89	-1627,75,-385
+964	Block	89	-1629,74,-397
+964	Block	89	-1598,71,-400
+964	Block	89	-1601,69,-391
+964	Block	89	-1580,71,-397
+964	Block	89	-1649,76,-390
+964	Block	89	-1647,73,-397
+#Beacons in shop
+964	Block	138	-1632,71,-321
+964	Block	138	-1628,68,-334
+964	Block	138	-1631,68,-331
+964	Block	138	-1598,67,-333
+964	Block	138	-1598,67,-334
+#Redstone block in shop
+964	Block	152	-1644,69,-288
+964	Block	152	-1602,68,-302
+964	Block	152	-1602,68,-311
+964	Block	152	-1587,69,-284
+964	Block	152	-1637,69,-362
+964	Block	152	-1642,69,-361
+964	Block	152	-1584,68,-305
+964	Block	152	-1589,68,-311
+# Reset Mainstreet and replaces all with 0
+963	Schematic	roadreset	-1618	64	-435	 world	false
+964.5	Schematic	mkrails	-1618	64	-436	 world	false
+#Disable Fountain (air)
+964	Block	0	-1614,60,-430
+#music ends at 926
+#First lights 900
+#ending
+961	Text	The Magic Kingdom Main Street Electrical Parade!
+971	Text	Credits:
+972	Text	Producer - ZACx209
+973	Text	Co-Producer - owils
+974	Text	Technical Director - mixmasterjacob
+975	Text	Float Designs - ZACx209, Dem190, GrailMore, ActualFacts
+976	Text	Coded by- mixmasterjacob, owils, ZACx209
+977	Text	Plugin Developers - Chiss of the Mineplex Network, Legobuilder0813
+

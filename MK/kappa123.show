@@ -1,0 +1,11 @@
+Show	Location	-1614,63,-501
+Show	TextRadius	10
+Show	Name	lanterns
+ArmorStand	lantern1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+
+#First
+0	ArmorStand	lantern1	spawn	-1626,61,-528
+0.1	ArmorStand	lantern1	move	-1610,102,-522	40
+0.1	ArmorStand	lantern1	rotate	360	40
+
+40	ArmorStand	lantern1	despawn

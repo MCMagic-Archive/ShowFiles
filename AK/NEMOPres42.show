@@ -1,0 +1,56 @@
+Show	Location	-1631,48,4390
+Show	TextRadius	45
+Show	Name	FNTM
+#Audio
+0	AudioStart	fntmpre
+5	AudioSync	fntmpre	5
+10	AudioSync	fntmpre	10
+30	AudioSync	fntmpre	30
+72	AudioStart	fntmannouncement
+#Text
+0.1	Text	&f[&aCrush&f] &6Which one of you human dudes speak turtle?
+3	Text	&6If you do,
+4	Text	&6say cha.
+6.8	Text	&6Woah.
+8.2	Text	&6Well Squirt here is going to live you the low-down on the turtle speak.
+12	Text	&f[&aSquirt&f] &6Okay, first we need everybody to say totally real loud on the count of three.
+20	Text	&6Ready?
+21	Text	&6One.
+22	Text	&6Two.
+23	Text	&6Three!
+26	Text	&6Okay everybody, 
+27.7	Text	&6now say sweet.
+30	Text	&6Real loud on the count of three.
+32.2	Text	&6One.
+33.2	Text	&6Two. 
+34.2	Text	&6Three!
+37	Text	&6Okay now, put those two words together
+40	Text	&6and say them really really loud.
+43	Text	&6Ready?
+44	Text	&6One.
+45	Text	&6Two.
+46	Text	&6Three!
+49.6	Text	&6One more time!
+54.3	Text	&6Wow!  
+55	Text	&6Did you hear them dad? 
+56.1	Text	&6Did you hear them?
+58	Text	&f[&aCrush&f] &6Totally!
+59.6	Text	&6Now put your fins together human dudes,
+62.9	Text	&6cause you just talked like a turtle.
+65	Text	&6Awesome!
+#Audio
+0	Block	152	-1656,51,4354
+#ChatMute
+70	Block	152	-1627,56,4369
+#AnnouncementAudio
+72	Block	152	-1654,51,4354
+159	Block	152	-1652,51,4354
+72	Block	0	-1637,56,4368
+72	Block	0	-1631,56,4364
+72	Block	0	-1627,56,4365
+#AnnouncementText
+151	Text	&eAnd now, on behalf of &bMCMagic &e& Disney's Animal Kingdom
+155	Text	&eWe are proud to present...
+157	Block	152	-1650,51,4354
+
+

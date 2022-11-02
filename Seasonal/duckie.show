@@ -1,0 +1,35 @@
+Show	Location	-77.5,66,195
+Show	TextRadius	10
+Show	Name	duckie
+ArmorStand	duckie	false	skull:eyJ0aW1lc3RhbXAiOjE0NzQwNjAwOTIzNzYsInByb2ZpbGVJZCI6Ijg2YWRlNmQxNThlNjQ5NzA5MjMwOTEyMGFjYWU4MjQxIiwicHJvZmlsZU5hbWUiOiJ0aGVyZWFsZHVja2llIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNkNjlhMThiODZlZGE0NzdlNTU3Zjc4YmZmM2I5MzlmZTI5NTk4ZmRhYTZjZjg1MjczMTkyZTJkOTkzZGMifSwiQ0FQRSI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YyZGI5MzhhYmFjNDQ0ZmYzMTViOTVlOTU5MDE4NGUwZTJmZTg5NDFmZGZmNTU5YTRhYjk2Y2Q1NGJjZGQifX19;299(220,38,38);300(246,246,246);301(0,0,0)
+0	ArmorStand	duckie	spawn	-77.5,65,161.5
+0.5	ArmorStand	duckie	position	BODY	22,0,0	0.2
+0.5	ArmorStand	duckie	position	LEG_LEFT	45,0,0	0.2
+0.5	ArmorStand	duckie	position	LEG_RIGHT	45,0,0	0.2
+2	ArmorStand	duckie	move	-77.5,89,190.5	2
+2	Block	152	-80,61,165
+2.5	Block	152	-80,61,166
+6	ArmorStand	duckie	despawn
+2.5	Block	0	-78,76,175
+2.5	Block	0	-79,76,175
+2.5	Block	0	-79,76,174
+2.5	Block	0	-78,76,174
+2.5	Block	0	-78,77,173
+2.5	Block	0	-77,76,175
+2.5	Block	0	-77,76,174
+2.5	Block	51	-79,76,173
+2.5	Block	51	-80,75,174
+2.5	Block	51	-79,75,175
+2.5	Block	51	-76,75,173
+
+8	Block	35	-78,76,175
+8	Block	35	-79,76,175
+8	Block	35	-79,76,174
+8	Block	35	-78,76,174
+8	Block	35	-78,77,173
+8	Block	35	-77,76,175
+8	Block	35	-77,76,174
+8.5	Block	0	-79,76,173
+8.5	Block	0	-80,75,174
+8.5	Block	0	-79,75,175
+8.5	Block	0	-76,75,173

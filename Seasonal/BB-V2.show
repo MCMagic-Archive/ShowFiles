@@ -1,0 +1,486 @@
+Show	Location	162,90,703
+Show	TextRadius	50
+#Effects
+Effect	SS1	BALL_LARGE,TEAL&NAVY
+Effect	SS2	STAR,WHITE&YELLOW,FLICKER,TRAIL
+Effect	SS3	BALL,TEAL,TRAIL
+Effect	1	BURST,WHITE,TRAIL
+Effect	2	BURST,GREEN,FLICKER
+Effect	3	BURST,RED,FLICKER,TRAIL
+Effect	4	BURST,BLUE,TRAIL
+Effect	5	BALL,WHITE,FLICKER,TRAIL
+Effect	6	BALL_LARGE,ORANGE,FLICKER
+Effect	7	BALL,YELLOW,TRAIL
+Effect	8	BALL_LARGE,BLUE,FLICKER,TRAIL
+Effect	9	BALL,TEAL,FLICKER,TRAIL
+Effect	10	BURST,RED&GRAY,FLICKER
+Effect	11	BURST,BLUE&GRAY,FLICKER
+Effect	12	BURST,GREEN&GRAY,FLICKER
+Effect	13	BALL,RED,TRAIL
+Effect	14	CREEPER,RED
+Effect	15	CREEPER,NAVY&TEAL
+Effect	16	BURST,RED&GREEN,TRAIL
+#Fireworks
+46.6	PowerFirework	170,112,675	1	7,3,11
+47.1	Firework	179,122,709	SS1	0	0,0,0	0
+47.2	Firework	179,122,709	SS2	0	0,0,0	0
+47.3	Firework	179,122,709	SS3	0	0,0,0	0
+50	Firework	187,123,707	9	0	0,0,0	0
+54.5	Firework	189,123,718	5	0	0,0,0	0
+58.5	Firework	189,123,710	10	0	0,0,0	0
+60	Firework	183,123,710	11,11	0	0,0,0	0
+62	Firework	186,123,721	6,7	0	0,0,0	0
+64	Firework	183,123,696	8,9	0	0,0,0	0
+65.5	Firework	192,123,701	12	0	0,0,0	0
+68	Firework	191,123,723	15	0	0,0,0	0
+71	Firework	190,123,713	3	0	0,0,-2	0
+73	Firework	185,122,705	3	0	0,0,0	0
+75.3	Firework	184,123,711	2	0	0,0,0	0
+79	Firework	190,121,718	4	0	0,0,-2	0
+82	Firework	190,123,704	16	0	0,0,-2	0
+85	Firework	185,122,702	8	0	0,0,0	0
+86.4	Firework	187,123,696	8	0	0,0,0	0
+89	Firework	191,123,712	11	0	0,0,-2	0
+90	Firework	190,123,713	12	0	0,0,2	0
+91	Firework	190,123,721	10	0	0,0,-2	0
+94.8	Firework	186,123,713	8,9	0	0,0,0	0
+95.3	Firework	192,123,715	8,9	0	0,0,0	0
+96.4	Firework	188,122,721	8,9	0	0,0,0	0
+98	Firework	192,122,719	7	0	0,0,0	0
+99.4	Firework	191,123,706	10	0	0,0,0	0
+101.8	Firework	185,122,702	15	0	0,0,0	0
+103.5	Firework	184,121,715	15	0	0,0,0	0
+105	Firework	192,122,707	1,7	0	0,0,0	0
+108.8	Firework	187,123,701	14	0	0,0,0	0
+109.4	Firework	183,123,716	14	0	0,0,0	0
+110	Firework	189,123,701	16	0	0,0,0	0
+113	Firework	184,123,710	16	0	0,0,0	0
+115.8	Firework	189,121,706	3	0	0,0,0	0
+116.3	Firework	188,121,695	12	0	0,0,0	0
+#TP Everyone to center
+0	Block	152	158,95,674
+12	Block	152	158,95,674
+#TimeNight
+0	Block	152	163,95,672
+#Audio
+0	Block	152	165,95,672
+#Coins
+330	Block	152	166,95,672
+#Text
+5.2	Text	&9Ye' be seeking adventure and salty ol' pirates, eh?
+10.4	Text	&9Sure, you've come to the proper place.
+13.3	Text	&9But keep a weather eye open mates, 
+15.8	Text	&9And hold on tight.
+17.7	Text	&9There be squalls ahead!
+22.5	Text	&9And Davy Jones waiting for them what don't obey.
+29	Text	&9And mark well me words matey's... 
+31.8	Text	&6Dead men tell no tales.
+36.7	Text	&oYo-Ho, Yo-Ho, A pirate's life for me… &o
+43.2	Text	&9Strike yer colors, ya bloomin' cockroachers! 
+47.6	Text	&9By thunder, we'll see ya to &2Davy Jones!
+57.7	Text	&oOh, a pirate's life is a wonderful life, &o
+60	Text	&oA-rovin' over the sea, &o
+61.8	Text	&oGive me a career as a buccaneer &o
+63.7	Text	&oIt's the life of a pirate for me &o
+65	Text	&oOh, the life of a pirate for me! &o
+71.2	Text	&f[&bSmee&f] &dOh a pirate's life for me...
+73.3	Text	&dOh a pirate's life for me...
+74.6	Text	&dOh a pirate's life for me...
+78.9	Text	&f[&cCaptain Hook&f] &dPlay that ya Bilge Rats! 
+82.5	Text	&dMove Mr. Smee!
+85	Text	&f[&bSmee&f] &dAye Aye Captain!
+86.3	Text	&dAll hands on deck, 
+87.7	Text	&dAll hands on deck!
+92.7	Text	&f[&cCaptain Hook&f] &dMan ya stations!
+95.2	Text	&dWhat's that?
+96.2	Text	&f[&bSmee&f] &cWhat's that?
+98.9	Text	&f[&cCaptain Hook&f] &dI'll get that &aPeter Pan, 
+100.8	Text	&dIf it's the last thing I do!
+106	Text	&dAlright &bMr. Smee, 
+107.6	Text	&dIt's time to weigh anchor!
+110.4	Text	&dAnd watch out &bMr. Smee,
+112.6	Text	&dKeep a weather eye open for that unfathomable crocodile!
+116.6	Text	&f[&cSmee&f] &dAye Aye Captain!	
+145.7	Text	&f[&cCaptain Hook&f] &dIt's that unfathomable crocodile!
+151.3	Text	&dNow &cMr. Smee, &dNOW!
+158.7	Text	&6Dead men tell no tales...
+165.6	Text	&dNo fear have ye of evil curses says you. 
+171.4	Text	&dAhh, properly warned you be says I.
+176	Text	&oYo-Ho, Yo-Ho, A pirate's life for me... &o
+182	Text	&dPerhaps ye knows too much. 
+185.5	Text	&dYe seen the curse and treasure? 
+189	Text	&dYe know where it be hidden?
+192	Text	&dNow you see these may be the last friendly words ye hear. 
+201.7	Text	&dYe may not survive!
+205.8	Text	&6Dead men tell no tales...
+236.4	Text	&oYo-Ho, Yo-Ho, A pirate's life… &o
+283.1	Text	&dAvast ye scurvy scums!
+286.6	Text	&dDrill up 'yer &fwhite flag!
+289.2	Text	&dEh, give them a broadside! Hahaha!
+292.4	Text	&dPound 'em lads, pound 'em! 
+#End Credits
+330	Text	&6Brought to you by:
+332	Text	&eXavier9214 and Zafacon2
+334	Text	&6Extra Help -- &eHokaPoka812 and the &5NauticalCraft Team
+336	Text	&6Plugin by -- &dChiss and the MCMagic Dev Team
+338	Text	&6And of course, the &bMCMagic Parks Family!
+340	Text	&dEnjoy ye stay on the Disney Dream! Argh!
+#LightsOut
+19.5	Block	123	171,102,746
+19.5	Block	123	171,102,743
+19.5	Block	123	153,102,668
+19.5	Block	123	153,102,665
+19.5	Block	123	171,102,665
+19.5	Block	123	171,102,668
+19.5	Block	123	177,92,763
+19.5	Block	123	170,92,765
+19.5	Block	123	154,92,765
+19.5	Block	123	147,92,763
+19.5	Block	123	155,92,757
+19.5	Block	123	170,92,755
+19.5	Block	123	172,92,748
+19.5	Block	123	155,96,743
+19.5	Block	123	156,96,737
+19.5	Block	123	156,92,734
+19.5	Block	123	145,96,739
+19.5	Block	123	179,96,739
+19.5	Block	123	154,92,723
+0	Block	123	158,92,722
+0	Block	123	166,92,722
+0	Block	123	170,92,723
+0	Block	123	176,92,714
+0	Block	123	176,92,699
+0	Block	123	175,92,691
+0	Block	123	174,92,684
+0	Block	123	170,92,677
+19.5	Block	123	171,92,670
+19.5	Block	123	173,93,668
+19.5	Block	123	173,93,664
+19.5	Block	123	173,93,660
+19.5	Block	123	177,92,636
+19.5	Block	123	168,92,633
+0	Block	123	148,92,714
+0	Block	123	148,92,699
+0	Block	123	149,92,691
+0	Block	123	150,92,684
+0	Block	123	154,92,677
+19.5	Block	123	151,93,668
+19.5	Block	123	151,93,664
+19.5	Block	123	151,93,660
+19.5	Block	123	151,92,646
+19.5	Block	123	148,92,635
+19.5	Block	123	156,92,633
+19.5	Block	123	159,92,645
+19.5	Block	123	165,92,645
+19.5	Block	123	173,92,646
+19.5	Block	123	183,88,747
+19.5	Block	123	171,92,741
+19.5	Block	123	171,92,744
+19.5	Block	123	171,92,737
+19.5	Block	123	168,92,731
+19.5	Block	123	167,88,729
+19.5	Block	123	156,88,730
+19.5	Block	123	156,92,734
+19.5	Block	123	156,92,731
+19.5	Block	123	149,92,741
+19.5	Block	123	149,92,743
+19.5	Block	123	152,92,740
+19.5	Block	123	152,92,743
+19.5	Block	123	141,88,747
+19.5	Block	123	168,88,730
+19.5	Block	123	168,92,736
+19.5	Block	123	163,92,729
+19.5	Block	123	183,88,735
+19.5	Block	123	183,88,731
+19.5	Block	123	183,88,715
+19.5	Block	123	183,88,703
+19.5	Block	123	183,88,699
+19.5	Block	123	153,92,668
+19.5	Block	123	152,88,660
+19.5	Block	123	141,88,655
+19.5	Block	123	141,88,667
+19.5	Block	123	141,88,671
+19.5	Block	123	141,88,683
+19.5	Block	123	141,88,687
+19.5	Block	123	141,88,699
+0	Block	123	162,87,686
+19.5	Block	123	141,88,703
+0	Block	123	162,87,698
+19.5	Block	123	141,88,715
+19.5	Block	123	141,88,735
+19.5	Block	123	141,88,719
+19.5	Block	123	141,88,731
+0	Block	123	154,92,723
+19.5	Block	123	157,88,729
+19.5	Block	123	183,88,699
+19.5	Block	123	183,88,683
+19.5	Block	123	183,88,671
+19.5	Block	123	183,88,667
+19.5	Block	123	183,88,655
+19.5	Block	123	159,88,674
+19.5	Block	123	165,88,674
+19.5	Block	123	163,96,724
+0	Block	123	167,88,720
+0	Block	123	157,88,720
+0	Block	89	162,102,677
+19.5	Block	123	157,88,707
+19.5	Block	123	167,88,707
+19.5	Block	123	157,88,698
+24	Block	89	157,88,698
+34.3	Block	123	157,88,698
+19.5	Block	123	167,88,698
+24	Block	89	167,88,698
+34.3	Block	123	167,88,698
+19.5	Block	123	157,88,707
+24	Block	89	157,88,707
+34.3	Block	123	157,88,707
+19.5	Block	123	167,88,707
+24	Block	89	167,88,707
+34.3	Block	123	167,88,707
+0	Block	123	167,88,686
+0	Block	123	157,88,686
+19.5	Block	123	183,88,719
+19.5	Block	123	152,89,720
+19.5	Block	123	151,89,720
+19.5	Block	123	165,103,673
+19.5	Block	123	159,103,673
+19.5	Block	123	162,103,672
+19.5	Block	123	183,88,687
+#CurtainOnFunnel
+0	Block	35:15	164,91,678
+0	Block	35:15	163,91,678
+0	Block	35:15	162,91,678
+0	Block	35:15	161,91,678
+0	Block	35:15	160,91,678
+1	Block	35:15	163,90,678
+1	Block	35:15	162,90,678
+1	Block	35:15	161,90,678
+0	Block	35:15	158,105,674
+0	Block	35:15	158,106,675
+1	Block	35:15	159,105,675
+2	Block	35:15	160,105,675
+3	Block	35:15	161,105,675
+4	Block	35:15	162,105,675
+5	Block	35:15	163,105,675
+6	Block	35:15	164,105,675
+7	Block	35:15	165,105,675
+8	Block	35:15	166,105,674
+8	Block	35:15	166,106,675
+1	Block	35:15	159,106,676
+2	Block	35:15	160,106,676
+3	Block	35:15	161,106,676
+4	Block	35:15	162,106,676
+5	Block	35:15	163,106,676
+6	Block	35:15	164,106,676
+7	Block	35:15	165,106,676
+#ScreenEffects
+0	Schematic	bb1	155	93	676	dcl	false
+1	Schematic	bbdefault	155	93	676	dcl	false
+3	Schematic	bb2	155	93	676	dcl	false
+4	Schematic	bb3	155	93	676	dcl	false
+4.5	Schematic	bb-1	155	93	676	dcl	false
+6	Schematic	bb-2	155	93	676	dcl	false
+7	Schematic	bb-3	155	93	676	dcl	false
+9	Schematic	bb-2	155	93	676	dcl	false
+10	Schematic	bb-3	155	93	676	dcl	false
+12	Schematic	bb-1	155	93	676	dcl	false
+14	Schematic	bb-2	155	93	676	dcl	false
+17	Schematic	bb-3	155	93	676	dcl	false
+18	Schematic	bb-2	155	93	676	dcl	false
+19	Schematic	bb-3	155	93	676	dcl	false
+19.5	Schematic	bb1	155	93	676	dcl	false
+21	Schematic	bb2	155	93	676	dcl	false
+22	Schematic	bbdefault	155	93	676	dcl	false
+23	Schematic	bb3	155	93	676	dcl	false
+24	Schematic	bb-2	155	93	676	dcl	false
+27	Schematic	bb-1	155	93	676	dcl	false
+29	Schematic	bb-2	155	93	676	dcl	false
+30	Schematic	bb-3	155	93	676	dcl	false
+32	Schematic	bb-2	155	93	676	dcl	false
+33	Schematic	bb-3	155	93	676	dcl	false
+33.8	Schematic	bbskull	155	93	676	dcl	false
+34.3	Schematic	bb1	155	93	676	dcl	false
+35.3	Schematic	bb3	155	93	676	dcl	false
+36.3	Schematic	bbdefault	155	93	676	dcl	false
+38	Schematic	bb2	155	93	676	dcl	false
+39	Schematic	bb1	155	93	676	dcl	false
+40	Schematic	bbdefault	155	93	676	dcl	false
+41	Schematic	bb3	155	93	676	dcl	false
+41.5	Schematic	bbskull	155	93	676	dcl	false
+57.7	Schematic	bbdefault	155	93	676	dcl	false
+156	Schematic	bb1	155	93	676	dcl	false
+158	Schematic	bb2	155	93	676	dcl	false
+159	Schematic	bbdefault	155	93	676	dcl	false
+165.6	Schematic	bbskull	155	93	676	dcl	false
+205.8	Schematic	bbdefault	155	93	676	dcl	false
+#Lightning
+19.5	Lightning	162,109,677
+34.3	Lightning	162,109,677
+156	Lightning	162,109,677
+#LightsOn
+318	Block	89	171,102,746
+318	Block	89	171,102,743
+318	Block	89	153,102,668
+318	Block	89	153,102,665
+318	Block	89	171,102,665
+318	Block	89	171,102,668
+318	Block	89	177,92,763
+318	Block	89	170,92,765
+318	Block	89	154,92,765
+318	Block	89	147,92,763
+318	Block	89	155,92,757
+318	Block	89	170,92,755
+318	Block	89	172,92,748
+318	Block	89	155,96,743
+318	Block	89	156,96,737
+318	Block	89	156,92,734
+318	Block	89	145,96,739
+318	Block	89	179,96,739
+318	Block	89	154,92,723
+318	Block	89	158,92,722
+318	Block	89	166,92,722
+318	Block	89	170,92,723
+318	Block	89	176,92,714
+318	Block	89	176,92,699
+318	Block	89	175,92,691
+318	Block	89	174,92,684
+318	Block	89	170,92,677
+318	Block	89	171,92,670
+318	Block	89	173,93,668
+318	Block	89	173,93,664
+318	Block	89	173,93,660
+318	Block	89	177,92,636
+318	Block	89	168,92,633
+318	Block	89	148,92,714
+318	Block	89	148,92,699
+318	Block	89	149,92,691
+318	Block	89	150,92,684
+318	Block	89	154,92,677
+318	Block	89	151,93,668
+318	Block	89	151,93,664
+318	Block	89	151,93,660
+318	Block	89	151,92,646
+318	Block	89	148,92,635
+318	Block	89	156,92,633
+318	Block	89	159,92,645
+318	Block	89	165,92,645
+318	Block	89	173,92,646
+318	Block	89	183,88,747
+318	Block	89	171,92,741
+318	Block	89	171,92,744
+318	Block	89	171,92,737
+318	Block	89	168,92,731
+318	Block	89	167,88,729
+318	Block	89	156,88,730
+318	Block	89	156,92,734
+318	Block	89	156,92,731
+318	Block	89	149,92,741
+318	Block	89	149,92,743
+318	Block	89	152,92,740
+318	Block	89	152,92,743
+318	Block	89	141,88,747
+318	Block	89	168,88,730
+318	Block	89	168,92,736
+318	Block	89	163,92,729
+318	Block	89	183,88,735
+318	Block	89	183,88,731
+318	Block	89	183,88,715
+318	Block	89	183,88,703
+318	Block	89	183,88,699
+318	Block	89	153,92,668
+318	Block	89	152,88,660
+318	Block	89	141,88,655
+318	Block	89	141,88,667
+318	Block	89	141,88,671
+318	Block	89	141,88,683
+318	Block	89	141,88,687
+318	Block	89	141,88,699
+318	Block	89	162,87,686
+318	Block	89	141,88,703
+318	Block	89	162,87,698
+318	Block	89	141,88,715
+318	Block	89	141,88,735
+318	Block	89	141,88,719
+318	Block	89	141,88,731
+318	Block	89	154,92,723
+318	Block	89	157,88,729
+318	Block	89	183,88,699
+318	Block	89	183,88,683
+318	Block	89	183,88,671
+318	Block	89	183,88,667
+318	Block	89	183,88,655
+318	Block	89	159,88,674
+318	Block	89	165,88,674
+318	Block	89	163,96,724
+318	Block	89	167,88,720
+318	Block	89	157,88,720
+318	Block	89	157,88,707
+318	Block	89	167,88,707
+318	Block	89	157,88,698
+318	Block	89	167,88,698
+318	Block	89	167,88,686
+318	Block	89	157,88,686
+318	Block	89	183,88,719
+318	Block	89	152,89,720
+318	Block	89	151,89,720
+318	Block	89	165,103,673
+318	Block	89	159,103,673
+318	Block	89	162,103,672
+318	Block    89	183,88,687
+#CurtainsOpen
+327	Block	0	164,91,678
+327	Block	0	163,91,678
+327	Block	0	162,91,678
+327	Block	0	161,91,678
+327	Block	0	160,91,678
+326	Block	0	163,90,678
+326	Block	0	162,90,678
+326	Block	0	161,90,678
+327	Block	0	158,105,674
+327	Block	0	158,106,675
+326	Block	171:15	159,105,675
+325	Block	171:15	160,105,675
+324	Block	171:15	161,105,675
+323	Block	0	162,105,675
+322	Block	171:15	163,105,675
+321	Block	171:15	164,105,675
+320	Block	171:15	165,105,675
+319	Block	0	166,105,674
+319	Block	0	166,106,675
+326	Block	0	159,106,676
+325	Block	0	160,106,676
+324	Block	0	161,106,676
+323	Block	0	162,106,676
+322	Block	0	163,106,676
+321	Block	0	164,106,676
+320	Block	0	165,106,676
+#PoolCoversON
+0	Schematic	dclpoolreset1	157	89	686	dcl	false
+1	Schematic	dclpoolreset2	157	89	686	dcl	false
+2	Schematic	dclpoolreset3	157	89	686	dcl	false
+3	Schematic	dclpoolreset4	157	89	686	dcl	false
+4	Schematic	dclpoolreset5	157	89	686	dcl	false
+5	Schematic	dclpoolreset6	157	89	686	dcl	false
+6	Schematic	dclpoolreset7	157	89	686	dcl	false
+7	Schematic	dclpoolreset8	157	89	686	dcl	false
+8	Schematic	dclpoolreset9	157	89	686	dcl	false
+9	Schematic	dclpoolreset10	157	89	686	dcl	false
+10	Schematic	dclpoolreset11	157	89	686	dcl	false
+11	Schematic	dclpoolreset12	157	89	686	dcl	false
+12	Schematic	dclpoolreset13	157	89	686	dcl	false
+13	Schematic	dclpoolreset14	157	89	686	dcl	false
+#PoolCoversOFF
+330	Schematic	dclpoolreset13	157	89	686	dcl	false
+331	Schematic	dclpoolreset12	157	89	686	dcl	false
+332	Schematic	dclpoolreset11	157	89	686	dcl	false
+333	Schematic	dclpoolreset10	157	89	686	dcl	false
+334	Schematic	dclpoolreset9	157	89	686	dcl	false
+335	Schematic	dclpoolreset8	157	89	686	dcl	false
+336	Schematic	dclpoolreset7	157	89	686	dcl	false
+337	Schematic	dclpoolreset6	157	89	686	dcl	false
+338	Schematic	dclpoolreset5	157	89	686	dcl	false
+339	Schematic	dclpoolreset4	157	89	686	dcl	false
+340	Schematic	dclpoolreset3	157	89	686	dcl	false
+341	Schematic	dclpoolreset2	157	89	686	dcl	false
+342	Schematic	dclpoolreset1	157	89	686	dcl	false
+343	Schematic	dclpoolreset	157	89	686	dcl	false

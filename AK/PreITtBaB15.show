@@ -1,0 +1,20 @@
+Show	Location	-1937,25,4318
+Show	TextRadius	50
+#15MinuteBroadcast
+0	Block	152	-1936,45,4323
+#15MinuteHelpOp
+0	Block	152	-1937,45,4324
+#AudioPackBc
+#14m
+60	Block	152	-1936,45,4322
+#11m
+240	Block	152	-1936,45,4322
+#MuteChatBc
+#13m
+120	Block	152	-1936,45,4322
+#EffectBc
+#12m
+180	Block	152	-1936,45,4322
+#StartPreShow10
+300	Block	152	-1907,27,4309
+

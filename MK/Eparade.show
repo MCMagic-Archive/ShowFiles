@@ -1,0 +1,235 @@
+Show	Location	-1614,64,-347
+Show	TextRadius	125
+#A few minutes announcement
+1	Text	During the Electrical Parade, the chat will be disabled park-wide.  We will re-enable it after the parade. 
+1	Schematic	nomkrails	-1618	64	-436	 mk	false
+4	Block	152	-1630,69,-336
+5	Block	0	-1630,69,-336
+5	Text	Ladies and gentleman
+1	Block	151	-1707,64,-267
+6.7	Text	boys and girls, 
+8.8	Text	in just a few minutes 
+10.8	Text	you're invited to celebrate with us 
+13.8	Text	as we share in the glow with 
+15.8	Text	Disney's Main Street Electrical Parade.
+19.8	Text	In order for you to fully experience tonight presentation, 
+23.8	Text	the Magic Kingdom 
+25.8	Text	lighting will be reduced. 
+27.8	Text	We recommend for your own 
+29.8	Text	safety and convenience 
+31.8	Text	that you enjoy our parade performance 
+34	Text	by remaining in one location 
+36.8	Text	until the lighting returns to normal.
+39.8	Text	We also ask 
+40.8	Text	for the safety of our performers that you 
+43.8	Text	refrain from the use of video camera lighting. 
+47.8	Text	Aerial lights will be dimmed 
+49.2	Text	so you will fully experience this glittering Disney classic. 
+54.8	Text	Please try to remain in the same area 
+57.3	Text	until the lights return to normal. 
+61.2	Text	Thank you. 
+#Music Start (1)
+65	Block	152	-1615,61,-347
+67	Block	0	-1615,61,-347
+#Announcement (1)
+86	Text	Ladies and gentlemen, boys and girls! 
+88	Text	The Magic Kingdom proudly presents 
+91	Text	our spectacular festival pageant of nighttime magic 
+94.5	Text	and imagination. 
+96	Text	In thousands of sparkling lights, 
+101	Text	and electro-synthe-magnetic musical sounds: 
+103	Text	the Main Street Electrical Parade!
+#LIGHTS OUT 106
+#Lights out top of buildings
+106	Block	0	-1599,72,-290
+106	Block	0	-1569,70,-332
+106	Block	0	-1599,73,-351
+106	Block	0	-1631,73,-346
+106	Block	0	-1631,73,-298
+#Mainstreet indoor lights
+106	Block	0	-1626,68,-294
+106	Block	0	-1626,68,-295
+106	Block	0	-1628,68,-310
+#Becons down Mainstreet Parade Route
+106	Block	20	-1620,67,-280
+106	Block	20	-1620,67,-295
+106	Block	20	-1620,67,-316
+106	Block	20	-1625,67,-318
+106	Block	20	-1625,67,-323
+106	Block	20	-1620,67,-337
+106	Block	20	-1620,67,-353
+106	Block	20	-1620,67,-371
+106	Block	20	-1623,67,-418
+106	Block	20	-1605,67,-418
+106	Block	20	-1608,67,-364
+106	Block	20	-1608,67,-343
+106	Block	20	-1608,67,-331
+106	Block	20	-1609,67,-320
+106	Block	20	-1608,67,-303
+106	Block	20	-1608,67,-293
+106	Block	20	-1607,67,-272
+106	Block	20	-1624,69,-274
+106	Block	20	-1632,67,-270
+106	Block	20	-1595,67,-268
+#Beacons NOT down parade route
+106	Block	20	-1622,67,-255
+106	Block	20	-1621,67,-256
+106	Block	20	-1621,67,-254
+106	Block	20	-1620,67,-255
+106	Block	20	-1621,69,-255
+106	Block	20	-1608,67,-255
+106	Block	20	-1607,67,-256
+106	Block	20	—1607,67,-254
+106	Block	20	-1606,67,-255
+106	Block	20	-1607,69,-255
+#Disable Fountain (air)
+106	Block	152	-1614,60,-430
+#Floats
+#MSEP1 (Tinkerbell)
+130.9	Schematic	MSEP1	-1617	64	-293	 mk	true
+140	Block	152	-1708,59,-263
+141.5	Block	0	-1709,59,-263
+#MSEP2 (Casey JR. Train)
+179.8	Schematic	MSEP2	-1616	64	-304	 mk	true
+179.9	Block	152	-1708,59,-261
+180.7	Block	0	-1708,59,-261
+179.9	Block	152	-1708,59,-259
+180.7	Block	0	-1708,59,-259
+179.9	Block	152	-1708,59,-257
+180.7	Block	0	-1708,59,-257
+#MSEP3 (Purple/Green Turtle)
+202.2	Schematic	MSEP3	-1616	64	-287	 mk	true
+#MSEP4 (Purple/Green Snail)
+217.9	Schematic	MSEP4	-1616	64	-287	 mk	true
+224	Block	152	-1708,59,-251
+225.8	Block	0	-1708,59,-251
+#MSEP5 (First Mushroom w/ butterfly)
+234.9	Schematic	MSEP5	 -1617	64	-290	 mk	true
+#MSEP6 (Firefly)
+249.9	Schematic	MSEP6	-1616	64	-287	 mk	true
+#MSEP7 (Alice Yellow Mushroom)
+267.8	Schematic	MSEP7	-1617	64	-291	 mk	true
+268	Block	152	-1708,59,-255
+269	Block	0	-1708,59,-255
+#MSEP8 (Green Turtle w/ hat)
+283	Schematic	MSEP8	-1616	64	-287	 mk	true
+#MSEP9 (Red, Yellow, Orange Snail)
+294.9	Schematic	MSEP9	-1616	64	-287	 mk	true
+#MSEP10 (Centipede Mushroom)
+306.9	Schematic	MSEP10	-1617	64	-290	 mk	true
+#MSEP11 (Cinderella’s Carriage )
+325.4	Schematic	MSEP11	-1616	64	-291	 mk	true
+325.9	Block	152	-1708,59,-249
+326.9	Block	0	-1708,59,-249
+325.9	Block	152	-1708,59,-247
+326.9	Block	0	-1708,59,-247
+#MSEP12 (Dancing Princes/Princesses)
+340.2	Schematic	MSEP12	-1616	64	-290	 mk	true
+#MSEP13 (Prince Charming Stairway)
+366.7	Schematic	MSEP13	-1616	64	-292	 mk	true
+366.9	Block	152	-1708,59,-246
+367.9	Block	0	-1708,59,-246
+366.9	Block	152	-1706,59,-246
+367.9	Block	0	-1706,59,-246
+#MSEP14 (Dancing Princes/Princesses[2nd Float])
+388.8	Schematic	MSEP14	-1616	64	-290	 mk	true
+#MSEP15 (Clock Tower)
+400.2	Schematic	MSEP15	-1616	64	-288	 mk	true
+#MSEP16 (Hooks Ship)
+425.2	Schematic	MSEP16	-1617	64	-294	 mk	true
+425.8	Block	152	-1702,59,-246
+426.5	Block	0	-1702,59,-246
+425.8	Block	152	-1698,59,-246
+426.5	Block	0	-1698,59,-246
+#MSEP17 (Mr Smee’s boat)
+435.8	Schematic	MSEP17	-1617	64	-289	 mk	true
+#MSEP18 (Dopey’s Mine Train)
+481.2	Schematic	MSEP18	-1617	64	-311	 mk	true
+481.8	Block	152	-1703,59,-252
+482.9	Block	0	-1703,59,-252
+#MSEP19 (Dwarfs Mine)
+507.6	Schematic	MSEP19	-1617	64	-289	 mk	true
+491.1	Block	152	-1697,59,-248
+492.1	Block	0	-1697,59,-248
+491.1	Block	152	-1697,59,-250
+492.1	Block	0	-1697,59,-250
+491.1	Block	152	-1697,59,-252
+492.1	Block	0	-1697,59,-252
+491.1	Block	152	-1700,59,-251
+492.1	Block	0	-1700,59,-251
+507.9	Block	152	-1697,59,-254
+508.9	Block	0	-1697,59,-254
+507.9	Block	152	-1705,59,-256
+508.9	Block	0	-1705,59,-256
+507.9	Block	152	-1705,59,-258
+508.9	Block	0	-1705,59,-258
+#MSEP20 (Pinnochio’s Float [Pleasure Island 1])
+549.4	Schematic	MSEP20	-1618	64	-299	 mk	true
+549.9	Block	152	-1706,59,-260
+550.9	Block	0	-1706,59,-260
+#MSEP21 (Pleasure Island 2)
+581.3	Schematic	MSEP21	-1616	64	-302	 mk	true
+#MSEP22 (Pete’s Dragon)
+636.2	Schematic	MSEP22	-1618	64	-308	 mk	true
+#MSEP23 (Honor to America)
+720	Schematic	MSEP23	-1618	64	-318	 mk	true
+#Lights Enabled 
+#Lights out top of buildings
+964	Block	76	-1599,72,-290
+964	Block	76	-1569,70,-332
+964	Block	76	-1599,73,-351
+964	Block	76	-1631,73,-346
+964	Block	76	-1631,73,-298
+#Mainstreet indoor lights
+964	Block	152	-1626,68,-294
+964	Block	152	-1626,68,-295
+964	Block	152	-1628,68,-310
+#Becons down Mainstreet Parade Route
+964	Block	138	-1620,67,-280
+964	Block	138	-1620,67,-295
+964	Block	138	-1620,67,-316
+964	Block	138	-1625,67,-318
+964	Block	138	-1625,67,-323
+964	Block	138	-1620,67,-337
+964	Block	138	-1620,67,-353
+964	Block	138	-1620,67,-371
+964	Block	138	-1623,67,-418
+964	Block	138	-1605,67,-418
+964	Block	138	-1608,67,-364
+964	Block	138	-1608,67,-343
+964	Block	138	-1608,67,-331
+964	Block	138	-1609,67,-320
+964	Block	138	-1608,67,-303
+964	Block	138	-1608,67,-293
+964	Block	138	-1607,67,-272
+964	Block	138	-1624,69,-274
+964	Block	138	-1632,67,-270
+964	Block	138	-1595,67,-268
+#Beacons NOT down parade route
+964	Block	138	-1622,67,-255
+964	Block	138	-1621,67,-256
+964	Block	138	-1621,67,-254
+964	Block	138	-1620,67,-255
+964	Block	138	-1621,69,-255
+964	Block	138	-1608,67,-255
+964	Block	138	-1607,67,-256
+964	Block	138	—1607,67,-254
+964	Block	138	-1606,67,-255
+964	Block	138	-1607,69,-255
+# Reset Mainstreet and replaces all with 0
+963	Schematic	roadreset	-1618	64	-435	 mk	false
+# Set rails back to Mainstreet
+964.5	Schematic	mkrails	-1618	64	-435	 mk	false
+#Disable Fountain (air)
+964	Block	0	-1614,60,-430
+#music ends at 926
+#First lights 900
+#ending
+961	Text	The Magic Kingdom Main Street Electrical Parade!
+971	Text	Credits:
+972.2	Text	Producer - ZACx209
+973.5	Text	Co-Producer - owils
+974.6	Text	Technical Director - mixmasterjacob
+975.4	Text	Float Designs - ZACx209, Dem190, GrailMore, ActualFacts
+976.8	Text	Coded by- mixmasterjacob, owils, ZACx209
+977.5	Text	Plugin Developers - Chiss of the Mineplex Network, Legobuilder0813

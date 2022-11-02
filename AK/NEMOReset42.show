@@ -1,0 +1,65 @@
+Show	Location	-1631,48,4390
+Show	TextRadius	50
+#Effects
+#Schematics
+0	Schematic	fntmdefault	-1651	45	4404	ak	false
+#ChatMute
+0	Block	152	-1627,56,4369
+#LightsOn
+0	Block	152	-1637,56,4368
+0	Block	152	-1631,56,4364
+0	Block	152	-1627,56,4365
+#ExitDoors
+0	Block	0	-1635,56,4365
+#EndOfShow
+0	Block	152	-1635,56,4369
+0	Block	152	-1633,56,4369
+#ResetLights
+0	Block	0	-1632,60,4404
+0	Block	0	-1631,60,4408
+0	Schematic	fnroof	-1647	59	4370	ak	false
+#ResetSceneLight
+0	Block	0	-1631,66,4387
+0	Block	0	-1630,66,4387
+0	Block	0	-1629,66,4387
+0	Block	0	-1628,66,4387
+0	Block	0	-1627,66,4387
+0	Block	0	-1626,66,4387
+0	Block	0	-1625,66,4387
+0	Block	0	-1624,66,4387
+0	Block	0	-1623,66,4387
+0	Block	0	-1622,66,4387
+0	Block	0	-1621,66,4387
+0	Block	0	-1620,66,4387
+0	Block	0	-1619,66,4387
+0	Block	0	-1618,66,4387
+0	Block	0	-1617,66,4387
+0	Block	0	-1616,66,4387
+0	Block	0	-1615,66,4387
+0	Block	0	-1614,66,4387
+0	Block	0	-1613,66,4387
+#Barriers
+0	Block	166	-1616,49,4392
+0	Block	166	-1617,49,4392
+0	Block	166	-1618,49,4392
+0	Block	166	-1624,49,4392
+0	Block	166	-1625,49,4392
+0	Block	166	-1637,49,4392
+0	Block	166	-1638,49,4392
+0	Block	166	-1644,49,4392
+0	Block	166	-1645,49,4392
+0	Block	166	-1646,49,4392
+0	Block	166	-1617,50,4388
+0	Block	166	-1616,50,4388
+0	Block	166	-1624,50,4388
+0	Block	166	-1625,50,4388
+0	Block	166	-1637,50,4388
+0	Block	166	-1638,50,4388
+0	Block	166	-1645,50,4388
+0	Block	166	-1646,50,4388
+0	Block	166	-1607,48,4392
+0	Block	166	-1608,48,4392
+0	Block	166	-1655,48,4392
+0	Block	166	-1654,48,4392
+0	Block	101	-1651,48,4393
+0	Block	101	-1611,48,4393

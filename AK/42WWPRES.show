@@ -1,0 +1,50 @@
+Show	Location	-1631,48,4390
+Show	TextRadius	45
+#Text
+0.1	Text	[Crush] Which one of you human dudes speak turtle?
+3	Text	If you do,
+4	Text	say cha.
+6.8	Text	Woah.
+8.2	Text	Well Squirt here is going to live you the low-down on the turtle speak.
+12	Text	[Squirt] Okay, first we need everybody to say totally real loud on the count of three.
+20	Text	Ready?
+21	Text	One.
+22	Text	Two.
+23	Text	Three!
+26	Text	Okay everybody, 
+27.7	Text	now say sweet.
+30	Text	Real loud on the count of three.
+32.2	Text	One.
+33.2	Text	Two. 
+34.2	Text	Three!
+37	Text	Okay now, put those two words together
+40	Text	and say them really really loud.
+43	Text	Ready?
+44	Text	One.
+45	Text	Two.
+46	Text	Three!
+49.6	Text	One more time!
+54.3	Text	Wow!  
+55	Text	Did you hear them dad? 
+56.1	Text	Did you hear them?
+58	Text	[Crush] Totally!
+59.6	Text	Now put your fins together human dudes,
+62.9	Text	cause you just talked like a turtle.
+65	Text	Awesome!
+#Audio
+0	Block	152	-1656,51,4354
+#ChatMute
+70	Block	152	-1627,56,4369
+#AnnouncementAudio
+72	Block	152	-1654,51,4354
+159	Block	152	-1652,51,4354
+0	Block	0	-1637,56,4368
+0	Block	152	-1635,56,4365
+0	Block	0	-1631,56,4364
+0	Block	152	-1627,56,4365
+#AnnouncementText
+151	Text	And now, on behalf of MCMagic & Disney`s Animal Kingdom,
+155	Text	We are proud to present...
+157	Block	152	-1650,51,4354
+
+

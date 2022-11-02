@@ -1,0 +1,95 @@
+#This is the location where music/text is centered.
+Show	Location	0,10,0
+
+#Firework Effects 
+#
+#Format Type	Type,Color&Color&Color,Color&Color,(optional)Flicker,(optional)Trail
+#
+#Types			Ball, Ball_Large, Burst, Star, Creeper
+#
+#Colors			Aqua, Black, Blue, Fuchsia, Gray, Green, Lime, Maroon
+#				Navy, Olive, Orange, Purple, Red, Silver, Teal, White, Yellow
+
+#Add Effects Here
+Effect	ExampleA 	BALL_LARGE,RED&YELLOW,BLACK,FLICKER,TRAIL
+Effect	ExampleB	BALL,Fuchsia,White
+Effect	ExampleC	BALL,WHITE,WHITE,TRAIL
+
+#Firework Input Guide
+#<Seconds> Firework <Location> <Effect,Effect...> <Power> <Direction> <Direction Force>
+#<Seconds> FireWrite <Location> <Effect> <Direction> <Text>
+
+#Start Show Here
+
+0		Music	2258
+
+4_7		Text	I'm at 4 seconds, but delayed by 7!
+
+5		Text	5 seconds in
+6		Text	6 seconds in
+7		Text	7
+8		Text	8
+9		Text	9
+
+10		Lightning	0,4,0
+
+12		Text	Check out this sweet flashing block!
+
+14		Block	42	0,10,0
+15		Block	41	0,10,0
+16		Block	42	0,10,0
+16.1	Block	41	0,10,0
+16.2	Block	42	0,10,0
+16.3	Block	41	0,10,0
+16.4	Block	42	0,10,0
+16.5	Block	41	0,10,0
+16.6	Block	42	0,10,0
+16.7	Block	41	0,10,0
+16.8	Block	42	0,10,0
+16.9	Block	41	0,10,0
+17	Block	42	0,10,0
+18	Block	0	0,10,0
+
+20	Text	OMGZ DA FIREWORKZ!!!
+
+
+#Up
+22.0	Firework	0,10,0	ExampleA,ExampleB	3	0,1,0	2
+
+#Both X Directions
+23.0	Firework	0,10,0	ExampleA	2	1,0,0	3
+23.0	Firework	0,10,0	ExampleA	2	-1,0,0	3
+
+#Both Z Directions
+24.0	Firework	0,10,0	ExampleB	2	0,0,1	3
+24.0	Firework	0,10,0	ExampleB	2	0,0,-1	3
+
+#8 Directions at once!
+25.0	Firework	0,10,0	ExampleA	2	0,0,1	3
+25.0	Firework	0,10,0	ExampleA	2	0,0,-1	3
+25.0	Firework	0,10,0	ExampleA	2	1,0,0	3
+25.0	Firework	0,10,0	ExampleA	2	-1,0,0	3
+25.0	Firework	0,10,0	ExampleB	2	-1,0,-1	1.5
+25.0	Firework	0,10,0	ExampleB	2	1,0,1	1.5
+25.0	Firework	0,10,0	ExampleB	2	-1,0,1	1.5
+25.0	Firework	0,10,0	ExampleB	2	1,0,-1	1.5
+
+#WEEEEE!
+26.0	Firework	0,10,0	ExampleA	1	0,0,1	0.5
+26.1	Firework	0,10,0	ExampleB	1	0,0,-1	0.75
+26.2	Firework	0,10,0	ExampleA	1	1,0,0	1
+26.3	Firework	0,10,0	ExampleB	1	-1,0,0	1.25
+26.4	Firework	0,10,0	ExampleA	1	-1,0,-1	1.5
+26.5	Firework	0,10,0	ExampleB	1	1,0,1	1.75
+26.6	Firework	0,10,0	ExampleA	1	-1,0,1	2
+26.7	Firework	0,10,0	ExampleB	1	1,0,-1	2.25
+26.8	Firework	0,10,0	ExampleA	1	0,0,1	2.5
+26.9	Firework	0,10,0	ExampleB	1	0,0,-1	2.75
+27.0	Firework	0,10,0	ExampleA	1	1,0,0	3
+27.1	Firework	0,10,0	ExampleB	1	-1,0,0	3.25
+27.2	Firework	0,10,0	ExampleA	1	-1,0,-1	3.5
+27.3	Firework	0,10,0	ExampleB	1	1,0,1	3.75
+27.4	Firework	0,10,0	ExampleA	1	-1,0,1	4
+27.5	Firework	0,10,0	ExampleB	1	1,0,-1	4.25
+
+30	Firework	0,10,0	ExampleB,ExampleA	0	0,1,0	1

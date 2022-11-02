@@ -1,0 +1,688 @@
+Show	Location	-1614,63,-501
+Show	TextRadius	10
+Show	Name	lanterns
+
+ArmorStand	lantern1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern3	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern4	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern5	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern7	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern8	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern9	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern10	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern11	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern12	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern13	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern14	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern15	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern16	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern17	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern18	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern19	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern20	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern21	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern22	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern23	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern24	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern25	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern26	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern27	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern28	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern29	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern30	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern31	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern32	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern33	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern34	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern35	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern36	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern37	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern38	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern39	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern40	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern41	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern42	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern43	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern44	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern45	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern46	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern47	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern48	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern49	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern50	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern51	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern52	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern53	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern54	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern55	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern56	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern57	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern58	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern59	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern1a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern2a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern3a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern4a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern5a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern6a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern7a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern8a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern9a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern10a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern11a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern12a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern13a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern14a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern15a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern16a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern17a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern18a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern19a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern20a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern21a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern22a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern23a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern24a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern25a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern26a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern27a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern28a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern29a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern30a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern31a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern32a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern33a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern34a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern35a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern36a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern37a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern38a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern39a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern40a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern41a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern42a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern43a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern44a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern45a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern46a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern47a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern48a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern49a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern50a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern51a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern52a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern53a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern54a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern55a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern56a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern57a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern58a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+ArmorStand	lantern59a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZGE0N2JlOTkzMThmZTE2MjNlZjFhMWExZTI1NjdhYzFjNmZlNzlmOWEzY2M2ZTMzNThhNjJlZGNmODE1In19fQ==;0;0;0
+
+#First
+320	ArmorStand	lantern1	spawn	-1626,61,-528
+320.1	ArmorStand	lantern1	move	-1610,102,-522	40
+320.1	ArmorStand	lantern1	rotate	360	40
+
+360	ArmorStand	lantern1	despawn
+
+#Second burst
+330	ArmorStand	lantern2	spawn	-1634,61,-525
+330.1	ArmorStand	lantern2	move	-1598,103,-520	40
+330.1	ArmorStand	lantern2	rotate	360	40
+330	ArmorStand	lantern3	spawn	-1640,61,-527
+330.1	ArmorStand	lantern3	move	-1605,106,-524	40
+330.1	ArmorStand	lantern3	rotate	360	40
+
+370	ArmorStand	lantern2	despawn
+370	ArmorStand	lantern3	despawn
+
+#Third burst
+340	ArmorStand	lantern4	spawn	-1626,61,-528
+340.1	ArmorStand	lantern4	move	-1610,102,-522	40
+340.1	ArmorStand	lantern4	rotate	360	40
+342	ArmorStand	lantern5	spawn	-1634,61,-525
+342.1	ArmorStand	lantern5	move	-1598,103,-520	40
+342.1	ArmorStand	lantern5	rotate	360	40
+344	ArmorStand	lantern6	spawn	-1640,61,-527
+344.1	ArmorStand	lantern6	move	-1605,106,-524	40
+344.1	ArmorStand	lantern6	rotate	360	40
+
+380	ArmorStand	lantern4	despawn
+382	ArmorStand	lantern5	despawn
+384	ArmorStand	lantern6	despawn
+
+#Fourth burst
+350	ArmorStand	lantern7	spawn	-1626,61,-528
+350.1	ArmorStand	lantern7	move	-1610,102,-522	40
+350.1	ArmorStand	lantern7	rotate	360	40
+352	ArmorStand	lantern8	spawn	-1634,61,-525
+352.1	ArmorStand	lantern8	move	-1598,103,-520	40
+352.1	ArmorStand	lantern8	rotate	360	40
+354	ArmorStand	lantern9	spawn	-1640,61,-527
+354.1	ArmorStand	lantern9	move	-1605,106,-524	40
+354.1	ArmorStand	lantern9	rotate	360	40
+356	ArmorStand	lantern10	spawn	-1639,61,-522
+356.1	ArmorStand	lantern10	move	-1597,109,-514	40
+356.1	ArmorStand	lantern10	rotate	360	40
+
+390	ArmorStand	lantern7	despawn
+392	ArmorStand	lantern8	despawn
+394	ArmorStand	lantern9	despawn
+396	ArmorStand	lantern10	despawn
+
+#Fifth burst
+360	ArmorStand	lantern11	spawn	-1626,61,-528
+360.1	ArmorStand	lantern11	move	-1610,102,-522	40
+360.1	ArmorStand	lantern11	rotate	360	40
+362	ArmorStand	lantern12	spawn	-1634,61,-525
+362.1	ArmorStand	lantern12	move	-1598,103,-520	40
+362.1	ArmorStand	lantern12	rotate	360	40
+364	ArmorStand	lantern13	spawn	-1640,61,-527
+364.1	ArmorStand	lantern13	move	-1605,106,-524	40
+364.1	ArmorStand	lantern13	rotate	360	40
+366	ArmorStand	lantern14	spawn	-1639,61,-522
+366.1	ArmorStand	lantern14	move	-1597,109,-514	40
+366.1	ArmorStand	lantern14	rotate	360	40
+368	ArmorStand	lantern15	spawn	-1634,61,-519
+368.1	ArmorStand	lantern15	move	-1602,103,-528	40
+368.1	ArmorStand	lantern15	rotate	360	40
+
+400	ArmorStand	lantern11	despawn
+402	ArmorStand	lantern12	despawn
+404	ArmorStand	lantern13	despawn
+406	ArmorStand	lantern14	despawn
+408	ArmorStand	lantern15	despawn
+
+#Sixth burst
+369	ArmorStand	lantern16	spawn	-1626,61,-528
+369.1	ArmorStand	lantern16	move	-1610,102,-522	40
+369.1	ArmorStand	lantern16	rotate	360	40
+370	ArmorStand	lantern17	spawn	-1634,61,-525
+370.1	ArmorStand	lantern17	move	-1598,103,-520	40
+370.1	ArmorStand	lantern17	rotate	360	40
+371	ArmorStand	lantern18	spawn	-1640,61,-527
+371.1	ArmorStand	lantern18	move	-1605,106,-524	40
+371.1	ArmorStand	lantern18	rotate	360	40
+372	ArmorStand	lantern19	spawn	-1639,61,-522
+372.1	ArmorStand	lantern19	move	-1597,109,-514	40
+372.1	ArmorStand	lantern19	rotate	360	40
+373	ArmorStand	lantern20	spawn	-1634,61,-519
+373.1	ArmorStand	lantern20	move	-1602,103,-528	40
+373.1	ArmorStand	lantern20	rotate	360	40
+374	ArmorStand	lantern21	spawn	-1643,61,-523
+374.1	ArmorStand	lantern21	move	-1601,110,-527	40
+374.1	ArmorStand	lantern21	rotate	360	40
+
+409	ArmorStand	lantern16	despawn
+410	ArmorStand	lantern17	despawn
+411	ArmorStand	lantern18	despawn
+412	ArmorStand	lantern19	despawn
+413	ArmorStand	lantern20	despawn
+414	ArmorStand	lantern21	despawn
+
+#7th burst
+377	ArmorStand	lantern22	spawn	-1626,61,-528
+377.1	ArmorStand	lantern22	move	-1610,102,-522	40
+377.1	ArmorStand	lantern22	rotate	360	40
+378	ArmorStand	lantern23	spawn	-1634,61,-525
+378.1	ArmorStand	lantern23	move	-1598,103,-520	40
+378.1	ArmorStand	lantern23	rotate	360	40
+379	ArmorStand	lantern24	spawn	-1640,61,-527
+379.1	ArmorStand	lantern24	move	-1605,106,-524	40
+379.1	ArmorStand	lantern24	rotate	360	40
+380	ArmorStand	lantern25	spawn	-1639,61,-522
+380.1	ArmorStand	lantern25	move	-1597,109,-514	40
+380.1	ArmorStand	lantern25	rotate	360	40
+381	ArmorStand	lantern26	spawn	-1634,61,-519
+381.1	ArmorStand	lantern26	move	-1602,103,-528	40
+381.1	ArmorStand	lantern26	rotate	360	40
+382	ArmorStand	lantern27	spawn	-1643,61,-523
+382.1	ArmorStand	lantern27	move	-1601,110,-527	40
+382.1	ArmorStand	lantern27	rotate	360	40
+
+417	ArmorStand	lantern22	despawn
+418	ArmorStand	lantern23	despawn
+419	ArmorStand	lantern24	despawn
+420	ArmorStand	lantern25	despawn
+421	ArmorStand	lantern26	despawn
+422	ArmorStand	lantern27	despawn
+
+#8th burst
+384	ArmorStand	lantern28	spawn	-1626,61,-528
+384.1	ArmorStand	lantern28	move	-1610,102,-522	40
+384.1	ArmorStand	lantern28	rotate	360	40
+385	ArmorStand	lantern29	spawn	-1634,61,-525
+385.1	ArmorStand	lantern29	move	-1598,103,-520	40
+385.1	ArmorStand	lantern29	rotate	360	40
+386	ArmorStand	lantern30	spawn	-1640,61,-527
+386.1	ArmorStand	lantern30	move	-1605,106,-524	40
+386.1	ArmorStand	lantern30	rotate	360	40
+387	ArmorStand	lantern31	spawn	-1639,61,-522
+387.1	ArmorStand	lantern31	move	-1597,109,-514	40
+387.1	ArmorStand	lantern31	rotate	360	40
+388	ArmorStand	lantern32	spawn	-1634,61,-519
+388.1	ArmorStand	lantern32	move	-1602,103,-528	40
+388.1	ArmorStand	lantern32	rotate	360	40
+389	ArmorStand	lantern33	spawn	-1643,61,-523
+389.1	ArmorStand	lantern33	move	-1601,110,-527	40
+389.1	ArmorStand	lantern33	rotate	360	40
+
+424	ArmorStand	lantern28	despawn
+425	ArmorStand	lantern29	despawn
+426	ArmorStand	lantern30	despawn
+427	ArmorStand	lantern31	despawn
+428	ArmorStand	lantern32	despawn
+429	ArmorStand	lantern33	despawn
+
+#9th burst
+391	ArmorStand	lantern34	spawn	-1626,61,-528
+391.1	ArmorStand	lantern34	move	-1610,102,-522	40
+391.1	ArmorStand	lantern34	rotate	360	40
+392	ArmorStand	lantern35	spawn	-1634,61,-525
+392.1	ArmorStand	lantern35	move	-1598,103,-520	40
+392.1	ArmorStand	lantern35	rotate	360	40
+393	ArmorStand	lantern36	spawn	-1640,61,-527
+393.1	ArmorStand	lantern36	move	-1605,106,-524	40
+393.1	ArmorStand	lantern36	rotate	360	40
+394	ArmorStand	lantern37	spawn	-1639,61,-522
+394.1	ArmorStand	lantern37	move	-1597,109,-514	40
+394.1	ArmorStand	lantern37	rotate	360	40
+395	ArmorStand	lantern38	spawn	-1634,61,-519
+395.1	ArmorStand	lantern38	move	-1602,103,-528	40
+395.1	ArmorStand	lantern38	rotate	360	40
+396	ArmorStand	lantern39	spawn	-1643,61,-523
+396.1	ArmorStand	lantern39	move	-1601,110,-527	40
+396.1	ArmorStand	lantern39	rotate	360	40
+
+431	ArmorStand	lantern34	despawn
+432	ArmorStand	lantern35	despawn
+433	ArmorStand	lantern36	despawn
+434	ArmorStand	lantern37	despawn
+435	ArmorStand	lantern38	despawn
+436	ArmorStand	lantern39	despawn
+
+#10th burst
+400	ArmorStand	lantern40	spawn	-1626,61,-528
+400.1	ArmorStand	lantern40	move	-1610,102,-522	40
+400.1	ArmorStand	lantern40	rotate	360	40
+400	ArmorStand	lantern41	spawn	-1634,61,-525
+400.1	ArmorStand	lantern41	move	-1598,103,-520	40
+400.1	ArmorStand	lantern41	rotate	360	40
+401	ArmorStand	lantern42	spawn	-1640,61,-527
+401.1	ArmorStand	lantern42	move	-1605,106,-524	40
+401.1	ArmorStand	lantern42	rotate	360	40
+401	ArmorStand	lantern43	spawn	-1639,61,-522
+401.1	ArmorStand	lantern43	move	-1597,109,-514	40
+401.1	ArmorStand	lantern43	rotate	360	40
+402	ArmorStand	lantern44	spawn	-1634,61,-519
+402.1	ArmorStand	lantern44	move	-1602,103,-528	40
+402.1	ArmorStand	lantern44	rotate	360	40
+402	ArmorStand	lantern45	spawn	-1643,61,-523
+402.1	ArmorStand	lantern45	move	-1601,110,-527	40
+402.1	ArmorStand	lantern45	rotate	360	40
+
+440	ArmorStand	lantern40	despawn
+440	ArmorStand	lantern41	despawn
+441	ArmorStand	lantern42	despawn
+441	ArmorStand	lantern43	despawn
+442	ArmorStand	lantern44	despawn
+442	ArmorStand	lantern45	despawn
+
+#11th burst
+405	ArmorStand	lantern46	spawn	-1626,61,-528
+405.1	ArmorStand	lantern46	move	-1610,102,-522	40
+405.1	ArmorStand	lantern46	rotate	360	40
+405	ArmorStand	lantern47	spawn	-1634,61,-525
+405.1	ArmorStand	lantern47	move	-1598,103,-520	40
+405.1	ArmorStand	lantern47	rotate	360	40
+406	ArmorStand	lantern48	spawn	-1640,61,-527
+406.1	ArmorStand	lantern48	move	-1605,106,-524	40
+406.1	ArmorStand	lantern48	rotate	360	40
+406	ArmorStand	lantern49	spawn	-1639,61,-522
+406.1	ArmorStand	lantern49	move	-1597,109,-514	40
+406.1	ArmorStand	lantern49	rotate	360	40
+407	ArmorStand	lantern50	spawn	-1634,61,-519
+407.1	ArmorStand	lantern50	move	-1602,103,-528	40
+407.1	ArmorStand	lantern50	rotate	360	40
+
+445	ArmorStand	lantern46	despawn
+445	ArmorStand	lantern47	despawn
+446	ArmorStand	lantern48	despawn
+446	ArmorStand	lantern49	despawn
+447	ArmorStand	lantern50	despawn
+
+#12th burst
+410	ArmorStand	lantern51	spawn	-1626,61,-528
+410.1	ArmorStand	lantern51	move	-1610,102,-522	40
+410.1	ArmorStand	lantern51	rotate	360	40
+411	ArmorStand	lantern52	spawn	-1634,61,-525
+411.1	ArmorStand	lantern52	move	-1598,103,-520	40
+411.1	ArmorStand	lantern52	rotate	360	40
+412	ArmorStand	lantern53	spawn	-1640,61,-527
+412.1	ArmorStand	lantern53	move	-1605,106,-524	40
+412.1	ArmorStand	lantern53	rotate	360	40
+413	ArmorStand	lantern54	spawn	-1639,61,-522
+413.1	ArmorStand	lantern54	move	-1597,109,-514	40
+413.1	ArmorStand	lantern54	rotate	360	40
+
+450	ArmorStand	lantern51	despawn
+451	ArmorStand	lantern52	despawn
+452	ArmorStand	lantern53	despawn
+453	ArmorStand	lantern54	despawn
+
+#13th burst
+417	ArmorStand	lantern55	spawn	-1626,61,-528
+417.1	ArmorStand	lantern55	move	-1610,102,-522	40
+417.1	ArmorStand	lantern55	rotate	360	40
+418	ArmorStand	lantern56	spawn	-1634,61,-525
+418.1	ArmorStand	lantern56	move	-1598,103,-520	40
+418.1	ArmorStand	lantern56	rotate	360	40
+419	ArmorStand	lantern57	spawn	-1640,61,-527
+419.1	ArmorStand	lantern57	move	-1605,106,-524	40
+419.1	ArmorStand	lantern57	rotate	360	40
+
+457	ArmorStand	lantern55	despawn
+458	ArmorStand	lantern56	despawn
+459	ArmorStand	lantern57	despawn
+
+420	ArmorStand	lantern58	spawn	-1626,61,-528
+420.1	ArmorStand	lantern58	move	-1610,102,-522	40
+420.1	ArmorStand	lantern58	rotate	360	40
+421	ArmorStand	lantern59	spawn	-1634,61,-525
+421.1	ArmorStand	lantern59	move	-1598,103,-520	40
+421.1	ArmorStand	lantern59	rotate	360	40
+
+460	ArmorStand	lantern58	despawn
+461	ArmorStand	lantern59	despawn
+######################################################################################
+
+#First
+320	ArmorStand	lantern1a	spawn	-1608,61,-528
+320.1	ArmorStand	lantern1a	move	-1584,97,-522	40
+320.1	ArmorStand	lantern1a	rotate	360	40
+
+360	ArmorStand	lantern1a	despawn
+
+#Second burst
+330	ArmorStand	lantern2a	spawn	-1608,61,-528
+330.1	ArmorStand	lantern2a	move	-1584,97,-522	40
+330.1	ArmorStand	lantern2a	rotate	360	40
+330	ArmorStand	lantern3a	spawn	-1601,61,-525
+330.1	ArmorStand	lantern3a	move	-1582,101,-518	40
+330.1	ArmorStand	lantern3a	rotate	360	40
+
+370	ArmorStand	lantern2a	despawn
+370	ArmorStand	lantern3a	despawn
+
+#Third burst
+340	ArmorStand	lantern4a	spawn	-1608,61,-528
+340.1	ArmorStand	lantern4a	move	-1584,97,-522	40
+340.1	ArmorStand	lantern4a	rotate	360	40
+342	ArmorStand	lantern5a	spawn	-1601,61,-525
+342.1	ArmorStand	lantern5a	move	-1582,101,-518	40
+342.1	ArmorStand	lantern5a	rotate	360	40
+344	ArmorStand	lantern6a	spawn	-1596,61,-527
+344.1	ArmorStand	lantern6a	move	-1579,92,-519	40
+344.1	ArmorStand	lantern6a	rotate	360	40
+
+380	ArmorStand	lantern4a	despawn
+382	ArmorStand	lantern5a	despawn
+384	ArmorStand	lantern6a	despawn
+
+#Fourth burst
+350	ArmorStand	lantern7a	spawn	-1626,61,-528
+350.1	ArmorStand	lantern7a	move	-1584,97,-522	40
+350.1	ArmorStand	lantern7a	rotate	360	40
+352	ArmorStand	lantern8a	spawn	-1601,61,-525
+352.1	ArmorStand	lantern8a	move	-1582,101,-518	40
+352.1	ArmorStand	lantern8a	rotate	360	40
+354	ArmorStand	lantern9a	spawn	-1596,61,-527
+354.1	ArmorStand	lantern9a	move	-1579,92,-519	40
+354.1	ArmorStand	lantern9a	rotate	360	40
+356	ArmorStand	lantern10a	spawn	-1597,61,-520
+356.1	ArmorStand	lantern10a	move	-1585,93,-513	40
+356.1	ArmorStand	lantern10a	rotate	360	40
+
+390	ArmorStand	lantern7a	despawn
+392	ArmorStand	lantern8a	despawn
+394	ArmorStand	lantern9a	despawn
+396	ArmorStand	lantern10a	despawn
+
+#Fifth burst
+360	ArmorStand	lantern11a	spawn	-1608,61,-528
+360.1	ArmorStand	lantern11a	move	-1584,97,-522	40
+360.1	ArmorStand	lantern11a	rotate	360	40
+362	ArmorStand	lantern12a	spawn	-1601,61,-525
+362.1	ArmorStand	lantern12a	move	-1582,101,-518	40
+362.1	ArmorStand	lantern12a	rotate	360	40
+364	ArmorStand	lantern13a	spawn	-1596,61,-527
+364.1	ArmorStand	lantern13a	move	-1579,92,-519	40
+364.1	ArmorStand	lantern13a	rotate	360	40
+366	ArmorStand	lantern14a	spawn	-1597,61,-520
+366.1	ArmorStand	lantern14a	move	-1585,93,-513	40
+366.1	ArmorStand	lantern14a	rotate	360	40
+368	ArmorStand	lantern15a	spawn	-1592,61,-520
+368.1	ArmorStand	lantern15a	move	-1580,98,-508	40
+368.1	ArmorStand	lantern15a	rotate	360	40
+
+400	ArmorStand	lantern11a	despawn
+402	ArmorStand	lantern12a	despawn
+404	ArmorStand	lantern13a	despawn
+406	ArmorStand	lantern14a	despawn
+408	ArmorStand	lantern15a	despawn
+
+#Sixth burst
+369	ArmorStand	lantern16a	spawn	-1608,61,-528
+369.1	ArmorStand	lantern16a	move	-1584,97,-522	40
+369.1	ArmorStand	lantern16a	rotate	360	40
+370	ArmorStand	lantern17a	spawn	-1601,61,-525
+370.1	ArmorStand	lantern17a	move	-1582,101,-518	40
+370.1	ArmorStand	lantern17a	rotate	360	40
+371	ArmorStand	lantern18a	spawn	-1596,61,-527
+371.1	ArmorStand	lantern18a	move	-1579,92,-519	40
+371.1	ArmorStand	lantern18a	rotate	360	40
+372	ArmorStand	lantern19a	spawn	-1597,61,-520
+372.1	ArmorStand	lantern19a	move	-1585,93,-513	40
+372.1	ArmorStand	lantern19a	rotate	360	40
+373	ArmorStand	lantern20a	spawn	-1592,61,-520
+373.1	ArmorStand	lantern20a	move	-1580,98,-508	40
+373.1	ArmorStand	lantern20a	rotate	360	40
+374	ArmorStand	lantern21a	spawn	-1593,61,-524
+374.1	ArmorStand	lantern21a	move	-1575,98,-515	40
+374.1	ArmorStand	lantern21a	rotate	360	40
+
+409	ArmorStand	lantern16a	despawn
+410	ArmorStand	lantern17a	despawn
+411	ArmorStand	lantern18a	despawn
+412	ArmorStand	lantern19a	despawn
+413	ArmorStand	lantern20a	despawn
+414	ArmorStand	lantern21a	despawn
+
+#7th burst
+377	ArmorStand	lantern22a	spawn	-1608,61,-528
+377.1	ArmorStand	lantern22a	move	-1584,97,-522	40
+377.1	ArmorStand	lantern22a	rotate	360	40
+378	ArmorStand	lantern23a	spawn	-1601,61,-525
+378.1	ArmorStand	lantern23a	move	-1582,101,-518	40
+378.1	ArmorStand	lantern23a	rotate	360	40
+379	ArmorStand	lantern24a	spawn	-1596,61,-527
+379.1	ArmorStand	lantern24a	move	-1579,92,-519	40
+379.1	ArmorStand	lantern24a	rotate	360	40
+380	ArmorStand	lantern25a	spawn	-1597,61,-520
+380.1	ArmorStand	lantern25a	move	-1585,93,-513	40
+380.1	ArmorStand	lantern25a	rotate	360	40
+381	ArmorStand	lantern26a	spawn	-1592,61,-520
+381.1	ArmorStand	lantern26a	move	-1580,98,-508	40
+381.1	ArmorStand	lantern26a	rotate	360	40
+382	ArmorStand	lantern27a	spawn	-1593,61,-524
+382.1	ArmorStand	lantern27a	move	-1575,98,-515	40
+382.1	ArmorStand	lantern27a	rotate	360	40
+
+417	ArmorStand	lantern22a	despawn
+418	ArmorStand	lantern23a	despawn
+419	ArmorStand	lantern24a	despawn
+420	ArmorStand	lantern25a	despawn
+421	ArmorStand	lantern26a	despawn
+422	ArmorStand	lantern27a	despawn
+
+#8th burst
+334	ArmorStand	lantern28a	spawn	-1608,61,-528
+334.1	ArmorStand	lantern28a	move	-1584,97,-522	40
+334.1	ArmorStand	lantern28a	rotate	360	40
+335	ArmorStand	lantern29a	spawn	-1601,61,-525
+335.1	ArmorStand	lantern29a	move	-1582,101,-518	40
+335.1	ArmorStand	lantern29a	rotate	360	40
+346	ArmorStand	lantern30a	spawn	-1596,61,-527
+346.1	ArmorStand	lantern30a	move	-1579,92,-519	40
+346.1	ArmorStand	lantern30a	rotate	360	40
+357	ArmorStand	lantern31a	spawn	-1597,61,-520
+357.1	ArmorStand	lantern31a	move	-1585,93,-513	40
+357.1	ArmorStand	lantern31a	rotate	360	40
+358	ArmorStand	lantern32a	spawn	-1592,61,-520
+358.1	ArmorStand	lantern32a	move	-1580,98,-508	40
+358.1	ArmorStand	lantern32a	rotate	360	40
+369	ArmorStand	lantern33a	spawn	-1593,61,-524
+369.1	ArmorStand	lantern33a	move	-1575,98,-515	40
+369.1	ArmorStand	lantern33a	rotate	360	40
+
+424	ArmorStand	lantern28a	despawn
+425	ArmorStand	lantern29a	despawn
+426	ArmorStand	lantern30a	despawn
+427	ArmorStand	lantern31a	despawn
+428	ArmorStand	lantern32a	despawn
+429	ArmorStand	lantern33a	despawn
+
+#9th burst
+391	ArmorStand	lantern34a	spawn	-1608,61,-528
+391.1	ArmorStand	lantern34a	move	-1584,97,-522	40
+391.1	ArmorStand	lantern34a	rotate	360	40
+392	ArmorStand	lantern35a	spawn	-1601,61,-525
+392.1	ArmorStand	lantern35a	move	-1582,101,-518	40
+392.1	ArmorStand	lantern35a	rotate	360	40
+393	ArmorStand	lantern36a	spawn	-1596,61,-527
+393.1	ArmorStand	lantern36a	move	-1579,92,-519	40
+393.1	ArmorStand	lantern36a	rotate	360	40
+394	ArmorStand	lantern37a	spawn	-1597,61,-520
+394.1	ArmorStand	lantern37a	move	-1585,93,-513	40
+394.1	ArmorStand	lantern37a	rotate	360	40
+395	ArmorStand	lantern38a	spawn	-1592,61,-520
+395.1	ArmorStand	lantern38a	move	-1580,98,-508	40
+395.1	ArmorStand	lantern38a	rotate	360	40
+396	ArmorStand	lantern39a	spawn	-1593,61,-524
+396.1	ArmorStand	lantern39a	move	-1575,98,-515	40
+396.1	ArmorStand	lantern39a	rotate	360	40
+
+431	ArmorStand	lantern34a	despawn
+432	ArmorStand	lantern35a	despawn
+433	ArmorStand	lantern36a	despawn
+434	ArmorStand	lantern37a	despawn
+435	ArmorStand	lantern38a	despawn
+436	ArmorStand	lantern39a	despawn
+
+#10th burst
+400	ArmorStand	lantern40a	spawn	-1608,61,-528
+400.1	ArmorStand	lantern40a	move	-1584,97,-522	40
+400.1	ArmorStand	lantern40a	rotate	360	40
+400	ArmorStand	lantern41a	spawn	-1601,61,-525
+400.1	ArmorStand	lantern41a	move	-1582,101,-518	40
+400.1	ArmorStand	lantern41a	rotate	360	40
+401	ArmorStand	lantern42a	spawn	-1596,61,-527
+401.1	ArmorStand	lantern42a	move	-1579,92,-519	40
+401.1	ArmorStand	lantern42a	rotate	360	40
+401	ArmorStand	lantern43a	spawn	-1597,61,-520
+401.1	ArmorStand	lantern43a	move	-1585,93,-513	40
+401.1	ArmorStand	lantern43a	rotate	360	40
+402	ArmorStand	lantern44a	spawn	-1592,61,-520
+402.1	ArmorStand	lantern44a	move	-1580,98,-508	40
+402.1	ArmorStand	lantern44a	rotate	360	40
+402	ArmorStand	lantern45a	spawn	-1593,61,-524
+402.1	ArmorStand	lantern45a	move	-1575,98,-515	40
+402.1	ArmorStand	lantern45a	rotate	360	40
+
+440	ArmorStand	lantern40a	despawn
+440	ArmorStand	lantern41a	despawn
+441	ArmorStand	lantern42a	despawn
+441	ArmorStand	lantern43a	despawn
+442	ArmorStand	lantern44a	despawn
+442	ArmorStand	lantern45a	despawn
+
+#11th burst
+405	ArmorStand	lantern46a	spawn	-1608,61,-528
+405.1	ArmorStand	lantern46a	move	-1584,97,-522	40
+405.1	ArmorStand	lantern46a	rotate	360	40
+405	ArmorStand	lantern47a	spawn	-1601,61,-525
+405.1	ArmorStand	lantern47a	move	-1582,101,-518	40
+405.1	ArmorStand	lantern47a	rotate	360	40
+406	ArmorStand	lantern48a	spawn	-1596,61,-527
+406.1	ArmorStand	lantern48a	move	-1579,92,-519	40
+406.1	ArmorStand	lantern48a	rotate	360	40
+406	ArmorStand	lantern49a	spawn	-1597,61,-520
+406.1	ArmorStand	lantern49a	move	-1585,93,-513	40
+406.1	ArmorStand	lantern49a	rotate	360	40
+407	ArmorStand	lantern50a	spawn	-1592,61,-520
+407.1	ArmorStand	lantern50a	move	-1580,98,-508	40
+407.1	ArmorStand	lantern50a	rotate	360	40
+
+445	ArmorStand	lantern46a	despawn
+445	ArmorStand	lantern47a	despawn
+446	ArmorStand	lantern48a	despawn
+446	ArmorStand	lantern49a	despawn
+447	ArmorStand	lantern50a	despawn
+
+#12th burst
+410	ArmorStand	lantern51a	spawn	-1608,61,-528
+410.1	ArmorStand	lantern51a	move	-1584,97,-522	40
+410.1	ArmorStand	lantern51a	rotate	360	40
+411	ArmorStand	lantern52a	spawn	-1601,61,-525
+411.1	ArmorStand	lantern52a	move	-1582,101,-518	40
+411.1	ArmorStand	lantern52a	rotate	360	40
+412	ArmorStand	lantern53a	spawn	-1596,61,-527
+412.1	ArmorStand	lantern53a	move	-1579,92,-519	40
+412.1	ArmorStand	lantern53a	rotate	360	40
+413	ArmorStand	lantern54a	spawn	-1597,61,-520
+413.1	ArmorStand	lantern54a	move	-1585,93,-513	40
+413.1	ArmorStand	lantern54a	rotate	360	40
+
+450	ArmorStand	lantern51a	despawn
+451	ArmorStand	lantern52a	despawn
+452	ArmorStand	lantern53a	despawn
+453	ArmorStand	lantern54a	despawn
+
+#13th burst
+417	ArmorStand	lantern55a	spawn	-1608,61,-528
+417.1	ArmorStand	lantern55a	move	-1584,97,-522	40
+417.1	ArmorStand	lantern55a	rotate	360	40
+418	ArmorStand	lantern56a	spawn	-1601,61,-525
+418.1	ArmorStand	lantern56a	move	-1582,101,-518	40
+418.1	ArmorStand	lantern56a	rotate	360	40
+419	ArmorStand	lantern57a	spawn	-1596,61,-527
+419.1	ArmorStand	lantern57a	move	-1579,92,-519	40
+419.1	ArmorStand	lantern57a	rotate	360	40
+
+457	ArmorStand	lantern55a	despawn
+458	ArmorStand	lantern56a	despawn
+459	ArmorStand	lantern57a	despawn
+
+#14th burst
+420	ArmorStand	lantern58a	spawn	-1608,61,-528
+420.1	ArmorStand	lantern58a	move	-1584,97,-522	40
+420.1	ArmorStand	lantern58a	rotate	360	40
+421	ArmorStand	lantern59a	spawn	-1601,61,-525
+421.1	ArmorStand	lantern59a	move	-1582,101,-518	40
+421.1	ArmorStand	lantern59a	rotate	360	40
+
+460	ArmorStand	lantern58a	despawn
+461	ArmorStand	lantern59a	despawn
+
+
+
+
+
+
+
+
+
+

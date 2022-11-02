@@ -1,0 +1,79 @@
+Show	Location	-1639,65,-264
+Show	TextRadius	10
+#Barriers
+0	Block	166	-1660,65,-274
+0	Block	166	-1659,65,-273
+0	Block	166	-1658,65,-272
+0	Block	166	-1657,65,-271
+0	Block	166	-1656,65,-270
+0	Block	166	-1655,65,-269
+0	Block	166	-1654,65,-268
+0	Block	166	-1653,65,-267
+0	Block	166	-1652,65,-266
+0	Block	166	-1651,65,-265
+0	Block	166	-1650,65,-264
+0	Block	166	-1649,65,-263
+0	Block	166	-1648,65,-262
+0	Block	166	-1647,65,-261
+0	Block	152	-1644,61,-263
+0	Block	152	-1644,60,-263
+0	Block	166	-1648,65,-270
+0	Block	166	-1649,65,-271
+0	Block	166	-1650,65,-272
+0	Block	166	-1651,65,-273
+0	Block	166	-1652,65,-274
+0	Block	166	-1653,65,-275
+#TP Out
+2	Block	152	-1644,61,-264
+#Announcement
+12	Block	152	-1644,60,-264
+#WalkOut
+300	Block	152	-1644,61,-265
+#Talk
+337	Text	&f[&5Purple Dan&f] &dYou know we’ve been hearing alot about these boy bands lately.
+338	Block	152	-1637,60,-260
+342	Text	&dYou know what I’m talking about, One Direction, Backstreet boys, Kitchen Sink.
+347	Text	&f[&4Red Dan&f] &cThat’s N’Sync
+352	Text	&f[&5Purple Dan&f] &dRight Right, Well anyway, They seem to be the latest craze.
+357	Text	&f[&6Yellow Dan&f] &eAnd… a real hit with the ladies!
+362	Text	&f[&5Purple Dan&f] &dSo I said to the Dan’s “Dans?”
+366.5	Block	152	-1637,61,-251
+366.5	Block	152	-1637,61,-250
+366.5	Block	152	-1637,61,-249
+367	Text	&f[&6Yellow Dan&f] &eYes
+367.1	Text	&f[&4Red Dan&f] &cYes
+367.2	Text	&f[&9Blue Dan&f] &bYes
+370	Block	152	-1637,61,-248
+370	Block	152	-1637,61,-247
+370	Block	152	-1637,61,-246
+372	Text	&f[&5Purple Dan&f] &dWe’ve been doing this for a while right?
+376	Block	152	-1640,60,-260
+377	Text	&f[&9Blue Dan&f] &bEver since I was a tenor.
+382	Text	&f[&5Purple Dan&f] &dYou know I think that we may have invented this craze. I mean we are the original boy band.
+384	Block	152	-1640,61,-260
+387	Block	152	-1643,60,-260
+387	Text	&f[&4Red Dan&f] &cSo without further ado ladies and gentlemen, we’d like to present this song done in it’s original style.
+390	Block	152	-1643,61,-260
+392	Text	&f[&5Purple Dan&f] &dHit it boys!
+392	Block	152	-1637,61,-260
+#StartSinging
+393	Block	152	-1646,60,-260
+393	Text	We’re the original boy band
+396	Text	With songs we never sing
+403	Text	Everyone else in the room can see it.
+406.5	Text	Everyone else but you oo
+409.5	Text	Baby you light up my world like nobody else,
+413.5	Text	The way that you flip your hair get me overwhelmed,
+#Turn towards each other (414)
+417	Text	But when you smile at the ground it ain’t hard to tell,
+421	Text	You don’t know,
+422	Text	Oh, oh,
+425	Text	You don’t know you’re beautiful
+437.5	Text	If only you saw what I can see,
+441.25	Text	You’ll understand why I want you so desperately,
+445	Text	Right now I’m looking at you and I can’t believe,
+447	Text	Oh, oh, woah, oh oh,
+449.5	Text	You don’t know you’re beautiful
+451.33	Text	Oh, oh, woah, oh, oh
+453	Text	That’s what makes you beautiful
+459	Text	Ooooooooooooo

@@ -1,0 +1,96 @@
+Show	Location	-1614,64,-347
+Show	TextRadius	100
+# Beginning Reset Announcement
+1	Text	We are very sorry for the technical difficulties. We will be back very soon after we go fix our floats!
+# Removal of any left over rails
+2	Schematic	nomkrails	-1618	64	-436	 world	false
+# Clear off Mainstreet Completely
+3	Schematic	roadreset	-1618	64	-435	 world	false
+# Set rails back to Mainstreet
+4	Schematic	mkrails	-1618	64	-436	 world	false
+#Lights Enabled 
+#Lights in top of buildings
+5	Block	0	-1707,64,-267
+5	Block	331	-1601,74,-279
+5	Block	331	-1596,73,-351
+5	Block	331	-1627,75,-349
+5	Block	331	-1567,70,-323
+5	Block	331	-1661,75,-237
+#Mainstreet building lights (Glowstone)
+5	Block	89	-1605,68,-372
+5	Block	89	-1602,68,-374
+5	Block	89	-1600,68,-364
+5	Block	89	-1600,68,-356
+5	Block	89	-1600,68,-352
+5	Block	89	-1600,68,-348
+5	Block	89	-1600,68,-344
+5	Block	89	-1596,68,-344
+5	Block	89	-1596,68,-348
+5	Block	89	-1596,68,-352
+5	Block	89	-1596,68,356
+#Mainstreet beacons
+5	Block	138	-1622,68,-272
+5	Block	138	-1620,68,-377
+5	Block	138	-1608,68,-378
+5	Block	138	-1605,67,-418
+5	Block	138	-1623,67,-418
+5	Block	138	-1608,68,-363
+5	Block	138	-1620,68,-352
+5	Block	138	-1620,68,-336
+5	Block	138	-1608,68,-334
+5	Block	138	-1620,68,-316
+5	Block	138	-1608,68,-317
+5	Block	138	-1597,68,-325
+5	Block	138	-1583,68,-322
+5	Block	138	-1620,68,-294
+5	Block	138	-1608,68,-293
+5	Block	138	-1619,68,-279
+5	Block	138	-1606,68,-270
+5	Block	138	-1596,68,-267
+5	Block	138	-1632,68,-269
+5	Block	138	-1644,68,-269
+5	Block	138	-1564,68,-274
+5	Block	138	-1565,68,-275
+#Beacons near flag
+6	Block	138	-1621,69,-255
+5	Block	138	-1620,67,-255
+5	Block	138	-1621,67,-256
+5	Block	138	-1622,67,-255
+5	Block	138	-1621,67,-254
+5	Block	138	-1627,68,-387
+5	Block	138	-1607,69,-255
+5	Block	138	-1607,67,-256
+5	Block	138	-1607,67,-254
+5	Block	138	-1608,67,-255
+5	Block	138	-1606,67,-255
+#Glowstone in trees
+5	Block	89	-1627,75,-385
+5	Block	89	-1629,74,-397
+5	Block	89	-1598,71,-400
+5	Block	89	-1601,69,-391
+5	Block	89	-1580,71,-397
+5	Block	89	-1649,76,-390
+5	Block	89	-1647,73,-397
+#Beacons in shop
+5	Block	138	-1632,71,-321
+5	Block	138	-1628,68,-334
+5	Block	138	-1631,68,-331
+5	Block	138	-1598,67,-333
+5	Block	138	-1598,67,-334
+#Redstone block in shop
+5	Block	152	-1644,69,-288
+5	Block	152	-1602,68,-302
+5	Block	152	-1602,68,-311
+5	Block	152	-1587,69,-284
+5	Block	152	-1637,69,-362
+5	Block	152	-1642,69,-361
+5	Block	152	-1584,68,-305
+5	Block	152	-1589,68,-311
+#Automatic day reset
+6	Block	0	-1707,64,-267
+#Cast Member announcement
+0	Block	152	-1705,64,-261
+1	Block	152	-1705,64,-261
+#Cast Member announcement #2
+7	Block	152	-1705,67,-261
+8	Block	0	-1705,67,-261

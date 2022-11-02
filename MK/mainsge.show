@@ -1,0 +1,856 @@
+Show	Location	-1745,65,-1211
+Show	TextRadius	12
+Show	Name	SGE
+#Audio
+0	Block	152	-1738,61,-1196
+0	AudioStart	sge
+#Text
+2.3	Text	&f[&dAssistant 1&f] &9Captain Gantu! &aThe recruits are in position and ready!
+6.9	Text	&f[&9Gantu&f] &5But the question is...Are we ready?
+9.5	Text	&5I only hope our teleportation  tube is big enough to contain this monster!
+14	Text	&f[&6Assistant 2&f] &eAnd strong enough too, sir!
+17	Text	&f[&7&lComputer&f] &bTeleportation in 30 seconds.
+19.4	Text	&f[&9Gantu&f] &5Lower the scanners quickly!
+#Tracking Cannon
+19.4	Block	139:1	-1749,68,-1213
+19.6	Block	139:1	-1749,68,-1212
+19.8	Block	139:1	-1749,67,-1212
+20	Block	133	-1748,67,-1212
+19.4	Block	139:1	-1741,68,-1209
+19.6	Block	139:1	-1741,68,-1210
+19.8	Block	139:1	-1741,67,-1210
+20	Block	152	-1742,67,-1210
+135.9	Block	133	-1742,67,-1210
+136.9	Block	152	-1742,67,-1210
+137.9	Block	133	-1742,67,-1210
+138.9	Block	152	-1742,67,-1210
+135.9	Block	152	-1748,67,-1212
+136.9	Block	133	-1748,67,-1212
+137.9	Block	152	-1748,67,-1212
+138.9	Block	133	-1748,67,-1212
+149.9	Block	133	-1742,67,-1210
+150.9	Block	152	-1742,67,-1210
+151.9	Block	133	-1742,67,-1210
+152.9	Block	152	-1742,67,-1210
+149.9	Block	152	-1748,67,-1212
+150.9	Block	133	-1748,67,-1212
+151.9	Block	152	-1748,67,-1212
+152.9	Block	133	-1748,67,-1212
+#Tracking Cannon Up
+160	Block	0	-1749,68,-1213
+160	Block	0	-1749,68,-1212
+160	Block	0	-1749,67,-1212
+160	Block	0	-1748,67,-1212
+160	Block	0	-1741,68,-1209
+160	Block	0	-1741,68,-1210
+160	Block	0	-1741,67,-1210
+160	Block	0	-1742,67,-1210
+21.2	Text	&f[&dAssistant 1&f] &aYes, sir.
+22.4	Text	&f[&6Assistant 2&f] &ePlease remain seated in an upright position with your arms at your sides!
+26.9	Text	&f[&dAssistant 1&f] &aAnd don’t worry recruits! When the scanning units touch your shoulders they will stop automatically.
+34.9	Text	&f[&9Gantu&f] &5We are now scanning your personal genetic code. Your DNA with the prisoners.
+43.2	Text	&f[&7&lComputer&f] &bTeleportation sequence initiated.
+48.5	Text	&f[&dAssistant 1&f] &aWow! 
+49.1	Text	&f[&6Assistant 2&f] &e...The molecular transfer pages are maxing out!
+52.1	Text	&f[&9Gantu&f] &5What kind of monster is this!?!
+54.1	Text	&f[&7&lComputer&f] &bTeleportation in ...10
+57	Text	&b...9
+57.5	Text	&f[&9Gantu&f] &5Get ready recruits..
+58	Text	&f[&7&lComputer&f] &b...8
+59	Text	&b...7
+60	Text	&b...6
+60.3	Text	&f[&9Gantu&f] &5Here we go.. 
+61	Text	&f[&7&lComputer&f] &b...5
+62	Text	&b...4
+63	Text	&b...3
+64	Text	&b...2
+64.1	Text	&f[&9Gantu&f] &5Brace yourselfs!
+65	Text	&f[&7&lComputer&f] &bTeleporting now.
+69.8	Text	&f[&9Gantu&f] &5Huh?
+70.8	Text	&f[&7&lComputer&f] &bTeleportation sequence completed.
+73.5	Text	&f[&9Gantu&f] &5But th-there must be some mistake!
+75.1	Text	&f[&dAssistant 1&f] &aThat’s a &clevel 3?
+77	Text	&f[&6Assistant 2&f] &eEven I’m bigger than he is!
+78.9	Text	&f[&9Gantu&f] &5Ehh..Is this some kind of a joke!?!
+81	Text	&f[&dAssistant 1&f] &aSir. I know that all incoming &clevel 3 &aprisoners get a DNA scan...but him!?!
+85.9	Text	&f[&9Gantu&f] &5It does seem like overkill but best we do it by the book.
+91	Text	&f[&dAssistant 1&f] &aYes sir!
+92.9	Text	&aTracker cannons online.
+99	Text	&f[&9Gantu&f] &5Aw! Isn’t that cute! He’s a cute little fella! Oh yes you are!
+104.8	Text	&5Recruits keep an eye on this a… little monster, while I got straighten all this out.
+111.8	Text	&cLevel 3...  &5Ugh..
+115	Text	&f[&3&lStitch&f] &9Hmmm… Huh!? Ahh...Hmm, oh.
+120	Text	&9Ohhh
+122.8	Text	&9Hehehe… BLAH!
+124.5	Text	&9Mmm, ah.
+126.9	Text	&9Blah!
+128	Text	&9Hehehe..
+130.9	Text	&9BLAH!
+132	Text	&f[&7&lComputer&f] &bPower decreasing 20%
+135.1	Text	&f[&dAssistant 1&f] &aWhat’s going on?
+135.9	Text	&f[&6Assistant 2&f] &eThe cannons are misfiring..
+138.8	Text	&f[&dAssistant 1&f] &aHow is that possible?
+139.9	Text	&f[&3&lStitch&f] &9BLAH!
+140.5	Text	&f[&6Assistant 2&f] &eIt seems to be something that prisoner’s doing!
+144.7	Text	&f[&3&lStitch&f] &9BLAH!!
+147	Text	&f[&7&lComputer&f] &bPower decreasing 40%
+149.7	Text	&f[&dAssistant 1&f] &aI can’t believe it! He’s shorting out the system!
+152.7	Text	&f[&6Assistant 2&f] &eShorting out the system!?!
+156.9	Text	&f[&7&lComputer&f] &bPower decreasing 80%
+159.9	Text	&f[&dAssistant 1&f] &aUhhh…
+160.9	Text	&f[&3&lStitch&f] &9Mega Nala CREESTA! Haha!
+167.9	Text	&f[&dAssistant 1&f]  &aHuh! The prisoner has escaped!
+169.9	Text	&f[&3&lStitch&f] &9Hehe Hahaha!
+172	Text	&f[&dAssistant 1&f]  &aAttention recruits, uh… Stay where you are! And, um.. Uh…
+177	Text	&f[&6Assistant 2&f] &eJust don’t let the prisoner out of your sight!
+179.9	Text	&f[&3&lStitch&f] &9Hee Hahaha!
+180.9	Text	&f[&dAssistant 1&f] &aCome on Getgo! We’ve got to get to the power grid!
+183.9	Text	&f[&6Assistant 2&f] &eYeah! We’ll be right back!
+188	Text	&f[&3&lStitch&f] &9Hmm? I’ll get it!
+223	Text	&9Oh Mine!
+235	Text	&f[&9Gantu&f] &5Pleakley, Getgo!
+235.9	Text	&f[&6Assistant 2&f] &eOn our way, sir!
+237	Text	&f[&9Gantu&f] &5What is going on in there!?
+245.2	Text	&f[&dAssistant 1&f] &aOh no..
+246.8	Text	&f[&6Assistant 2&f] &eOh captain! He’s torturing the recruits!
+252	Text	&f[&dAssistant 1&f] &aCaptain…?
+253.2	Text	&aOh this is really bad…
+254.6	Text	&f[&3&lStitch&f] &9Weee!
+259	Text	&f[&7&lComputer&f] &bTeleportation in 15 seconds.
+262.4	Text	&f[&9Gantu&f] &5What!?!
+263.2	Text	&f[&6Assistant 2&f] &eSomeone has broken the teleportation unit!
+267	Text	&f[&9Gantu&f] &5Impossible!
+268	Text	&f[&3&lStitch&f] &9Not impossible, for &3&lStitch!
+270.6	Text	&f[&7&lComputer&f] &bTeleportation in ...10
+272	Text	&b...9
+273	Text	&b...8
+274	Text	&b...7
+275	Text	&b...6
+276	Text	&b...5
+278	Text	&b...4
+279	Text	&b..3
+280	Text	&b..2
+281	Text	&bTeleporting now.
+281	Block	152	-1757,61,-1192
+283.6	Text	&f[&9Gantu&f] &5Armin, tranquil on the light reflector!
+285.5	Text	&f[&dAssistant 1&f] &aOh right!
+286	Text	&f[&9Gantu&f] &5I want to know where that monstrosity is heading!
+288.7	Text	&f[&dAssistant 1&f] &aSir! He’s heading for planet Ea-r-th!
+291.8	Text	&f[&6Assistant 2&f] &eYes and he’s landed in Flori-da!
+294.2	Text	&f[&9Gantu&f] &5Flori-da? What’s Florida?
+297.1	Text	&5Give me a visual!
+299.5	Text	&f[&6Assistant 2&f] &eIt appears to be some kind of...Kingdom!
+303.9	Text	&f[&3&lStitch&f] &9Hi!
+308.8	Text	&9Hello? &bCinderella, &9your prince is here!
+314.3	Text	&f[&bCinderella&f] &3Huh!? Your not my prince! Bye!
+317	Text	&f[&3&lStitch&f] &9Ha! Hahaha!
+319.9	Text	&f[&9Gantu&f] &5Where on Ea-r-th has he gone now?
+324.6	Text	&f[&6Assistant 2&f] &eWell...Looks like we’ve been licked, sir..
+327.7	Text	&f[&9Gantu&f] &5Well then...Release the recruits.
+329.8	Text	&f[&dAssistant 1&f] &aYes, sir!
+332	Text	&f[&9Gantu&f] &5Ugh… I need a vacation...
+336.5	Text	&f[&cPleakley&f] &2Phew! Alright recruits, today’s emergency is over and so is your job. And remember, when you report for duty tomorrow leaves the phones at home! And please...Don’t feed the prisoners..
+338	Text	&9&lThank you recruits for helping us today! Please &c&lexit &9&lthrough the door and leave the &6&lteleportation chamber! &9&lThere is nothing left in here!
+#Credits
+350	Text	&6Brought to you by:
+351	Text	&eXavier9214, ZACx209, and Zafacon2
+352	Text	&6Plugin by -- &dChiss and the MCMagic Dev Team
+353	Text	&6And, of course, the MCMagic - Family of Servers!
+336.5	Block	152	-1733,61,-1195
+331	Block	152	-1735,61,-1195
+370	Block	152	-1753,61,-1198
+331	Block	0	-1730,62,-1219
+370	Block	152	-1730,62,-1219
+331	Block	0	-1737,64,-1217
+331	Block	0	-1737,65,-1217
+331	Block	0	-1738,64,-1218
+331	Block	0	-1738,65,-1218
+331	Block	0	-1739,64,-1219
+331	Block	0	-1739,65,-1219
+331	Block	0	-1738,61,-1221
+370	Block	173	-1737,64,-1217
+370	Block	173	-1737,65,-1217
+370	Block	173	-1738,64,-1218
+370	Block	173	-1738,65,-1218
+370	Block	173	-1739,64,-1219
+370	Block	173	-1739,65,-1219
+370	Block	152	-1738,61,-1221
+370	Block	0	-1745,63,-1211
+375.3	Block	152	-1736,60,-1199
+#SGEStartRemoveBlackCoal
+369	Block	0	-1738,65,-1204
+369	Block	0	-1738,64,-1204
+#SpawnStitch
+254.6	Block	152	-1754,61,-1188
+#SGEStartBlackCoal
+0.1	Block	173	-1738,65,-1204
+0.1	Block	173	-1738,64,-1204
+#SgeNext
+375	Block	152	-1737,61,-1194
+#Tv Pixelators
+17	Block	152	-1740,61,-1196
+56	Block	152	-1741,61,-1196
+57	Block	152	-1742,61,-1196
+58	Block	152	-1743,61,-1196
+59	Block	152	-1744,61,-1196
+60	Block	152	-1745,61,-1196
+61	Block	152	-1746,61,-1196
+62	Block	152	-1747,61,-1196
+63	Block	152	-1748,61,-1196
+64	Block	152	-1749,61,-1196
+65	Block	152	-1750,61,-1196
+66	Block	152	-1751,61,-1196
+92.9	Block	152	-1752,61,-1196
+99	Block	152	-1753,61,-1196
+115	Block	152	-1754,61,-1196
+133	Block	152	-1755,61,-1196
+135.9	Block	152	-1756,61,-1196
+160.9	Block	152	-1740,61,-1198
+259	Block	152	-1741,61,-1198
+268	Block	152	-1742,61,-1198
+270.6	Block	152	-1743,61,-1198
+288.7	Block	152	-1744,61,-1198
+290	Block	152	-1745,61,-1198
+291	Block	152	-1744,61,-1198
+292	Block	152	-1745,61,-1198
+293	Block	152	-1744,61,-1198
+294	Block	152	-1745,61,-1198
+296	Block	152	-1746,61,-1198
+299	Block	152	-1747,61,-1198
+303	Block	152	-1747,61,-1198
+306	Block	152	-1748,61,-1198
+308.8	Block	152	-1749,61,-1198
+321	Block	152	-1750,61,-1198
+327.7	Block	152	-1751,61,-1198
+338	Block	152	-1752,61,-1198
+#TP Particles and Flash 
+54.1	Block	152	-1755,61,-1188
+55.1	Block	152	-1755,61,-1188
+56.1	Block	152	-1755,61,-1188
+57.1	Block	152	-1755,61,-1188
+58.1	Block	152	-1755,61,-1188
+59.1	Block	152	-1755,61,-1188
+60.1	Block	152	-1755,61,-1188
+61.1	Block	152	-1755,61,-1188
+62.1	Block	152	-1755,61,-1188
+63.1	Block	152	-1755,61,-1188
+64.1	Block	152	-1755,61,-1188
+54.1	Block	152	-1743,60,-1187
+65	Block	0	-1743,60,-1187
+54.1	Particle	reddust	-1745,68.8,-1211	3	0	3	1	100
+55.1	Particle	reddust	-1745,68.8,-1211	3	0	3	1	100
+56.1	Particle	reddust	-1745,68.8,-1211	3	0	3	1	100
+57.1	Particle	reddust	-1745,68.8,-1211	3	0	3	1	100
+58.1	Particle	reddust	-1745,68.8,-1211	3	0	3	1	100
+59.1	Particle	reddust	-1745,68.8,-1211	3	0	3	1	100
+60.1	Particle	reddust	-1745,68.8,-1211	3	0	3	1	100
+61.1	Particle	reddust	-1745,68.8,-1211	3	0	3	1	100
+62.1	Particle	reddust	-1745,68.8,-1211	3	0	3	1	100
+63.1	Particle	reddust	-1745,68.8,-1211	3	0	3	1	100
+64.1	Particle	reddust	-1745,68.8,-1211	3	0	3	1	100
+273	Block	152	-1743,60,-1187
+281	Block	0	-1743,60,-1187
+273.1	Block	152	-1755,61,-1188
+274.1	Block	152	-1755,61,-1188
+275.1	Block	152	-1755,61,-1188
+276.1	Block	152	-1755,61,-1188
+277.1	Block	152	-1755,61,-1188
+278.1	Block	152	-1755,61,-1188
+279.1	Block	152	-1755,61,-1188
+280.1	Block	152	-1755,61,-1188
+#Cage Opening Main Cover
+43.5	Block	95:15	-1744,65,-1211
+43.5	Block	95:15	-1745,65,-1210
+43.5	Block	95:15	-1746,65,-1211
+43.5	Block	95:15	-1745,65,-1212
+43.5	Block	160:15	-1746,65,-1210
+43.5	Block	160:15	-1746,65,-1212
+43.5	Block	160:15	-1744,65,-1212
+43.5	Block	160:15	-1744,65,-1210
+45.5	Block	95:15	-1744,66,-1211
+45.5	Block	95:15	-1745,66,-1210
+45.5	Block	95:15	-1746,66,-1211
+45.5	Block	95:15	-1745,66,-1212	
+45.5	Block	160:15	-1746,66,-1210
+45.5	Block	160:15	-1746,66,-1212
+45.5	Block	160:15	-1744,66,-1212
+45.5	Block	160:15	-1744,66,-1210
+47.5	Block	160:15	-1746,67,-1210
+47.5	Block	160:15	-1746,67,-1212
+47.5	Block	160:15	-1744,67,-1212
+47.5	Block	160:15	-1744,67,-1210
+47.5	Block	95:15	-1744,67,-1211
+47.5	Block	95:15	-1745,67,-1210
+47.5	Block	95:15	-1746,67,-1211
+47.5	Block	95:15	-1745,67,-1212
+#Cage Opening Glass
+93	Block	0	-1744,65,-1211
+93	Block	0	-1745,65,-1210
+93	Block	0	-1746,65,-1211
+93	Block	0	-1745,65,-1212
+93	Block	0	-1746,65,-1210
+93	Block	0	-1746,65,-1212
+93	Block	0	-1744,65,-1212
+93	Block	0	-1744,65,-1210
+95	Block	0	-1744,66,-1211
+95	Block	0	-1745,66,-1210
+95	Block	0	-1746,66,-1211
+95	Block	0	-1745,66,-1212	
+95	Block	0	-1746,66,-1210
+95	Block	0	-1746,66,-1212
+95	Block	0	-1744,66,-1212
+95	Block	0	-1744,66,-1210
+97	Block	0	-1746,67,-1210
+97	Block	0	-1746,67,-1212
+97	Block	0	-1744,67,-1212
+97	Block	0	-1744,67,-1210
+97	Block	0	-1744,67,-1211
+97	Block	0	-1745,67,-1210
+97	Block	0	-1746,67,-1211
+97	Block	0	-1745,67,-1212
+93	Block	0	-1745,65,-1211
+95	Block	0	-1745,66,-1211
+97	Block	0	-1745,67,-1211
+#Cage Closing
+271	Block	160:15	-1746,67,-1210
+271	Block	160:15	-1746,67,-1212
+271	Block	160:15	-1744,67,-1212
+271	Block	160:15	-1744,67,-1210
+271	Block	95:15	-1744,67,-1211
+271	Block	95:15	-1745,67,-1210
+271	Block	95:15	-1746,67,-1211
+271	Block	95:15	-1745,67,-1212
+272	Block	95:15	-1744,66,-1211
+272	Block	95:15	-1745,66,-1210
+272	Block	95:15	-1746,66,-1211
+272	Block	95:15	-1745,66,-1212	
+272	Block	160:15	-1746,66,-1210
+272	Block	160:15	-1746,66,-1212
+272	Block	160:15	-1744,66,-1212
+272	Block	160:15	-1744,66,-1210
+273	Block	95:15	-1744,65,-1211
+273	Block	95:15	-1745,65,-1210
+273	Block	95:15	-1746,65,-1211
+273	Block	95:15	-1745,65,-1212
+273	Block	160:15	-1746,65,-1210
+273	Block	160:15	-1746,65,-1212
+273	Block	160:15	-1744,65,-1212
+273	Block	160:15	-1744,65,-1210
+271	Block	79	-1745,67,-1211
+272	Block	79	-1745,66,-1211
+273	Block	79	-1745,65,-1211
+#Cage Closing Main Cover
+330	Block	139	-1746,67,-1210
+330	Block	139	-1746,67,-1212
+330	Block	139	-1744,67,-1212
+330	Block	139	-1744,67,-1210
+330	Block	159:9	-1744,67,-1211
+330	Block	159:9	-1745,67,-1210
+330	Block	159:9	-1746,67,-1211
+330	Block	159:9	-1745,67,-1212
+332	Block	159:9	-1744,66,-1211
+332	Block	159:9	-1745,66,-1210
+332	Block	159:9	-1746,66,-1211
+332	Block	159:9	-1745,66,-1212	
+332	Block	139	-1746,66,-1210
+332	Block	139	-1746,66,-1212
+332	Block	139	-1744,66,-1212
+332	Block	139	-1744,66,-1210
+334	Block	159:9	-1744,65,-1211
+334	Block	159:9	-1745,65,-1210
+334	Block	159:9	-1746,65,-1211
+334	Block	159:9	-1745,65,-1212
+334	Block	139	-1746,65,-1210
+334	Block	139	-1746,65,-1212
+334	Block	139	-1744,65,-1212
+334	Block	139	-1744,65,-1210
+#Stitches Animation
+#Spawn
+64	Block	152	-1754,61,-1188
+#Rotate Stitch
+66	Block	152	-1753,61,-1188
+67	Block	152	-1752,61,-1188
+68	Block	152	-1751,61,-1188
+69	Block	152	-1750,61,-1188
+70	Block	152	-1749,61,-1188
+71	Block	152	-1748,61,-1188
+72	Block	152	-1747,61,-1188
+73	Block	152	-1746,61,-1188
+74	Block	152	-1745,61,-1188
+77	Block	152	-1755,61,-1190
+78	Block	152	-1754,61,-1190
+79	Block	152	-1753,61,-1190
+80	Block	152	-1752,61,-1190
+81	Block	152	-1751,61,-1190
+82	Block	152	-1752,61,-1190
+83	Block	152	-1753,61,-1190
+84	Block	152	-1754,61,-1190
+85	Block	152	-1755,61,-1190
+86	Block	152	-1755,61,-1190
+87	Block	152	-1754,61,-1190
+88	Block	152	-1753,61,-1190
+254.6	Block	152	-1753,61,-1188
+255.6	Block	152	-1752,61,-1188
+256.6	Block	152	-1751,61,-1188
+257.6	Block	152	-1750,61,-1188
+258.6	Block	152	-1749,61,-1188
+259.6	Block	152	-1748,61,-1188
+260.6	Block	152	-1747,61,-1188
+261.6	Block	152	-1746,61,-1188
+262.6	Block	152	-1745,61,-1188
+263.6	Block	152	-1755,61,-1190
+264.6	Block	152	-1754,61,-1190
+265.6	Block	152	-1753,61,-1190
+266.6	Block	152	-1752,61,-1190
+267.6	Block	152	-1751,61,-1190
+268.6	Block	152	-1752,61,-1190
+269.6	Block	152	-1753,61,-1190
+270.6	Block	152	-1754,61,-1190
+271.6	Block	152	-1755,61,-1190
+#Animations
+90	Block	152	-1745,61,-1188
+98	Block	152	-1749,61,-1190
+100	Block	152	-1748,61,-1190
+102	Block	152	-1747,61,-1190
+105	Block	152	-1748,61,-1190
+108	Block	152	-1747,61,-1190
+112	Block	152	-1746,61,-1190
+114	Block	152	-1745,61,-1190
+115	Block	152	-1758,61,-1192
+117	Block	152	-1746,61,-1190
+118	Block	152	-1748,61,-1190
+122	Block	152	-1745,61,-1190
+124.5	Block	152	-1746,61,-1190
+130.9	Block	152	-1748,61,-1190
+139.9	Block	152	-1746,61,-1190
+144.7	Block	152	-1745,61,-1190
+121	Block	152	-1745,61,-1188
+122.5	Block	152	-1755,61,-1192
+122.8	Block	152	-1756,61,-1192
+123.1	Block	152	-1755,61,-1192
+123.4	Block	152	-1754,61,-1192
+126.5	Block	152	-1755,61,-1192
+126.8	Block	152	-1756,61,-1192
+127.1	Block	152	-1755,61,-1192
+127.4	Block	152	-1754,61,-1192
+130	Block	152	-1755,61,-1192
+130.5	Block	152	-1756,61,-1192
+131	Block	152	-1755,61,-1192
+131.5	Block	152	-1754,61,-1192
+139	Block	152	-1755,61,-1192
+140.4	Block	152	-1756,61,-1192
+140.9	Block	152	-1755,61,-1192
+141.4	Block	152	-1754,61,-1192
+144.3	Block	152	-1755,61,-1192
+144.8	Block	152	-1756,61,-1192
+145.3	Block	152	-1755,61,-1192
+145.8	Block	152	-1754,61,-1192
+148.5	Block	152	-1753,61,-1192
+148.7	Block	152	-1752,61,-1192
+148.9	Block	152	-1753,61,-1192
+150.1	Block	152	-1752,61,-1192
+150.3	Block	152	-1753,61,-1192
+157.6	Block	152	-1752,61,-1192
+157.8	Block	152	-1753,61,-1192
+158	Block	152	-1752,61,-1192
+158.2	Block	152	-1753,61,-1192
+160	Block	152	-1745,61,-1188
+161	Block	152	-1755,61,-1192
+161.5	Block	152	-1756,61,-1192
+162	Block	152	-1755,61,-1192
+162.5	Block	152	-1756,61,-1192
+163	Block	152	-1755,61,-1192
+163	Block	152	-1756,61,-1192
+163.5	Block	152	-1755,61,-1192
+164	Block	152	-1756,61,-1192
+164.5	Block	152	-1755,61,-1192
+165	Block	152	-1754,61,-1192
+163.5	Block	152	-1753,61,-1192
+163.7	Block	152	-1752,61,-1192
+164.9	Block	152	-1753,61,-1192
+164.1	Block	152	-1752,61,-1192
+164.3	Block	152	-1753,61,-1192
+164.5	Block	152	-1752,61,-1192
+164.7	Block	152	-1753,61,-1192
+164.9	Block	152	-1752,61,-1192
+165.1	Block	152	-1753,61,-1192
+165.3	Block	152	-1752,61,-1192
+165.5	Block	152	-1753,61,-1192
+165.7	Block	152	-1752,61,-1192
+165.9	Block	152	-1753,61,-1192
+268	Block	152	-1755,61,-1192
+268.2	Block	152	-1756,61,-1192
+268.4	Block	152	-1755,61,-1192
+268.6	Block	152	-1756,61,-1192
+268.8	Block	152	-1755,61,-1192
+269	Block	152	-1756,61,-1192
+269.2	Block	152	-1755,61,-1192
+269.4	Block	152	-1756,61,-1192
+269.6	Block	152	-1755,61,-1192
+269.8	Block	152	-1756,61,-1192
+270	Block	152	-1755,61,-1192
+270.2	Block	152	-1754,61,-1192
+268.5	Block	152	-1752,61,-1192
+268.6	Block	152	-1753,61,-1192
+268.8	Block	152	-1752,61,-1192
+268.9	Block	152	-1753,61,-1192
+269.1	Block	152	-1752,61,-1192
+269.2	Block	152	-1753,61,-1192
+269.3	Block	152	-1752,61,-1192
+269.8	Block	152	-1753,61,-1192
+269.9	Block	152	-1752,61,-1192
+270	Block	152	-1753,61,-1192
+#Stitch Bouncing while blindness
+168	Block	152	-1758,61,-1194
+168.2	Block	152	-1757,61,-1192
+171	Block	152	-1757,61,-1194
+171.2	Block	152	-1757,61,-1192
+176	Block	152	-1756,61,-1194
+176.2	Block	152	-1757,61,-1192
+182	Block	152	-1755,61,-1194
+182.2	Block	152	-1757,61,-1192
+186	Block	152	-1754,61,-1194
+186.2	Block	152	-1757,61,-1192
+191	Block	152	-1753,61,-1194
+191.2	Block	152	-1757,61,-1192
+196	Block	152	-1752,61,-1194
+196.2	Block	152	-1757,61,-1192
+203	Block	152	-1751,61,-1194
+203.2	Block	152	-1757,61,-1192
+208	Block	152	-1755,61,-1194
+208.2	Block	152	-1757,61,-1192
+213	Block	152	-1758,61,-1194
+213.2	Block	152	-1757,61,-1192
+220	Block	152	-1756,61,-1194
+220.2	Block	152	-1757,61,-1192
+226	Block	152	-1754,61,-1194
+226.2	Block	152	-1757,61,-1192
+232	Block	152	-1751,61,-1194
+232.2	Block	152	-1757,61,-1192
+240	Block	152	-1756,61,-1194
+240.2	Block	152	-1757,61,-1192
+#LightsOff-Torch
+0	Block	152	-1748,68,-1203
+0	Block	152	-1742,68,-1203
+0	Block	152	-1748,68,-1219
+0	Block	152	-1742,68,-1219
+0	Block	152	-1753,68,-1214
+0	Block	152	-1753,68,-1208
+0	Block	152	-1737,68,-1214
+0	Block	152	-1737,68,-1208
+#CeilingLightsOff
+69	Block	152	-1746,71,-1216
+#PowerDecreaseSmoke
+132	Block	152	-1756,61,-1190
+#PowerDecreaseFlashEffectsOnTv
+132	Block	35:15	-1745,67,-1204
+132	Block	35:15	-1738,67,-1211
+132	Block	35:15	-1745,67,-1218
+132	Block	35:15	-1752,67,-1211
+132.5	Block	0	-1745,67,-1204
+132.5	Block	0	-1738,67,-1211
+132.5	Block	0	-1745,67,-1218
+132.5	Block	0	-1752,67,-1211
+134.5	Block	0	-1745,67,-1204
+134.5	Block	0	-1738,67,-1211
+134.5	Block	0	-1745,67,-1218
+134.5	Block	0	-1752,67,-1211
+134	Block	35:15	-1745,67,-1204
+134	Block	35:15	-1738,67,-1211
+134	Block	35:15	-1745,67,-1218
+134	Block	35:15	-1752,67,-1211
+#CeilingLightFlash
+132	Block	0	-1746,71,-1216
+132.5	Block	152	-1746,71,-1216
+134	Block	0	-1746,71,-1216
+134.5	Block	152	-1746,71,-1216
+#PowerDecreaseSmoke
+147	Block	152	-1756,61,-1190
+#PowerDecreaseFlashEffectsOnTv
+147	Block	35:15	-1745,67,-1204
+147	Block	35:15	-1738,67,-1211
+147	Block	35:15	-1745,67,-1218
+147	Block	35:15	-1752,67,-1211
+147.5	Block	0	-1745,67,-1204
+147.5	Block	0	-1738,67,-1211
+147.5	Block	0	-1745,67,-1218
+147.5	Block	0	-1752,67,-1211
+148.5	Block	0	-1745,67,-1204
+148.5	Block	0	-1738,67,-1211
+148.5	Block	0	-1745,67,-1218
+148.5	Block	0	-1752,67,-1211
+148	Block	35:15	-1745,67,-1204
+148	Block	35:15	-1738,67,-1211
+148	Block	35:15	-1745,67,-1218
+148	Block	35:15	-1752,67,-1211
+#CeilingLightFlash
+147	Block	0	-1746,71,-1216
+147.5	Block	152	-1746,71,-1216
+148	Block	0	-1746,71,-1216
+148.5	Block	152	-1746,71,-1216
+#SmokeEffect
+156.9	Block	152	-1756,61,-1190
+#CeilingLightFlash
+156.9	Block	0	-1746,71,-1216
+156.4	Block	152	-1746,71,-1216
+157.9	Block	0	-1746,71,-1216
+157.4	Block	152	-1746,71,-1216
+#TVLightOff
+156	Block	35:15	-1745,67,-1204
+156	Block	35:15	-1738,67,-1211
+156	Block	35:15	-1745,67,-1218
+156	Block	35:15	-1752,67,-1211
+#CenterStitchPlatformLightOff
+165	Block	173	-1745,63,-1211
+#BlindnessEffect
+165	Block	152	-1754,61,-1198
+#KillStitch
+165	Block	152	-1757,61,-1192
+#CeilingLights
+172	Block	0	-1746,71,-1216
+172.5	Block	152	-1746,71,-1216
+179.9	Block	0	-1746,71,-1216
+180.4	Block	152	-1746,71,-1216
+188	Block	0	-1746,71,-1216
+188.5	Block	152	-1746,71,-1216
+194	Block	0	-1746,71,-1216
+194.5	Block	152	-1746,71,-1216
+239	Block	0	-1746,71,-1216
+239.5	Block	152	-1746,71,-1216
+#CenterStitchPlatformLightOn
+257	Block	0	-1745,63,-1211
+#CeilingLightOn
+259	Block	0	-1746,71,-1216
+#TVLightsOn
+259	Block	0	-1745,67,-1204
+259	Block	0	-1738,67,-1211
+259	Block	0	-1745,67,-1218
+259	Block	0	-1752,67,-1211
+#StitchCenterPlatformLightOff
+282	Block	173	-1745,63,-1211
+#KillStitch
+282	Block	152	-1746,71,-1216
+#CeilingLightOn
+332	Block	0	-1746,71,-1216
+#TorchLightsOn
+336.5	Block	0	-1748,68,-1203
+336.5	Block	0	-1742,68,-1203
+336.5	Block	0	-1748,68,-1219
+336.5	Block	0	-1742,68,-1219
+336.5	Block	0	-1753,68,-1214
+336.5	Block	0	-1753,68,-1208
+336.5	Block	0	-1737,68,-1214
+336.5	Block	0	-1737,68,-1208
+#Spit
+130	Block	152	-1757,61,-1190
+144	Block	152	-1757,61,-1190
+150	Block	152	-1757,61,-1190
+155	Block	152	-1757,61,-1190
+181	Block	152	-1757,61,-1190
+191	Block	152	-1757,61,-1190
+#Burp
+229	Block	152	-1758,61,-1190
+245	Block	152	-1758,61,-1190
+#Door+RepeaterCoverUp
+0	Block	35:7	-1742,64,-1204
+0	Block	35:7	-1738,64,-1208
+0	Block	35:7	-1741,64,-1204
+0	Block	35:7	-1738,64,-1207
+0	Block	152	-1733,61,-1203
+#SGEChairsFront
+#0	Block	152	-1747,60,-1207
+#0	Block	152	-1746,60,-1207
+#0	Block	152	-1745,60,-1207
+#0	Block	152	-1744,60,-1207
+#0	Block	152	-1743,60,-1207
+#0	Block	152	-1747,60,-1215
+#0	Block	152	-1746,60,-1215
+#0	Block	152	-1745,60,-1215
+#0	Block	152	-1744,60,-1215
+#0	Block	152	-1743,60,-1215
+#0	Block	152	-1749,60,-1213
+#0	Block	152	-1749,60,-1212
+#0	Block	152	-1749,60,-1211
+#0	Block	152	-1749,60,-1210
+#0	Block	152	-1749,60,-1209
+#0	Block	152	-1741,60,-1213
+#0	Block	152	-1741,60,-1212
+#0	Block	152	-1741,60,-1211
+#0	Block	152	-1741,60,-1210
+#0	Block	152	-1741,60,-1209
+#BackChairs
+#0	Block	152	-1751,61,-1207
+#0	Block	152	-1751,61,-1208
+#0	Block	152	-1751,61,-1209
+#0	Block	152	-1751,61,-1210
+#0	Block	152	-1751,61,-1211
+#0	Block	152	-1751,61,-1212
+#0	Block	152	-1751,61,-1213
+#0	Block	152	-1751,61,-1214
+#0	Block	152	-1751,61,-1215
+#0	Block	152	-1739,61,-1207
+#0	Block	152	-1739,61,-1208
+#0	Block	152	-1739,61,-1209
+#0	Block	152	-1739,61,-1210
+#0	Block	152	-1739,61,-1211
+#0	Block	152	-1739,61,-1212
+#0	Block	152	-1739,61,-1213
+#0	Block	152	-1739,61,-1214
+#0	Block	152	-1739,61,-1215
+#0	Block	152	-1741,61,-1217
+#0	Block	152	-1742,61,-1217
+#0	Block	152	-1743,61,-1217
+#0	Block	152	-1744,61,-1217
+#0	Block	152	-1745,61,-1217
+#0	Block	152	-1746,61,-1217
+#0	Block	152	-1747,61,-1217
+#0	Block	152	-1748,61,-1217
+#0	Block	152	-1749,61,-1217
+#0	Block	152	-1741,61,-1205
+#0	Block	152	-1742,61,-1205
+#0	Block	152	-1743,61,-1205
+#0	Block	152	-1744,61,-1205
+#0	Block	152	-1745,61,-1205
+#0	Block	152	-1746,61,-1205
+#0	Block	152	-1747,61,-1205
+#0	Block	152	-1748,61,-1205
+#0	Block	152	-1749,61,-1205
+#MovingChairs,133-Down,152-Up
+188	Block	133	-1743,61,-1205
+188	Block	133	-1743,60,-1207
+188	Block	133	-1741,60,-1209
+188	Block	133	-1739,61,-1209
+189	Block	133	-1744,60,-1207
+189	Block	133	-1745,60,-1207
+189	Block	133	-1744,61,-1205
+189	Block	133	-1745,61,-1205
+189	Block	133	-1741,60,-1210
+189	Block	133	-1741,60,-1211
+189	Block	133	-1739,61,-1211
+189	Block	133	-1739,61,-1210
+190	Block	133	-1746,60,-1207
+190	Block	133	-1747,60,-1207
+190	Block	133	-1747,61,-1205
+190	Block	133	-1746,61,-1205
+190	Block	133	-1741,60,-1212
+190	Block	133	-1741,60,-1213
+190	Block	133	-1739,61,-1212
+190	Block	133	-1739,61,-1213
+191	Block	133	-1748,61,-1205
+192	Block	133	-1749,61,-1205
+193	Block	133	-1751,61,-1207
+194	Block	133	-1751,61,-1208
+195	Block	133	-1743,61,-1217
+195	Block	133	-1743,60,-1215
+195	Block	133	-1749,60,-1209
+195	Block	133	-1751,61,-1209
+196	Block	133	-1749,60,-1210
+196	Block	133	-1749,60,-1211
+196	Block	133	-1751,61,-1210
+196	Block	133	-1751,61,-1211
+196	Block	133	-1744,60,-1215
+196	Block	133	-1745,60,-1215
+196	Block	133	-1744,61,-1217
+196	Block	133	-1745,61,-1217
+197	Block	133	-1746,60,-1215
+197	Block	133	-1747,60,-1215
+197	Block	133	-1747,61,-1217
+197	Block	133	-1746,61,-1217
+197	Block	133	-1749,60,-1213
+197	Block	133	-1749,60,-1212
+197	Block	133	-1751,61,-1212
+197	Block	133	-1751,61,-1213
+198	Block	133	-1748,61,-1217
+198	Block	133	-1751,61,-1214
+199	Block	133	-1749,61,-1217
+199	Block	133	-1751,61,-1215
+201	Block	152	-1747,60,-1215
+201	Block	152	-1747,61,-1217
+201	Block	152	-1746,61,-1217
+201	Block	152	-1749,60,-1213
+201	Block	152	-1749,60,-1212
+202	Block	133	-1747,60,-1215
+202	Block	133	-1747,61,-1217
+202	Block	133	-1746,61,-1217
+202	Block	133	-1749,60,-1213
+202	Block	133	-1749,60,-1212
+205	Block	152	-1744,60,-1207
+205	Block	152	-1745,60,-1207
+205	Block	152	-1744,61,-1205
+206	Block	133	-1744,60,-1207
+206	Block	133	-1745,60,-1207
+206	Block	133	-1744,61,-1205
+210	Block	152	-1743,60,-1215
+210	Block	152	-1749,60,-1209
+210	Block	152	-1751,61,-1209
+210	Block	152	-1749,60,-1210
+211	Block	133	-1743,60,-1215
+211	Block	133	-1749,60,-1209
+211	Block	133	-1751,61,-1209
+211	Block	133	-1749,60,-1210
+215	Block	152	-1747,61,-1205
+215	Block	152	-1746,61,-1205
+216	Block	133	-1747,61,-1205
+216	Block	133	-1746,61,-1205
+219	Block	152	-1745,61,-1217
+219	Block	152	-1746,60,-1215
+219	Block	152	-1747,60,-1215
+219	Block	133	-1745,61,-1217
+219	Block	133	-1746,60,-1215
+219	Block	133	-1747,60,-1215
+220	Block	152	-1749,61,-1205
+220	Block	152	-1751,61,-1207
+221	Block	133	-1749,61,-1205
+221	Block	133	-1751,61,-1207
+222	Block	152	-1744,60,-1207
+222	Block	152	-1745,60,-1207
+222	Block	152	-1744,61,-1205
+222	Block	152	-1745,61,-1205
+222	Block	152	-1741,60,-1210
+222	Block	152	-1741,60,-1211
+222	Block	152	-1739,61,-1211
+222	Block	152	-1739,61,-1210
+222	Block	152	-1746,60,-1207
+222	Block	152	-1747,60,-1207
+222	Block	152	-1747,61,-1205
+222	Block	152	-1746,61,-1205
+222	Block	152	-1741,60,-1212
+222	Block	152	-1741,60,-1213
+222	Block	152	-1739,61,-1212
+222	Block	152	-1739,61,-1213
+222	Block	152	-1748,61,-1205
+222	Block	152	-1749,61,-1205
+222	Block	152	-1751,61,-1207
+222	Block	152	-1751,61,-1208
+222	Block	152	-1743,61,-1217
+222	Block	152	-1743,60,-1215
+222	Block	152	-1749,60,-1209
+222	Block	152	-1751,61,-1209
+222	Block	152	-1749,60,-1210
+222	Block	152	-1749,60,-1211
+222	Block	152	-1751,61,-1210
+222	Block	152	-1751,61,-1211
+222	Block	152	-1744,60,-1215
+222	Block	152	-1745,60,-1215
+222	Block	152	-1744,61,-1217
+222	Block	152	-1745,61,-1217
+222	Block	152	-1746,60,-1215
+222	Block	152	-1747,60,-1215
+222	Block	152	-1747,61,-1217
+222	Block	152	-1746,61,-1217
+222	Block	152	-1749,60,-1213
+222	Block	152	-1749,60,-1212
+222	Block	152	-1751,61,-1212
+222	Block	152	-1751,61,-1213
+222	Block	152	-1748,61,-1217
+222	Block	152	-1751,61,-1214
+222	Block	152	-1749,61,-1217
+222	Block	152	-1751,61,-1215
+222	Block	152	-1743,61,-1205
+222	Block	152	-1743,60,-1207
+222	Block	152	-1741,60,-1209
+222	Block	152	-1739,61,-1209
+#Helpop
+375	Block	152	-1739,61,-1176
+
+

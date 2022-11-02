@@ -1,0 +1,3434 @@
+#Done
+Show	Location	-1614,64,-488
+Show	TextRadius	10000
+#FireworkEffectList
+Effect	Comet	BALL,Black
+
+Effect	Head	CREEPER,Red
+
+Effect	Star1	STAR,White,Flicker
+
+Effect	BA	BALL,Aqua
+Effect	BW	BALL,White
+Effect	BB	BALL,Blue
+Effect	BF	BALL_LARGE,Fuchsia,Orange&Aqua&Purple,Flicker
+
+Effect	Lya	BALL_LARGE,Aqua&Yellow
+Effect	LW	BALL_LARGE,White
+Effect	LR	BALL_LARGE,Red
+Effect	LO	BALL_LARGE,Orange
+Effect	LY	BALL_LARGE,Yellow
+Effect	LG	BALL_LARGE,Green
+Effect	LA	BALL_LARGE,Aqua
+Effect	LV	BALL_LARGE,Purple
+Effect	Lrb	BALL_LARGE,Orange&Aqua&Purple&Green,Flicker
+Effect	Lfrz	BALL_LARGE,White&Aqua,Trail
+Effect	LFC	BALL_LARGE,White&Aqua&Blue,Flicker
+Effect	LWT	BALL_LARGE,White,Trail
+
+Effect	FW	BURST,White,Trail
+Effect	FR	BURST,Red,Trail
+Effect	FO	BURST,Orange,Trail
+Effect	FY	BURST,Yellow,Trail
+Effect	FG	BURST,Green,Trail
+Effect	FA	BURST,Aqua,Trail
+Effect	FV	BURST,Purple,Trail
+Effect	Ffrz	BURST,White&Aqua,Trail
+
+Effect	CR	BURST,Red,Flicker
+Effect	CO	BURST,Orange,Flicker
+Effect	CY	BURST,Yellow,Flicker
+Effect	CA	BURST,Aqua,Flicker
+Effect	CW	BURST,White,Flicker
+Effect	WG	BALL_LARGE,White,Silver
+Effect	BF	BURST,Black,Flicker
+Effect	BW	BURST,White
+
+Effect	FantRed	BURST,Red,Flicker,Trail
+Effect	FantOrange	BURST,Orange,Flicker,Trail
+Effect	FantYellow	BURST,Yellow,Flicker,Trail
+Effect	FantGreen	BURST,Lime,Flicker,Trail
+Effect	FantLightBlue	BURST,Teal,Flicker,Trail
+Effect	FantBlue	BURST,Blue,Flicker,Trail
+Effect	FantPurple	BURST,Purple,Flicker,Trail
+Effect	FantPink	BURST,Fuchsia,Flicker,Trail
+Effect	FantMagenta	BURST,Maroon,Flicker,Trail
+
+Effect        1        BALL,WHITE,TWINKLE
+
+Effect	79		BURST,FUCHSIA&GREEN,ORANGE&YELLOW,TRAIL
+Effect	81		BURST,FUCHSIA&NAVY,SILVER,TRAIL
+Effect	83		BURST,NAVY,SILVER,TRAIL
+
+
+#Music
+0	Music	2256
+#ChatControl
+0	Block	152	-1608,55,-505
+0	Block	0	-1608,55,-505
+#Night
+0	Block	151	-1601,58,-505
+0	Block	0	-1601,58,-505
+#Castle Barriers
+#Stage Ramps
+0	Block	101	-1627,65,-502
+0	Block	101	-1626,65,-502
+0	Block	101	-1625,65,-502
+0	Block	101	-1603,65,-502
+0	Block	101	-1602,65,-502
+0	Block	101	-1601,65,-502
+#Side Ramps
+0	Block	113	-1632,65,-498
+0	Block	113	-1631,65,-498
+0	Block	113	-1630,65,-498
+0	Block	113	-1598,65,-498
+0	Block	113	-1597,65,-498
+0	Block	113	-1596,65,-498
+#Castle Door
+0	Block	173	-1616,66,-533
+0	Block	173	-1615,66,-533
+0	Block	173	-1614,66,-533
+0	Block	173	-1613,66,-533
+0	Block	173	-1612,66,-533
+0	Block	173	-1612,67,-533
+0	Block	173	-1613,67,-533
+0	Block	173	-1614,67,-533
+0	Block	173	-1615,67,-533
+0	Block	173	-1616,67,-533
+0	Block	173	-1616,68,-533
+0	Block	173	-1615,68,-533
+0	Block	173	-1614,68,-533
+0	Block	173	-1613,68,-533
+0	Block	173	-1612,68,-533
+0	Block	173	-1612,69,-533
+0	Block	173	-1613,69,-533
+0	Block	173	-1614,69,-533
+0	Block	173	-1615,69,-533
+0	Block	173	-1616,69,-533
+0	Block	173	-1616,70,-533
+0	Block	173	-1615,70,-533
+0	Block	173	-1614,70,-533
+0	Block	173	-1613,70,-533
+0	Block	173	-1612,70,-533
+0	Block	173	-1613,71,-533
+0	Block	173	-1614,71,-533
+0	Block	173	-1615,71,-533
+0	Block	173	-1615,72,-533
+0	Block	173	-1614,72,-533
+0	Block	173	-1613,72,-533
+
+#Stage Clearing
+#Command Blocks with this command: warp castle @a[]
+0	Block	152	-1602,54,-505
+0	Block	152	-1602,54,-507
+0	Block	152	-1602,54,-509
+0	Block	152	-1602,54,-511
+0	Block	152	-1602,54,-513
+
+
+
+#Fountain
+0	Block	152	-1614,60,-430
+
+#Hub Lights
+1	Block	0	-1648,68,-472
+1	Block	0	-1644,75,-488
+1	Block	0	-1656,68,-497
+1	Block	0	-1650,67,-482
+1	Block	0	-1655,67,-469
+1	Block	0	-1655,67,-457
+1	Block	0	-1669,68,-447
+1	Block	0	-1654,68,-449
+1	Block	0	-1657,67,-440
+1	Block	0	-1648,67,-438
+1	Block	0	-1655,67,-429
+1	Block	0	-1642,67,-430
+1	Block	0	-1623,67,-418
+1	Block	0	-1605,67,-418
+1	Block	0	-1586,67,-430
+1	Block	0	-1580,67,-438
+1	Block	0	-1580,67,-438
+1	Block	0	-1567,68,-436
+1	Block	0	-1574,68,-449
+1	Block	0	-1565,68,-448
+1	Block	0	-1573,67,-459
+1	Block	0	-1574,67,-471
+1	Block	0	-1563,68,-475
+1	Block	0	-1578,67,-482
+1	Block	0	-1568,68,-486
+1	Block	0	-1574,68,-501
+1	Block	155	-1589,67,-490
+1	Block	0	-1540,67,-490
+1	Block	0	-1620,68,-470
+1	Block	0	-1619,67,-475
+1	Block	0	-1620,67,-476
+1	Block	0	-1626,67,-470
+1	Block	0	-1625,67,-469
+1	Block	0	-1620,68,-458
+1	Block	0	-1625,67,-459
+1	Block	0	-1626,67,-458
+1	Block	0	-1620,67,-452
+1	Block	0	-1619,67,-453
+1	Block	0	-1608,68,-458
+1	Block	0	-1609,67,-453
+1	Block	0	-1608,67,-452
+1	Block	0	-1602,67,-458
+1	Block	0	-1603,67,-459
+1	Block	0	-1608,68,-470
+1	Block	0	-1603,67,-469
+1	Block	0	-1602,67,-470
+1	Block	0	-1608,67,-476
+1	Block	0	-1609,67,-475
+1	Block	1	-1614,64,-464
+1	Block	155	-1640,67,-490
+1	Block	155	-1589,67,-490
+1	Block	155	-1627,63,-489
+1	Block	155	-1601,63,-489
+1	Block	155	-1627,63,-498
+1	Block	155	-1601,63,-498
+1	Block	155	-1626,65,-521
+1	Block	155	-1620,65,-525
+1	Block	155	-1608,65,-525
+1	Block	155	-1586,71,-489
+1	Block	155	-1594,74,-512
+1	Block	155	-1634,74,-512
+1	Block	155	-1643,71,-489
+1	Block	155	-1608,65,-521
+1	Block	155	-1608,65,-525
+1	Block	155	-1602,65,-521
+1	Block	0	-1622,69,-509
+1	Block	0	-1606,69,-509
+1	Block	0	-1606,66,-512
+1	Block	0	-1608,66,-518
+1	Block	0	-1608,65,-521
+1	Block	0	-1620,65,-521
+1	Block	0	-1619,65,-516
+1	Block	0	-1620,65,-512
+
+#SecondStar
+6.6	Text	The second star to the right shines in the night for you
+7	Firework	-1635,67,-517	Comet	5	1,1,0	3
+7	Firework	-1635,67,-516	Comet	5	1,1,0	3
+7	Firework	-1635,67,-515	Comet	5	1,1,0	3
+
+15.8	Text	to tell you that the dreams you plan really can come true.
+16	Firework	-1593,67,-517	Comet	5	-1,1,0	3
+16	Firework	-1593,67,-516	Comet	5	-1,1,0	3
+16	Firework	-1593,67,-515	Comet	5	-1,1,0	3
+
+#WOOSH!
+23.6	Firework	-1634,68,-517	FW,FW	1	0,0,0	1
+23.6	Firework	-1632,68,-519	FW,FW	1	0,0,0	1
+23.6	Firework	-1630,68,-521	FW,FW	1	0,0,0	1
+23.6	Firework	-1628,68,-523	FW,FW	1	0,0,0	1
+23.6	Firework	-1626,68,-525	FW,FW	1	0,0,0	1
+23.6	Firework	-1624,68,-527	FW,FW	1	0,0,0	1
+
+23.6	Firework	-1604,68,-527	FW,FW	1	0,0,0	1
+23.6	Firework	-1602,68,-525	FW,FW	1	0,0,0	1
+23.6	Firework	-1600,68,-523	FW,FW	1	0,0,0	1
+23.6	Firework	-1598,68,-521	FW,FW	1	0,0,0	1
+23.6	Firework	-1596,68,-519	FW,FW	1	0,0,0	1
+23.6	Firework	-1594,68,-517	FW,FW	1	0,0,0	1
+25.0	Text	The second star to the right shines with a light that's rare.
+
+#BANG!
+32.7	Firework	-1634,68,-517	Lya	1	0,0,0	1
+32.7	Firework	-1632,68,-519	Lya	1	0,0,0	1
+32.7	Firework	-1630,68,-521	Lya	1	0,0,0	1
+32.7	Firework	-1628,68,-523	Lya	1	0,0,0	1
+32.7	Firework	-1626,68,-525	Lya	1	0,0,0	1
+32.7	Firework	-1624,68,-527	Lya	1	0,0,0	1
+
+32.7	Firework	-1604,68,-527	Lya	1	0,0,0	1
+32.7	Firework	-1602,68,-525	Lya	1	0,0,0	1
+32.7	Firework	-1600,68,-523	Lya	1	0,0,0	1
+32.7	Firework	-1598,68,-521	Lya	1	0,0,0	1
+32.7	Firework	-1596,68,-519	Lya	1	0,0,0	1
+32.7	Firework	-1594,68,-517	Lya	1	0,0,0	1
+
+34.3	Text	And if it's Never Land you need, it's light will lead you there.
+#Dialogue
+46.1	Text	VirusElite524: Hi, I'm Virus, imagineer behind Wishes
+49.4	Text	EndOfTheEarth: Hi, I'm End, imagineer behind Illuminations.
+53.3	Text	VirusElite524: Once upon a time, therealduckie asked himself, "What would it be like to relive the magic?"
+58.6	Text	EndOfTheEarth: In the years since, MCMAGIC has helped thousands of guests to relive that magic, no matter where in the world they are.
+66.0	Text	VirusElite524: To celebrate, we are proud to present at custom-made fireworks show; RELIVE THE MAGIC
+71.2	Text	EndOfTheEarth: From our family to yours: Thank you for another wonderful year, and enjoy the show!
+
+#BeAMan-Mulan
+#Colors: Red, Yellow, Orange, FIRE
+77.0	Firework	-1634,68,-517	LR	3	0,0,0	1
+77.0	Firework	-1632,68,-519	LR	3	0,0,0	1
+77.0	Firework	-1630,68,-521	LR	3	0,0,0	1
+77.0	Firework	-1628,68,-523	LR	3	0,0,0	1
+77.0	Firework	-1626,68,-525	LR	3	0,0,0	1
+77.0	Firework	-1624,68,-527	LR	3	0,0,0	1
+
+77.0	Firework	-1604,68,-527	LR	3	0,0,0	1
+77.0	Firework	-1602,68,-525	LR	3	0,0,0	1
+77.0	Firework	-1600,68,-523	LR	3	0,0,0	1
+77.0	Firework	-1598,68,-521	LR	3	0,0,0	1
+77.0	Firework	-1596,68,-519	LR	3	0,0,0	1
+77.0	Firework	-1594,68,-517	LR	3	0,0,0	1
+
+#81.6	Text	Let's get down to business
+83.3	Firework	-1608,67,-516	LY	1	0,0,0	1
+83.5	Firework	-1620,67,-516	LY	1	0,0,0	1
+
+#85.0	Text	To defeat the Huns
+85.5	Firework	-1626,68,-525	LR	1	0,0,0	1
+85.5	Firework	-1624,68,-527	LR	1	0,0,0	1
+
+85.5	Firework	-1604,68,-527	LR	1	0,0,0	1
+85.5	Firework	-1602,68,-525	LR	1	0,0,0	1
+
+#90.0	Text	Did they send me daughters
+91.9	Firework	-1608,67,-516	LY	1	0,0,0	1
+91.7	Firework	-1620,67,-516	LY	1	0,0,0	1
+
+#93.5	Text	When I asked for sons?
+94.0	Firework	-1626,68,-525	LR	1	0,0,0	1
+94.0	Firework	-1624,68,-527	LR	1	0,0,0	1
+
+94.0	Firework	-1604,68,-527	LR	1	0,0,0	1
+94.0	Firework	-1602,68,-525	LR	1	0,0,0	1
+
+#17.5	Text	You're the saddest bunch I ever met
+96.8	Firework	-1632,77,-514	CR,CR	1	1,0,0	1
+96.8	Firework	-1596,77,-514	CR,CR	1	-1,0,0	1
+97.2	Firework	-1632,77,-514	CY,CY	1	1,0,0	1
+97.2	Firework	-1596,77,-514	CY,CY	1	-1,0,0	1
+97.6	Firework	-1632,77,-514	CR,CR	1	1,0,0	1
+97.6	Firework	-1596,77,-514	CR,CR	1	-1,0,0	1
+
+#17.5	Text	But you can bet before we're through
+101.4	Firework	-1632,77,-514	LR	1	1,0,0	1
+101.4	Firework	-1596,77,-514	LR	1	-1,0,0	1
+
+#17.5	Text	Mister, I'll 
+105.9	Firework	-1634,68,-517	LR	1	0,0,0	1
+105.9	Firework	-1632,68,-519	LR	1	0,0,0	1
+105.9	Firework	-1630,68,-521	LR	1	0,0,0	1
+105.9	Firework	-1628,68,-523	LR	1	0,0,0	1
+105.9	Firework	-1626,68,-525	LR	1	0,0,0	1
+105.9	Firework	-1624,68,-527	LR	1	0,0,0	1
+
+#make a man
+108.1	Firework	-1604,68,-527	LR	1	0,0,0	1
+108.1	Firework	-1602,68,-525	LR	1	0,0,0	1
+108.1	Firework	-1600,68,-523	LR	1	0,0,0	1
+108.1	Firework	-1598,68,-521	LR	1	0,0,0	1
+108.1	Firework	-1596,68,-519	LR	1	0,0,0	1
+108.1	Firework	-1594,68,-517	LR	1	0,0,0	1
+
+#17.5	Text	out of you
+110.1	Firework	-1634,68,-517	FR	1	0,0,0	1
+111.1	Firework	-1632,68,-519	FY	1	0,0,0	1
+112.1	Firework	-1630,68,-521	FR	1	0,0,0	1
+113.1	Firework	-1628,68,-523	FY	1	0,0,0	1
+
+113.1	Firework	-1600,68,-523	FY	1	0,0,0	1
+112.1	Firework	-1598,68,-521	FR	1	0,0,0	1
+111.1	Firework	-1596,68,-519	FY	1	0,0,0	1
+110.1	Firework	-1594,68,-517	FR	1	0,0,0	1
+
+#Virus 1
+#115.3	Text	Tranquil as a forest
+115.3	Firework	-1619,109,-532	LG	0	0,0,0	1
+116.9	Firework	-1608,112,-532	LG	0	0,0,0	1
+#118.8	Text	But on fire within
+#Two large balls on each side with a single fire effect
+118.8	Block	152	-1624,45,-504
+119	Block	0	-1624,45,-504
+120.9	Firework	-1626,80,-521	CR	0	1,1,-1	1
+120.9	Firework	-1602,80,-521	CR	0	-1,1,-1	1
+#17.5	Text	Once you find your center
+#Side blanks shot across the castle
+124	Firework	-1649,71,-521	Comet	5	1,1,-1	2
+124	Firework	-1570,71,-521	Comet	5	-1,1,-1	2
+#17.5	Text	you are sure to win
+#Have head firework explode at the intersection on “win”
+129.7	Firework	-1614,84,-526	Head	0	0,0,0	1
+#17.5	Text	You're a spineless, pale pathetic lot
+130.9	Firework	-1632,77,-514	CR,CR	1	1,0,0	1
+130.9	Firework	-1596,77,-514	CR,CR	1	-1,0,0	1
+131.3	Firework	-1632,77,-514	CY,CY	1	1,0,0	1
+131.3	Firework	-1596,77,-514	CY,CY	1	-1,0,0	1
+131.7	Firework	-1632,77,-514	CR,CR	1	1,0,0	1
+131.7	Firework	-1596,77,-514	CR,CR	1	-1,0,0	1
+#17.5	Text	And you haven't got a clue
+#Blanks crossing over on both sides
+136	Firework	-1598,67,-522	Comet	4	0,1,0	1
+136	Firework	-1630,67,-522	Comet	4	0,1,0	1
+#17.5	Text	Somehow I'll make a man
+#Side white burst going up with long flight time to the next line
+139.5	Firework	-1630,67,-522	FW	5	0,1,0	1
+139.5	Firework	-1628,67,-524	FW	5	0,1,0	1
+139.5	Firework	-1626,67,-526	FW	5	0,1,0	1
+139.5	Firework	-1598,67,-522	FW	5	0,1,0	1
+139.5	Firework	-1600,67,-524	FW	5	0,1,0	1
+139.5	Firework	-1602,67,-526	FW	5	0,1,0	1
+#17.5	Text	out of you
+
+#End
+#17.5	Text	I'm never gonna catch my breath
+148.2	Firework	-1620,72,-527	FY,FY	1	0,0,0	1
+148.6	Firework	-1620,72,-527	FY,FY	1	0,0,0	1
+149.0	Firework	-1620,72,-527	FY,FY	1	0,0,0	1
+
+#17.5	Text	Say good-bye to those who knew me
+149.8	Firework	-1626,72,-523	FO,FO	1	0,0,0	1
+150.7	Firework	-1626,72,-523	FO,FO	1	0,0,0	1
+151.6	Firework	-1626,72,-523	FO,FO	1	0,0,0	1
+
+#17.5	Text	Boy, was I a fool in school for cutting gym
+152.2	Firework	-1621,68,-520	FR	1	0,0,0	1
+152.7	Firework	-1619,68,-520	FR	1	0,0,0	1
+153.2	Firework	-1617,68,-522	FR	1	0,0,0	1
+153.7	Firework	-1615,68,-522	FR	1	0,0,0	1
+154.2	Firework	-1614,68,-522	FR	1	0,0,0	1
+154.7	Firework	-1613,68,-522	FR	1	0,0,0	1
+155.2	Firework	-1611,68,-522	FR	1	0,0,0	1
+155.7	Firework	-1609,68,-520	FR	1	0,0,0	1
+156.2	Firework	-1607,68,-520	FR	1	0,0,0	1
+
+#17.5	Text	This guy's got 'em scared to death
+156.7	Firework	-1602,72,-523	FO,FO	1	0,0,0	1
+157.35	Firework	-1602,72,-523	FO,FO	1	0,0,0	1
+158.0	Firework	-1602,72,-523	FO,FO	1	0,0,0	1
+
+#17.5	Text	Hope he doesn't see right through me
+158.6	Firework	-1608,72,-527	FY,FY	1	0,0,0	1
+159.3	Firework	-1608,72,-527	FW,FW	1	0,0,0	1
+160.1	Firework	-1608,72,-527	FY,FY	1	0,0,0	1
+
+#17.5	Text	Now I really wish that I knew how to swim
+162.5	Firework	-1618,72,-522	FR	1	0,0,0	1
+162.5	Firework	-1616,72,-522	FR	1	0,0,0	1
+162.5	Firework	-1614,72,-522	FR	1	0,0,0	1
+162.5	Firework	-1612,72,-522	FR	1	0,0,0	1
+162.5	Firework	-1610,72,-522	FR	1	0,0,0	1
+
+#Virus 2 --USE FIRE
+#17.5	Text	(To Be a man)
+#17.5	Text	We must be swift as the coursing river
+#On both sides, have two blanks cross each other with one big ball launched at the center
+162	Firework	-1630,67,-522	BA	5	0,1,0	1
+162	Firework	-1628,67,-524	BA	5	0,1,0	1
+162	Firework	-1626,67,-526	BA	5	0,1,0	1
+162	Firework	-1598,67,-522	BA	5	0,1,0	1
+162	Firework	-1600,67,-524	BA	5	0,1,0	1
+162	Firework	-1602,67,-526	BA	5	0,1,0	1
+
+#17.5	Text	(Be a man)
+#17.5	Text	With all the force of a great typhoon
+#On both sides have three blue burst go right
+171.2	Firework	-1630,80,-522	FA	1	1,1,0	1
+171.2	Firework	-1628,80,-524	FA	1	1,1,0	1
+171.2	Firework	-1626,80,-526	FA	1	1,1,0	1
+171.2	Firework	-1598,80,-522	FA	1	-1,1,0	1
+171.2	Firework	-1600,80,-524	FA	1	-1,1,0	1
+171.2	Firework	-1602,80,-526	FA	1	-1,1,0	1
+
+#17.5	Text	( To Be a man)
+#17.5	Text	With all the strength of a raging fire
+#FIRE going up
+176.2	Block	152	-1624,45,-504
+178	Block	0	-1624,45,-504
+
+#17.5	Text	Mysterious as the dark side of the moon
+#Large white balls fade to black on top of castle
+180.4	Firework	-1614,110,-532	WG	0	0,1,0	1
+
+#End
+#17.5	Text	Time is racing toward us
+187.3	Firework	-1629,76,-512	LR	0	0,0,0	1
+187.8	Firework	-1623,76,-512	LR	0	0,0,0	1
+188.3	Firework	-1617,76,-512	LR	0	0,0,0	1
+188.8	Firework	-1611,76,-512	LR	0	0,0,0	1
+189.3	Firework	-1605,76,-512	LR	0	0,0,0	1
+189.8	Firework	-1599,76,-512	LR	0	0,0,0	1
+
+#17.5	Text	till the Huns arrive
+192.4	Firework	-1629,76,-512	FR	0	0,0,0	1
+192.4	Firework	-1623,76,-512	FR	0	0,0,0	1
+192.4	Firework	-1617,76,-512	FR	0	0,0,0	1
+192.4	Firework	-1611,76,-512	FR	0	0,0,0	1
+192.4	Firework	-1605,76,-512	FR	0	0,0,0	1
+192.4	Firework	-1599,76,-512	FR	0	0,0,0	1
+
+#195.6	Text	Heed my every order
+198.1	Firework	-1629,76,-512	LY	0	0,0,0	1
+197.6	Firework	-1623,76,-512	LY	0	0,0,0	1
+197.1	Firework	-1617,76,-512	LY	0	0,0,0	1
+196.6	Firework	-1611,76,-512	LY	0	0,0,0	1
+196.1	Firework	-1605,76,-512	LY	0	0,0,0	1
+195.6	Firework	-1599,76,-512	LY	0	0,0,0	1
+
+#17.5	Text	and you might survive
+200.6	Firework	-1629,76,-512	FY	0	0,0,0	1
+200.6	Firework	-1623,76,-512	FY	0	0,0,0	1
+200.6	Firework	-1617,76,-512	FY	0	0,0,0	1
+200.6	Firework	-1611,76,-512	FY	0	0,0,0	1
+200.6	Firework	-1605,76,-512	FY	0	0,0,0	1
+200.6	Firework	-1599,76,-512	FY	0	0,0,0	1
+
+#17.5	Text	You're unsuited for the rage of war
+202.2	Firework	-1632,77,-514	CR,CR	1	1,0,0	1
+202.2	Firework	-1596,77,-514	CR,CR	1	-1,0,0	1
+202.6	Firework	-1632,77,-514	CY,CY	1	1,0,0	1
+202.6	Firework	-1596,77,-514	CY,CY	1	-1,0,0	1
+203	Firework	-1632,77,-514	CR,CR	1	1,0,0	1
+203	Firework	-1596,77,-514	CR,CR	1	-1,0,0	1
+
+#17.5	Text	So pack up, go home you're through
+206.6	Firework	-1632,77,-514	CO,CO	1	1,0,0	1
+206.6	Firework	-1596,77,-514	CO,CO	1	-1,0,0	1
+207.6	Firework	-1632,77,-514	CR,CR	1	1,0,0	1
+207.6	Firework	-1596,77,-514	CR,CR	1	-1,0,0	1
+208.6	Firework	-1632,77,-514	CO,CO	1	1,0,0	1
+208.6	Firework	-1596,77,-514	CO,CO	1	-1,0,0	1
+#17.5	Text	How could I 
+212.3	Firework	-1629,76,-512	LR	1	0,0,0	1
+212.3	Firework	-1623,76,-512	LR	1	0,0,0	1
+212.3	Firework	-1617,76,-512	LR	1	0,0,0	1
+212.3	Firework	-1611,76,-512	LR	1	0,0,0	1
+212.3	Firework	-1605,76,-512	LR	1	0,0,0	1
+212.3	Firework	-1599,76,-512	LR	1	0,0,0	1
+
+#make a man
+214.3	Firework	-1629,76,-512	LY	1	0,0,0	1
+214.3	Firework	-1623,76,-512	LY	1	0,0,0	1
+214.3	Firework	-1617,76,-512	LY	1	0,0,0	1
+214.3	Firework	-1611,76,-512	LY	1	0,0,0	1
+214.3	Firework	-1605,76,-512	LY	1	0,0,0	1
+214.3	Firework	-1599,76,-512	LY	1	0,0,0	1
+
+#out of you?
+215.8	Firework	-1634,68,-517	LO	1	0,0,0	1
+216.3	Firework	-1632,68,-519	LO	1	0,0,0	1
+216.8	Firework	-1630,68,-521	LO	1	0,0,0	1
+217.3	Firework	-1628,68,-523	LO	1	0,0,0	1
+217.8	Firework	-1626,68,-525	LO	1	0,0,0	1
+218.3	Firework	-1624,68,-527	LO	1	0,0,0	1
+
+218.3	Firework	-1604,68,-527	LO	1	0,0,0	1
+217.8	Firework	-1602,68,-525	LO	1	0,0,0	1
+217.3	Firework	-1600,68,-523	LO	1	0,0,0	1
+216.8	Firework	-1598,68,-521	LO	1	0,0,0	1
+216.3	Firework	-1596,68,-519	LO	1	0,0,0	1
+215.8	Firework	-1594,68,-517	LO	1	0,0,0	1
+
+#Virus--USE FIRE
+#17.5	Text	( To Be a man)
+#17.5	Text	We must be swift as the coursing river
+#On both sides, have two blanks cross each other with one big ball launched at the center
+222.7	Firework	-1630,80,-522	BA	2	0,1,0	1
+222.7	Firework	-1628,80,-524	BA	2	0,1,0	1
+222.7	Firework	-1626,80,-526	BA	2	0,1,0	1
+222.7	Firework	-1598,80,-522	BA	2	0,1,0	1
+222.7	Firework	-1600,80,-524	BA	2	0,1,0	1
+222.7	Firework	-1602,80,-526	BA	2	0,1,0	1
+227.7	Firework	-1614,103,-532	LA	0	0,1,0	1
+
+#17.5	Text	( To Be a man)
+#17.5	Text	With all the force of a great typhoon
+#On both sides have three blue burst go right with blue large balls on top of castle
+226	Firework	-1630,80,-522	FA	1	1,1,0	1
+226	Firework	-1628,80,-524	FA	1	1,1,0	1
+226	Firework	-1626,80,-526	FA	1	1,1,0	1
+226	Firework	-1598,80,-522	FA	1	-1,1,0	1
+226	Firework	-1600,80,-524	FA	1	-1,1,0	1
+226	Firework	-1602,80,-526	FA	1	-1,1,0	1
+227	Firework	-1624,104,-532	BA	0	0,1,0	1
+227	Firework	-1621,104,-532	BA	0	0,1,0	1
+227	Firework	-1618,103,-532	BA	0	0,1,0	1
+227	Firework	-1615,103,-532	BA	0	0,1,0	1
+227	Firework	-1612,102,-532	BA	0	0,1,0	1
+227	Firework	-1609,102,-532	BA	0	0,1,0	1
+227	Firework	-1606,103,-532	BA	0	0,1,0	1
+227	Firework	-1603,103,-532	BA	0	0,1,0	1
+
+#17.5	Text	( To Be a man)
+#17.5	Text	With all the strength of a raging fire
+#FIRE more higher and going across stage
+321	Firework	-1623,69,-503	FR	0	0,1,0	1
+321	Firework	-1605,69,-503	FR	0	0,1,0	1
+231	Block	152	-1624,45,-504
+231	Block	152	-1619,45,-504
+
+234	Block	0	-1624,45,-504
+234	Block	0	-1619,45,-504
+#17.5	Text	Mysterious as the dark side of the moon
+#Three fading balls on top
+235.2	Firework	-1614,110,-532	WG	0	0,1,0	1
+235.2	Firework	-1617,114,-532	WG	0	0,1,0	1
+235.2	Firework	-1611,112,-532	WG	0	0,1,0	1
+235.2	Firework	-1618,98,-532	BF	0	0,1,0	1
+235.2	Firework	-1610,98,-532	BF	0	0,1,0	1
+
+#End
+#240	Text	( To Be a man)
+241.2	Firework	-1634,68,-517	FW,FW	1	0,0,0	1
+241.7	Firework	-1632,68,-519	FW,FW	1	0,0,0	1
+242.2	Firework	-1630,68,-521	FW,FW	1	0,0,0	1
+242.7	Firework	-1628,68,-523	FW,FW	1	0,0,0	1
+243.2	Firework	-1626,68,-525	FW,FW	1	0,0,0	1
+243.7	Firework	-1624,68,-527	FW,FW	1	0,0,0	1
+
+243.7	Firework	-1604,68,-527	FW,FW	1	0,0,0	1
+243.2	Firework	-1602,68,-525	FW,FW	1	0,0,0	1
+242.7	Firework	-1600,68,-523	FW,FW	1	0,0,0	1
+242.2	Firework	-1598,68,-521	FW,FW	1	0,0,0	1
+241.7	Firework	-1596,68,-519	FW,FW	1	0,0,0	1
+241.2	Firework	-1594,68,-517	FW,FW	1	0,0,0	1
+
+#242	Text	We must be swift as the Coursing river
+#245	Text	( To Be a man)
+246.7	Firework	-1634,68,-517	FW,FW,FW	1	0,0,0	1
+246.2	Firework	-1632,68,-519	FW,FW,FW	1	0,0,0	1
+245.7	Firework	-1630,68,-521	FW,FW,FW	1	0,0,0	1
+245.2	Firework	-1628,68,-523	FW,FW,FW	1	0,0,0	1
+244.7	Firework	-1626,68,-525	FW,FW,FW	1	0,0,0	1
+244.2	Firework	-1624,68,-527	FW,FW,FW	1	0,0,0	1
+
+244.2	Firework	-1604,68,-527	FW,FW,FW	1	0,0,0	1
+244.7	Firework	-1602,68,-525	FW,FW,FW	1	0,0,0	1
+245.2	Firework	-1600,68,-523	FW,FW,FW	1	0,0,0	1
+245.7	Firework	-1598,68,-521	FW,FW,FW	1	0,0,0	1
+246.2	Firework	-1596,68,-519	FW,FW,FW	1	0,0,0	1
+246.7	Firework	-1594,68,-517	FW,FW,FW	1	0,0,0	1
+
+#247	Text	With all the force of a great typhoon
+#17.5	Text	( To Be a man)
+247.2	Firework	-1634,68,-517	FW,FW,FW	1	0,0,0	1
+247.7	Firework	-1632,68,-519	FW,FW,FW	1	0,0,0	1
+248.2	Firework	-1630,68,-521	FW,FW,FW	1	0,0,0	1
+248.7	Firework	-1628,68,-523	FW,FW,FW	1	0,0,0	1
+249.2	Firework	-1626,68,-525	FW,FW,FW	1	0,0,0	1
+249.7	Firework	-1624,68,-527	FW,FW,FW	1	0,0,0	1
+
+249.7	Firework	-1604,68,-527	FW,FW,FW	1	0,0,0	1
+249.2	Firework	-1602,68,-525	FW,FW,FW	1	0,0,0	1
+248.7	Firework	-1600,68,-523	FW,FW,FW	1	0,0,0	1
+248.2	Firework	-1598,68,-521	FW,FW,FW	1	0,0,0	1
+247.7	Firework	-1596,68,-519	FW,FW,FW	1	0,0,0	1
+247.2	Firework	-1594,68,-517	FW,FW,FW	1	0,0,0	1
+
+249.4	Block	152	-1624,45,-504
+#17.5	Text	With all the strength of a raging fire
+251	Block	152	-1619,45,-504
+#17.5	Text	Mysterious as the dark side of the moon
+256.1	Block	152	-1614,45,-504
+
+258.8	Firework	-1629,76,-512	LY	0	0,0,0	1
+258.8	Firework	-1623,76,-512	LY	0	0,0,0	1
+258.8	Firework	-1617,76,-512	LY	0	0,0,0	1
+258.8	Firework	-1611,76,-512	LY	0	0,0,0	1
+258.8	Firework	-1605,76,-512	LY	0	0,0,0	1
+258.8	Firework	-1599,76,-512	LY	0	0,0,0	1
+
+259.6	Firework	-1629,76,-512	LO	0	0,0,0	1
+259.6	Firework	-1623,76,-512	LO	0	0,0,0	1
+259.6	Firework	-1617,76,-512	LO	0	0,0,0	1
+259.6	Firework	-1611,76,-512	LO	0	0,0,0	1
+259.6	Firework	-1605,76,-512	LO	0	0,0,0	1
+259.6	Firework	-1599,76,-512	LO	0	0,0,0	1
+259.5	Firework	-1629,76,-512	LR	1	0,0,0	1
+259.5	Firework	-1626,76,-512	LR	1	0,0,0	1
+259.5	Firework	-1623,76,-512	LR	1	0,0,0	1
+259.5	Firework	-1620,76,-512	LR	1	0,0,0	1
+259.5	Firework	-1617,76,-512	LR	1	0,0,0	1
+259.5	Firework	-1614,76,-512	LR	1	0,0,0	1
+259.5	Firework	-1611,76,-512	LR	1	0,0,0	1
+259.5	Firework	-1608,76,-512	LR	1	0,0,0	1
+259.5	Firework	-1605,76,-512	LR	1	0,0,0	1
+259.5	Firework	-1602,76,-512	LR	1	0,0,0	1
+259.5	Firework	-1599,76,-512	LR	1	0,0,0	1
+
+261	Block	0	-1624,45,-504
+261	Block	0	-1619,45,-504
+261	Block	0	-1614,45,-504
+
+#Colors of the Wind
+#Virus
+#17.5	Text	You think you own whatever land you land on
+#Green burst going sideways on top of castle
+270	Firework	-1620,100,-532	FG	0	1,1,0	1
+270	Firework	-1604,100,-532	FG	0	-1,1,0	1
+
+#17.5	Text	The earth is just a dead thing you can claim
+273.1	Firework	-1627,68,-507	FG	0	0,0,0	0
+273.1	Firework	-1601,68,-507	FG	0	0,0,0	0
+#17.5	Text	But I know every rock and tree and creature
+#Have a purple rocket go off and explode for the next line (need to check audio time)
+278.9	Firework	-1626,67,-526	LV	4	0,1,0	1
+279.5	Firework	-1602,67,-526	LV	4	0,1,0	1
+280.3	Firework	-1614,84,-526	LV	4	0,1,0	1
+
+#17.5	Text	Has a life, has a spirit, has a name
+#Have a purple ball explode to “life”, “spirit”, and “name”
+#End
+284.7	Block	152	-1611,45,-504
+286.5	Block	0	-1611,45,-504
+
+#17.5	Text	You think the only people who are people
+286.9	Firework	-1603,84,-521	LG	0	0,0,0	1
+288.1	Firework	-1614,84,-521	LG	0	0,0,0	1
+289.3	Firework	-1625,84,-521	LG	0	0,0,0	1
+
+#17.5	Text	Are the people who look and think like you
+291.3	Firework	-1603,84,-521	FV	0	0,0,0	1
+292.6	Firework	-1614,84,-521	FV	0	0,0,0	1
+294.1	Firework	-1625,84,-521	FV	0	0,0,0	1
+
+#17.5	Text	But if you walk the footsteps of a stranger
+296.9	Firework	-1603,84,-521	LV	0	0,0,0	1
+298.1	Firework	-1614,84,-521	LV	0	0,0,0	1
+299.3	Firework	-1625,84,-521	LO	0	0,0,0	1
+
+#17.5	Text	You'll learn things you never knew you never knew
+300.4	Firework	-1630,79,-522	FV	0	0,0,0	1
+301.55	Firework	-1628,79,-524	FG	0	0,0,0	1
+302.9	Firework	-1626,79,-526	FV	0	0,0,0	1
+
+302.9	Firework	-1602,79,-526	FV	0	0,0,0	1
+301.55	Firework	-1600,79,-524	FG	0	0,0,0	1
+300.4	Firework	-1598,79,-522	FV	0	0,0,0	1
+
+#Virus
+#17.5	Text	Have you ever heard the wolf cry to the blue corn moon
+#Have a blue large ball launch from the left with a flight time to explode on “blue”
+304	Firework	-1626,30,-521	LA	3	-1,1,0	1
+304.5	Firework	-1629,76,-522	BB	0	0,1,0	1
+304.5	Firework	-1599,76,-522	BB	0	0,1,0	1
+305	Firework	-1629,77,-522	BB	0	0,1,0	1
+305	Firework	-1599,77,-522	BB	0	0,1,0	1
+305.5	Firework	-1629,78,-522	BB	0	0,1,0	1
+305.5	Firework	-1599,78,-522	BB	0	0,1,0	1
+306	Firework	-1629,79,-522	BB	0	0,1,0	1
+306	Firework	-1599,79,-522	BB	0	0,1,0	1
+306.5	Firework	-1629,80,-522	BB	0	0,1,0	1
+306.5	Firework	-1599,80,-522	BB	0	0,1,0	1
+307	Firework	-1629,81,-522	BB	0	0,1,0	1
+307	Firework	-1599,81,-522	BB	0	0,1,0	1
+307.5	Firework	-1629,82,-522	BB	0	0,1,0	1
+307.5	Firework	-1599,82,-522	BB	0	0,1,0	1
+308	Firework	-1629,83,-522	BB	0	0,1,0	1
+308	Firework	-1599,83,-522	BB	0	0,1,0	1
+308	Firework -1614,90,-525	LA,LA,LA,LA	0	0,1,0	1
+
+
+#17.5	Text	Or ask the grinning bob cat why he grins
+#Head firework on “grins”
+312	Firework	-1614,98,-532	Head	0	0,1,0	1
+
+#17.5	Text	Can you sing with all the voices of the mountain
+#Have five fading balls in a staggered line above the castle (mountain)
+316.8	Firework	-1620,102,-532	WG	0	0,1,0	1
+316.8	Firework	-1615,106,-532	WG	0	0,1,0	1
+316.8	Firework	-1615,106,-532	WG	0	0,1,0	1
+316.8	Firework	-1611,109,-532	WG	0	0,1,0	1
+316.8	Firework	-1608,107,-532	WG	0	0,1,0	1
+316.8	Firework	-1606,105,-532	WG	0	0,1,0	1
+
+#17.5	Text	Can you paint with all the colors of the wind
+#On both sides, have four fading burst go up and go off on colors
+320	Firework	-1626,80,-521	FG	0	0,1,0	1
+320	Firework	-1622,80,-525	FR	0	0,1,0	1
+320	Firework	-1606,80,-525	FO	0	0,1,0	1
+320	Firework	-1602,80,-521	FG	0	0,1,0	1
+
+#17.5	Text	Can you paint with all the colors of the wind
+#Have three large fading balls on top of castle
+328	Firework	-1617,103,-532	LO	0	0,1,0	1
+328	Firework	-1610,104,-532	LR	0	0,1,0	1
+328	Firework	-1615,107,-532	LG	0	0,1,0	1
+
+#End
+328.5	Block	152	-1608,45,-504
+336.8	Block	0	-1608,45,-504
+#17.5	Text	Come run the hidden pine trails of the forest
+335.3	Firework	-1635,67,-517	FG	5	1,1,0	3
+335.3	Firework	-1635,67,-516	FG	5	1,1,0	3
+335.3	Firework	-1635,67,-515	FG	5	1,1,0	3
+
+#17.5	Text	Come taste the sun-sweet berries of the earth
+340.3	Firework	-1593,67,-517	FG	5	-1,1,0	3
+340.3	Firework	-1593,67,-516	FG	5	-1,1,0	3
+340.3	Firework	-1593,67,-515	FG	5	-1,1,0	3
+
+#17.5	Text	Come roll in all the riches all around you
+346.1	Firework	-1619,74,-510	FO	0	0,0,0	3
+346.1	Firework	-1614,74,-510	FO	0	0,0,0	3
+346.1	Firework	-1609,74,-510	FO	0	0,0,0	3
+
+#17.5	Text	And for once never wonder what they're worth
+351.7	Firework	-1621,89,-512	LV	0	0,0,0	3
+351.7	Firework	-1607,89,-512	LV	0	0,0,0	3
+
+#Virus
+#17.5	Text	The rainstorm and the river are my brothers
+#On left side, have two large balls with one higher than the other
+354.6	Firework	-1630,67,-522	LA	3	0,1,0	1
+354.6	Firework	-1626,67,-526	LA	2	0,1,0	1
+354.8	Firework	-1630,67,-522	LA	3	0,1,0	1
+354.8	Firework	-1626,67,-526	LA	2	0,1,0	1
+
+#17.5	Text	The heron and the otter are my friends
+#On the right side, have two large orange balls with one higher than the other
+359	Firework	-1598,67,-522	LO	2	0,1,0	1
+359	Firework	-1602,67,-526	LO	3	0,1,0	1
+359.2	Firework	-1598,67,-522	LO	2	0,1,0	1
+359.2	Firework	-1602,67,-526	LO	3	0,1,0	1
+
+
+#17.5	Text	And we are all connected to each other
+#Have one blanks on each side toward the castle
+364	Firework	-1628,67,-524	Comet	3	1,1,0	1
+364	Firework	-1600,67,-524	Comet	3	-1,1,0	1
+
+#17.5	Text	In a circle of a hoop that never ends
+367.6	Firework	-1614,72,-507	LO	0	0,0,0	1
+368.8	Firework	-1614,72,-507	LO	0	0,0,0	1
+
+368	Firework	-1614,90,-525	BW	0	0,0,0	1
+368	Firework	-1610,90,-524	BW	0	0,0,0	1
+368	Firework	-1618,90,-524	BW	0	0,0,0	1
+368	Firework	-1607,90,-521	BW	0	0,0,0	1
+368	Firework	-1621,90,-521	BW	0	0,0,0	1
+
+368	Firework	-1614,84,-525	BW	0	0,0,0	1
+368	Firework	-1610,84,-524	BW	0	0,0,0	1
+368	Firework	-1618,84,-524	BW	0	0,0,0	1
+368	Firework	-1607,84,-521	BW	0	0,0,0	1
+368	Firework	-1621,84,-521	BW	0	0,0,0	1
+#End
+#372.2	Text	How high (373.7) does the sycamore grow
+372.2	Firework	-1629,72,-519	FG,FG	0	0,0,0	1
+372.4	Firework	-1629,76,-519	FG,FG	0	0,0,0	1
+372.6	Firework	-1629,80,-519	FG,FG	0	0,0,0	1
+372.8	Firework	-1629,84,-519	FG,FG	0	0,0,0	1
+373.0	Firework	-1629,88,-519	FG,FG	0	0,0,0	1
+373.2	Firework	-1629,92,-519	FG,FG	0	0,0,0	1
+373.4	Firework	-1629,96,-519	FG,FG	0	0,0,0	1
+373.6	Firework	-1629,100,-519	LG	0	0,0,0	1
+
+372.2	Firework	-1599,72,-519	FG,FG	0	0,0,0	1
+372.4	Firework	-1599,76,-519	FG,FG	0	0,0,0	1
+372.6	Firework	-1599,80,-519	FG,FG	0	0,0,0	1
+372.8	Firework	-1599,84,-519	FG,FG	0	0,0,0	1
+373.0	Firework	-1599,88,-519	FG,FG	0	0,0,0	1
+373.2	Firework	-1599,92,-519	FG,FG	0	0,0,0	1
+373.4	Firework	-1599,96,-519	FG,FG	0	0,0,0	1
+373.6	Firework	-1599,100,-519	LG	0	0,0,0	1
+
+#17.5	Text	If you cut it down then you'll never know
+377.8	Firework	-1609,74,-510	FO	0	0,0,0	1
+377.8	Firework	-1614,74,-510	FO	0	0,0,0	1
+377.8	Firework	-1619,74,-510	FO	0	0,0,0	1
+
+379.3	Block	152	-1611,45,-504
+#17.5	Text	And you'll never hear the wolf cry to the blue corn moon
+383.9	Firework	-1634,89,-512	LV	0	0,0,0	1
+383.9	Firework	-1621,89,-512	LV	0	0,0,0	1
+383.9	Firework	-1607,89,-512	LV	0	0,0,0	1
+383.9	Firework	-1594,89,-512	LV	0	0,0,0	1
+383.9	Firework	-1599,99,-519	LV	0	0,0,0	1
+383.9	Firework	-1614,99,-519	LV	0	0,0,0	1
+383.9	Firework	-1629,99,-519	LV	0	0,0,0	1
+
+
+385.5	Firework	-1629,76,-512	FG	0	0,0,0	1
+385.5	Firework	-1623,76,-512	FG	0	0,0,0	1
+385.5	Firework	-1617,76,-512	FG	0	0,0,0	1
+385.5	Firework	-1611,76,-512	FG	0	0,0,0	1
+385.5	Firework	-1605,76,-512	FG	0	0,0,0	1
+385.5	Firework	-1599,76,-512	FG	0	0,0,0	1
+
+386.6	Firework	-1629,76,-512	FO	0	0,0,0	1
+386.6	Firework	-1623,76,-512	FO	0	0,0,0	1
+386.6	Firework	-1617,76,-512	FO	0	0,0,0	1
+386.6	Firework	-1611,76,-512	FO	0	0,0,0	1
+386.6	Firework	-1605,76,-512	FO	0	0,0,0	1
+386.6	Firework	-1599,76,-512	FO	0	0,0,0	1
+
+#17.5	Text	For whether we are white or copper skinned
+389.9	Firework	-1634,89,-512	LG	0	0,0,0	1
+389.9	Firework	-1621,89,-512	LG	0	0,0,0	1
+389.9	Firework	-1607,89,-512	LG	0	0,0,0	1
+389.9	Firework	-1594,89,-512	LG	0	0,0,0	1
+389.9	Firework	-1599,99,-519	LG	0	0,0,0	1
+389.9	Firework	-1614,99,-519	LG	0	0,0,0	1
+389.9	Firework	-1629,99,-519	LG	0	0,0,0	1
+
+391.3	Firework	-1629,76,-512	FV	0	0,0,0	1
+391.3	Firework	-1623,76,-512	FV	0	0,0,0	1
+391.3	Firework	-1617,76,-512	FV	0	0,0,0	1
+391.3	Firework	-1611,76,-512	FV	0	0,0,0	1
+391.3	Firework	-1605,76,-512	FV	0	0,0,0	1
+391.3	Firework	-1599,76,-512	FV	0	0,0,0	1
+
+#17.5	Text	We need to sing with all the voices of the mountain
+392.6	Firework	-1634,68,-517	FW	1	0,0,0	1
+392.6	Firework	-1632,68,-519	FW	1	0,0,0	1
+392.6	Firework	-1630,68,-521	FW	1	0,0,0	1
+392.6	Firework	-1628,68,-523	FW	1	0,0,0	1
+392.6	Firework	-1626,68,-525	FW	1	0,0,0	1
+392.6	Firework	-1624,68,-527	FW	1	0,0,0	1
+
+392.6	Firework	-1604,68,-527	FW	1	0,0,0	1
+392.6	Firework	-1602,68,-525	FW	1	0,0,0	1
+392.6	Firework	-1600,68,-523	FW	1	0,0,0	1
+392.6	Firework	-1598,68,-521	FW	1	0,0,0	1
+392.6	Firework	-1596,68,-519	FW	1	0,0,0	1
+392.6	Firework	-1594,68,-517	FW	1	0,0,0	1
+
+394.9	Block	0	-1611,45,-504
+
+#17.5	Text	We need to paint with all the colors of the wind
+398.3	Firework	-1634,89,-512	Lrb	0	0,0,0	1
+398.3	Firework	-1621,89,-512	Lrb	0	0,0,0	1
+398.3	Firework	-1607,89,-512	Lrb	0	0,0,0	1
+398.3	Firework	-1594,89,-512	Lrb	0	0,0,0	1
+398.3	Firework	-1599,99,-519	Lrb	0	0,0,0	1
+398.3	Firework	-1614,99,-519	Lrb	0	0,0,0	1
+398.3	Firework	-1629,99,-519	Lrb	0	0,0,0	1
+
+400.6	Block	152	-1611,45,-504
+402.5	Block	0	-1611,45,-504
+
+#Virus
+#17.5	Text	You can own the earth and still
+#Both sides: Launch up of green and blue burst
+403	Firework	-1626,80,-521	FG	0	0,1,0	1
+403	Firework	-1622,80,-525	FA	0	0,1,0	1
+403	Firework	-1602,80,-521	FG	0	0,1,0	1
+403	Firework	-1606,80,-525	FA	0	0,1,0	1
+
+#17.5	Text	All you own is earth until
+#Top of castle: Two large balls of green and blue
+406	Firework	-1626,80,-521	LG	2	0,1,0	1
+406	Firework	-1622,80,-525	LA	2	0,1,0	1
+406	Firework	-1602,80,-521	LG	2	0,1,0	1
+406	Firework	-1606,80,-525	LA	2	0,1,0	1
+
+#17.5	Text	You can paint with all the colors of the wind
+#Left side: Launch a orange burst with a mix of colors on “wind”
+410	Firework	-1614,109,-532	LO	0	0,1,0	1
+410	Firework	-1610,106,-532	LO	0	0,1,0	1
+410	Firework	-1617,105,-532	LO	0	0,1,0	1
+410	Firework	-1606,101,-532	LO	0	0,1,0	1
+410	Firework	-1611,101,-532	LO	0	0,1,0	1
+410	Firework	-1618,100,-532	LO	0	0,1,0	1
+#Block effect here for 413 - 423
+413	Block	152	-1608,45,-504
+423	Block	0	-1608,45,-504
+
+#LetItGo
+#End
+#Prel Music (425ish)
+424.8	Firework	-1635,67,-517	Comet,Comet	3	1,1,0	3
+424.8	Firework	-1635,67,-516	Comet,Comet	3	1,1,0	3
+424.8	Firework	-1635,67,-515	Comet,Comet	3	1,1,0	3
+
+426.3	Firework	-1593,67,-517	Comet,Comet	3	-1,1,0	3
+426.3	Firework	-1593,67,-516	Comet,Comet	3	-1,1,0	3
+426.3	Firework	-1593,67,-515	Comet,Comet	3	-1,1,0	3
+
+428.1	Firework	-1603,84,-521	Comet,Comet	3	0,0,0	1
+428.1	Firework	-1614,84,-521	Comet,Comet	3	0,0,0	1
+428.1	Firework	-1625,84,-521	Comet,Comet	3	0,0,0	1
+
+431.4	Firework	-1634,68,-517	Comet,Comet	3	0,0,0	1
+431.4	Firework	-1632,68,-519	Comet,Comet	3	0,0,0	1
+431.4	Firework	-1630,68,-521	Comet,Comet	3	0,0,0	1
+431.4	Firework	-1628,68,-523	Comet,Comet	3	0,0,0	1
+431.4	Firework	-1626,68,-525	Comet,Comet	3	0,0,0	1
+431.4	Firework	-1624,68,-527	Comet,Comet	3	0,0,0	1
+
+433.2	Firework	-1604,68,-527	Comet,Comet	3	0,0,0	1
+433.2	Firework	-1602,68,-525	Comet,Comet	3	0,0,0	1
+433.2	Firework	-1600,68,-523	Comet,Comet	3	0,0,0	1
+433.2	Firework	-1598,68,-521	Comet,Comet	3	0,0,0	1
+433.2	Firework	-1596,68,-519	Comet,Comet	3	0,0,0	1
+433.2	Firework	-1594,68,-517	Comet,Comet	3	0,0,0	1
+
+435.1	Firework	-1629,76,-512	Comet,Comet	2	0,0,0	1
+435.1	Firework	-1626,76,-512	Comet,Comet	2	0,0,0	1
+435.1	Firework	-1623,76,-512	Comet,Comet	2	0,0,0	1
+435.1	Firework	-1620,76,-512	Comet,Comet	2	0,0,0	1
+435.1	Firework	-1617,76,-512	Comet,Comet	2	0,0,0	1
+435.1	Firework	-1614,76,-512	Comet,Comet	2	0,0,0	1
+435.1	Firework	-1611,76,-512	Comet,Comet	2	0,0,0	1
+435.1	Firework	-1608,76,-512	Comet,Comet	2	0,0,0	1
+435.1	Firework	-1605,76,-512	Comet,Comet	2	0,0,0	1
+435.1	Firework	-1602,76,-512	Comet,Comet	2	0,0,0	1
+435.1	Firework	-1599,76,-512	Comet,Comet	2	0,0,0	1
+#17.5	Text	The snow glows white on the mountain tonight Not a footprint to be seen
+438.5	Firework	-1629,100,-519	Comet	1	0,-5,0	10
+439.0	Firework	-1629,99,-519	Comet	1	0,-5,0	10
+439.5	Firework	-1629,98,-519	Comet	1	0,-5,0	10
+440.0	Firework	-1629,97,-519	Comet	1	0,-5,0	10
+440.5	Firework	-1629,96,-519	Comet	1	0,-5,0	10
+441.0	Firework	-1629,95,-519	Comet	1	0,-5,0	10
+441.5	Firework	-1629,94,-519	Comet	1	0,-5,0	10
+442.0	Firework	-1629,93,-519	Comet	1	0,-5,0	10
+442.5	Firework	-1629,92,-519	Comet	1	0,-5,0	10
+443.0	Firework	-1629,91,-519	Comet	1	0,-5,0	10
+443.5	Firework	-1629,90,-519	Comet	1	0,-5,0	10
+
+#17.5	Text	A kingdom of isolation, And it looks like I’m the queen.
+445.5	Firework	-1599,100,-519	Comet	1	0,-5,0	10
+446.0	Firework	-1599,99,-519	Comet	1	0,-5,0	10
+446.5	Firework	-1599,98,-519	Comet	1	0,-5,0	10
+447.0	Firework	-1599,97,-519	Comet	1	0,-5,0	10
+447.5	Firework	-1599,96,-519	Comet	1	0,-5,0	10
+448.0	Firework	-1599,95,-519	Comet	1	0,-5,0	10
+448.5	Firework	-1599,94,-519	Comet	1	0,-5,0	10
+449.0	Firework	-1599,93,-519	Comet	1	0,-5,0	10
+449.5	Firework	-1599,92,-519	Comet	1	0,-5,0	10
+450.0	Firework	-1599,91,-519	Comet	1	0,-5,0	10
+450.5	Firework	-1599,90,-519	Comet	1	0,-5,0	10
+
+#17.5	Text	The wind is howling like this swirling storm inside
+454.2	Firework	-1639,68,-527	Comet	2	-2,1,0	2
+454.2	Firework	-1639,68,-527	Comet	2	-1.5,1,0	2
+454.2	Firework	-1589,68,-527	Comet	2	-2,1,0	2
+454.3	Firework	-1589,68,-527	Comet	2	-1.5,1,0	2
+454.3	Firework	-1639,68,-527	Comet	2	-1,1,0	2
+454.3	Firework	-1639,68,-527	Comet	2	-0.5,1,0	2
+454.3	Firework	-1639,68,-527	Comet	2	0,1,0	2
+454.3	Firework	-1639,68,-527	Comet	2	0.5,1,0	2
+454.3	Firework	-1639,68,-527	Comet	2	1,1,0	2
+454.3	Firework	-1589,68,-527	Comet	2	-1,1,0	2
+454.3	Firework	-1589,68,-527	Comet	2	-0.5,1,0	2
+454.3	Firework	-1589,68,-527	Comet	2	0,1,0	2
+454.3	Firework	-1589,68,-527	Comet	2	0.5,1,0	2
+454.3	Firework	-1589,68,-527	Comet	2	1,1,0	2
+
+
+#17.5	Text	Couldn’t keep it in, heaven knows I tried
+460.6	Firework	-1635,67,-517	Comet,Comet	3	1,1,0	3
+460.6	Firework	-1635,67,-516	Comet,Comet	3	1,1,0	3
+460.6	Firework	-1635,67,-515	Comet,Comet	3	1,1,0	3
+460.6	Firework	-1635,69,-517	Comet,Comet	3	1,1,0	3
+460.6	Firework	-1635,69,-516	Comet,Comet	3	1,1,0	3
+460.6	Firework	-1635,69,-515	Comet,Comet	3	1,1,0	3
+
+460.6	Firework	-1593,67,-517	Comet,Comet	3	-1,1,0	3
+460.6	Firework	-1593,67,-516	Comet,Comet	3	-1,1,0	3
+460.6	Firework	-1593,67,-515	Comet,Comet	3	-1,1,0	3
+460.6	Firework	-1593,69,-517	Comet,Comet	3	-1,1,0	3
+460.6	Firework	-1593,69,-516	Comet,Comet	3	-1,1,0	3
+460.6	Firework	-1593,69,-515	Comet,Comet	3	-1,1,0	3
+
+#17.5	Text	Don’t let them in, don’t let them see
+467.8	Firework	-1629,76,-512	Comet	1	0,0,0	1
+467.8	Firework	-1623,76,-512	Comet	1	0,0,0	1
+467.8	Firework	-1617,76,-512	Comet	1	0,0,0	1
+467.8	Firework	-1611,76,-512	Comet	1	0,0,0	1
+467.8	Firework	-1605,76,-512	Comet	1	0,0,0	1
+467.8	Firework	-1599,76,-512	Comet	1	0,0,0	1
+
+469.7	Firework	-1629,76,-512	Comet	1	0,0,0	1
+469.7	Firework	-1623,76,-512	Comet	1	0,0,0	1
+469.7	Firework	-1617,76,-512	Comet	1	0,0,0	1
+469.7	Firework	-1611,76,-512	Comet	1	0,0,0	1
+469.7	Firework	-1605,76,-512	FA	0	0,0,0	1
+469.7	Firework	-1599,76,-512	Comet	1	0,0,0	1
+
+#17.5	Text	Be the good girl you always have to be
+470.8	Firework	-1629,76,-512	Comet	1	0,0,0	1
+470.8	Firework	-1623,76,-512	Comet	1	0,0,0	1
+470.8	Firework	-1617,76,-512	Comet	1	0,0,0	1
+470.8	Firework	-1611,76,-512	Comet	1	0,0,0	1
+470.8	Firework	-1605,76,-512	Comet	1	0,0,0	1
+470.8	Firework	-1599,76,-512	Comet	1	0,0,0	1
+
+473.1	Firework	-1629,76,-512	FA	0	0,0,0	1
+473.1	Firework	-1623,76,-512	Comet	1	0,0,0	1
+473.1	Firework	-1617,76,-512	Comet	1	0,0,0	1
+473.1	Firework	-1611,76,-512	Comet	1	0,0,0	1
+473.1	Firework	-1605,76,-512	Comet	1	0,0,0	1
+473.1	Firework	-1599,76,-512	Comet	1	0,0,0	1
+
+#17.5	Text	Conceal, don’t feel, don’t let them know
+474.8	Firework	-1629,76,-512	Comet	1	0,0,0	1
+474.8	Firework	-1623,76,-512	FA	0	0,0,0	1
+474.8	Firework	-1617,76,-512	Comet	1	0,0,0	1
+474.8	Firework	-1611,76,-512	Comet	1	0,0,0	1
+474.8	Firework	-1605,76,-512	Comet	1	0,0,0	1
+474.8	Firework	-1599,76,-512	Comet	1	0,0,0	1
+
+476.7	Firework	-1629,76,-512	Comet	1	0,0,0	1
+476.7	Firework	-1623,76,-512	Comet	1	0,0,0	1
+476.7	Firework	-1617,76,-512	Comet	1	0,0,0	1
+476.7	Firework	-1611,76,-512	FA	0	0,0,0	1
+476.7	Firework	-1605,76,-512	Comet	1	0,0,0	1
+476.7	Firework	-1599,76,-512	FA	0	0,0,0	1
+
+#17.5	Text	Well, now they know
+480.3	Firework	-1629,76,-512	CA,CA	1	0,0,0	1
+480.3	Firework	-1626,76,-512	CA,CA	1	0,0,0	1
+480.3	Firework	-1623,76,-512	CA,CA	1	0,0,0	1
+480.3	Firework	-1620,76,-512	CA,CA	1	0,0,0	1
+480.3	Firework	-1617,76,-512	CA,CA	1	0,0,0	1
+480.3	Firework	-1614,76,-512	CA,CA	1	0,0,0	1
+480.3	Firework	-1611,76,-512	CA,CA	1	0,0,0	1
+480.3	Firework	-1608,76,-512	CA,CA	1	0,0,0	1
+480.3	Firework	-1605,76,-512	CA,CA	1	0,0,0	1
+480.3	Firework	-1602,76,-512	CA,CA	1	0,0,0	1
+480.3	Firework	-1599,76,-512	CA,CA	1	0,0,0	1
+
+#Virus
+#8:03
+#483	Text	Let it go, let it go
+#Top: One aqua ball for each “let it go”
+483	Firework	-1645,68,-527	BA	4	1,1,0	1
+483	Firework	-1648,68,-527	BA	4	1,1,0	1
+483	Firework	-1651,68,-527	BA	4	0,1,-1	1
+483	Firework	-1651,68,-527	BA	4	0,1,0	1
+483	Firework	-1651,68,-527	BA	4	1,1,0	1
+483	Firework	-1654,68,-527	BA	4	0,1,-1	1
+483	Firework	-1657,68,-527	BA	4	0,1,-1	1
+
+483	Firework	-1583,68,-527	BA	4	0,1,-1	1
+483	Firework	-1586,68,-527	BA	4	0,1,-1	1
+483	Firework	-1589,68,-527	BA	4	1,1,0	1
+483	Firework	-1589,68,-527	BA	4	0,1,0	1
+483	Firework	-1589,68,-527	BA	4	0,1,-1	1
+483	Firework	-1592,68,-527	BA	4	1,1,0	1
+483	Firework	-1595,68,-527	BA	4	1,1,0	1
+
+#487.1	Text	Can’t hold it back anymore
+#8:07
+487.1	Firework	-1614,106,-532	BA,LA	0	0,1,0	1
+487.1	Firework	-1614,106,-532	BW,LW	0	0,1,0	1
+
+#490.5	Text	Let it go, let it go
+#8:10.5
+#Same as first but big balls (<--Lol -End) [really… -v]
+490.5	Firework	-1645,68,-527	LA	4	1,1,0	1
+490.5	Firework	-1648,68,-527	LA	4	1,1,0	1
+490.5	Firework	-1651,68,-527	LA	4	0,1,-1	1
+490.5	Firework	-1651,68,-527	LA	4	0,1,0	1
+490.5	Firework	-1651,68,-527	LA	4	1,1,0	1
+490.5	Firework	-1654,68,-527	LA	4	0,1,-1	1
+490.5	Firework	-1657,68,-527	LA	4	0,1,-1	1
+
+490.5	Firework	-1583,68,-527	LA	4	0,1,-1	1
+490.5	Firework	-1586,68,-527	LA	4	0,1,-1	1
+490.5	Firework	-1589,68,-527	LA	4	1,1,0	1
+490.5	Firework	-1589,68,-527	LA	4	0,1,0	1
+490.5	Firework	-1589,68,-527	LA	4	0,1,-1	1
+490.5	Firework	-1592,68,-527	LA	4	1,1,0	1
+490.5	Firework	-1595,68,-527	LA	4	1,1,0	1
+
+#494	Text	Turn away and slam the door
+#8:14
+494	Firework	-1645,68,-527	BW	4	1,1,0	1
+494	Firework	-1642,68,-527	BW	4	1,1,0	1
+494	Firework	-1639,68,-527	BW	4	1,1,0	1
+494	Firework	-1636,68,-527	BW	4	1,1,0	1
+494	Firework	-1633,68,-527	BW	4	1,1,0	1
+
+494	Firework	-1592,68,-527	BW	4	-1,1,0	1
+494	Firework	-1589,68,-527	BW	4	-1,1,0	1
+494	Firework	-1586,68,-527	BW	4	-1,1,0	1
+494	Firework	-1583,68,-527	BW	4	-1,1,0	1
+494	Firework	-1580,68,-527	BW	4	-1,1,0	1
+
+#498	Text	I don’t care
+#8:18
+498	Firework	-1603,76,-526	FW	2	-1,1,0	1
+498	Firework	-1625,76,-526	FW	2	1,1,0	1
+
+#500	Text	What they’re going to say
+#8:20.7
+501.5	Firework	-1603,76,-526	FW	2	-1,1,0	1
+501.5	Firework	-1625,76,-526	FW	2	1,1,0	1
+#8:24.5
+#504	Text	Let the storm rage on,
+#Both Sides: Launch three aqua bursts facing right and explode on next line
+504	Firework	-1645,68,-527	Comet	3	-1,1,0	1
+504	Firework	-1639,68,-527	Comet	3	-1,1,0	1
+504	Firework	-1645,68,-527	Comet	3	1,1,0	1
+504	Firework	-1633,68,-527	Comet	3	-1,1,0	1
+504	Firework	-1639,68,-527	Comet	3	1,1,0	1
+504	Firework	-1633,68,-527	Comet	3	1,1,0	1
+504	Firework	-1645,68,-527	Comet	3	-1,1,0	1
+
+504	Firework	-1592,68,-527	Comet	3	-1,1,0	1
+504	Firework	-1586,68,-527	Comet	3	-1,1,0	1
+504	Firework	-1592,68,-527	Comet	3	1,1,0	1
+504	Firework	-1580,68,-527	Comet	3	-1,1,0	1
+504	Firework	-1586,68,-527	Comet	3	1,1,0	1
+504	Firework	-1580,68,-527	Comet	3	1,1,0	1
+504	Firework	-1592,68,-527	Comet	3	-1,1,0	1
+
+#508	Text	The cold never bothered me anyway
+#8:28
+508	Firework	-1621,90,-521	LW	0	0,1,0	1
+508	Firework	-1618,90,-524	LW	0	0,1,0	1
+508	Firework	-1614,90,-525	LW	0	0,1,0	1
+508	Firework	-1610,90,-524	LW	0	0,1,0	1
+508	Firework	-1607,90,-521	LW	0	0,1,0	1
+
+#End
+511.1	Firework	-1630,80,-521	FW,FW	1	0,0,0	1
+511.6	Firework	-1628,80,-523	FW,FW	1	0,0,0	1
+512.1	Firework	-1626,80,-525	FW,FW	1	0,0,0	1
+512.6	Firework	-1624,80,-527	FW,FW	1	0,0,0	1
+
+512.6	Firework	-1604,80,-527	FW,FW	1	0,0,0	1
+512.1	Firework	-1602,80,-525	FW,FW	1	0,0,0	1
+511.6	Firework	-1600,80,-523	FW,FW	1	0,0,0	1
+511.1	Firework	-1598,80,-521	FW,FW	1	0,0,0	1
+#
+514.6	Firework	-1630,80,-521	FW,FW	1	0,0,0	1
+514.1	Firework	-1628,80,-523	FW,FW	1	0,0,0	1
+513.6	Firework	-1626,80,-525	FW,FW	1	0,0,0	1
+513.1	Firework	-1624,80,-527	FW,FW	1	0,0,0	1
+
+513.1	Firework	-1604,80,-527	FW,FW	1	0,0,0	1
+513.6	Firework	-1602,80,-525	FW,FW	1	0,0,0	1
+514.1	Firework	-1600,80,-523	FW,FW	1	0,0,0	1
+514.6	Firework	-1598,80,-521	FW,FW	1	0,0,0	1
+
+#17.5	Text	It’s funny how some distance Makes everything seem small
+515.9	Firework	-1618,180,-532	Lfrz,Lfrz	0	0,0,0	1
+516.9	Firework	-1605,112,-532	Lfrz,Lfrz	0	0,0,0	1
+517.9	Firework	-1622,114,-532	Lfrz,Lfrz	0	0,0,0	1
+518.9	Firework	-1608,106,-532	Lfrz,Lfrz	0	0,0,0	1
+519.9	Firework	-1622,105,-532	Lfrz,Lfrz	0	0,0,0	1
+520.9	Firework	-1612,113,-532	Lfrz,Lfrz	0	0,0,0	1
+
+#17.5	Text	And the fears that once controlled me
+522.3	Firework	-1639,68,-527	FA,FA,FA,FA,FA	2	-2,1,0	2
+522.3	Firework	-1639,68,-527	FA,FA,FA,FA,FA	2	-1.5,1,0	2
+522.3	Firework	-1589,68,-527	FA,FA,FA,FA,FA	2	-2,1,0	2
+522.3	Firework	-1589,68,-527	FA,FA,FA,FA,FA	2	-1.5,1,0	2
+522.3	Firework	-1639,68,-527	FA,FA,FA,FA,FA	2	-1,1,0	2
+522.3	Firework	-1639,68,-527	FA,FA,FA,FA,FA	2	-0.5,1,0	2
+522.3	Firework	-1639,68,-527	FA,FA,FA,FA,FA	2	0,1,0	2
+522.3	Firework	-1639,68,-527	FA,FA,FA,FA,FA	2	0.5,1,0	2
+522.3	Firework	-1639,68,-527	FA,FA,FA,FA,FA	2	1,1,0	2
+522.3	Firework	-1589,68,-527	FA,FA,FA,FA,FA	2	-1,1,0	2
+522.3	Firework	-1589,68,-527	FA,FA,FA,FA,FA	2	-0.5,1,0	2
+522.3	Firework	-1589,68,-527	FA,FA,FA,FA,FA	2	0,1,0	2
+522.3	Firework	-1589,68,-527	FA,FA,FA,FA,FA	2	0.5,1,0	2
+522.3	Firework	-1589,68,-527	FA,FA,FA,FA,FA	2	1,1,0	2
+
+#17.5	Text	Can’t get to me at all
+526.1	Firework	-1599,99,-519	LA	0	0,0,0	1
+526.1	Firework	-1614,99,-519	LA	0	0,0,0	1
+526.1	Firework	-1629,99,-519	LA	0	0,0,0	1
+
+
+#17.5	Text	It’s time to see what I can do
+#Attempt at spread out...to towers
+532.8	Firework	-1632,82,-514	FA,FA	0	0,0,0	1
+532.5	Firework	-1630,82,-516	FA,FA	0	0,0,0	1
+532.2	Firework	-1628,82,-518	FA,FA	0	0,0,0	1
+531.9	Firework	-1626,82,-520	FA,FA	0	0,0,0	1
+531.6	Firework	-1624,82,-522	FA,FA	0	0,0,0	1
+531.3	Firework	-1622,82,-524	FA,FA	0	0,0,0	1
+
+531.3	Firework	-1606,82,-524	FA,FA	0	0,0,0	1
+531.6	Firework	-1604,82,-522	FA,FA	0	0,0,0	1
+531.9	Firework	-1602,82,-520	FA,FA	0	0,0,0	1
+532.2	Firework	-1600,82,-518	FA,FA	0	0,0,0	1
+532.5	Firework	-1598,82,-516	FA,FA	0	0,0,0	1
+532.8	Firework	-1596,82,-514	FA,FA	0	0,0,0	1
+
+#17.5	Text	To test the limits and break through
+534.6	Firework	-1599,99,-519	FW	0	0,0,0	1
+534.6	Firework	-1614,99,-519	FW	0	0,0,0	1
+534.6	Firework	-1629,99,-519	FW	0	0,0,0	1
+
+535.2	Firework	-1629,72,-519	FA,FA	0	0,0,0	1
+535.4	Firework	-1629,76,-519	FA,FA	0	0,0,0	1
+535.6	Firework	-1629,80,-519	FA,FA	0	0,0,0	1
+535.8	Firework	-1629,84,-519	FA,FA	0	0,0,0	1
+536.0	Firework	-1629,88,-519	FA,FA	0	0,0,0	1
+536.2	Firework	-1629,92,-519	FA,FA	0	0,0,0	1
+536.4	Firework	-1629,96,-519	FA,FA	0	0,0,0	1
+536.6	Firework	-1629,100,-519	LW	0	0,0,0	1
+
+#17.5	Text	No right, no wrong, no rules for me
+#Explosion at right, wrong, rules
+537.5	Firework	-1634,86,-512	FA,FW,FA,FW,FA	0	0,0,0	1
+538.1	Firework	-1594,86,-512	FA,FW,FA,FW,FA	0	0,0,0	1
+538.9	Firework	-1614,86,-526	FA,FW,FA,FW,FA	0	0,0,0	1
+
+#17.5	Text	I’m free (541.8)
+#Repeated exposisions, spread out to trees.
+544.55	Firework	-1644,82,-502	FA,FA	0	0,0,0	1
+544.3	Firework	-1642,82,-504	FA,FA	0	0,0,0	1
+544.05	Firework	-1640,82,-506	FA,FA	0	0,0,0	1
+543.8	Firework	-1638,82,-508	FA,FA	0	0,0,0	1
+543.55	Firework	-1636,82,-510	FA,FA	0	0,0,0	1
+543.3	Firework	-1634,82,-512	FA,FA	0	0,0,0	1
+543.05	Firework	-1632,82,-514	FA,FA	0	0,0,0	1
+542.8	Firework	-1630,82,-516	FA,FA	0	0,0,0	1
+542.55	Firework	-1628,82,-518	FA,FA	0	0,0,0	1
+542.3	Firework	-1626,82,-520	FA,FA	0	0,0,0	1
+542.05	Firework	-1624,82,-522	FA,FA	0	0,0,0	1
+541.8	Firework	-1622,82,-524	FA,FA	0	0,0,0	1
+
+541.8	Firework	-1606,82,-524	FA,FA	0	0,0,0	1
+542.05	Firework	-1604,82,-522	FA,FA	0	0,0,0	1
+542.3	Firework	-1602,82,-520	FA,FA	0	0,0,0	1
+542.55	Firework	-1600,82,-518	FA,FA	0	0,0,0	1
+542.8	Firework	-1598,82,-516	FA,FA	0	0,0,0	1
+543.05	Firework	-1596,82,-514	FA,FA	0	0,0,0	1
+543.3	Firework	-1594,82,-512	FA,FA	0	0,0,0	1
+543.55	Firework	-1592,82,-510	FA,FA	0	0,0,0	1
+543.8	Firework	-1590,82,-508	FA,FA	0	0,0,0	1
+544.05	Firework	-1588,82,-506	FA,FA	0	0,0,0	1
+544.3	Firework	-1586,82,-504	FA,FA	0	0,0,0	1
+544.55	Firework	-1584,82,-502	FA,FA	0	0,0,0	1
+
+#Virus--PAST THIS POINT, EXPAND OFF THE STAGE
+#544.8	Text	Let it go, let it go
+#On each side for “let it go” have a burst of aqua
+544.8	Firework	-1645,68,-527	FA	4	-1,3,0	1
+544.8	Firework	-1645,68,-527	FA	4	1,3,0	1
+544.8	Firework	-1642,68,-527	FA	4	-1,3,0	1
+544.8	Firework	-1642,68,-527	FA	4	1,3,0	1
+544.8	Firework	-1639,68,-527	FA	4	-1,3,0	1
+544.8	Firework	-1639,68,-527	FA	4	1,3,0	1
+544.8	Firework	-1636,68,-527	FA	4	-1,3,0	1
+544.8	Firework	-1636,68,-527	FA	4	1,3,0	1
+544.8	Firework	-1633,68,-527	FA	4	-1,3,0	1
+544.8	Firework	-1633,68,-527	FA	4	1,3,0	1
+
+544.8	Firework	-1592,68,-527	FA	4	-1,3,0	1
+544.8	Firework	-1592,68,-527	FA	4	1,3,0	1
+544.8	Firework	-1589,68,-527	FA	4	-1,3,0	1
+544.8	Firework	-1589,68,-527	FA	4	1,3,0	1
+544.8	Firework	-1586,68,-527	FA	4	-1,3,0	1
+544.8	Firework	-1586,68,-527	FA	4	1,3,0	1
+544.8	Firework	-1583,68,-527	FA	4	-1,3,0	1
+544.8	Firework	-1583,68,-527	FA	4	1,3,0	1
+544.8	Firework	-1580,68,-527	FA	4	-1,3,0	1
+544.8	Firework	-1580,68,-527	FA	4	1,3,0	1
+
+#548	Text	I am one with the wind and sky
+#9:08
+#Top: Aqua ball for “wind” and “sky”
+548	Firework	-1614,108,-532	LA,LA	0	0,1,0	1
+559	Firework	-1612,112,-532	LA,LA	0	0,1,0	1
+559.5	Firework	-1617,114,-532	LA,LA	0	0,1,0	1
+
+#561.8	Text	Let it go, let it go
+#9:11.8
+#Same as before but with aqua ball on top
+561.8	Firework	-1645,68,-527	BA	3	-1,3,0	1
+561.8	Firework	-1645,68,-527	BA	3	1,3,0	1
+561.8	Firework	-1642,68,-527	BA	3	-1,3,0	1
+561.8	Firework	-1642,68,-527	BA	4	1,3,0	1
+561.8	Firework	-1639,68,-527	BA	4	-1,3,0	1
+561.8	Firework	-1639,68,-527	BA	4	1,3,0	1
+561.8	Firework	-1636,68,-527	BA	4	-1,3,0	1
+561.8	Firework	-1636,68,-527	BA	3	1,3,0	1
+561.8	Firework	-1633,68,-527	BA	3	-1,3,0	1
+561.8	Firework	-1633,68,-527	BA	3	1,3,0	1
+
+561.8	Firework	-1592,68,-527	BA	3	-1,3,0	1
+561.8	Firework	-1592,68,-527	BA	3	1,3,0	1
+561.8	Firework	-1589,68,-527	BA	3	-1,3,0	1
+561.8	Firework	-1589,68,-527	BA	4	1,3,0	1
+561.8	Firework	-1586,68,-527	BA	4	-1,3,0	1
+561.8	Firework	-1586,68,-527	BA	4	1,3,0	1
+561.8	Firework	-1583,68,-527	BA	4	-1,3,0	1
+561.8	Firework	-1583,68,-527	BA	3	1,3,0	1
+561.8	Firework	-1580,68,-527	BA	3	-1,3,0	1
+561.8	Firework	-1580,68,-527	BA	3	1,3,0	1
+
+#556	Text	You’ll never see me cry
+#9:15.3
+556	Firework	-1611,104,-532	LA,LW	0	0,1,0	1
+557	Firework	-1616,102,-532	LA,LW	0	0,1,0	1
+
+#559	Text	Here I stand
+#9:19.4
+559	Firework	-1639,68,-527	FY	3	-2,3,0	1
+559	Firework	-1639,68,-527	FY	3	-1,3,0	1
+559	Firework	-1639,68,-527	FY	3	0,3,0	1
+559	Firework	-1639,68,-527	FY	3	1,3,0	1
+559	Firework	-1639,68,-527	FY	3	2,3,0	1
+559	Firework	-1639,68,-527	Comet	4	-2,3,0	1
+559	Firework	-1639,68,-527	Comet	4	-1,3,0	1
+559	Firework	-1639,68,-527	Comet	4	0,3,0	1
+559	Firework	-1639,68,-527	Comet	4	1,3,0	1
+559	Firework	-1639,68,-527	Comet	4	2,3,0	1
+
+559	Firework	-1587,68,-527	FY	3	-2,3,0	1
+559	Firework	-1587,68,-527	FY	3	-1,3,0	1
+559	Firework	-1587,68,-527	FY	3	0,3,0	1
+559	Firework	-1587,68,-527	FY	3	1,3,0	1
+559	Firework	-1587,68,-527	FY	3	2,3,0	1
+559	Firework	-1587,68,-527	Comet	4	-2,3,0	1
+559	Firework	-1587,68,-527	Comet	4	-1,3,0	1
+559	Firework	-1587,68,-527	Comet	4	0,3,0	1
+559	Firework	-1587,68,-527	Comet	4	1,3,0	1
+559	Firework	-1587,68,-527	Comet	4	2,3,0	1
+
+560	Firework	-1615,103,-532	LA	0	0,1,0	1
+560	Firework	-1615,103,-532	FA	0	0,1,0	1
+#Large aqua ball on top
+
+#562.5	Text	And here I'll stay
+#9:22.5
+562.5	Firework	-1639,68,-527	FY	3	-2,3,0	1
+562.5	Firework	-1639,68,-527	FY	3	-1,3,0	1
+562.5	Firework	-1639,68,-527	FY	3	0,3,0	1
+562.5	Firework	-1639,68,-527	FY	3	1,3,0	1
+562.5	Firework	-1639,68,-527	FY	3	2,3,0	1
+562.5	Firework	-1639,68,-527	Comet	4	-2,3,0	1
+562.5	Firework	-1639,68,-527	Comet	4	-1,3,0	1
+562.5	Firework	-1639,68,-527	Comet	4	0,3,0	1
+562.5	Firework	-1639,68,-527	Comet	4	1,3,0	1
+562.5	Firework	-1639,68,-527	Comet	4	2,3,0	1
+
+562.5	Firework	-1587,68,-527	FY	3	-2,3,0	1
+562.5	Firework	-1587,68,-527	FY	3	-1,3,0	1
+562.5	Firework	-1587,68,-527	FY	3	0,3,0	1
+562.5	Firework	-1587,68,-527	FY	3	1,3,0	1
+562.5	Firework	-1587,68,-527	FY	3	2,3,0	1
+562.5	Firework	-1587,68,-527	Comet	4	-2,3,0	1
+562.5	Firework	-1587,68,-527	Comet	4	-1,3,0	1
+562.5	Firework	-1587,68,-527	Comet	4	0,3,0	1
+562.5	Firework	-1587,68,-527	Comet	4	1,3,0	1
+562.5	Firework	-1587,68,-527	Comet	4	2,3,0	1
+
+#526	Text	Let the storm rage on
+#9:26
+#Both sides: Aqua burst go up
+566	Firework	-1618,104,-532	FA,FW	0	0,1,0	1
+566	Firework	-1610,104,-532	FA,FW	0	0,1,0	1
+
+#End
+#Musical Interlude
+570.2	Block	152	-1614,57,-525
+576.2	Block	0	-1614,57,-525
+
+576.8	Firework	-1624,70,-521	FA	0	0,0,0	0
+576.8	Firework	-1620,70,-521	FA	0	0,0,0	0
+576.8	Firework	-1616,70,-521	FA	0	0,0,0	0
+576.8	Firework	-1612,70,-521	FA	0	0,0,0	0
+576.8	Firework	-1608,70,-521	FA	0	0,0,0	0
+576.8	Firework	-1604,70,-521	FA	0	0,0,0	0
+
+#Virus
+#577	Text	My power flurries through the air into the ground
+#9:37
+#Aqua ball on top and aqua burst on both sides
+580	Firework	-1626,77,-521	BA,BW	0	0,1,0	1
+580.2	Firework	-1626,78,-521	BA,BW	0	0,1,0	1
+580.4	Firework	-1626,79,-521	BA,BW	0	0,1,0	1
+580.6	Firework	-1626,80,-521	BA,BW	0	0,1,0	1
+
+580	Firework	-1602,77,-521	BA,BW	0	0,1,0	1
+580.2	Firework	-1602,78,-521	BA,BW	0	0,1,0	1
+580.4	Firework	-1602,79,-521	BA,BW	0	0,1,0	1
+580.6	Firework	-1602,80,-521	BA,BW	0	0,1,0	1
+
+581.8	Firework	-1620,82,-525	BA,BW	0	0,1,0	1
+582	Firework	-1620,81,-525	BA,BW	0	0,1,0	1
+582.2	Firework	-1620,80,-525	BA,BW	0	0,1,0	1
+582.4	Firework	-1620,79,-525	BA,BW	0	0,1,0	1
+582.6	Firework	-1620,78,-525	BA,BW	0	0,1,0	1
+582.8	Firework	-1620,77,-525	BA,BW	0	0,1,0	1
+
+581.8	Firework	-1608,82,-525	BA,BW	0	0,1,0	1
+582	Firework	-1608,81,-525	BA,BW	0	0,1,0	1
+582.2	Firework	-1608,80,-525	BA,BW	0	0,1,0	1
+582.4	Firework	-1608,79,-525	BA,BW	0	0,1,0	1
+582.6	Firework	-1608,78,-525	BA,BW	0	0,1,0	1
+582.8	Firework	-1608,77,-525	BA,BW	0	0,1,0	1
+
+584	Firework	-1618,66,-504	FA,FW	0	0,1,0	1
+584	Firework	-1614,66,-504	FA,FW	0	0,1,0	1
+584	Firework	-1610,66,-504	FA,FW	0	0,1,0	1
+
+#584.3	Text	My soul is spiralling in frozen fractals all around
+#9:44.3
+#Both sides: One aqua burst go up with small balls off on the path
+584.4	Firework	-1615,71,-512	FA,FW	0	0,1,0	1
+584.5	Firework	-1616,72,-512	FA,FW	0	0,1,0	1
+584.6	Firework	-1615,73,-511	FA,FW	0	0,1,0	1
+584.7	Firework	-1613,74,-512	FA,FW	0	0,1,0	1
+584.8	Firework	-1615,75,-514	FA,FW	0	0,1,0	1
+584.9	Firework	-1619,76,-512	FA,FW	0	0,1,0	1
+585.0	Firework	-1617,78,-512	FA,FW	0	0,1,0	1
+585.1	Firework	-1615,80,-512	FA,FW	0	0,1,0	1
+
+#591.3	Text	And one thought crystallizes like an icy blast
+#9:51.3
+#Aqua large balls on top
+592.2	Firework	-1634,83,-512	FA,FW	0	0,1,0	1
+592.2	Firework	-1594,83,-512	FA,FW	0	0,1,0	1
+
+595.8	Firework	-1612,105,-532	LFC	0	0,1,0	1
+595.8	Firework	-1615,107,-532	LFC	0	0,1,0	1
+595.9	Firework	-1608,107,-532	LFC	0	0,1,0	1
+
+#598.2	Text	I’m never going back,
+#9:58.2
+#Both sides: Two aqua burst that will cross and explode on next line
+598.2	Firework	-1620,100,-517	LA	0	0,1,0	1
+598.2	Firework	-1617,100,-517	LA	0	0,1,0	1
+598.2	Firework	-1614,100,-517	LA	0	0,1,0	1
+598.2	Firework	-1611,100,-517	LA	0	0,1,0	1
+598.2	Firework	-1608,100,-517	LA	0	0,1,0	1
+
+#601.2	Text	The past is in the past
+#10:01.2
+601.2	Firework	-1645,68,-527	Comet	5	0,1,0	1
+601.2	Firework	-1642,68,-527	Comet	5	0,1,0	1
+601.2	Firework	-1639,68,-527	Comet	5	0,1,0	1
+601.2	Firework	-1636,68,-527	Comet	5	0,1,0	1
+601.2	Firework	-1633,68,-527	Comet	5	0,1,0	1
+601.2	Firework	-1592,68,-527	Comet	5	0,1,0	1
+601.2	Firework	-1589,68,-527	Comet	5	0,1,0	1
+601.2	Firework	-1586,68,-527	Comet	5	0,1,0	1
+601.2	Firework	-1583,68,-527	Comet	5	0,1,0	1
+601.2	Firework	-1580,68,-527	Comet	5	0,1,0	1
+
+#End
+604.86	Firework	-1620,67,-504	Ffrz	0	0,0,0	0
+605.31	Firework	-1617,67,-504	Ffrz	0	0,0,0	0
+605.76	Firework	-1614,67,-504	Ffrz	0	0,0,0	0
+605.12	Firework	-1611,67,-504	Ffrz	0	0,0,0	0
+605.52	Firework	-1608,67,-504	Ffrz	0	0,0,0	0
+
+#17.5	Text	Let it (606.6) go, let it go And I'll rise like the break of dawn (612)
+#Streamups
+#1
+606.6	Firework	-1644,77,-504	Lfrz	0	0,0,0,	1
+606.65	Firework	-1644,78,-504	Lfrz	0	0,0,0,	1
+606.7	Firework	-1644,79,-504	Lfrz	0	0,0,0,	1
+606.75	Firework	-1644,80,-504	Lfrz	0	0,0,0,	1
+606.8	Firework	-1644,81,-504	Lfrz	0	0,0,0,	1
+606.85	Firework	-1644,82,-504	Lfrz	0	0,0,0,	1
+606.9	Firework	-1644,83,-504	Lfrz	0	0,0,0,	1
+606.95	Firework	-1644,84,-504	Lfrz	0	0,0,0,	1
+607.0	Firework	-1644,85,-504	Lfrz	0	0,0,0,	1
+607.05	Firework	-1644,86,-504	Lfrz	0	0,0,0,	1
+607.1	Firework	-1644,87,-504	Lfrz	0	0,0,0,	1
+607.15	Firework	-1644,88,-504	Lfrz	0	0,0,0,	1
+607.2	Firework	-1644,89,-504	Lfrz	0	0,0,0,	1
+607.25	Firework	-1644,90,-504	Lfrz	0	0,0,0,	1
+607.3	Firework	-1644,91,-504	Lfrz	0	0,0,0,	1
+607.35	Firework	-1644,92,-504	Lfrz	0	0,0,0,	1
+607.4	Firework	-1644,93,-504	Lfrz	0	0,0,0,	1
+607.45	Firework	-1644,94,-504	Lfrz	0	0,0,0,	1
+607.5	Firework	-1644,95,-504	Lfrz	0	0,0,0,	1
+607.55	Firework	-1644,96,-504	Lfrz	0	0,0,0,	1
+607.6	Firework	-1644,97,-504	Lfrz	0	0,0,0,	1
+#2
+607.3	Firework	-1636,77,-514	Lfrz	0	0,0,0,	1
+607.35	Firework	-1636,78,-514	Lfrz	0	0,0,0,	1
+607.4	Firework	-1636,79,-514	Lfrz	0	0,0,0,	1
+607.45	Firework	-1636,80,-514	Lfrz	0	0,0,0,	1
+607.5	Firework	-1636,81,-514	Lfrz	0	0,0,0,	1
+607.55	Firework	-1636,82,-514	Lfrz	0	0,0,0,	1
+607.6	Firework	-1636,83,-514	Lfrz	0	0,0,0,	1
+607.65	Firework	-1636,84,-514	Lfrz	0	0,0,0,	1
+607.7	Firework	-1636,85,-514	Lfrz	0	0,0,0,	1
+607.75	Firework	-1636,86,-514	Lfrz	0	0,0,0,	1
+607.8	Firework	-1636,87,-514	Lfrz	0	0,0,0,	1
+607.85	Firework	-1636,88,-514	Lfrz	0	0,0,0,	1
+607.9	Firework	-1636,89,-514	Lfrz	0	0,0,0,	1
+607.95	Firework	-1636,90,-514	Lfrz	0	0,0,0,	1
+608.0	Firework	-1636,91,-514	Lfrz	0	0,0,0,	1
+608.05	Firework	-1636,92,-514	Lfrz	0	0,0,0,	1
+608.1	Firework	-1636,93,-514	Lfrz	0	0,0,0,	1
+608.15	Firework	-1636,94,-514	Lfrz	0	0,0,0,	1
+608.2	Firework	-1636,95,-514	Lfrz	0	0,0,0,	1
+608.25	Firework	-1636,96,-514	Lfrz	0	0,0,0,	1
+608.3	Firework	-1636,97,-514	Lfrz	0	0,0,0,	1
+#3
+608	Firework	-1628,77,-522	Lfrz	0	0,0,0,	1
+608.05	Firework	-1628,78,-522	Lfrz	0	0,0,0,	1
+608.1	Firework	-1628,79,-522	Lfrz	0	0,0,0,	1
+608.15	Firework	-1628,80,-522	Lfrz	0	0,0,0,	1
+608.2	Firework	-1628,81,-522	Lfrz	0	0,0,0,	1
+608.25	Firework	-1628,82,-522	Lfrz	0	0,0,0,	1
+608.3	Firework	-1628,83,-522	Lfrz	0	0,0,0,	1
+608.35	Firework	-1628,84,-522	Lfrz	0	0,0,0,	1
+608.4	Firework	-1628,85,-522	Lfrz	0	0,0,0,	1
+608.45	Firework	-1628,86,-522	Lfrz	0	0,0,0,	1
+608.5	Firework	-1628,87,-522	Lfrz	0	0,0,0,	1
+608.55	Firework	-1628,88,-522	Lfrz	0	0,0,0,	1
+608.6	Firework	-1628,89,-522	Lfrz	0	0,0,0,	1
+608.65	Firework	-1628,90,-522	Lfrz	0	0,0,0,	1
+608.7	Firework	-1628,91,-522	Lfrz	0	0,0,0,	1
+608.75	Firework	-1628,92,-522	Lfrz	0	0,0,0,	1
+608.8	Firework	-1628,93,-522	Lfrz	0	0,0,0,	1
+608.85	Firework	-1628,94,-522	Lfrz	0	0,0,0,	1
+608.9	Firework	-1628,95,-522	Lfrz	0	0,0,0,	1
+608.95	Firework	-1628,96,-522	Lfrz	0	0,0,0,	1
+609	Firework	-1628,97,-522	Lfrz	0	0,0,0,	1
+
+#4
+608.7	Firework	-1622,77,-526	Lfrz	0	0,0,0,	1
+608.75	Firework	-1622,78,-526	Lfrz	0	0,0,0,	1
+608.8	Firework	-1622,79,-526	Lfrz	0	0,0,0,	1
+608.85	Firework	-1622,80,-526	Lfrz	0	0,0,0,	1
+608.9	Firework	-1622,81,-526	Lfrz	0	0,0,0,	1
+608.95	Firework	-1622,82,-526	Lfrz	0	0,0,0,	1
+609.0	Firework	-1622,83,-526	Lfrz	0	0,0,0,	1
+609.05	Firework	-1622,84,-526	Lfrz	0	0,0,0,	1
+609.1	Firework	-1622,85,-526	Lfrz	0	0,0,0,	1
+609.15	Firework	-1622,86,-526	Lfrz	0	0,0,0,	1
+609.2	Firework	-1622,87,-526	Lfrz	0	0,0,0,	1
+609.25	Firework	-1622,88,-526	Lfrz	0	0,0,0,	1
+609.3	Firework	-1622,89,-526	Lfrz	0	0,0,0,	1
+609.35	Firework	-1622,90,-526	Lfrz	0	0,0,0,	1
+609.4	Firework	-1622,91,-526	Lfrz	0	0,0,0,	1
+609.45	Firework	-1622,92,-526	Lfrz	0	0,0,0,	1
+609.5	Firework	-1622,93,-526	Lfrz	0	0,0,0,	1
+609.55	Firework	-1622,94,-526	Lfrz	0	0,0,0,	1
+609.6	Firework	-1622,95,-526	Lfrz	0	0,0,0,	1
+609.65	Firework	-1622,96,-526	Lfrz	0	0,0,0,	1
+609.7	Firework	-1622,97,-526	Lfrz	0	0,0,0,	1
+#5
+609.4	Firework	-1606,77,-526	Lfrz	0	0,0,0,	1
+609.45	Firework	-1606,78,-526	Lfrz	0	0,0,0,	1
+609.5	Firework	-1606,79,-526	Lfrz	0	0,0,0,	1
+609.55	Firework	-1606,80,-526	Lfrz	0	0,0,0,	1
+609.6	Firework	-1606,81,-526	Lfrz	0	0,0,0,	1
+609.65	Firework	-1606,82,-526	Lfrz	0	0,0,0,	1
+609.7	Firework	-1606,83,-526	Lfrz	0	0,0,0,	1
+609.75	Firework	-1606,84,-526	Lfrz	0	0,0,0,	1
+609.8	Firework	-1606,85,-526	Lfrz	0	0,0,0,	1
+609.85	Firework	-1606,86,-526	Lfrz	0	0,0,0,	1
+609.9	Firework	-1606,87,-526	Lfrz	0	0,0,0,	1
+609.95	Firework	-1606,88,-526	Lfrz	0	0,0,0,	1
+610.0	Firework	-1606,89,-526	Lfrz	0	0,0,0,	1
+610.05	Firework	-1606,90,-526	Lfrz	0	0,0,0,	1
+610.1	Firework	-1606,91,-526	Lfrz	0	0,0,0,	1
+610.15	Firework	-1606,92,-526	Lfrz	0	0,0,0,	1
+610.2	Firework	-1606,93,-526	Lfrz	0	0,0,0,	1
+610.25	Firework	-1606,94,-526	Lfrz	0	0,0,0,	1
+610.3	Firework	-1606,95,-526	Lfrz	0	0,0,0,	1
+610.35	Firework	-1606,96,-526	Lfrz	0	0,0,0,	1
+610.4	Firework	-1606,97,-526	Lfrz	0	0,0,0,	1
+#6
+610.1	Firework	-1600,77,-522	Lfrz	0	0,0,0,	1
+610.15	Firework	-1600,78,-522	Lfrz	0	0,0,0,	1
+610.2	Firework	-1600,79,-522	Lfrz	0	0,0,0,	1
+610.25	Firework	-1600,80,-522	Lfrz	0	0,0,0,	1
+610.3	Firework	-1600,81,-522	Lfrz	0	0,0,0,	1
+610.35	Firework	-1600,82,-522	Lfrz	0	0,0,0,	1
+610.4	Firework	-1600,83,-522	Lfrz	0	0,0,0,	1
+610.45	Firework	-1600,84,-522	Lfrz	0	0,0,0,	1
+610.5	Firework	-1600,85,-522	Lfrz	0	0,0,0,	1
+610.55	Firework	-1600,86,-522	Lfrz	0	0,0,0,	1
+610.6	Firework	-1600,87,-522	Lfrz	0	0,0,0,	1
+610.65	Firework	-1600,88,-522	Lfrz	0	0,0,0,	1
+610.7	Firework	-1600,89,-522	Lfrz	0	0,0,0,	1
+611.75	Firework	-1600,90,-522	Lfrz	0	0,0,0,	1
+611.8	Firework	-1600,91,-522	Lfrz	0	0,0,0,	1
+611.85	Firework	-1600,92,-522	Lfrz	0	0,0,0,	1
+611.9	Firework	-1600,93,-522	Lfrz	0	0,0,0,	1
+611.95	Firework	-1600,94,-522	Lfrz	0	0,0,0,	1
+611.0	Firework	-1600,95,-522	Lfrz	0	0,0,0,	1
+611.05	Firework	-1600,96,-522	Lfrz	0	0,0,0,	1
+611.1	Firework	-1600,97,-522	Lfrz	0	0,0,0,	1
+#7
+610.8	Firework	-1592,77,-514	Lfrz	0	0,0,0,	1
+610.85	Firework	-1592,78,-514	Lfrz	0	0,0,0,	1
+610.9	Firework	-1592,79,-514	Lfrz	0	0,0,0,	1
+610.95	Firework	-1592,80,-514	Lfrz	0	0,0,0,	1
+611.0	Firework	-1592,81,-514	Lfrz	0	0,0,0,	1
+611.05	Firework	-1592,82,-514	Lfrz	0	0,0,0,	1
+611.1	Firework	-1592,83,-514	Lfrz	0	0,0,0,	1
+611.15	Firework	-1592,84,-514	Lfrz	0	0,0,0,	1
+611.2	Firework	-1592,85,-514	Lfrz	0	0,0,0,	1
+611.25	Firework	-1592,86,-514	Lfrz	0	0,0,0,	1
+611.3	Firework	-1592,87,-514	Lfrz	0	0,0,0,	1
+611.35	Firework	-1592,88,-514	Lfrz	0	0,0,0,	1
+611.4	Firework	-1592,89,-514	Lfrz	0	0,0,0,	1
+611.45	Firework	-1592,90,-514	Lfrz	0	0,0,0,	1
+611.5	Firework	-1592,91,-514	Lfrz	0	0,0,0,	1
+611.55	Firework	-1592,92,-514	Lfrz	0	0,0,0,	1
+611.6	Firework	-1592,93,-514	Lfrz	0	0,0,0,	1
+611.65	Firework	-1592,94,-514	Lfrz	0	0,0,0,	1
+611.7	Firework	-1592,95,-514	Lfrz	0	0,0,0,	1
+611.75	Firework	-1592,96,-514	Lfrz	0	0,0,0,	1
+611.8	Firework	-1592,97,-514	Lfrz	0	0,0,0,	1
+#8
+611.5	Firework	-1587,77,-508	Lfrz	0	0,0,0,	1
+611.55	Firework	-1587,78,-508	Lfrz	0	0,0,0,	1
+611.6	Firework	-1587,79,-508	Lfrz	0	0,0,0,	1
+611.65	Firework	-1587,80,-508	Lfrz	0	0,0,0,	1
+611.7	Firework	-1587,81,-508	Lfrz	0	0,0,0,	1
+611.75	Firework	-1587,82,-508	Lfrz	0	0,0,0,	1
+611.8	Firework	-1587,83,-508	Lfrz	0	0,0,0,	1
+611.85	Firework	-1587,84,-508	Lfrz	0	0,0,0,	1
+611.9	Firework	-1587,85,-508	Lfrz	0	0,0,0,	1
+611.95	Firework	-1587,86,-508	Lfrz	0	0,0,0,	1
+612.0	Firework	-1587,87,-508	Lfrz	0	0,0,0,	1
+612.05	Firework	-1587,88,-508	Lfrz	0	0,0,0,	1
+612.1	Firework	-1587,89,-508	Lfrz	0	0,0,0,	1
+612.15	Firework	-1587,90,-508	Lfrz	0	0,0,0,	1
+612.2	Firework	-1587,91,-508	Lfrz	0	0,0,0,	1
+612.25	Firework	-1587,92,-508	Lfrz	0	0,0,0,	1
+612.3	Firework	-1587,93,-508	Lfrz	0	0,0,0,	1
+612.35	Firework	-1587,94,-508	Lfrz	0	0,0,0,	1
+612.4	Firework	-1587,95,-508	Lfrz	0	0,0,0,	1
+612.45	Firework	-1587,96,-508	Lfrz	0	0,0,0,	1
+612.5	Firework	-1587,97,-508	Lfrz	0	0,0,0,	1
+
+#17.5	Text	Let (613.2)it go, let (614.9)it go That (617) perfect girl is gone (619)
+#4
+613.2	Firework	-1622,77,-526	Lfrz	0	0,0,0,	1
+613.25	Firework	-1622,78,-526	Lfrz	0	0,0,0,	1
+613.3	Firework	-1622,79,-526	Lfrz	0	0,0,0,	1
+613.35	Firework	-1622,80,-526	Lfrz	0	0,0,0,	1
+613.4	Firework	-1622,81,-526	Lfrz	0	0,0,0,	1
+613.45	Firework	-1622,82,-526	Lfrz	0	0,0,0,	1
+613.5	Firework	-1622,83,-526	Lfrz	0	0,0,0,	1
+613.55	Firework	-1622,84,-526	Lfrz	0	0,0,0,	1
+613.6	Firework	-1622,85,-526	Lfrz	0	0,0,0,	1
+613.65	Firework	-1622,86,-526	Lfrz	0	0,0,0,	1
+613.7	Firework	-1622,87,-526	Lfrz	0	0,0,0,	1
+613.75	Firework	-1622,88,-526	Lfrz	0	0,0,0,	1
+613.8	Firework	-1622,89,-526	Lfrz	0	0,0,0,	1
+613.85	Firework	-1622,90,-526	Lfrz	0	0,0,0,	1
+613.9	Firework	-1622,91,-526	Lfrz	0	0,0,0,	1
+613.95	Firework	-1622,92,-526	Lfrz	0	0,0,0,	1
+614.0	Firework	-1622,93,-526	Lfrz	0	0,0,0,	1
+614.05	Firework	-1622,94,-526	Lfrz	0	0,0,0,	1
+614.1	Firework	-1622,95,-526	Lfrz	0	0,0,0,	1
+614.15	Firework	-1622,96,-526	Lfrz	0	0,0,0,	1
+614.2	Firework	-1622,97,-526	Lfrz	0	0,0,0,	1
+#5
+613.2	Firework	-1606,77,-526	Lfrz	0	0,0,0,	1
+613.25	Firework	-1606,78,-526	Lfrz	0	0,0,0,	1
+613.3	Firework	-1606,79,-526	Lfrz	0	0,0,0,	1
+613.35	Firework	-1606,80,-526	Lfrz	0	0,0,0,	1
+613.4	Firework	-1606,81,-526	Lfrz	0	0,0,0,	1
+613.45	Firework	-1606,82,-526	Lfrz	0	0,0,0,	1
+613.5	Firework	-1606,83,-526	Lfrz	0	0,0,0,	1
+613.55	Firework	-1606,84,-526	Lfrz	0	0,0,0,	1
+613.6	Firework	-1606,85,-526	Lfrz	0	0,0,0,	1
+613.65	Firework	-1606,86,-526	Lfrz	0	0,0,0,	1
+613.7	Firework	-1606,87,-526	Lfrz	0	0,0,0,	1
+613.75	Firework	-1606,88,-526	Lfrz	0	0,0,0,	1
+613.8	Firework	-1606,89,-526	Lfrz	0	0,0,0,	1
+613.85	Firework	-1606,90,-526	Lfrz	0	0,0,0,	1
+613.9	Firework	-1606,91,-526	Lfrz	0	0,0,0,	1
+613.95	Firework	-1606,92,-526	Lfrz	0	0,0,0,	1
+614.0	Firework	-1606,93,-526	Lfrz	0	0,0,0,	1
+614.05	Firework	-1606,94,-526	Lfrz	0	0,0,0,	1
+614.1	Firework	-1606,95,-526	Lfrz	0	0,0,0,	1
+614.15	Firework	-1606,96,-526	Lfrz	0	0,0,0,	1
+614.4	Firework	-1606,97,-526	Lfrz	0	0,0,0,	1
+#2
+614.9	Firework	-1636,77,-514	Lfrz	0	0,0,0,	1
+614.95	Firework	-1636,78,-514	Lfrz	0	0,0,0,	1
+615.0	Firework	-1636,79,-514	Lfrz	0	0,0,0,	1
+615.05	Firework	-1636,80,-514	Lfrz	0	0,0,0,	1
+615.1	Firework	-1636,81,-514	Lfrz	0	0,0,0,	1
+615.15	Firework	-1636,82,-514	Lfrz	0	0,0,0,	1
+615.2	Firework	-1636,83,-514	Lfrz	0	0,0,0,	1
+615.25	Firework	-1636,84,-514	Lfrz	0	0,0,0,	1
+615.3	Firework	-1636,85,-514	Lfrz	0	0,0,0,	1
+615.35	Firework	-1636,86,-514	Lfrz	0	0,0,0,	1
+615.4	Firework	-1636,87,-514	Lfrz	0	0,0,0,	1
+615.45	Firework	-1636,88,-514	Lfrz	0	0,0,0,	1
+615.5	Firework	-1636,89,-514	Lfrz	0	0,0,0,	1
+615.55	Firework	-1636,90,-514	Lfrz	0	0,0,0,	1
+615.6	Firework	-1636,91,-514	Lfrz	0	0,0,0,	1
+615.65	Firework	-1636,92,-514	Lfrz	0	0,0,0,	1
+615.7	Firework	-1636,93,-514	Lfrz	0	0,0,0,	1
+615.75	Firework	-1636,94,-514	Lfrz	0	0,0,0,	1
+615.8	Firework	-1636,95,-514	Lfrz	0	0,0,0,	1
+615.85	Firework	-1636,96,-514	Lfrz	0	0,0,0,	1
+615.9	Firework	-1636,97,-514	Lfrz	0	0,0,0,	1
+#7
+614.9	Firework	-1592,77,-514	Lfrz	0	0,0,0,	1
+614.95	Firework	-1592,78,-514	Lfrz	0	0,0,0,	1
+615.0	Firework	-1592,79,-514	Lfrz	0	0,0,0,	1
+615.05	Firework	-1592,80,-514	Lfrz	0	0,0,0,	1
+615.1	Firework	-1592,81,-514	Lfrz	0	0,0,0,	1
+615.15	Firework	-1592,82,-514	Lfrz	0	0,0,0,	1
+615.2	Firework	-1592,83,-514	Lfrz	0	0,0,0,	1
+615.25	Firework	-1592,84,-514	Lfrz	0	0,0,0,	1
+615.3	Firework	-1592,85,-514	Lfrz	0	0,0,0,	1
+615.35	Firework	-1592,86,-514	Lfrz	0	0,0,0,	1
+615.4	Firework	-1592,87,-514	Lfrz	0	0,0,0,	1
+615.45	Firework	-1592,88,-514	Lfrz	0	0,0,0,	1
+615.5	Firework	-1592,89,-514	Lfrz	0	0,0,0,	1
+615.55	Firework	-1592,90,-514	Lfrz	0	0,0,0,	1
+615.6	Firework	-1592,91,-514	Lfrz	0	0,0,0,	1
+615.65	Firework	-1592,92,-514	Lfrz	0	0,0,0,	1
+615.7	Firework	-1592,93,-514	Lfrz	0	0,0,0,	1
+615.75	Firework	-1592,94,-514	Lfrz	0	0,0,0,	1
+615.8	Firework	-1592,95,-514	Lfrz	0	0,0,0,	1
+615.85	Firework	-1592,96,-514	Lfrz	0	0,0,0,	1
+615.9	Firework	-1592,97,-514	Lfrz	0	0,0,0,	1
+#diagonals
+#L
+617	Firework	-1643,82,-490	Lfrz	0	0,0,0,	1
+617.1	Firework	-1643,84,-492	Lfrz	0	0,0,0,	1
+617.2	Firework	-1643,86,-494	Lfrz	0	0,0,0,	1
+617.3	Firework	-1643,88,-496	Lfrz	0	0,0,0,	1
+617.4	Firework	-1643,90,-498	Lfrz	0	0,0,0,	1
+617.5	Firework	-1643,92,-500	Lfrz	0	0,0,0,	1
+617.6	Firework	-1643,94,-502	Lfrz	0	0,0,0,	1
+617.7	Firework	-1643,96,-504	Lfrz	0	0,0,0,	1
+617.8	Firework	-1643,98,-506	Lfrz	0	0,0,0,	1
+617.9	Firework	-1643,100,-508	Lfrz	0	0,0,0,	1
+618.0	Firework	-1643,102,-510	Lfrz	0	0,0,0,	1
+618.1	Firework	-1643,104,-512	Lfrz	0	0,0,0,	1
+618.2	Firework	-1643,106,-514	Lfrz	0	0,0,0,	1
+618.3	Firework	-1643,108,-516	Lfrz	0	0,0,0,	1
+618.4	Firework	-1643,110,-518	Lfrz	0	0,0,0,	1
+618.5	Firework	-1643,112,-520	Lfrz	0	0,0,0,	1
+618.6	Firework	-1643,114,-522	Lfrz	0	0,0,0,	1
+618.7	Firework	-1643,116,-524	Lfrz	0	0,0,0,	1
+618.8	Firework	-1643,118,-526	Lfrz	0	0,0,0,	1
+618.9	Firework	-1643,120,-528	Lfrz	0	0,0,0,	1
+618.0	Firework	-1643,122,-530	Lfrz	0	0,0,0,	1
+#R
+617	Firework	-1586,82,-490	Lfrz	0	0,0,0,	1
+617.1	Firework	-1586,84,-492	Lfrz	0	0,0,0,	1
+617.2	Firework	-1586,86,-494	Lfrz	0	0,0,0,	1
+617.3	Firework	-1586,88,-496	Lfrz	0	0,0,0,	1
+617.4	Firework	-1586,90,-498	Lfrz	0	0,0,0,	1
+617.5	Firework	-1586,92,-500	Lfrz	0	0,0,0,	1
+617.6	Firework	-1586,94,-502	Lfrz	0	0,0,0,	1
+617.7	Firework	-1586,96,-504	Lfrz	0	0,0,0,	1
+617.8	Firework	-1586,98,-506	Lfrz	0	0,0,0,	1
+617.9	Firework	-1586,100,-508	Lfrz	0	0,0,0,	1
+618.0	Firework	-1586,102,-510	Lfrz	0	0,0,0,	1
+618.1	Firework	-1586,104,-512	Lfrz	0	0,0,0,	1
+618.2	Firework	-1586,106,-514	Lfrz	0	0,0,0,	1
+618.3	Firework	-1586,108,-516	Lfrz	0	0,0,0,	1
+618.4	Firework	-1586,110,-518	Lfrz	0	0,0,0,	1
+618.5	Firework	-1586,112,-520	Lfrz	0	0,0,0,	1
+618.6	Firework	-1586,114,-522	Lfrz	0	0,0,0,	1
+618.7	Firework	-1586,116,-524	Lfrz	0	0,0,0,	1
+618.8	Firework	-1586,118,-526	Lfrz	0	0,0,0,	1
+618.9	Firework	-1586,120,-528	Lfrz	0	0,0,0,	1
+619.0	Firework	-1586,122,-530	Lfrz	0	0,0,0,	1
+#17.5	Text	Here I stand
+#Here 620.6 Bang, I 621.3 BOOM, Stand 621.9 Crackle
+620.6	Firework	-1644,82,-502	FA,FA	0	0,0,0	1
+621.3	Firework	-1642,82,-504	FW,FW	0	0,0,0	1
+620.6	Firework	-1640,82,-506	FA,FA	0	0,0,0	1
+621.3	Firework	-1638,82,-508	FW,FW	0	0,0,0	1
+620.6	Firework	-1636,82,-510	FA,FA	0	0,0,0	1
+621.3	Firework	-1634,82,-512	FW,FW	0	0,0,0	1
+620.6	Firework	-1632,82,-514	FA,FA	0	0,0,0	1
+621.3	Firework	-1630,82,-516	FW,FW	0	0,0,0	1
+620.6	Firework	-1628,82,-518	FA,FA	0	0,0,0	1
+621.3	Firework	-1626,82,-520	FW,FW	0	0,0,0	1
+620.6	Firework	-1624,82,-522	FA,FA	0	0,0,0	1
+621.3	Firework	-1622,82,-524	FW,FW	0	0,0,0	1
+
+621.3	Firework	-1606,82,-524	FW,FW	0	0,0,0	1
+620.6	Firework	-1604,82,-522	FA,FA	0	0,0,0	1
+621.3	Firework	-1602,82,-520	FW,FW	0	0,0,0	1
+620.6	Firework	-1600,82,-518	FA,FA	0	0,0,0	1
+621.3	Firework	-1598,82,-516	FW,FW	0	0,0,0	1
+620.6	Firework	-1596,82,-514	FA,FA	0	0,0,0	1
+621.3	Firework	-1594,82,-512	FW,FW	0	0,0,0	1
+620.6	Firework	-1592,82,-510	FA,FA	0	0,0,0	1
+621.3	Firework	-1590,82,-508	FW,FW	0	0,0,0	1
+620.6	Firework	-1588,82,-506	FA,FA	0	0,0,0	1
+621.3	Firework	-1586,82,-504	FW,FW	0	0,0,0	1
+620.6	Firework	-1584,82,-502	FA,FA	0	0,0,0	1
+
+621.9   Firework      	-1644,85,-502 LFC,LFC     	0      	0,0,0	1
+621.9   Firework      	-1642,85,-504 LFC,LFC     	0      	0,0,0	1
+621.9   Firework      	-1640,85,-506 LFC,LFC     	0      	0,0,0	1
+621.9   Firework      	-1638,85,-508 LFC,LFC     	0      	0,0,0	1
+621.9   Firework      	-1636,85,-510 LFC,LFC     	0      	0,0,0	1
+621.9   Firework      	-1634,85,-512 LFC,LFC     	0      	0,0,0	1
+621.9   Firework      	-1632,85,-514 LFC,LFC     	0      	0,0,0	1
+621.9   Firework      	-1630,85,-516 LFC,LFC     	0      	0,0,0	1
+621.9   Firework      	-1628,85,-518 LFC,LFC     	0      	0,0,0	1
+621.9   Firework      	-1626,85,-520 LFC,LFC     	0      	0,0,0	1
+621.9   Firework      	-1624,85,-522 LFC,LFC     	0      	0,0,0	1
+621.9   Firework      	-1622,85,-524 LFC,LFC     	0      	0,0,0	1
+#
+621.9   Firework      	-1606,85,-524 LFC,LFC     	0      	0,0,0	1
+621.9   Firework      	-1604,85,-522 LFC,LFC     	0      	0,0,0	1
+621.9   Firework      	-1602,85,-520 LFC,LFC     	0      	0,0,0	1
+621.9   Firework      	-1600,85,-518 LFC,LFC     	0      	0,0,0	1
+621.9   Firework      	-1598,85,-516 LFC,LFC     	0      	0,0,0	1
+621.9   Firework      	-1596,85,-514 LFC,LFC     	0      	0,0,0	1
+621.9   Firework      	-1594,85,-512 LFC,LFC     	0      	0,0,0	1
+621.9   Firework      	-1592,85,-510 LFC,LFC     	0      	0,0,0	1
+621.9   Firework      	-1590,85,-508 LFC,LFC     	0      	0,0,0	1
+621.9   Firework      	-1588,85,-506 LFC,LFC     	0      	0,0,0	1
+621.9   Firework      	-1586,85,-504 LFC,LFC     	0      	0,0,0	1
+621.9   Firework      	-1584,85,-502 LFC,LFC     	0      	0,0,0	1
+#
+#
+#Text	In the light of day
+#Light 624.2 Bang, of 624.7 BOOM, Day 625.5 Crackle
+624.2   Firework      	-1644,82,-502 FA,FA  0      	0,0,0	1
+624.7   Firework      	-1642,82,-504 FW,FW        	0      	0,0,0	1
+624.2   Firework      	-1640,82,-506 FA,FA  0      	0,0,0	1
+624.7   Firework      	-1638,82,-508 FW,FW        	0      	0,0,0	1
+624.2   Firework      	-1636,82,-510 FA,FA  0      	0,0,0	1
+624.7   Firework      	-1634,82,-512 FW,FW        	0      	0,0,0	1
+624.2   Firework      	-1632,82,-514 FA,FA  0      	0,0,0	1
+624.7   Firework      	-1630,82,-516 FW,FW        	0      	0,0,0	1
+624.2   Firework      	-1628,82,-518 FA,FA  0      	0,0,0	1
+624.7   Firework      	-1626,82,-520 FW,FW        	0      	0,0,0	1
+624.2   Firework      	-1624,82,-522 FA,FA  0      	0,0,0	1
+624.7   Firework      	-1622,82,-524 FW,FW        	0      	0,0,0	1
+#
+624.7   Firework      	-1606,82,-524 FW,FW        	0      	0,0,0	1
+624.2   Firework      	-1604,82,-522 FA,FA  0      	0,0,0	1
+624.7   Firework      	-1602,82,-520 FW,FW        	0      	0,0,0	1
+624.2   Firework      	-1600,82,-518 FA,FA  0      	0,0,0	1
+624.7   Firework      	-1598,82,-516 FW,FW        	0      	0,0,0	1
+624.2   Firework      	-1596,82,-514 FA,FA  0      	0,0,0	1
+624.7   Firework      	-1594,82,-512 FW,FW        	0      	0,0,0	1
+624.2   Firework      	-1592,82,-510 FA,FA  0      	0,0,0	1
+624.7   Firework      	-1590,82,-508 FW,FW        	0      	0,0,0	1
+624.2   Firework      	-1588,82,-506 FA,FA  0      	0,0,0	1
+624.7   Firework      	-1586,82,-504 FW,FW        	0      	0,0,0	1
+624.2   Firework      	-1584,82,-502 FA,FA  0      	0,0,0	1
+#
+#
+625.5   Firework      	-1644,85,-502 LFC,LFC     	0      	0,0,0	1
+625.5   Firework      	-1642,85,-504 LFC,LFC     	0      	0,0,0	1
+625.5   Firework      	-1640,85,-506 LFC,LFC     	0      	0,0,0	1
+625.5   Firework      	-1638,85,-508 LFC,LFC     	0      	0,0,0	1
+625.5   Firework      	-1636,85,-510 LFC,LFC     	0      	0,0,0	1
+625.5   Firework      	-1634,85,-512 LFC,LFC     	0      	0,0,0	1
+625.5   Firework      	-1632,85,-514 LFC,LFC     	0      	0,0,0	1
+625.5   Firework      	-1630,85,-516 LFC,LFC     	0      	0,0,0	1
+625.5   Firework      	-1628,85,-518 LFC,LFC     	0      	0,0,0	1
+625.5   Firework      	-1626,85,-520 LFC,LFC     	0      	0,0,0	1
+625.5   Firework      	-1624,85,-522 LFC,LFC     	0      	0,0,0	1
+625.5   Firework      	-1622,85,-524 LFC,LFC     	0      	0,0,0	1
+#
+625.5   Firework      	-1606,85,-524 LFC,LFC     	0      	0,0,0	1
+625.5   Firework      	-1604,85,-522 LFC,LFC     	0      	0,0,0	1
+625.5   Firework      	-1602,85,-520 LFC,LFC     	0      	0,0,0	1
+625.5   Firework      	-1600,85,-518 LFC,LFC     	0      	0,0,0	1
+625.5   Firework      	-1598,85,-516 LFC,LFC     	0      	0,0,0	1
+625.5   Firework      	-1596,85,-514 LFC,LFC     	0      	0,0,0	1
+625.5   Firework      	-1594,85,-512 LFC,LFC     	0      	0,0,0	1
+625.5   Firework      	-1592,85,-510 LFC,LFC     	0      	0,0,0	1
+625.5   Firework      	-1590,85,-508 LFC,LFC     	0      	0,0,0	1
+625.5   Firework      	-1588,85,-506 LFC,LFC     	0      	0,0,0	1
+625.5   Firework      	-1586,85,-504 LFC,LFC     	0      	0,0,0	1
+625.5   Firework      	-1584,85,-502 LFC,LFC     	0      	0,0,0	1
+#
+#	Text	Let the storm rage on,
+#Something loud, lots of fireworks.
+630.3	Block	152	-1614,57,-525
+630.3	Block	152	-1614,57,-512
+#
+634.3	Block	0	-1614,57,-525
+634.3	Block	0	-1614,57,-512
+#17.5	Text	The cold never bothered me anyway
+#Virus
+#Wishes Instrumental
+#638.6	Text	Starlight, star bright
+#Two white balls on top
+638.6	Firework	-1619,112,-534	Star1	0	0,1,0	1
+638.6	Firework	-1645,113,-513	Star1	0	0,1,0	1
+638.6	Firework	-1639,113,-520	Star1	0	0,1,0	1
+638.6	Firework	-1633,113,-526	Star1	0	0,1,0	1
+#
+639.2	Firework	-1615,112,-534	Star1	0	0,1,0	1
+639.2	Firework	-1594,113,-528	Star1	0	0,1,0	1
+639.2	Firework	-1590,113,-523	Star1	0	0,1,0	1
+639.2	Firework	-1586,113,-517	Star1	0	0,1,0	1
+
+#642	Text	First star I see tonight
+#Blue star on top
+643.7	Firework	-1611,118,-533	Star1	0	0,1,0	1
+642	Firework	-1607,93,-534	Comet	3	0,1,0	3
+642	Firework	-1614,93,-535	Comet	3	0,1,0	3
+642	Firework	-1621,93,-535	Comet	3	0,1,0	3
+
+#645.2	Text	I  wish I may, I wish I might
+#Two large balls on top
+645.2	Firework	-1595,69,-527	Star1	2	0,1,0	1
+645.2	Firework	-1595,69,-527	Star1	2	1,1,0	1
+645.2	Firework	-1595,69,-527	Star1	2	-1,1,0	1
+645.2	Firework	-1635,69,-527	Star1	2	0,1,0	1
+645.2	Firework	-1635,69,-527	Star1	2	1,1,0	1
+645.2	Firework	-1635,69,-527	Star1	2	-1,1,0	1
+
+#649	Text	Have the wish I wish tonight
+649	Firework	-1618,112,-532	Star1	0	0,1,0	1
+649	Firework	-1617,111,-532	Star1	0	0,1,0	1
+649	Firework	-1616,110,-532	Star1	0	0,1,0	1
+649	Firework	-1615,109,-532	Star1	0	0,1,0	1
+#
+649	Firework	-1611,109,-532	Star1	0	0,1,0	1
+649	Firework	-1610,110,-532	Star1	0	0,1,0	1
+649	Firework	-1609,111,-532	Star1	0	0,1,0	1
+649	Firework	-1608,112,-532	Star1	0	0,1,0	1
+#
+649	Firework	-1618,103,-532	Star1	0	0,1,0	1
+649	Firework	-1617,104,-532	Star1	0	0,1,0	1
+649	Firework	-1616,105,-532	Star1	0	0,1,0	1
+649	Firework	-1615,106,-532	Star1	0	0,1,0	1
+#
+649	Firework	-1611,106,-532	Star1	0	0,1,0	1
+649	Firework	-1610,105,-532	Star1	0	0,1,0	1
+649	Firework	-1609,104,-532	Star1	0	0,1,0	1
+649	Firework	-1608,103,-532	Star1	0	0,1,0	1
+#
+649	Firework	-1613,113,-532	Star1	0	0,1,0	1
+649	Firework	-1613,113,-532	Star1	0	0,1,0	1
+649	Firework	-1613,113,-532	Star1	0	0,1,0	1
+649	Firework	-1613,113,-532	Star1	0	0,1,0	1
+649	Firework	-1613,113,-532	Star1	0	0,1,0	1
+#
+649	Firework	-1613,107,-532	LW	0	0,1,0	1
+
+#652.2	Text	So make a wish, and do as dreamers do,
+#Refer back to original for this and previous line
+652.2	Firework	-1599,67,-519	Star1	3	0,1,0	1
+652.2	Firework	-1602,67,-524	Star1	3	0,1,0	1
+652.2	Firework	-1604,67,-526	Star1	3	0,1,0	1
+652.2	Firework	-1624,67,-526	Star1	3	0,1,0	1
+652.2	Firework	-1627,67,-523	Star1	3	0,1,0	1
+652.2	Firework	-1629,67,-519	Star1	3	0,1,0	1
+652.2	Firework	-1613,107,-532	LW	0	0,1,0	1
+
+#663	Text	and all our wishes
+#Two white burst launch from both sides into castle
+663	Firework	-1649,71,-521	Comet	5	0,1,-1	1
+663	Firework	-1570,71,-521	Comet	5	-1,1,-1	1
+
+#668	Text	will come true
+#Blue star on top center
+668	Firework	-1615,113,-532	BW	0	0,1,0	1
+668	Firework	-1614,113,-532	BW	0	0,1,0	1
+668	Firework	-1613,113,-532	BW	0	0,1,0	1
+668	Firework	-1612,113,-532	BW	0	0,1,0	1
+668	Firework	-1611,113,-532	BW	0	0,1,0	1
+668	Firework	-1610,112,-532	BW	0	0,1,0	1
+668	Firework	-1609,112,-532	BW	0	0,1,0	1
+668	Firework	-1608,111,-532	BW	0	0,1,0	1
+668	Firework	-1608,110,-532	BW	0	0,1,0	1
+668	Firework	-1607,109,-532	BW	0	0,1,0	1
+668	Firework	-1607,108,-532	BW	0	0,1,0	1
+668	Firework	-1607,107,-532	BW	0	0,1,0	1
+668	Firework	-1607,106,-532	BW	0	0,1,0	1
+668	Firework	-1607,105,-532	BW	0	0,1,0	1
+668	Firework	-1608,104,-532	BW	0	0,1,0	1
+668	Firework	-1608,103,-532	BW	0	0,1,0	1
+668	Firework	-1609,102,-532	BW	0	0,1,0	1
+668	Firework	-1610,102,-532	BW	0	0,1,0	1
+668	Firework	-1611,101,-532	BW	0	0,1,0	1
+668	Firework	-1612,101,-532	BW	0	0,1,0	1
+668	Firework	-1613,101,-532	BW	0	0,1,0	1
+668	Firework	-1614,101,-532	BW	0	0,1,0	1
+668	Firework	-1615,101,-532	BW	0	0,1,0	1
+668	Firework	-1616,102,-532	BW	0	0,1,0	1
+668	Firework	-1617,102,-532	BW	0	0,1,0	1
+668	Firework	-1618,103,-532	BW	0	0,1,0	1
+668	Firework	-1618,104,-532	BW	0	0,1,0	1
+668	Firework	-1619,105,-532	BW	0	0,1,0	1
+668	Firework	-1619,106,-532	BW	0	0,1,0	1
+668	Firework	-1619,107,-532	BW	0	0,1,0	1
+668	Firework	-1619,108,-532	BW	0	0,1,0	1
+668	Firework	-1619,109,-532	BW	0	0,1,0	1
+668	Firework	-1618,110,-532	BW	0	0,1,0	1
+668	Firework	-1618,111,-532	BW	0	0,1,0	1
+668	Firework	-1617,112,-532	BW	0	0,1,0	1
+668	Firework	-1616,112,-532	BW	0	0,1,0	1
+#
+669.5	Firework	-1613,107,-532	Star1	0	0,1,0	1
+
+#End
+#Illuminations Instrumental
+671	Block	152	-1621,45,-502
+#G1
+674.1   Firework      	-1644,85,-502 LA,LA     0	0,0,0	1
+674.1   Firework      	-1642,85,-504 LA,LA     0	0,0,0	1
+674.1   Firework      	-1640,85,-506 LA,LA     0	0,0,0	1
+674.1   Firework      	-1638,85,-508 LA,LA     0	0,0,0	1
+674.1   Firework      	-1636,85,-510 LA,LA     0	0,0,0	1
+674.1   Firework      	-1634,85,-512 LA,LA     0	0,0,0	1
+674.1   Firework      	-1632,85,-514 LA,LA     0	0,0,0	1
+674.1   Firework      	-1630,85,-516 LA,LA     0	0,0,0	1
+674.1   Firework      	-1628,85,-518 LA,LA     0	0,0,0	1
+674.1   Firework      	-1626,85,-520 LA,LA     0	0,0,0	1
+674.1   Firework      	-1624,85,-522 LA,LA     0      	0,0,0	1
+674.1   Firework      	-1622,85,-524 LA,LA     0      	0,0,0	1
+#
+674.1   Firework      	-1606,85,-524 LA,LA     0      	0,0,0	1
+674.1   Firework      	-1604,85,-522 LA,LA     0      	0,0,0	1
+674.1   Firework      	-1602,85,-520 LA,LA     0      	0,0,0	1
+674.1   Firework      	-1600,85,-518 LA,LA     0      	0,0,0	1
+674.1   Firework      	-1598,85,-516 LA,LA     0      	0,0,0	1
+674.1   Firework      	-1596,85,-514 LA,LA     0      	0,0,0	1
+674.1   Firework      	-1594,85,-512 LA,LA     0      	0,0,0	1
+674.1   Firework      	-1592,85,-510 LA,LA     0      	0,0,0	1
+674.1   Firework      	-1590,85,-508 LA,LA     0      	0,0,0	1
+674.1   Firework      	-1588,85,-506 LA,LA     0      	0,0,0	1
+674.1   Firework      	-1586,85,-504 LA,LA     0      	0,0,0	1
+674.1   Firework      	-1584,85,-502 LA,LA     0      	0,0,0	1
+#
+#s1
+676.4	Firework	-1634,68,-517	FW,FW	1	0,0,0	1
+676.4	Firework	-1632,68,-519	FW,FW	1	0,0,0	1
+676.4	Firework	-1630,68,-521	FW,FW	1	0,0,0	1
+676.4	Firework	-1628,68,-523	FW,FW	1	0,0,0	1
+676.4	Firework	-1626,68,-525	FW,FW	1	0,0,0	1
+676.4	Firework	-1624,68,-527	FW,FW	1	0,0,0	1
+#
+676.4	Firework	-1604,68,-527	FW,FW	1	0,0,0	1
+676.4	Firework	-1602,68,-525	FW,FW	1	0,0,0	1
+676.4	Firework	-1600,68,-523	FW,FW	1	0,0,0	1
+676.4	Firework	-1598,68,-521	FW,FW	1	0,0,0	1
+676.4	Firework	-1596,68,-519	FW,FW	1	0,0,0	1
+676.4	Firework	-1594,68,-517	FW,FW	1	0,0,0	1
+#
+#s2
+677.5	Firework	-1634,68,-517	FO,FO	1	0,0,0	1
+677.5	Firework	-1632,68,-519	FO,FO	1	0,0,0	1
+677.5	Firework	-1630,68,-521	FO,FO	1	0,0,0	1
+677.5	Firework	-1628,68,-523	FO,FO	1	0,0,0	1
+677.5	Firework	-1626,68,-525	FO,FO	1	0,0,0	1
+677.5	Firework	-1624,68,-527	FO,FO	1	0,0,0	1
+#
+677.5	Firework	-1604,68,-527	FO,FO	1	0,0,0	1
+677.5	Firework	-1602,68,-525	FO,FO	1	0,0,0	1
+677.5	Firework	-1600,68,-523	FO,FO	1	0,0,0	1
+677.5	Firework	-1598,68,-521	FO,FO	1	0,0,0	1
+677.5	Firework	-1596,68,-519	FO,FO	1	0,0,0	1
+677.5	Firework	-1594,68,-517	FO,FO	1	0,0,0	1
+#
+#Highs
+678.7	Firework	-1634,89,-512	LWT	0	0,0,0	1
+678.7	Firework	-1621,89,-512	LWT	0	0,0,0	1
+678.7	Firework	-1607,89,-512	LWT	0	0,0,0	1
+678.7	Firework	-1594,89,-512	LWT	0	0,0,0	1
+678.7	Firework	-1599,99,-519	LWT	0	0,0,0	1
+678.7	Firework	-1614,99,-519	LWT	0	0,0,0	1
+678.7	Firework	-1629,99,-519	LWT	0	0,0,0	1
+#
+#Cascades
+679.5	Firework	-1644,94,-504	Comet	1	0,-5,0,	10
+680	Firework	-1644,93,-504	Comet	1	0,-5,0,	10
+680.5	Firework	-1644,92,-504	Comet	1	0,-5,0,	10
+681	Firework	-1644,91,-504	Comet	1	0,-5,0,	10
+681.5	Firework	-1644,90,-504	Comet	1	0,-5,0,	10
+
+679.5	Firework	-1636,94,-514	Comet	1	0,-5,0,	10
+680	Firework	-1636,93,-514	Comet	1	0,-5,0,	10
+680.5	Firework	-1636,92,-514	Comet	1	0,-5,0,	10
+681	Firework	-1636,91,-514	Comet	1	0,-5,0,	10
+681.5	Firework	-1636,90,-514	Comet	1	0,-5,0,	10
+
+679.5	Firework	-1628,94,-522	Comet	1	0,-5,0,	10
+680	Firework	-1628,93,-522	Comet	1	0,-5,0,	10
+680.5	Firework	-1628,92,-522	Comet	1	0,-5,0,	10
+681	Firework	-1628,91,-522	Comet	1	0,-5,0,	10
+681.5	Firework	-1628,90,-522	Comet	1	0,-5,0,	10
+#
+679.5	Firework	-1600,94,-522	Comet	1	0,-5,0,	10
+680	Firework	-1600,93,-522	Comet	1	0,-5,0,	10
+680.5	Firework	-1600,92,-522	Comet	1	0,-5,0,	10
+681	Firework	-1600,91,-522	Comet	1	0,-5,0,	10
+681.5	Firework	-1600,90,-522	Comet	1	0,-5,0,	10
+
+679.5	Firework	-1592,94,-514	Comet	1	0,-5,0,	10
+680	Firework	-1592,93,-514	Comet	1	0,-5,0,	10
+680.5	Firework	-1592,92,-514	Comet	1	0,-5,0,	10
+681	Firework	-1592,91,-514	Comet	1	0,-5,0,	10
+681.5	Firework	-1592,90,-514	Comet	1	0,-5,0,	10
+
+679.5	Firework	-1587,94,-508	Comet	1	0,-5,0,	10
+680	Firework	-1587,93,-508	Comet	1	0,-5,0,	10
+680.5	Firework	-1587,92,-508	Comet	1	0,-5,0,	10
+681	Firework	-1587,91,-508	Comet	1	0,-5,0,	10
+681.5	Firework	-1587,90,-508	Comet	1	0,-5,0,	10
+#
+#
+#G2
+683.1   Firework      	-1644,85,-502 LA,LA     0      	0,0,0	1
+683.1   Firework      	-1642,85,-504 LA,LA     0      	0,0,0	1
+683.1   Firework      	-1640,85,-506 LA,LA     0      	0,0,0	1
+683.1   Firework      	-1638,85,-508 LA,LA     0      	0,0,0	1
+683.1   Firework      	-1636,85,-510 LA,LA     0      	0,0,0	1
+683.1   Firework      	-1634,85,-512 LA,LA     0      	0,0,0	1
+683.1   Firework      	-1632,85,-514 LA,LA     0      	0,0,0	1
+683.1   Firework      	-1630,85,-516 LA,LA     0      	0,0,0	1
+683.1   Firework      	-1628,85,-518 LA,LA     0      	0,0,0	1
+683.1   Firework      	-1626,85,-520 LA,LA     0      	0,0,0	1
+683.1   Firework      	-1624,85,-522 LA,LA     0      	0,0,0	1
+683.1   Firework      	-1622,85,-524 LA,LA     0      	0,0,0	1
+#
+683.1   Firework      	-1606,85,-524 LA,LA     0      	0,0,0	1
+683.1   Firework      	-1604,85,-522 LA,LA     0      	0,0,0	1
+683.1   Firework      	-1602,85,-520 LA,LA     0      	0,0,0	1
+683.1   Firework      	-1600,85,-518 LA,LA     0      	0,0,0	1
+683.1   Firework      	-1598,85,-516 LA,LA     0      	0,0,0	1
+683.1   Firework      	-1596,85,-514 LA,LA     0      	0,0,0	1
+683.1   Firework      	-1594,85,-512 LA,LA     0      	0,0,0	1
+683.1   Firework      	-1592,85,-510 LA,LA     0      	0,0,0	1
+683.1   Firework      	-1590,85,-508 LA,LA     0      	0,0,0	1
+683.1   Firework      	-1588,85,-506 LA,LA     0      	0,0,0	1
+683.1   Firework      	-1586,85,-504 LA,LA     0      	0,0,0	1
+683.1   Firework      	-1584,85,-502 LA,LA     0      	0,0,0	1
+#
+#s1
+685.1	Firework	-1634,68,-517	FY,FY	1	0,0,0	1
+685.1	Firework	-1632,68,-519	FY,FY	1	0,0,0	1
+685.1	Firework	-1630,68,-521	FY,FY	1	0,0,0	1
+685.1	Firework	-1628,68,-523	FY,FY	1	0,0,0	1
+685.1	Firework	-1626,68,-525	FY,FY	1	0,0,0	1
+685.1	Firework	-1624,68,-527	FY,FY	1	0,0,0	1
+#
+685.1	Firework	-1604,68,-527	FY,FY	1	0,0,0	1
+685.1	Firework	-1602,68,-525	FY,FY	1	0,0,0	1
+685.1	Firework	-1600,68,-523	FY,FY	1	0,0,0	1
+685.1	Firework	-1598,68,-521	FY,FY	1	0,0,0	1
+685.1	Firework	-1596,68,-519	FY,FY	1	0,0,0	1
+685.1	Firework	-1594,68,-517	FY,FY	1	0,0,0	1
+#
+#s2
+686.2	Firework	-1634,68,-517	FG,FG	1	0,0,0	1
+686.2	Firework	-1632,68,-519	FG,FG	1	0,0,0	1
+686.2	Firework	-1630,68,-521	FG,FG	1	0,0,0	1
+686.2	Firework	-1628,68,-523	FG,FG	1	0,0,0	1
+686.2	Firework	-1626,68,-525	FG,FG	1	0,0,0	1
+686.2	Firework	-1624,68,-527	FG,FG	1	0,0,0	1
+#
+686.2	Firework	-1604,68,-527	FG,FG	1	0,0,0	1
+686.2	Firework	-1602,68,-525	FG,FG	1	0,0,0	1
+686.2	Firework	-1600,68,-523	FG,FG	1	0,0,0	1
+686.2	Firework	-1598,68,-521	FG,FG	1	0,0,0	1
+686.2	Firework	-1596,68,-519	FG,FG	1	0,0,0	1
+686.2	Firework	-1594,68,-517	FG,FG	1	0,0,0	1
+#
+#highs
+687.3	Firework	-1634,89,-512	LWT	0	0,0,0	1
+687.3	Firework	-1621,89,-512	LWT	0	0,0,0	1
+687.3	Firework	-1607,89,-512	LWT	0	0,0,0	1
+687.3	Firework	-1594,89,-512	LWT	0	0,0,0	1
+687.3	Firework	-1599,99,-519	LWT	0	0,0,0	1
+687.3	Firework	-1614,99,-519	LWT	0	0,0,0	1
+687.3	Firework	-1629,99,-519	LWT	0	0,0,0	1
+#
+#cascades
+688.3	Firework	-1644,94,-504	Comet	1	0,-5,0,	10
+688.8	Firework	-1644,93,-504	Comet	1	0,-5,0,	10
+689.3	Firework	-1644,92,-504	Comet	1	0,-5,0,	10
+689.8	Firework	-1644,91,-504	Comet	1	0,-5,0,	10
+690.3	Firework	-1644,90,-504	Comet	1	0,-5,0,	10
+
+688.3	Firework	-1636,94,-514	Comet	1	0,-5,0,	10
+688.8	Firework	-1636,93,-514	Comet	1	0,-5,0,	10
+689.3	Firework	-1636,92,-514	Comet	1	0,-5,0,	10
+689.8	Firework	-1636,91,-514	Comet	1	0,-5,0,	10
+690.3	Firework	-1636,90,-514	Comet	1	0,-5,0,	10
+
+688.3	Firework	-1628,94,-522	Comet	1	0,-5,0,	10
+688.8	Firework	-1628,93,-522	Comet	1	0,-5,0,	10
+689.3	Firework	-1628,92,-522	Comet	1	0,-5,0,	10
+689.8	Firework	-1628,91,-522	Comet	1	0,-5,0,	10
+690.3	Firework	-1628,90,-522	Comet	1	0,-5,0,	10
+#
+688.3	Firework	-1600,94,-522	Comet	1	0,-5,0,	10
+688.8	Firework	-1600,93,-522	Comet	1	0,-5,0,	10
+689.3	Firework	-1600,92,-522	Comet	1	0,-5,0,	10
+689.8	Firework	-1600,91,-522	Comet	1	0,-5,0,	10
+690.3	Firework	-1600,90,-522	Comet	1	0,-5,0,	10
+
+688.3	Firework	-1592,94,-514	Comet	1	0,-5,0,	10
+688.8	Firework	-1592,93,-514	Comet	1	0,-5,0,	10
+689.3	Firework	-1592,92,-514	Comet	1	0,-5,0,	10
+689.8	Firework	-1592,91,-514	Comet	1	0,-5,0,	10
+690.3	Firework	-1592,90,-514	Comet	1	0,-5,0,	10
+
+688.3	Firework	-1587,94,-508	Comet	1	0,-5,0,	10
+688.8	Firework	-1587,93,-508	Comet	1	0,-5,0,	10
+689.3	Firework	-1587,92,-508	Comet	1	0,-5,0,	10
+689.8	Firework	-1587,91,-508	Comet	1	0,-5,0,	10
+690.3	Firework	-1587,90,-508	Comet	1	0,-5,0,	10
+#
+#G3
+691.6   Firework      	-1644,85,-502 LA,LA     0      	0,0,0	1
+691.6   Firework      	-1642,85,-504 LA,LA     0      	0,0,0	1
+691.6   Firework      	-1640,85,-506 LA,LA     0      	0,0,0	1
+691.6   Firework      	-1638,85,-508 LA,LA     0      	0,0,0	1
+691.6   Firework      	-1636,85,-510 LA,LA     0      	0,0,0	1
+691.6   Firework      	-1634,85,-512 LA,LA     0      	0,0,0	1
+691.6   Firework      	-1632,85,-514 LA,LA     0      	0,0,0	1
+691.6   Firework      	-1630,85,-516 LA,LA     0      	0,0,0	1
+691.6   Firework      	-1628,85,-518 LA,LA     0      	0,0,0	1
+691.6   Firework      	-1626,85,-520 LA,LA     0      	0,0,0	1
+691.6   Firework      	-1624,85,-522 LA,LA     0      	0,0,0	1
+691.6   Firework      	-1622,85,-524 LA,LA     0      	0,0,0	1
+#
+691.6   Firework      	-1606,85,-524 LA,LA     0      	0,0,0	1
+691.6   Firework      	-1604,85,-522 LA,LA     0      	0,0,0	1
+691.6   Firework      	-1602,85,-520 LA,LA     0      	0,0,0	1
+691.6   Firework      	-1600,85,-518 LA,LA     0      	0,0,0	1
+691.6   Firework      	-1598,85,-516 LA,LA     0      	0,0,0	1
+691.6   Firework      	-1596,85,-514 LA,LA     0      	0,0,0	1
+691.6   Firework      	-1594,85,-512 LA,LA     0      	0,0,0	1
+691.6   Firework      	-1592,85,-510 LA,LA     0      	0,0,0	1
+691.6   Firework      	-1590,85,-508 LA,LA     0      	0,0,0	1
+691.6   Firework      	-1588,85,-506 LA,LA     0      	0,0,0	1
+691.6   Firework      	-1586,85,-504 LA,LA     0      	0,0,0	1
+691.6   Firework      	-1584,85,-502 LA,LA     0      	0,0,0	1
+#
+#s1
+693.7	Firework	-1634,68,-517	FR,FR	1	0,0,0	1
+693.7	Firework	-1632,68,-519	FR,FR	1	0,0,0	1
+693.7	Firework	-1630,68,-521	FR,FR	1	0,0,0	1
+693.7	Firework	-1628,68,-523	FR,FR	1	0,0,0	1
+693.7	Firework	-1626,68,-525	FR,FR	1	0,0,0	1
+693.7	Firework	-1624,68,-527	FR,FR	1	0,0,0	1
+#
+693.7	Firework	-1604,68,-527	FR,FR	1	0,0,0	1
+693.7	Firework	-1602,68,-525	FR,FR	1	0,0,0	1
+693.7	Firework	-1600,68,-523	FR,FR	1	0,0,0	1
+693.7	Firework	-1598,68,-521	FR,FR	1	0,0,0	1
+693.7	Firework	-1596,68,-519	FR,FR	1	0,0,0	1
+693.7	Firework	-1594,68,-517	FR,FR	1	0,0,0	1
+#
+#s2
+694.7	Firework	-1634,68,-517	FR,FR	1	0,0,0	1
+694.7	Firework	-1632,68,-519	FR,FR	1	0,0,0	1
+694.7	Firework	-1630,68,-521	FR,FR	1	0,0,0	1
+694.7	Firework	-1628,68,-523	FR,FR	1	0,0,0	1
+694.7	Firework	-1626,68,-525	FR,FR	1	0,0,0	1
+694.7	Firework	-1624,68,-527	FR,FR	1	0,0,0	1
+#
+694.7	Firework	-1604,68,-527	FR,FR	1	0,0,0	1
+694.7	Firework	-1602,68,-525	FR,FR	1	0,0,0	1
+694.7	Firework	-1600,68,-523	FR,FR	1	0,0,0	1
+694.7	Firework	-1598,68,-521	FR,FR	1	0,0,0	1
+694.7	Firework	-1596,68,-519	FR,FR	1	0,0,0	1
+694.7	Firework	-1594,68,-517	FR,FR	1	0,0,0	1
+#
+#highs
+695.8	Firework	-1634,89,-512	LWT	0	0,0,0	1
+695.8	Firework	-1621,89,-512	LWT	0	0,0,0	1
+695.8	Firework	-1607,89,-512	LWT	0	0,0,0	1
+695.8	Firework	-1594,89,-512	LWT	0	0,0,0	1
+695.8	Firework	-1599,99,-519	LWT	0	0,0,0	1
+695.8	Firework	-1614,99,-519	LWT	0	0,0,0	1
+695.8	Firework	-1629,99,-519	LWT	0	0,0,0	1
+#
+#cascades
+695.6	Firework	-1644,94,-504	Comet	1	0,-5,0,	10
+696.1	Firework	-1644,93,-504	Comet	1	0,-5,0,	10
+696.6	Firework	-1644,92,-504	Comet	1	0,-5,0,	10
+697.1	Firework	-1644,91,-504	Comet	1	0,-5,0,	10
+697.6	Firework	-1644,90,-504	Comet	1	0,-5,0,	10
+
+695.6	Firework	-1636,94,-514	Comet	1	0,-5,0,	10
+696.1	Firework	-1636,93,-514	Comet	1	0,-5,0,	10
+696.6	Firework	-1636,92,-514	Comet	1	0,-5,0,	10
+697.1	Firework	-1636,91,-514	Comet	1	0,-5,0,	10
+697.6	Firework	-1636,90,-514	Comet	1	0,-5,0,	10
+
+695.6	Firework	-1628,94,-522	Comet	1	0,-5,0,	10
+696.1	Firework	-1628,93,-522	Comet	1	0,-5,0,	10
+696.6	Firework	-1628,92,-522	Comet	1	0,-5,0,	10
+697.1	Firework	-1628,91,-522	Comet	1	0,-5,0,	10
+697.6	Firework	-1628,90,-522	Comet	1	0,-5,0,	10
+#
+695.6	Firework	-1600,94,-522	Comet	1	0,-5,0,	10
+696.1	Firework	-1600,93,-522	Comet	1	0,-5,0,	10
+696.6	Firework	-1600,92,-522	Comet	1	0,-5,0,	10
+697.1	Firework	-1600,91,-522	Comet	1	0,-5,0,	10
+697.6	Firework	-1600,90,-522	Comet	1	0,-5,0,	10
+
+695.6	Firework	-1592,94,-514	Comet	1	0,-5,0,	10
+696.1	Firework	-1592,93,-514	Comet	1	0,-5,0,	10
+696.6	Firework	-1592,92,-514	Comet	1	0,-5,0,	10
+697.1	Firework	-1592,91,-514	Comet	1	0,-5,0,	10
+697.6	Firework	-1592,90,-514	Comet	1	0,-5,0,	10
+
+695.6	Firework	-1587,94,-508	Comet	1	0,-5,0,	10
+696.1	Firework	-1587,93,-508	Comet	1	0,-5,0,	10
+696.6	Firework	-1587,92,-508	Comet	1	0,-5,0,	10
+697.1	Firework	-1587,91,-508	Comet	1	0,-5,0,	10
+697.6	Firework	-1587,90,-508	Comet	1	0,-5,0,	10
+#697.8-701.9  ???
+697.8	Firework	-1629,76,-512	LO	0	0,0,0	1
+697.8	Firework	-1623,76,-512	LO	0	0,0,0	1
+697.8	Firework	-1617,76,-512	LO	0	0,0,0	1
+697.8	Firework	-1611,76,-512	LO	0	0,0,0	1
+697.8	Firework	-1605,76,-512	LO	0	0,0,0	1
+697.8	Firework	-1599,76,-512	LO	0	0,0,0	1
+#
+#L
+698	Firework	-1643,82,-490	LR	0	0,0,0,	1
+698.1	Firework	-1643,84,-492	LO	0	0,0,0,	1
+698.2	Firework	-1643,86,-494	LY	0	0,0,0,	1
+698.3	Firework	-1643,88,-496	LG	0	0,0,0,	1
+698.4	Firework	-1643,90,-498	LA	0	0,0,0,	1
+698.5	Firework	-1643,92,-500	LV	0	0,0,0,	1
+698.6	Firework	-1643,94,-502	LR	0	0,0,0,	1
+698.7	Firework	-1643,96,-504	LO	0	0,0,0,	1
+698.8	Firework	-1643,98,-506	LY	0	0,0,0,	1
+698.9	Firework	-1643,100,-508	LG	0	0,0,0,	1
+699.0	Firework	-1643,102,-510	LA	0	0,0,0,	1
+699.1	Firework	-1643,104,-512	LV	0	0,0,0,	1
+699.2	Firework	-1643,106,-514	LR	0	0,0,0,	1
+699.3	Firework	-1643,108,-516	LO	0	0,0,0,	1
+699.4	Firework	-1643,110,-518	LY	0	0,0,0,	1
+699.5	Firework	-1643,112,-520	LG	0	0,0,0,	1
+699.6	Firework	-1643,114,-522	LA	0	0,0,0,	1
+699.7	Firework	-1643,116,-524	LV	0	0,0,0,	1
+699.8	Firework	-1643,118,-526	LR	0	0,0,0,	1
+699.9	Firework	-1643,120,-528	LO	0	0,0,0,	1
+700.0	Firework	-1643,122,-530	LY	0	0,0,0,	1
+
+#R
+698	Firework	-1586,82,-490	LR	0	0,0,0,	1
+698.1	Firework	-1586,84,-492	LO	0	0,0,0,	1
+698.2	Firework	-1586,86,-494	LY	0	0,0,0,	1
+698.3	Firework	-1586,88,-496	LG	0	0,0,0,	1
+698.4	Firework	-1586,90,-498	LA	0	0,0,0,	1
+698.5	Firework	-1586,92,-500	LV	0	0,0,0,	1
+698.6	Firework	-1586,94,-502	LR	0	0,0,0,	1
+698.7	Firework	-1586,96,-504	LO	0	0,0,0,	1
+698.8	Firework	-1586,98,-506	LY	0	0,0,0,	1
+698.9	Firework	-1586,100,-508	LG	0	0,0,0,	1
+699.0	Firework	-1586,102,-510	LA	0	0,0,0,	1
+699.1	Firework	-1586,104,-512	LV	0	0,0,0,	1
+699.2	Firework	-1586,106,-514	LR	0	0,0,0,	1
+699.3	Firework	-1586,108,-516	LO	0	0,0,0,	1
+699.4	Firework	-1586,110,-518	LY	0	0,0,0,	1
+699.5	Firework	-1586,112,-520	LG	0	0,0,0,	1
+699.6	Firework	-1586,114,-522	LA	0	0,0,0,	1
+699.7	Firework	-1586,116,-524	LV	0	0,0,0,	1
+699.8	Firework	-1586,118,-526	LR	0	0,0,0,	1
+699.9	Firework	-1586,120,-528	LO	0	0,0,0,	1
+700.0	Firework	-1586,122,-530	LY	0	0,0,0,	1
+#
+699	Block	0	-1621,45,-502
+
+#Finalebursts  701.8-706.8
+#v1
+701.0	Firework	-1647,76,-516	BW	1	0,0,0	1
+701.6	Firework	-1645,76,-515	BW	1	0,0,0	1
+701.2	Firework	-1643,76,-516	BW	1	0,0,0	1
+700.8	Firework	-1641,76,-515	BW	1	0,0,0	1
+701.4	Firework	-1639,76,-516	BW	1	0,0,0	1
+701.0	Firework	-1637,76,-515	BW	1	0,0,0	1
+701.6	Firework	-1635,76,-516	BW	1	0,0,0	1
+701.2	Firework	-1633,76,-515	BW	1	0,0,0	1
+700.8	Firework	-1631,76,-516	BW	1	0,0,0	1
+701.4	Firework	-1629,76,-515	BW	1	0,0,0	1
+
+701.0	Firework	-1599,76,-515	BW	1	0,0,0	1
+701.6	Firework	-1597,76,-516	BW	1	0,0,0	1
+701.2	Firework	-1595,76,-515	BW	1	0,0,0	1
+700.8	Firework	-1593,76,-516	BW	1	0,0,0	1
+701.4	Firework	-1591,76,-515	BW	1	0,0,0	1
+701.0	Firework	-1589,76,-516	BW	1	0,0,0	1
+701.6	Firework	-1587,76,-515	BW	1	0,0,0	1
+701.2	Firework	-1585,76,-516	BW	1	0,0,0	1
+700.8	Firework	-1583,76,-515	BW	1	0,0,0	1
+701.4	Firework	-1581,76,-516	BW	1	0,0,0	1
+#v2
+702.0	Firework	-1647,76,-516	BW	1	0,0,0	1
+702.6	Firework	-1645,76,-515	BW	1	0,0,0	1
+702.2	Firework	-1643,76,-516	BW	1	0,0,0	1
+701.8	Firework	-1641,76,-515	BW	1	0,0,0	1
+702.4	Firework	-1639,76,-516	BW	1	0,0,0	1
+702.0	Firework	-1637,76,-515	BW	1	0,0,0	1
+702.6	Firework	-1635,76,-516	BW	1	0,0,0	1
+702.2	Firework	-1633,76,-515	BW	1	0,0,0	1
+701.8	Firework	-1631,76,-516	BW	1	0,0,0	1
+702.4	Firework	-1629,76,-515	BW	1	0,0,0	1
+
+702.0	Firework	-1599,76,-515	BW	1	0,0,0	1
+702.6	Firework	-1597,76,-516	BW	1	0,0,0	1
+702.2	Firework	-1595,76,-515	BW	1	0,0,0	1
+701.8	Firework	-1593,76,-516	BW	1	0,0,0	1
+702.4	Firework	-1591,76,-515	BW	1	0,0,0	1
+702.0	Firework	-1589,76,-516	BW	1	0,0,0	1
+702.6	Firework	-1587,76,-515	BW	1	0,0,0	1
+702.2	Firework	-1585,76,-516	BW	1	0,0,0	1
+701.8	Firework	-1583,76,-515	BW	1	0,0,0	1
+702.4	Firework	-1581,76,-516	BW	1	0,0,0	1
+#v3
+703.0	Firework	-1647,76,-516	BW	1	0,0,0	1
+703.6	Firework	-1645,76,-515	BW	1	0,0,0	1
+703.2	Firework	-1643,76,-516	BW	1	0,0,0	1
+702.8	Firework	-1641,76,-515	BW	1	0,0,0	1
+703.4	Firework	-1639,76,-516	BW	1	0,0,0	1
+703.0	Firework	-1637,76,-515	BW	1	0,0,0	1
+703.6	Firework	-1635,76,-516	BW	1	0,0,0	1
+703.2	Firework	-1633,76,-515	BW	1	0,0,0	1
+702.8	Firework	-1631,76,-516	BW	1	0,0,0	1
+703.4	Firework	-1629,76,-515	BW	1	0,0,0	1
+
+703.0	Firework	-1599,76,-515	BW	1	0,0,0	1
+703.6	Firework	-1597,76,-516	BW	1	0,0,0	1
+703.2	Firework	-1595,76,-515	BW	1	0,0,0	1
+702.8	Firework	-1593,76,-516	BW	1	0,0,0	1
+703.4	Firework	-1591,76,-515	BW	1	0,0,0	1
+703.0	Firework	-1589,76,-516	BW	1	0,0,0	1
+703.6	Firework	-1587,76,-515	BW	1	0,0,0	1
+703.2	Firework	-1585,76,-516	BW	1	0,0,0	1
+702.8	Firework	-1583,76,-515	BW	1	0,0,0	1
+703.4	Firework	-1581,76,-516	BW	1	0,0,0	1
+#v4
+704.0	Firework	-1647,76,-516	BW	1	0,0,0	1
+704.6	Firework	-1645,76,-515	BW	1	0,0,0	1
+704.2	Firework	-1643,76,-516	BW	1	0,0,0	1
+703.8	Firework	-1641,76,-515	BW	1	0,0,0	1
+704.4	Firework	-1639,76,-516	BW	1	0,0,0	1
+704.0	Firework	-1637,76,-515	BW	1	0,0,0	1
+704.6	Firework	-1635,76,-516	BW	1	0,0,0	1
+704.2	Firework	-1633,76,-515	BW	1	0,0,0	1
+703.8	Firework	-1631,76,-516	BW	1	0,0,0	1
+704.4	Firework	-1629,76,-515	BW	1	0,0,0	1
+
+704.0	Firework	-1599,76,-515	BW	1	0,0,0	1
+704.6	Firework	-1597,76,-516	BW	1	0,0,0	1
+704.2	Firework	-1595,76,-515	BW	1	0,0,0	1
+703.8	Firework	-1593,76,-516	BW	1	0,0,0	1
+704.4	Firework	-1591,76,-515	BW	1	0,0,0	1
+704.0	Firework	-1589,76,-516	BW	1	0,0,0	1
+704.6	Firework	-1587,76,-515	BW	1	0,0,0	1
+704.2	Firework	-1585,76,-516	BW	1	0,0,0	1
+703.8	Firework	-1583,76,-515	BW	1	0,0,0	1
+704.4	Firework	-1581,76,-516	BW	1	0,0,0	1
+#v5
+705.0	Firework	-1647,76,-516	BW	1	0,0,0	1
+705.6	Firework	-1645,76,-515	BW	1	0,0,0	1
+705.2	Firework	-1643,76,-516	BW	1	0,0,0	1
+704.8	Firework	-1641,76,-515	BW	1	0,0,0	1
+705.4	Firework	-1639,76,-516	BW	1	0,0,0	1
+705.0	Firework	-1637,76,-515	BW	1	0,0,0	1
+705.6	Firework	-1635,76,-516	BW	1	0,0,0	1
+705.2	Firework	-1633,76,-515	BW	1	0,0,0	1
+704.8	Firework	-1631,76,-516	BW	1	0,0,0	1
+705.4	Firework	-1629,76,-515	BW	1	0,0,0	1
+
+705.0	Firework	-1599,76,-515	BW	1	0,0,0	1
+705.6	Firework	-1597,76,-516	BW	1	0,0,0	1
+705.2	Firework	-1595,76,-515	BW	1	0,0,0	1
+704.8	Firework	-1593,76,-516	BW	1	0,0,0	1
+705.4	Firework	-1591,76,-515	BW	1	0,0,0	1
+705.0	Firework	-1589,76,-516	BW	1	0,0,0	1
+705.6	Firework	-1587,76,-515	BW	1	0,0,0	1
+705.2	Firework	-1585,76,-516	BW	1	0,0,0	1
+704.8	Firework	-1583,76,-515	BW	1	0,0,0	1
+705.4	Firework	-1581,76,-516	BW	1	0,0,0	1
+
+#Mix?
+#Fantasmic Instrumental
+#Spawners for Barrage
+706.5    	Block    	152   -1627,50,-513
+707   Block    	0  	-1627,50,-513
+721.5    	Block    	152   -1625,50,-513
+722   Block    	0  	-1625,50,-513
+#Curved "Water"
+706.6    	Block    	152   -1619,46,-513
+719.6    	Block    	152   -1620,45,-513
+720   Block    	0  	-1619,46,-513
+720   Block    	0  	-1620,45,-513
+#Purple/Blue Water
+722.4    	Block    	152   -1622,46,-513
+734.7    	Block    	152   -1621,45,-513
+735.5    	Block    	0  	-1622,46,-513
+735.5    	Block    	0  	-1621,45,-513
+#Front Bursts
+722.5    	Block    	152   -1626,49,-519
+723   Block    	0  	-1626,49,-519
+726.9    	Block    	152   -1625,49,-519
+727.5    	Block    	0  	-1625,49,-519
+731.3    	Block    	152   -1624,49,-519
+732   Block    	0  	-1624,49,-519
+#Flagpole Bursts
+733.5    	Block    	152   -1623,49,-517
+733.9		Block    	152   -1623,49,-516
+734.4    	Block    	152   -1623,49,-515
+735   Block    	0  	-1623,49,-517
+735   Block    	0  	-1623,49,-516
+735   Block    	0  	-1623,49,-515
+#Sparklers
+735.8    	Block    	152   -1627,50,517
+736.5    	Block    	0  	-1627,50,517
+#Comets
+722.9    	Firework   -1643,81,-489   FantRed   0  	2,3,-1   	10
+722.9    	Firework   -1643,81,-489   FantOrange  	0  	2,1.5,-1 	10
+722.9    	Firework   -1643,81,-489   FantYellow    	0  	2,0,-1   	10
+723.5    	Firework   -1634,83,-512   FantGreen    	0  	2,3,1 10
+723.5    	Firework   -1634,83,-512   FantLightBlue	0  	2,1.5,1  	10
+723.5    	Firework   -1634,83,-512   FantBlue   0  	2,0,1 10
+724   Firework   -1621,93,-529   FantPurple    	0  	1,3,3 10
+724   Firework   -1621,93,-529   FantPink   0  	1,1.5,3  	10
+724   Firework   -1621,93,-529   FantMagenta	0  	1,0,3 10
+724.6    	Firework   -1607,93,-529   FantPurple    	0  	-1,0,3   	10
+724.6    	Firework   -1607,93,-529   FantPink   0  	-1,1.5,3 	10
+724.6    	Firework   -1607,93,-529   FantMagenta	0  	-1,3,3   	10
+725.2    	Firework   -1594,83,-512   FantGreen    	0  	-2,0,1   	10
+725.2    	Firework   -1594,83,-512   FantLightBlue	0  	-2,1.5,1 	10
+725.2    	Firework   -1594,83,-512   FantBlue   0  	-2,3,1   	10
+725.7    	Firework   -1586,81,-489   FantRed   0  	-2,0,-1  	10
+725.7    	Firework   -1586,81,-489   FantOrange  	0  	-2,1.5,-1   10
+725.7    	Firework   -1586,81,-489   FantYellow    	0  	-2,3,-1  	10
+#We go Back
+727.5    	Firework   -1586,81,-489   FantMagenta	0  	-2,0,-1  	10
+727.5    	Firework   -1586,81,-489   FantPink   0  	-2,1.5,-1   10
+727.5    	Firework   -1586,81,-489   FantPurple    	0  	-2,3,-1  	10
+728   Firework   -1594,83,-512   FantGreen    	0  	-2,3,1   	10
+728   Firework   -1594,83,-512   FantLightBlue	0  	-2,1.5,1 	10
+728   Firework   -1594,83,-512   FantBlue   0  	-2,0,1   	10
+728.5    	Firework   -1607,93,-529   FantRed   0  	-1,0,3   	10
+728.5    	Firework   -1607,93,-529   FantOrange  	0  	-1,1.5,3 	10
+728.5    	Firework   -1607,93,-529   FantYellow    	0  	-1,3,3   	10
+729.2    	Firework   -1621,93,-529   FantRed   0  	1,3,3 10
+729.2    	Firework   -1621,93,-529   FantOrange  	0  	1,1.5,3  	10
+729.2    	Firework   -1621,93,-529   FantYellow    	0  	1,0,3 10
+729.8    	Firework   -1634,83,-512   FantGreen    	0  	2,0,1 10
+729.8    	Firework   -1634,83,-512   FantLightBlue	0  	2,1.5,1  	10
+729.8    	Firework   -1634,83,-512   FantBlue   0  	2,3,1 10
+730.2    	Firework   -1643,81,-489   FantMagenta	0  	2,3,-1   	10
+730.2    	Firework   -1643,81,-489   FantPink   0  	2,1.5,-1 	10
+730.2    	Firework   -1643,81,-489   FantPurple    	0  	2,0,-1   	10
+
+#Co-op
+#FantasyInTheSky Instrumental and Finale
+#Spam fireworks from mid castle and hub perimeter
+#Use perimeter from Holiday Wishes just adjust time and extend
+739.7	Firework	-1634,85,-512	Lya	0	0,0,0	0
+740.1	Firework	-1634,87,-512	Lya	0	0,0,0	0
+740.5	Firework	-1634,89,-512	Lya	0	0,0,0	0
+740.9	Firework	-1634,91,-512	Lya	0	0,0,0	0
+741.3	Firework	-1634,93,-512	Lya	0	0,0,0	0
+741.7	Firework	-1634,95,-512	Lya	0	0,0,0	0
+742.1	Firework	-1634,97,-512	Lya	0	0,0,0	0
+#
+743.6	Firework	-1594,85,-512	Lya	0	0,0,0	0
+744	Firework	-1594,87,-512	Lya	0	0,0,0	0
+744.4	Firework	-1594,89,-512	Lya	0	0,0,0	0
+744.8	Firework	-1594,91,-512	Lya	0	0,0,0	0
+745.2	Firework	-1594,93,-512	Lya	0	0,0,0	0
+745.6	Firework	-1594,95,-512	Lya	0	0,0,0	0
+746.0	Firework	-1594,97,-512	Lya	0	0,0,0	0
+#
+747.5	Firework	-1647,96,-516	Lya	1	0,0,0	1
+747.5	Firework	-1645,96,-515	Lya	1	0,0,0	1
+747.5	Firework	-1643,96,-516	Lya	1	0,0,0	1
+747.5	Firework	-1641,96,-515	Lya	1	0,0,0	1
+747.5	Firework	-1639,96,-516	Lya	1	0,0,0	1
+747.5	Firework	-1637,96,-515	Lya	1	0,0,0	1
+747.5	Firework	-1635,96,-516	Lya	1	0,0,0	1
+747.5	Firework	-1633,96,-515	Lya	1	0,0,0	1
+747.5	Firework	-1631,96,-516	Lya	1	0,0,0	1
+747.5	Firework	-1629,96,-515	Lya	1	0,0,0	1
+
+747.5	Firework	-1599,96,-515	Lya	1	0,0,0	1
+747.5	Firework	-1597,96,-516	Lya	1	0,0,0	1
+747.5	Firework	-1595,96,-515	Lya	1	0,0,0	1
+747.5	Firework	-1593,96,-516	Lya	1	0,0,0	1
+747.5	Firework	-1591,96,-515	Lya	1	0,0,0	1
+747.5	Firework	-1589,96,-516	Lya	1	0,0,0	1
+747.5	Firework	-1587,96,-515	Lya	1	0,0,0	1
+747.5	Firework	-1585,96,-516	Lya	1	0,0,0	1
+747.5	Firework	-1583,96,-515	Lya	1	0,0,0	1
+747.5	Firework	-1581,96,-516	Lya	1	0,0,0	1
+#
+751.7	Firework	-1634,89,-512	Lya	0	0,0,0	1
+751.7	Firework	-1621,89,-512	Lya	0	0,0,0	1
+751.7	Firework	-1607,89,-512	Lya	0	0,0,0	1
+751.7	Firework	-1594,89,-512	Lya	0	0,0,0	1
+751.7	Firework	-1599,99,-519	Lya	0	0,0,0	1
+751.7	Firework	-1614,99,-519	Lya	0	0,0,0	1
+751.7	Firework	-1629,99,-519	Lya	0	0,0,0	1
+#
+753.8	Firework	-1629,76,-512	Lya	0	0,0,0	1
+753.8	Firework	-1626,76,-512	Lya	0	0,0,0	1
+753.8	Firework	-1623,76,-512	Lya	0	0,0,0	1
+753.8	Firework	-1620,76,-512	Lya	0	0,0,0	1
+753.8	Firework	-1617,76,-512	Lya	0	0,0,0	1
+753.8	Firework	-1614,76,-512	Lya	0	0,0,0	1
+753.8	Firework	-1611,76,-512	Lya	0	0,0,0	1
+753.8	Firework	-1608,76,-512	Lya	0	0,0,0	1
+753.8	Firework	-1605,76,-512	Lya	0	0,0,0	1
+753.8	Firework	-1602,76,-512	Lya	0	0,0,0	1
+753.8	Firework	-1599,76,-512	Lya	0	0,0,0	1
+#Mix gets everything from here down.
+756.4	Firework	-1645,68,-527	79,81,83	1	0,1,0	1
+756.4	Firework	-1642,68,-527	79,81,83	1	0,1,0	1
+756.4	Firework	-1639,68,-527	79,81,83	1	0,1,0	1
+756.4	Firework	-1636,68,-527	79,81,83	1	0,1,0	1
+756.4	Firework	-1633,68,-527	79,81,83	1	0,1,0	1
+756.4	Firework	-1630,68,-527	79,81,83	1	0,1,0	1
+756.4	Firework	-1598,68,-527	79,81,83	1	0,1,0	1
+756.4	Firework	-1595,68,-527	79,81,83	1	0,1,0	1
+756.4	Firework	-1592,68,-527	79,81,83	1	0,1,0	1
+756.4	Firework	-1589,68,-527	79,81,83	1	0,1,0	1
+756.4	Firework	-1586,68,-527	79,81,83	1	0,1,0	1
+756.4	Firework	-1583,68,-527	79,81,83	1	0,1,0	1
+#twinkle line 760-764
+760	Firework	-1602,77,-521	CW	0	0,3,0	1
+760.1	Firework	-1608,77,-525	CW	0	0,3,0	1
+760.2	Firework	-1620,77,-525	CW	0	0,3,0	1
+760.3	Firework	-1626,77,-525	CW	0	0,3,0	1
+760.4	Firework	-1620,77,-525	CW	0	0,3,0	1
+760.5	Firework	-1608,77,-525	CW	0	0,3,0	1
+760.6	Firework	-1602,77,-521	CW	0	0,3,0	1
+760.7	Firework	-1608,77,-525	CW	0	0,3,0	1
+760.8	Firework	-1620,77,-525	CW	0	0,3,0	1
+760.9	Firework	-1626,77,-525	CW	0	0,3,0	1
+#more
+761	Firework	-1602,77,-521	CW	0	0,3,0	1
+761.1	Firework	-1608,77,-525	CW	0	0,3,0	1
+761.2	Firework	-1620,77,-525	CW	0	0,3,0	1
+761.3	Firework	-1626,77,-525	CW	0	0,3,0	1
+761.4	Firework	-1620,77,-525	CW	0	0,3,0	1
+761.5	Firework	-1608,77,-525	CW	0	0,3,0	1
+761.6	Firework	-1602,77,-521	CW	0	0,3,0	1
+761.7	Firework	-1608,77,-525	CW	0	0,3,0	1
+761.8	Firework	-1620,77,-525	CW	0	0,3,0	1
+761.9	Firework	-1626,77,-525	CW	0	0,3,0	1
+#more
+762	Firework	-1602,77,-521	CW	0	0,3,0	1
+762.1	Firework	-1608,77,-525	CW	0	0,3,0	1
+762.2	Firework	-1620,77,-525	CW	0	0,3,0	1
+762.3	Firework	-1626,77,-525	CW	0	0,3,0	1
+762.4	Firework	-1620,77,-525	CW	0	0,3,0	1
+762.5	Firework	-1608,77,-525	CW	0	0,3,0	1
+762.6	Firework	-1602,77,-521	CW	0	0,3,0	1
+762.7	Firework	-1608,77,-525	CW	0	0,3,0	1
+762.8	Firework	-1620,77,-525	CW	0	0,3,0	1
+762.9	Firework	-1626,77,-525	CW	0	0,3,0	1
+#more
+763	Firework	-1602,77,-521	CW	0	0,3,0	1
+763.1	Firework	-1608,77,-525	CW	0	0,3,0	1
+763.2	Firework	-1620,77,-525	CW	0	0,3,0	1
+763.3	Firework	-1626,77,-525	CW	0	0,3,0	1
+763.4	Firework	-1620,77,-525	CW	0	0,3,0	1
+763.5	Firework	-1608,77,-525	CW	0	0,3,0	1
+763.6	Firework	-1602,77,-521	CW	0	0,3,0	1
+763.7	Firework	-1608,77,-525	CW	0	0,3,0	1
+763.8	Firework	-1620,77,-525	CW	0	0,3,0	1
+763.9	Firework	-1626,77,-525	CW	0	0,3,0	1
+#burst again
+763	Firework	-1645,68,-527	79,81,83	1	0,1,0	1
+763	Firework	-1642,68,-527	79,81,83	1	0,1,0	1
+763	Firework	-1639,68,-527	79,81,83	1	0,1,0	1
+763	Firework	-1636,68,-527	79,81,83	1	0,1,0	1
+763	Firework	-1633,68,-527	79,81,83	1	0,1,0	1
+763	Firework	-1630,68,-527	79,81,83	1	0,1,0	1
+763	Firework	-1598,68,-527	79,81,83	1	0,1,0	1
+763	Firework	-1595,68,-527	79,81,83	1	0,1,0	1
+763	Firework	-1592,68,-527	79,81,83	1	0,1,0	1
+763	Firework	-1589,68,-527	79,81,83	1	0,1,0	1
+763	Firework	-1586,68,-527	79,81,83	1	0,1,0	1
+763	Firework	-1583,68,-527	79,81,83	1	0,1,0	1
+#burst again
+764	Firework	-1645,68,-527	79,81,83	1	0,1,0	1
+764	Firework	-1642,68,-527	79,81,83	1	0,1,0	1
+764	Firework	-1639,68,-527	79,81,83	1	0,1,0	1
+764	Firework	-1636,68,-527	79,81,83	1	0,1,0	1
+764	Firework	-1633,68,-527	79,81,83	1	0,1,0	1
+764	Firework	-1630,68,-527	79,81,83	1	0,1,0	1
+764	Firework	-1598,68,-527	79,81,83	1	0,1,0	1
+764	Firework	-1595,68,-527	79,81,83	1	0,1,0	1
+764	Firework	-1592,68,-527	79,81,83	1	0,1,0	1
+764	Firework	-1589,68,-527	79,81,83	1	0,1,0	1
+764	Firework	-1586,68,-527	79,81,83	1	0,1,0	1
+764	Firework	-1583,68,-527	79,81,83	1	0,1,0	1
+#up
+767	Firework	-1629,76,-522	BF	0	0,1,0	1
+767	Firework	-1599,76,-522	BF	0	0,1,0	1
+767.1	Firework	-1629,77,-522	BF	0	0,1,0	1
+767.1	Firework	-1599,77,-522	BF	0	0,1,0	1
+767.2	Firework	-1629,78,-522	BF	0	0,1,0	1
+767.2	Firework	-1599,78,-522	BF	0	0,1,0	1
+767.3	Firework	-1629,79,-522	BF	0	0,1,0	1
+767.3	Firework	-1599,79,-522	BF	0	0,1,0	1
+767.4	Firework	-1629,80,-522	BF	0	0,1,0	1
+767.4	Firework	-1599,80,-522	BF	0	0,1,0	1
+767.5	Firework	-1629,81,-522	BF	0	0,1,0	1
+767.5	Firework	-1599,81,-522	BF	0	0,1,0	1
+767.6	Firework	-1629,82,-522	BF	0	0,1,0	1
+767.6	Firework	-1599,82,-522	BF	0	0,1,0	1
+767.7	Firework	-1629,83,-522	BF	0	0,1,0	1
+767.7	Firework	-1599,83,-522	BF	0	0,1,0	1
+767.8	Firework	-1629,84,-522	BF	0	0,1,0	1
+767.8	Firework	-1599,84,-522	BF	0	0,1,0	1
+767.9	Firework	-1629,85,-522	BF	0	0,1,0	1
+767.9	Firework	-1599,85,-522	BF	0	0,1,0	1
+768	Firework	-1629,86,-522	BF	0	0,1,0	1
+768	Firework	-1599,86,-522	BF	0	0,1,0	1
+768	Firework	-1629,87,-522	BF	0	0,1,0	1
+768	Firework	-1599,87,-522	BF	0	0,1,0	1
+768.1	Firework	-1629,88,-522	BF	0	0,1,0	1
+768.1	Firework	-1599,89,-522	BF	0	0,1,0	1
+768.2	Firework	-1629,90,-522	BF	0	0,1,0	1
+768.2	Firework	-1599,90,-522	BF	0	0,1,0	1
+768.3	Firework	-1629,91,-522	BF	0	0,1,0	1
+768.3	Firework	-1599,91,-522	BF	0	0,1,0	1
+768.4	Firework	-1629,92,-522	BF	0	0,1,0	1
+768.4	Firework	-1599,92,-522	BF	0	0,1,0	1
+768.5	Firework	-1629,93,-522	BF	0	0,1,0	1
+768.5	Firework	-1599,93,-522	BF	0	0,1,0	1
+768.6	Firework	-1629,94,-522	BF	0	0,1,0	1
+768.6	Firework	-1599,94,-522	BF	0	0,1,0	1
+768.7	Firework	-1629,95,-522	BF	0	0,1,0	1
+768.7	Firework	-1599,95,-522	BF	0	0,1,0	1
+768.8	Firework	-1629,96,-522	BF	0	0,1,0	1
+768.8	Firework	-1599,96,-522	BF	0	0,1,0	1
+768.9	Firework	-1629,97,-522	BF	0	0,1,0	1
+768.9	Firework	-1599,97,-522	BF	0	0,1,0	1
+#Burst Again
+770	Firework	-1645,68,-527	79,81,83	1	0,1,0	1
+770	Firework	-1642,68,-527	79,81,83	1	0,1,0	1
+770	Firework	-1639,68,-527	79,81,83	1	0,1,0	1
+770	Firework	-1636,68,-527	79,81,83	1	0,1,0	1
+770	Firework	-1633,68,-527	79,81,83	1	0,1,0	1
+770	Firework	-1630,68,-527	79,81,83	1	0,1,0	1
+770	Firework	-1598,68,-527	79,81,83	1	0,1,0	1
+770	Firework	-1595,68,-527	79,81,83	1	0,1,0	1
+770	Firework	-1592,68,-527	79,81,83	1	0,1,0	1
+770	Firework	-1589,68,-527	79,81,83	1	0,1,0	1
+770	Firework	-1586,68,-527	79,81,83	1	0,1,0	1
+770	Firework	-1583,68,-527	79,81,83	1	0,1,0	1
+#On Boom
+775    	Firework	-1643,81,-489	FantRed   0  	2,3,-1   	10
+775    	Firework	-1643,81,-489	FantOrange  	0  	2,1.5,-1 10
+775    	Firework	-1643,81,-489	FantYellow    	0  	2,0,-1   	10
+775    	Firework	-1634,83,-512	FantGreen    	0  	2,3,1 10
+775    	Firework	-1634,83,-512	FantLightBlue	0  	2,1.5,1  	10
+775    	Firework	-1634,83,-512	FantBlue   0  	2,0,1 10
+775	Firework	-1621,93,-529	FantPurple    	0  	1,3,3 10
+775	Firework	-1621,93,-529	FantPink   0  	1,1.5,3  	10
+775	Firework	-1621,93,-529	FantMagenta	0  	1,0,3 10
+775   	Firework	-1607,93,-529	FantPurple    	0  	-1,0,3   	10
+775  	Firework	-1607,93,-529	FantPink   0  	-1,1.5,3 10
+775    	Firework	-1607,93,-529	FantMagenta	0 	-1,3,3   	10
+775    	Firework	-1594,83,-512	FantGreen    	0  	-2,0,1   	10
+775    	Firework	 -1594,83,-512	FantLightBlue	0  	-2,1.5,1	10
+775    	Firework	-1594,83,-512	FantBlue   0  	-2,3,1   	10
+775    	Firework	-1586,81,-489	FantRed   0  	-2,0,-1  	10
+775    	Firework	-1586,81,-489	FantOrange  	0  	-2,1.5,-1   10
+775    	Firework	-1586,81,-489	FantYellow    	0  	-2,3,-1  	10
+
+#TheArc
+#Blocks
+782        Block        89        -1573,82,-529
+782        Block        89        -1573,83,-529
+782        Block        89        -1573,84,-529
+782.1        Block        89        -1573,85,-529
+782.1        Block        89        -1573,86,-529
+782.2        Block        89        -1573,87,-529
+782.3        Block        89        -1573,88,-529
+782.4        Block        89        -1574,89,-529
+782.5        Block        89        -1574,90,-529
+782.6        Block        89        -1574,91,-529
+782.7        Block        89        -1574,92,-529
+782.8        Block        89        -1575,93,-529
+782.9        Block        89        -1575,94,-529
+783        Block        89        -1575,95,-529
+783        Block        89        -1575,96,-529
+783.1        Block        89        -1576,97,-529
+783.2        Block        89        -1576,98,-529
+783.3        Block        89        -1577,99,-529
+783.3        Block        89        -1577,100,-529
+783.4        Block        89        -1578,101,-529
+783.4        Block        89        -1578,102,-529
+783.5        Block        89        -1579,103,-529
+783.6        Block        89        -1579,104,-529
+783.7        Block        89        -1580,105,-529
+783.8        Block        89        -1581,106,-529
+783.9        Block        89        -1582,107,-529
+784        Block        89        -1582,108,-529
+784.1        Block        89        -1583,109,-529
+784.2        Block        89        -1584,110,-529
+784.2        Block        89        -1585,111,-529
+784.3        Block        89        -1586,112,-529
+784.4        Block        89        -1587,113,-529
+784.5        Block        89        -1588,114,-529
+784.5        Block        89        -1589,114,-529
+784.6        Block        89        -1590,115,-529
+784.7        Block        89        -1591,116,-529
+784.8        Block        89        -1592,117,-529
+784.8        Block        89        -1593,117,-529
+784.9        Block        89        -1594,118,-529
+785        Block        89        -1595,118,-529
+785.1        Block        89        -1596,119,-529
+785.1        Block        89        -1597,119,-529
+785.2        Block        89        -1598,120,-529
+785.3        Block        89        -1599,120,-529
+785.4        Block        89        -1600,121,-529
+785.5        Block        89        -1601,121,-529
+785.6        Block        89        -1602,121,-529
+785.6        Block        89        -1603,121,-529
+785.7        Block        89        -1604,122,-529
+785.8        Block        89        -1605,122,-529
+785.9        Block        89        -1606,122,-529
+785.9        Block        89        -1607,122,-529
+786        Block        89        -1608,123,-529
+786.1        Block        89        -1609,123,-529
+786.2        Block        89        -1610,123,-529
+786.3        Block        89        -1611,123,-529
+786.4        Block        89        -1612,123,-529
+786.5        Block        89        -1613,123,-529
+786.5        Block        89        -1614,123,-529
+786.5        Block        89        -1615,123,-529
+786.6        Block        89        -1616,123,-529
+786.6        Block        89        -1617,123,-529
+786.7        Block        89        -1618,123,-529
+786.8        Block        89        -1619,123,-529
+786.9        Block        89        -1620,123,-529
+787        Block        89        -1621,122,-529
+787        Block        89        -1622,122,-529
+787.1        Block        89        -1623,122,-529
+787.1        Block        89        -1624,122,-529
+787.2        Block        89        -1625,121,-529
+787.3        Block        89        -1626,121,-529
+787.4        Block        89        -1627,121,-529
+787.5        Block        89        -1628,121,-529
+787.6        Block        89        -1629,120,-529
+787.7        Block        89        -1630,120,-529
+787.8        Block        89        -1631,119,-529
+787.8        Block        89        -1632,119,-529
+787.9        Block        89        -1633,118,-529
+788        Block        89        -1634,118,-529
+788.1        Block        89        -1635,117,-529
+788.1        Block        89        -1636,117,-529
+788.2        Block        89        -1637,116,-529
+788.3        Block        89        -1638,115,-529
+788.4        Block        89        -1639,114,-529
+788.4        Block        89        -1640,114,-529
+788.5        Block        89        -1641,113,-529
+788.5        Block        89        -1642,112,-529
+788.6        Block        89        -1643,111,-529
+788.7        Block        89        -1644,110,-529
+788.8        Block        89        -1645,109,-529
+788.9        Block        89        -1646,108,-529
+788.9        Block        89        -1646,107,-529
+789        Block        89        -1647,106,-529
+789.1        Block        89        -1648,105,-529
+789.2        Block        89        -1649,104,-529
+789.2        Block        89        -1649,103,-529
+789.3        Block        89        -1650,102,-529
+789.3        Block        89        -1650,101,-529
+789.4        Block        89        -1651,100,-529
+789.5        Block        89        -1651,99,-529
+789.6        Block        89        -1652,98,-529
+789.7        Block        89        -1652,97,-529
+789.8        Block        89        -1653,96,-529
+789.9        Block        89        -1653,95,-529
+790        Block        89        -1653,94,-529
+790.1        Block        89        -1653,93,-529
+790.2        Block        89        -1654,92,-529
+790.3        Block        89        -1654,91,-529
+790.4        Block        89        -1654,90,-529
+790.5        Block        89        -1654,89,-529
+790.6        Block        89        -1655,88,-529
+790.7        Block        89        -1655,87,-529
+790.8        Block        89        -1655,86,-529
+790.9        Block        89        -1655,85,-529
+791        Block        89        -1655,84,-529
+791.1        Block        89        -1655,83,-529
+791.2        Block        89        -1655,82,-529
+#Fireworks
+781        Firework        -1573,82,-529        1        0        0,1,0        1
+781        Firework        -1573,83,-529        1        0        0,1,0        1
+781        Firework        -1573,84,-529        1        0        0,1,0        1
+781.1        Firework        -1573,85,-529        1        0        0,1,0        1
+781.1        Firework        -1573,86,-529        1        0        0,1,0        1
+781.2        Firework        -1573,87,-529        1        0        0,1,0        1
+781.3        Firework        -1573,88,-529        1        0        0,1,0        1
+781.4        Firework        -1574,89,-529        1        0        0,1,0        1
+781.5        Firework        -1574,90,-529        1        0        0,1,0        1
+781.6        Firework        -1574,91,-529        1        0        0,1,0        1
+781.7        Firework        -1574,92,-529        1        0        0,1,0        1
+781.8        Firework        -1575,93,-529        1        0        0,1,0        1
+781.9        Firework        -1575,94,-529        1        0        0,1,0        1
+782.0       Firework        -1575,95,-529        1        0        0,1,0        1
+782.0        Firework        -1575,96,-529        1        0        0,1,0        1
+782.1        Firework        -1576,97,-529        1        0        0,1,0        1
+782.2        Firework        -1576,98,-529        1        0        0,1,0        1
+782.3        Firework        -1577,99,-529        1        0        0,1,0        1
+782.3        Firework        -1577,100,-529        1        0        0,1,0        1
+782.4        Firework        -1578,101,-529        1        0        0,1,0        1
+782.4        Firework        -1578,102,-529        1        0        0,1,0        1
+782.5        Firework        -1579,103,-529        1        0        0,1,0        1
+782.6        Firework        -1579,104,-529        1        0        0,1,0        1
+782.7        Firework        -1580,105,-529        1        0        0,1,0        1
+782.8        Firework        -1581,106,-529        1        0        0,1,0        1
+782.9        Firework        -1582,107,-529        1        0        0,1,0        1
+783.0        Firework        -1582,108,-529        1        0        0,1,0        1
+783.1        Firework        -1583,109,-529        1        0        0,1,0        1
+783.2        Firework        -1584,110,-529        1        0        0,1,0        1
+783.2        Firework        -1585,111,-529        1        0        0,1,0        1
+783.3        Firework        -1586,112,-529        1        0        0,1,0        1
+783.4        Firework        -1587,113,-529        1        0        0,1,0        1
+783.5        Firework        -1588,114,-529        1        0        0,1,0        1
+783.5        Firework        -1589,114,-529        1        0        0,1,0        1
+783.6        Firework        -1590,115,-529        1        0        0,1,0        1
+783.7        Firework        -1591,116,-529        1        0        0,1,0        1
+783.8        Firework        -1592,117,-529        1        0        0,1,0        1
+783.8        Firework        -1593,117,-529        1        0        0,1,0        1
+783.9        Firework        -1594,118,-529        1        0        0,1,0        1
+784.0        Firework        -1595,118,-529        1        0        0,1,0        1
+784.1        Firework        -1596,119,-529        1        0        0,1,0        1
+784.1        Firework        -1597,119,-529        1        0        0,1,0        1
+784.2        Firework        -1598,120,-529        1        0        0,1,0        1
+784.3        Firework        -1599,120,-529        1        0        0,1,0        1
+784.4        Firework        -1600,121,-529        1        0        0,1,0        1
+784.5        Firework        -1601,121,-529        1        0        0,1,0        1
+784.6        Firework        -1602,121,-529        1        0        0,1,0        1
+784.6        Firework        -1603,121,-529        1        0        0,1,0        1
+784.7        Firework        -1604,122,-529        1        0        0,1,0        1
+784.8        Firework        -1605,122,-529        1        0        0,1,0        1
+784.9        Firework        -1606,122,-529        1        0        0,1,0        1
+784.9        Firework        -1607,122,-529        1        0        0,1,0        1
+785.0        Firework        -1608,123,-529        1        0        0,1,0        1
+785.1        Firework        -1609,123,-529        1        0        0,1,0        1
+785.2        Firework        -1610,123,-529        1        0        0,1,0        1
+785.3        Firework        -1611,123,-529        1        0        0,1,0        1
+785.4        Firework        -1612,123,-529        1        0        0,1,0        1
+785.5        Firework        -1613,123,-529        1        0        0,1,0        1
+785.5        Firework        -1614,123,-529        1        0        0,1,0        1
+785.5        Firework        -1615,123,-529        1        0        0,1,0        1
+785.6        Firework        -1616,123,-529        1        0        0,1,0        1
+785.6        Firework        -1617,123,-529        1        0        0,1,0        1
+785.7        Firework        -1618,123,-529        1        0        0,1,0        1
+785.8        Firework        -1619,123,-529        1        0        0,1,0        1
+785.9        Firework        -1620,123,-529        1        0        0,1,0        1
+786.0        Firework        -1621,122,-529        1        0        0,1,0        1
+786.0        Firework        -1622,122,-529        1        0        0,1,0        1
+786.1        Firework        -1623,122,-529        1        0        0,1,0        1
+786.1        Firework        -1624,122,-529        1        0        0,1,0        1
+786.2        Firework        -1625,121,-529        1        0        0,1,0        1
+786.3        Firework        -1626,121,-529        1        0        0,1,0        1
+786.4        Firework        -1627,121,-529        1        0        0,1,0        1
+786.5        Firework        -1628,121,-529        1        0        0,1,0        1
+786.6        Firework        -1629,120,-529        1        0        0,1,0        1
+786.7        Firework        -1630,120,-529        1        0        0,1,0        1
+786.8        Firework        -1631,119,-529        1        0        0,1,0        1
+786.8        Firework        -1632,119,-529        1        0        0,1,0        1
+786.9        Firework        -1633,118,-529        1        0        0,1,0        1
+787.0        Firework        -1634,118,-529        1        0        0,1,0        1
+787.1        Firework        -1635,117,-529        1        0        0,1,0        1
+787.1        Firework        -1636,117,-529        1        0        0,1,0        1
+787.2        Firework        -1637,116,-529        1        0        0,1,0        1
+787.3        Firework        -1638,115,-529        1        0        0,1,0        1
+787.4        Firework        -1639,114,-529        1        0        0,1,0        1
+787.4        Firework        -1640,114,-529        1        0        0,1,0        1
+787.5        Firework        -1641,113,-529        1        0        0,1,0        1
+787.5        Firework        -1642,112,-529        1        0        0,1,0        1
+787.6        Firework        -1643,111,-529        1        0        0,1,0        1
+787.7        Firework        -1644,110,-529        1        0        0,1,0        1
+787.8        Firework        -1645,109,-529        1        0        0,1,0        1
+787.9        Firework        -1646,108,-529        1        0        0,1,0        1
+787.9        Firework        -1646,107,-529        1        0        0,1,0        1
+788.0        Firework        -1647,106,-529        1        0        0,1,0        1
+788.1        Firework        -1648,105,-529        1        0        0,1,0        1
+788.2        Firework        -1649,104,-529        1        0        0,1,0        1
+788.2        Firework        -1649,103,-529        1        0        0,1,0        1
+788.3        Firework        -1650,102,-529        1        0        0,1,0        1
+788.3        Firework        -1650,101,-529        1        0        0,1,0        1
+788.4        Firework        -1651,100,-529        1        0        0,1,0        1
+788.5        Firework        -1651,99,-529        1        0        0,1,0        1
+788.6        Firework        -1652,98,-529        1        0        0,1,0        1
+788.7        Firework        -1652,97,-529        1        0        0,1,0        1
+788.8        Firework        -1653,96,-529        1        0        0,1,0        1
+788.9        Firework        -1653,95,-529        1        0        0,1,0        1
+789.0        Firework        -1653,94,-529        1        0        0,1,0        1
+789.1        Firework        -1653,93,-529        1        0        0,1,0        1
+789.2        Firework        -1654,92,-529        1        0        0,1,0        1
+789.3        Firework        -1654,91,-529        1        0        0,1,0        1
+789.4        Firework        -1654,90,-529        1        0        0,1,0        1
+789.5        Firework        -1654,89,-529        1        0        0,1,0        1
+789.6        Firework        -1655,88,-529        1        0        0,1,0        1
+789.7        Firework        -1655,87,-529        1        0        0,1,0        1
+789.8        Firework        -1655,86,-529        1        0        0,1,0        1
+789.9        Firework        -1655,85,-529        1        0        0,1,0        1
+790.0        Firework        -1655,84,-529        1        0        0,1,0        1
+790.1        Firework        -1655,83,-529        1        0        0,1,0        1
+790.2        Firework        -1655,82,-529        1        0        0,1,0        1
+
+#Ending
+#1+9
+789	Block	152	-1632,46,-518
+789	Block	152	-1642,46,-518
+#2+8
+789.5	Block	152	-1634,46,-518
+789.5	Block	152	-1636,46,-522
+#3+7
+790	Block	152	-1636,46,-518
+790 	Block	152	-1634,46,-522
+#4+6
+790.5	Block	152	-1638,46,-518
+790.5	Block	152	-1632,46,-522
+#5    	
+791	Block	152	-1640,46,-518
+#4+6
+791.5	Block	152	-1638,46,-518
+791.5	Block	152	-1632,46,-522
+#3+7
+792	Block	152	-1636,46,-518
+792	Block	152	-1634,46,-522
+#2+8
+792.5	Block	152	-1634,46,-518
+792.5	Block	152	-1636,46,-522
+#1+9
+793	Block	152	-1632,46,-518
+793	Block	152	-1642,46,-518
+#1+9 off
+789.5	Block	152	-1632,45,-519
+789.5	Block	152	-1642,45,-519
+#2+8 off
+790 	Block	152	-1634,45,-519
+790 	Block	152	-1636,45,-523
+#3+7 off
+790.5	Block	152	-1636,45,-519
+790.5	Block	152	-1634,45,-523
+#4+6 off
+791 	Block	152	-1638,45,-519
+791 	Block	152	1632,45,-523
+#5    	 off
+791.5	Block	152	-1640,45,-519
+#4+6 off
+792 	Block	152	-1638,45,-519
+792	Block	152	-1632,45,-523
+#3+7 off
+792.5	Block	152	-1636,45,-519
+792.5	Block	152	-1634,45,-523
+#2+8 off
+793	Block	152	-1634,45,-519
+793	Block	152	-1636,45,-523
+#1+9 off
+793.5	Block	152	-1632,45,-519
+793.5	Block	152	-1642,45,-519
+#stop at 794
+#remove blocks
+794 	Block	0      	-1632,45,-519
+794 	Block	0      	-1642,45,-519
+794 	Block	0      	-1634,45,-519
+794 	Block	0      	-1636,45,-523
+794 	Block	0      	-1636,45,-519
+794 	Block	0      	-1634,45,-523
+794 	Block	0      	-1638,45,-519
+794 	Block	0      	-1632,45,-523
+794 	Block	0      	-1638,45,-519
+794 	Block	0      	-1638,45,-519
+794 	Block	0      	-1632,45,-523
+794 	Block	0      	-1636,45,-519
+794 	Block	0      	-1634,45,-523
+794 	Block	0      	-1634,45,-519
+794 	Block	0      	-1636,45,-523
+794 	Block	0      	-1632,45,-519
+794 	Block	0      	-1642,45,-519
+#other blocks
+794 	Block	0      	-1632,46,-518
+794 	Block	0      	-1642,46,-518
+794 	Block	0      	-1634,46,-518
+794 	Block	0      	-1636,46,-522
+794 	Block	0      	-1636,46,-518
+794 	Block	0      	-1634,46,-522
+794 	Block	0      	-1638,46,-518
+794 	Block	0      	-1632,46,-522
+794 	Block	0      	-1640,46,-518
+794 	Block	0      	-1638,46,-518
+794 	Block	0      	-1632,46,-522
+794 	Block	0      	-1636,46,-518
+794 	Block	0      	-1634,46,-522
+794 	Block	0      	-1634,46,-518
+794 	Block	0      	-1636,46,-522
+794 	Block	0      	-1632,46,-518
+794 	Block	0      	-1642,46,-518
+
+#Post-Show
+
+794	Text	Credits:
+794.1	Text	Soundtrack: Selections from Mulan, Pocahontas, Frozen, Wishes, Illuminations,
+794.2	Text	Fantasmic, and Fantasy in the Sky
+
+#Hub Lights
+795.1   Block   138  	-1648,68,-472
+795.1   Block   138  	-1644,75,-488
+795.1   Block   138  	-1656,68,-497
+795.1   Block   138  	-1650,67,-482
+795.1   Block   138  	-1655,67,-469
+795.1   Block   138  	-1655,67,-457
+795.1   Block   138  	-1669,68,-447
+795.1   Block   138  	-1654,68,-449
+795.1   Block   138  	-1657,67,-440
+795.1   Block   138  	-1648,67,-438
+795.1   Block   138  	-1655,67,-429
+795.1   Block   138  	-1642,67,-430
+795.1   Block   138  	-1623,67,-418
+795.1   Block   138  	-1605,67,-418
+795.1   Block   138  	-1586,67,-430
+795.1   Block   138  	-1580,67,-438
+795.1   Block   138  	-1580,67,-438
+795.1   Block   138  	-1567,68,-436
+795.1   Block   138  	-1574,68,-449
+795.1   Block   138  	-1565,68,-448
+795.1   Block   138  	-1573,67,-459
+795.1   Block   138  	-1574,67,-471
+795.1   Block   138  	-1563,68,-475
+795.1   Block   138  	-1578,67,-482
+795.1   Block   138  	-1568,68,-486
+795.1   Block   138  	-1574,68,-501
+795.1   Block   138  	-1589,67,-490
+795.1   Block   138  	-1540,67,-490
+795.1   Block   138  	-1620,68,-470
+795.1   Block   138  	-1619,67,-475
+795.1   Block   138  	-1620,67,-476
+795.1   Block   138  	-1626,67,-470
+795.1   Block   138  	-1625,67,-469
+795.1   Block   138  	-1620,68,-458
+795.1   Block   138  	-1625,67,-459
+795.1   Block   138  	-1626,67,-458
+795.1   Block   138  	-1620,67,-452
+795.1   Block   138  	-1619,67,-453
+795.1   Block   138  	-1608,68,-458
+795.1   Block   138  	-1609,67,-453
+795.1   Block   138  	-1608,67,-452
+795.1   Block   138  	-1602,67,-458
+795.1   Block   138  	-1603,67,-459
+795.1   Block   138  	-1608,68,-470
+795.1   Block   138  	-1603,67,-469
+795.1   Block   138  	-1602,67,-470
+795.1   Block   138  	-1608,67,-476
+795.1   Block   138  	-1609,67,-475
+795.1   Block   89    	-1614,64,-464
+795.1   Block   89    	-1640,67,-490
+795.1   Block   89    	-1589,67,-490
+795.1   Block   138  	-1627,63,-489
+795.1   Block   138  	-1601,63,-489
+795.1   Block   89    	-1627,63,-498
+795.1   Block   89    	-1601,63,-498
+795.1   Block   89    	-1626,65,-521
+795.1   Block   89    	-1620,65,-525
+795.1   Block   89    	-1608,65,-525
+795.1   Block   89    	-1586,71,-489
+795.1   Block   89    	-1594,74,-512
+795.1   Block   89    	-1634,74,-512
+795.1   Block   89    	-1643,71,-489
+795.1   Block   89    	-1608,65,-521
+795.1   Block   89    	-1608,65,-525
+795.1   Block   89    	-1602,65,-521
+795.1	Block	138	-1622,69,-509
+795.1	Block	138	-1606,69,-509
+795.1	Block	89	-1606,66,-512
+795.1	Block	89	-1608,66,-518
+795.1	Block	89	-1608,65,-521
+795.1	Block	89	-1620,65,-521
+795.1	Block	89	-1619,65,-516
+795.1	Block	89	-1620,65,-512
+
+#Castle Default Lights
+795.1      Block   152  	-1589,45,-516
+796      Block   0  	-1589,45,-516
+#Open Castle Barriers
+#Stage Ramps
+795.1   Block   0      	-1627,65,-502
+795.1   Block   0      	-1626,65,-502
+795.1   Block   0      	-1625,65,-502
+795.1   Block   0      	-1603,65,-502
+795.1   Block   0      	-1602,65,-502
+795.1   Block   0      	-1601,65,-502
+#Side Ramps
+795.1   Block   0      	-1632,65,-498
+795.1   Block   0      	-1631,65,-498
+795.1   Block   0      	-1630,65,-498
+795.1   Block   0      	-1598,65,-498
+795.1   Block   0      	-1597,65,-498
+795.1   Block   0      	-1596,65,-498
+#Castle Door
+795.1   Block   0      	-1616,66,-533
+795.1   Block   0      	-1615,66,-533
+795.1   Block   0      	-1614,66,-533
+795.1   Block   0      	-1613,66,-533
+795.1   Block   0      	-1612,66,-533
+795.1   Block   0      	-1612,67,-533
+795.1   Block   0      	-1613,67,-533
+795.1   Block   0      	-1614,67,-533
+795.1   Block   0      	-1615,67,-533
+795.1   Block   0      	-1616,67,-533
+795.1   Block   0      	-1616,68,-533
+795.1   Block   0      	-1615,68,-533
+795.1   Block   0      	-1614,68,-533
+795.1   Block   0      	-1613,68,-533
+795.1   Block   0      	-1612,68,-533
+795.1   Block   0      	-1612,69,-533
+795.1   Block   0      	-1613,69,-533
+795.1   Block   0      	-1614,69,-533
+795.1   Block   0      	-1615,69,-533
+795.1   Block   0      	-1616,69,-533
+795.1   Block   0      	-1616,70,-533
+795.1   Block   0      	-1615,70,-533
+795.1   Block   0      	-1614,70,-533
+795.1   Block   0      	-1613,70,-533
+795.1   Block   0      	-1612,70,-533
+795.1   Block   0      	-1613,71,-533
+795.1   Block   0      	-1614,71,-533
+795.1   Block   0      	-1615,71,-533
+795.1   Block   0      	-1615,72,-533
+795.1   Block   0      	-1614,72,-533
+795.1   Block   0      	-1613,72,-533
+#Stage Unclear
+795.1   Block   0      	-1602,54,-505
+795.1   Block   0      	-1602,54,-507
+795.1   Block   0      	-1602,54,-509
+795.1   Block   0      	-1602,54,-511
+795.1   Block   0      	-1602,54,-513
+
+795.4	Text	Fireworks--VirusElite, EndOfTheEarth, mixmasterjacob
+796	Text	Audio Mixing--EndOfTheEarth
+796.5	Text	Flying Blocks--mixmasterjacob
+797	Text	Fireworks Plugin--Chiss, Legobuilder0813
+797.5	Text	Server Infrastructure--MCProHosting
+798	Text	and, of course, the MCMAGIC.US servers!
+798.5	Text	We wish all of you another wonderful year!
+#ChatControl
+799.0	Block	152	-1608,55,-505
+799.0	Block	0	-1608,55,-505
+#Fountain
+800.0	Block	0	-1614,60,-430
+
+
+
+#ArcCleanup
+888        Block        0        -1573,82,-529
+888        Block        0        -1573,83,-529
+888        Block        0        -1573,84,-529
+888        Block        0        -1573,85,-529
+888        Block        0        -1573,86,-529
+888        Block        0        -1573,87,-529
+888        Block        0        -1573,88,-529
+888        Block        0        -1574,89,-529
+888        Block        0        -1574,90,-529
+888        Block        0        -1574,91,-529
+888        Block        0        -1574,92,-529
+888        Block        0        -1575,93,-529
+888        Block        0        -1575,94,-529
+888        Block        0        -1575,95,-529
+888        Block        0        -1575,96,-529
+888        Block        0        -1576,97,-529
+888        Block        0        -1576,98,-529
+888        Block        0        -1577,99,-529
+888        Block        0        -1577,100,-529
+888        Block        0        -1578,101,-529
+888        Block        0        -1578,102,-529
+888        Block        0        -1579,103,-529
+888        Block        0        -1579,104,-529
+888        Block        0        -1580,105,-529
+888        Block        0        -1581,106,-529
+888        Block        0        -1582,107,-529
+888        Block        0        -1582,108,-529
+888        Block        0        -1583,109,-529
+888        Block        0        -1584,110,-529
+888        Block        0        -1585,111,-529
+888        Block        0        -1586,112,-529
+888        Block        0        -1587,113,-529
+888        Block        0        -1588,114,-529
+888        Block        0        -1589,114,-529
+888        Block        0        -1590,115,-529
+888        Block        0        -1591,116,-529
+888        Block        0        -1592,117,-529
+888        Block        0        -1593,117,-529
+888        Block        0        -1594,118,-529
+888        Block        0        -1595,118,-529
+888        Block        0        -1596,119,-529
+888        Block        0        -1597,119,-529
+888        Block        0        -1598,120,-529
+888        Block        0        -1599,120,-529
+888        Block        0        -1600,121,-529
+888        Block        0        -1601,121,-529
+888        Block        0        -1602,121,-529
+888        Block        0        -1603,121,-529
+888        Block        0        -1604,122,-529
+888        Block        0        -1605,122,-529
+888        Block        0        -1606,122,-529
+888        Block        0        -1607,122,-529
+888        Block        0        -1608,123,-529
+888        Block        0        -1609,123,-529
+888        Block        0        -1610,123,-529
+888        Block        0        -1611,123,-529
+888        Block        0        -1612,123,-529
+888        Block        0        -1613,123,-529
+888        Block        0        -1614,123,-529
+888        Block        0        -1615,123,-529
+888        Block        0        -1616,123,-529
+888        Block        0        -1617,123,-529
+888        Block        0        -1618,123,-529
+888        Block        0        -1619,123,-529
+888        Block        0        -1620,123,-529
+888        Block        0        -1621,122,-529
+888        Block        0        -1622,122,-529
+888        Block        0        -1623,122,-529
+888        Block        0        -1624,122,-529
+888        Block        0        -1625,121,-529
+888        Block        0        -1626,121,-529
+888        Block        0        -1627,121,-529
+888        Block        0        -1628,121,-529
+888        Block        0        -1629,120,-529
+888        Block        0        -1630,120,-529
+888        Block        0        -1631,119,-529
+888        Block        0        -1632,119,-529
+888        Block        0        -1633,118,-529
+888        Block        0        -1634,118,-529
+888        Block        0        -1635,117,-529
+888        Block        0        -1636,117,-529
+888        Block        0        -1637,116,-529
+888        Block        0        -1638,115,-529
+888        Block        0        -1639,114,-529
+888        Block        0        -1640,114,-529
+888        Block        0        -1641,113,-529
+888        Block        0        -1642,112,-529
+888        Block        0        -1643,111,-529
+888        Block        0        -1644,110,-529
+888        Block        0        -1645,109,-529
+888        Block        0        -1646,108,-529
+888        Block        0        -1646,107,-529
+888        Block        0        -1647,106,-529
+888        Block        0        -1648,105,-529
+888        Block        0        -1649,104,-529
+888        Block        0        -1649,103,-529
+888        Block        0        -1650,102,-529
+888        Block        0        -1650,101,-529
+888        Block        0        -1651,100,-529
+888        Block        0        -1651,99,-529
+888        Block        0        -1652,98,-529
+888        Block        0        -1652,97,-529
+888        Block        0        -1653,96,-529
+888        Block        0        -1653,95,-529
+888        Block        0        -1653,94,-529
+888        Block        0        -1653,93,-529
+888        Block        0        -1654,92,-529
+888        Block        0        -1654,91,-529
+888        Block        0        -1654,90,-529
+888        Block        0        -1654,89,-529
+888        Block        0        -1655,88,-529
+888        Block        0        -1655,87,-529
+888        Block        0        -1655,86,-529
+888        Block        0        -1655,85,-529
+888        Block        0        -1655,84,-529
+888        Block        0        -1655,83,-529
+888        Block        0        -1655,82,-529
+
+795	Block	152	-1634,58,-503
+796	Block	0	-1634,58,-503
+0	Block	152	-1631,58,-503
+1	Block	0	-1631,58,-503
+

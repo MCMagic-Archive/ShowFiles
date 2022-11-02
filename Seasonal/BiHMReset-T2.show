@@ -1,0 +1,48 @@
+Show	Location	-25,65,-550
+Show	TextRadius	75
+#AudioOff
+0	Block	152	-21,73,-580
+#Barriers
+0	Block	0	-24,66,-552
+0	Block	0	-25,66,-552
+0	Block	0	-26,66,-552
+#LightsOnLake[1]
+0	Block	89	-44,63,-555
+0	Block	89	-38,63,-553
+0	Block	89	-33,63,-553
+0	Block	89	-17,63,-155
+0	Block	89	-12,63,-553
+0	Block	89	-6,63,-555
+0	Block	89	0,63,-557
+0	Block	89	7,73,-563
+0	Block	89	-25,64,-555
+0	Block	89	-25,64,-560
+#LightsOnBottom[2]
+0	Block	89	-53,65,-566
+0	Block	89	-44,65,-573
+0	Block	89	-33,65,-568
+0	Block	89	-25,70,-572
+0	Block	89	-17,65,-568
+0	Block	89	-6,65,-573
+#LightsOnTop[3]
+0	Block	89	-54,72,-569
+0	Block	89	-47,73,-573
+0	Block	89	-40,74,-577
+0	Block	89	-33,72,-570
+0	Block	89	-32,80,-574
+0	Block	89	-21,86,-576
+0	Block	89	-17,77,-574
+0	Block	89	-17,72,-570
+0	Block	89	-10,73,-577
+0	Block	89	-3,73,-573
+0	Block	89	-25,80,-571
+#BannersOn
+0	Block	152	-19,73,-576
+#BeaconsOff
+0	Block	173	-3,69,-575
+0	Block	173	-13,68,-583
+0	Block	173	-25,68,-589
+0	Block	173	-37,67,-583
+0	Block	173	-47,69,-575
+#SnowOff
+0	Block	0	-33,72,-576

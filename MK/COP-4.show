@@ -1,0 +1,849 @@
+Show	Location	-1389,75,-355
+Show	TextRadius	24	
+0	Block	152	-1399,55,-365	
+#IntroSceneText
+22	Text	&9Welcome to &6&lWalt Disney's Carousel of Progress&9. Now, your in for a real treat.
+28.4	Text	&9The Carousel was &6Walt's &9own idea from beginning to end, he loved it. He introduced the show at the World's Fair in New York City in 1964 and it was an immediate smash hit. 
+41.4	Text	&9Millions of people came to see it and since then the Carousel of Progress, has had more performances than any stage show in the history of American theater.
+51.3	Text	&9You know &6Walt &9loved the idea of progress, and he loved the American family, and he himself was proudly as American as anyone could possibly be.
+60.6	Text	&9He thought it would be fun to watch the American family, go through the 20th Century, experiencing all the new wonders as they came.
+68.4	Text	&9And he put them together in a show called &6&lCarousel of Progress&9, which we're now about to see.
+75.3	Text	&9Although our Carousel family has experienced a few changes over the years, our show still revolves around the same theme: and that's progress.
+85.3	Text	&9May the century begin.
+87.5	Text	&6♫ There's a great big beautiful tomorrow ♫
+91.5	Text	&6♫ Shining at the end of every day ♫
+94.8	Text	&6♫ There's a great big beautiful tomorrow ♫
+96	Block	152	-1396,55,-345
+98.8	Text	&6♫ And tomorrow's just a dream away ♫
+102.6	Text	&6♫ Man has a dream- ♫
+#FirstScene
+104	Block	89	-1393,63,-360
+104	Block	89	-1393,63,-355
+106.6	Text	&f[&9Father&f] &3Ah, well looks like the robins are getting ready to celebrate Valentines day today.
+106.6	Block	152	-1399,55,-347
+107.6	Block	152	-1399,55,-348
+108.6	Block	152	-1399,55,-346
+109.6	Block	152	-1399,55,-348
+110.6	Text	&3What year is it?
+110.6	Block	152	-1399,55,-346
+111.6	Block	152	-1399,55,-347
+111.9	Text	&3Oh, right around the turn of the century, and believe me things couldn't be any better than they are today.
+111.9	Block	152	-1399,55,-348
+112.9	Block	152	-1399,55,-347
+113.9	Block	152	-1399,55,-346
+114.9	Block	152	-1399,55,-347
+115.9	Block	152	-1399,55,-346
+116.9	Block	152	-1399,55,-348
+118.1	Text	&3Yes sir, buildings are towering now as high as twenty stories, and moving pictures flicker up on a big screen.
+118.1	Block	152	-1399,55,-347
+119.1	Block	152	-1399,55,-346
+120.1	Block	152	-1399,55,-347
+121.1	Block	152	-1399,55,-348
+122.1	Block	152	-1399,55,-346
+123.1	Block	152	-1399,55,-347
+124.1	Block	152	-1399,55,-348
+125.8	Text	&3We have almost eight thousand automobiles in this country, and we can travel by train from New York to California in less than seven days!
+125.8	Block	152	-1399,55,-346
+126.8	Block	152	-1399,55,-348
+127.8	Block	152	-1399,55,-346
+128.8	Block	152	-1399,55,-347
+129.8	Block	152	-1399,55,-346
+130.8	Block	152	-1399,55,-347
+131.8	Block	152	-1399,55,-348
+132.8	Block	152	-1399,55,-347
+133.8	Block	152	-1399,55,-346
+134.8	Text	&3And I even hear tell about two brothers in North Carolina, who are working on some kind of flying contraption.
+134.8	Block	152	-1399,55,-347
+135.8	Block	152	-1399,55,-348
+136.8	Block	152	-1399,55,-347
+137.8	Block	152	-1399,55,-346
+138.8	Block	152	-1399,55,-347
+139.8	Block	152	-1399,55,-348
+140.7	Text	&3Hahah, it'll never work...
+140.7	Block	152	-1399,55,-347
+141.7	Block	152	-1399,55,-346
+142.7	Block	152	-1399,55,-347
+143	Text	&3Closer to home, we've now got gas lamps, a telephone and the latest design in cast iron stoves.
+143	Block	152	-1399,55,-348
+144	Block	152	-1399,55,-346
+145	Block	152	-1399,55,-348
+146	Block	152	-1399,55,-347
+147	Block	152	-1399,55,-346
+148	Block	152	-1399,55,-348
+148	Block	152	-1399,55,-346
+149	Block	0	-1395,63,-359
+149.6	Text	&3And that reservoir keeps five gallons of water hot in just three buckets of coal.
+149.6	Block	152	-1399,55,-347
+150.6	Block	152	-1399,55,-348
+151.6	Block	152	-1399,55,-347
+152.6	Block	152	-1399,55,-346
+153.6	Block	152	-1399,55,-348
+154.1	Text	&3Oh boy it sure beats chopping wood.
+154.1	Block	152	-1399,55,-347
+155.1	Block	152	-1399,55,-348
+156.1	Block	152	-1399,55,-347
+156.6	Text	&3And isn't our new icebox a beauty?
+156.6	Block	152	-1399,55,-346
+157	Block	76	-1396,62,-362
+157	Block	89	-1396,64,-363
+157.6	Block	152	-1399,55,-347
+158.5	Text	&3Look at that!
+158.5	Block	152	-1399,55,-348
+159.3	Text	&3Holds 50 pounds of ice.
+159.3	Block	152	-1399,55,-347
+160.3	Block	152	-1399,55,-346
+161.3	Text	&3Milk doesn't sour as quickly as it use to.
+161.3	Block	152	-1399,55,-347
+162.3	Block	152	-1399,55,-348
+163.3	Block	152	-1399,55,-346
+163.8	Text	&3And our dog &2Rover &3here keeps the water in the drip pan from overflowing.
+163.8	Block	152	-1399,55,-347
+164.8	Block	152	-1399,55,-348
+165.8	Block	152	-1399,55,-346
+166.8	Block	152	-1399,55,-347
+167.8	Block	152	-1399,55,-348
+169	Block	5:1	-1396,64,-363
+169	Block	0	-1396,62,-362
+169	Block	76	-1395,63,-359
+169	Text	&3It wasn't too long ago, we had to carry water from a well.
+169	Block	152	-1399,55,-346
+170	Block	152	-1399,55,-347
+171	Block	152	-1399,55,-346
+172.7	Text	&3And thanks to progress, we've got a pump right here in the kitchen.
+172.7	Block	152	-1399,55,-347
+173	Block	152	-1399,56,-362
+173.7	Block	152	-1399,55,-348
+174	Block	152	-1399,56,-362
+174.7	Block	152	-1399,55,-347
+175	Block	152	-1399,56,-362
+175.7	Block	152	-1399,55,-348
+176	Block	152	-1399,56,-362
+176.5	Text	&3Of course we keep a bucket of water handy to prime it with.
+176.5	Block	152	-1399,55,-346
+177	Block	152	-1399,56,-362
+177.5	Block	152	-1399,55,-347
+178.5	Block	152	-1399,55,-346
+179.4	Text	&3Yes sir, we've got everything we need to make life easier.
+179.4	Block	152	-1399,55,-347
+180	Block	152	-1399,56,-347
+180.4	Block	152	-1399,55,-348
+181.4	Block	152	-1399,55,-347
+182.4	Block	152	-1399,55,-346
+183.8	Text	&3Say &5Mother&3?
+183.8	Block	152	-1399,55,-347
+184.5	Text	&f[&5Mother&f] &dHmm?
+184.7	Block	152	-1399,55,-362
+184.9	Block	89	-1399,68,-363
+185.3	Text	&f[&9Father&f] &3I was reading about a fellow named Tom Edison who's working on an idea for snap-on electric lights.
+185.3	Block	152	-1399,55,-348
+186.3	Block	152	-1399,55,-347
+187.3	Block	152	-1399,55,-348
+188.3	Block	152	-1399,55,-346
+189.3	Block	152	-1399,55,-348
+190.3	Block	152	-1399,55,-347
+191.3	Block	152	-1399,55,-346
+191.5	Text	&f[&5Mother&f] &dElectric lights?
+191.5	Block	152	-1399,56,-348
+193	Text	&dNo more kerosine!
+193	Block	152	-1399,56,-347
+194.8	Text	&dNo more gas!
+194.8	Block	152	-1399,56,-348
+196.3	Text	&f[&9Father&f] &3Hehe, &5Sarah &3sure gets the core of the apple.
+196.3	Block	152	-1399,55,-347
+197.3	Block	152	-1399,55,-348
+198.3	Block	152	-1399,55,-346
+199	Text	&f[&5Mother&f] &dBut we do have this new washday marvel.
+199	Block	152	-1399,56,-347
+200	Block	152	-1399,56,-348
+201.7	Text	&dNow it only takes me five hours to do the wash.
+201.7	Block	152	-1399,56,-347
+202.7	Block	152	-1399,56,-348
+203.7	Block	152	-1399,56,-347
+205.3	Text	&dImagine, it use to take two days!
+205.3	Block	152	-1399,56,-348
+206.3	Block	152	-1399,56,-347
+207.3	Block	152	-1399,56,-348
+208.1	Text	&f[&9Father&f] &3Oh that's right folks, now &5Sarah &3has time for other things like-
+208.1	Block	152	-1399,55,-348
+209.1	Block	152	-1399,55,-347
+210.1	Block	152	-1399,55,-346
+210.9	Text	&f[&5Mother&f] &dLike canning and cleaning the oven?
+210.9	Block	152	-1399,56,-347
+211.9	Block	152	-1399,56,-348
+212.9	Block	152	-1399,56,-347
+213.3	Text	&f[&9Father&f] &3Yes dear.
+212.3	Block	152	-1399,55,-347
+214.5	Text	&f[&5Mother&f] &dWell ovens don't just clean themselves you know dear.
+214.5	Block	152	-1399,56,-348
+215.5	Block	152	-1399,56,-347
+216.6	Text	&f[&9Father&f] &3I know dear heheh, and they probably never will!
+216.6	Block	152	-1399,55,-348
+217.6	Block	152	-1399,55,-346
+218.6	Block	152	-1399,55,-347
+219.7	Text	&f[&5Mother&f] &dNow, if you'll excuse me i've got to get the laundry off the line before it starts raining cats and dogs.
+219.7	Block	152	-1399,56,-348
+220.7	Block	152	-1399,56,-347
+221.7	Block	152	-1399,56,-348
+222.7	Block	152	-1399,56,-347
+223.7	Block	152	-1399,56,-348
+224.5	Block	152	-1399,55,-350
+224.5	Block	152	-1399,55,-351
+224.5	Block	152	-1399,55,-352
+224.5	Block	152	-1399,55,-353
+224.5	Block	152	-1399,55,-354
+224.5	Block	152	-1399,55,-355
+224.5	Block	152	-1399,55,-356
+224.5	Block	152	-1399,55,-357
+224.5	Block	152	-1399,55,-358
+224.5	Block	152	-1399,55,-359
+224.5	Block	152	-1399,55,-360
+224.6	Block	152	-1396,55,-350
+224.6	Block	152	-1396,55,-351
+224.6	Block	152	-1396,55,-352
+224.6	Block	152	-1396,55,-353
+224.6	Block	152	-1396,55,-354
+224.6	Block	152	-1396,55,-355
+224.6	Block	152	-1396,55,-356
+224.6	Block	152	-1396,55,-357
+224.6	Block	152	-1396,55,-358
+224.6	Block	0	-1399,68,-363
+224.8	Text	&f[&2Rover&f] &aBark, bark!
+226.7	Text	&f[&9Father&f] &3Ahh, don't worry &2Rover &3she didn't mean real dogs, besides it's not going to rain today. My lumbago isn't acting up.
+226.7	Block	152	-1399,55,-348
+227.7	Block	152	-1399,55,-347
+228.7	Block	152	-1399,55,-348
+229.7	Block	152	-1399,55,-346
+230.7	Block	152	-1399,55,-348
+231.7	Block	152	-1399,55,-347
+232.8	Block	5:1	-1393,63,-360
+232.8	Block	5:1	-1393,63,-355
+233	Block	89	-1393,63,-360
+233	Block	89	-1393,63,-355
+233	Block	152	-1394,54,-349
+232.7	Block	152	-1399,55,-346
+233.7	Block	152	-1399,55,-348
+236.7	Text	&f[&5Mother&f] &dI hate to say I told you so.
+238.7	Text	&f[&9Father&f] &3Oh, look at it come down! All you have to do is put your wash on the line right?
+238.7	Block	152	-1399,55,-346
+239.7	Block	152	-1399,55,-348
+240.7	Block	152	-1399,55,-347
+241.7	Block	152	-1399,55,-346
+242.7	Block	152	-1399,55,-348
+243.5	Text	&3Oh well, the cistern was low anyway.
+243.5	Block	152	-1399,55,-347
+244.5	Block	152	-1399,55,-346
+245.4	Block	152	-1399,55,-363
+245.6	Block	89	-1401,68,-351
+245.6	Text	&f[&6Son&f] &eWowee! Look at that!
+245.6	Block	152	-1396,56,-346
+246.6	Block	152	-1396,56,-345
+248.2	Text	&f[&9Father&f] &3Now &6James&3, I thought I told you to ask my permission before using my new stereoscope.
+248.2	Block	152	-1399,55,-347
+249.2	Block	152	-1399,55,-348
+250.2	Block	152	-1399,55,-347
+251.2	Block	152	-1399,55,-346
+252.2	Block	152	-1399,55,-348
+253	Text	&3Thats not a toy you know!
+253	Block	152	-1399,55,-347
+254	Block	152	-1399,55,-348
+254.4	Text	&f[&6Son&f] &eOoh la la! So that's the Norwegian doing the hoochie- koochie, eh &9Dad&e?
+254.4	Block	152	-1396,56,-346
+255.4	Block	152	-1396,56,-345
+256.4	Block	152	-1396,56,-346
+257.4	Block	152	-1396,56,-345
+258.7	Text	&f[&9Father&f] &3Isn't she a knockout?
+258.7	Block	152	-1399,55,-347
+259.7	Block	152	-1399,55,-346
+260.3	Text	&3She's the star of the new World's Fair in Saint Louis and... ahem... you put that away before your &5Mother &3finds it.
+260.3	Block	152	-1399,55,-347
+261.3	Block	152	-1399,55,-348
+262.3	Block	152	-1399,55,-347
+263.3	Block	152	-1399,55,-346
+264.3	Block	152	-1399,55,-347
+265.3	Block	152	-1399,55,-348
+266.5	Text	&f[&6Son&f] &eAww &9Dad&e...
+266.5	Block	152	-1396,56,-346
+267.6	Text	&f[&9Father&f] &3You heard me!
+267.6	Block	152	-1399,55,-347
+269	Block	152	-1393,55,-350
+269	Block	152	-1393,55,-351
+269	Block	152	-1393,55,-352
+269	Block	152	-1393,55,-353
+269	Block	152	-1393,55,-354
+269	Block	152	-1393,55,-355
+269	Block	152	-1393,55,-356
+269	Block	152	-1393,55,-357
+269	Block	152	-1393,55,-358
+269	Block	152	-1393,55,-359
+269	Block	152	-1393,55,-360
+269	Block	20	-1394,54,-349
+269.1	Block	152	-1390,55,-351
+269.1	Block	152	-1390,55,-352
+269.1	Block	152	-1390,55,-353
+269.1	Block	152	-1390,55,-354
+269.1	Block	152	-1390,55,-355
+269.1	Block	152	-1390,55,-356
+269.1	Block	152	-1390,55,-357
+269.1	Block	152	-1390,55,-358
+269.1	Block	152	-1390,55,-359
+269.1	Block	0	-1401,68,-351
+269.1	Text	&3Well, we have one of those new talking machines... now that is something.
+269.1	Block	152	-1399,55,-346
+270.1	Block	152	-1399,55,-347
+270	Block	152	-1396,56,-347
+270	Block	152	-1399,56,-346
+270	Block	0	-1399,66,-363
+270	Block	0	-1399,65,-363
+270	Block	0	-1399,66,-364
+270	Block	0	-1399,65,-364
+270	Block	134:3	-1398,65,-364
+270	Block	188	-1399,65,-364
+270	Block	171:12	-1399,66,-364
+271.1	Block	152	-1399,55,-346
+272.2	Block	152	-1399,55,-348
+273.5	Text	&3It plays music right here in our home.
+273.5	Block	152	-1399,55,-346
+274.5	Block	152	-1399,55,-347
+275.5	Block	152	-1399,55,-362
+275.7	Block	89	-1399,68,-363
+278.4	Text	&f[&4Parrot&f] &cAaah. She keeps that thing going all day long. Aaah! Progress! Aaah.
+280	Block	152	-1399,55,-345	
+280	Block	0	-1401,65,-351
+280	Block	0	-1401,66,-351
+280	Block	126:11	-1401,65,-350
+280	Block	171:8	-1401,66,-350
+284.1	Block	152	-1399,55,-350
+284.1	Block	152	-1399,55,-351
+284.1	Block	152	-1399,55,-352
+284.1	Block	152	-1399,55,-353
+284.1	Block	152	-1399,55,-354
+284.1	Block	152	-1399,55,-355
+284.1	Block	152	-1399,55,-356
+284.1	Block	152	-1399,55,-357
+284.1	Block	152	-1399,55,-358
+284.1	Block	152	-1399,55,-359
+284.1	Block	152	-1399,55,-360
+284.2	Block	152	-1396,55,-350
+284.2	Block	152	-1396,55,-351
+284.2	Block	152	-1396,55,-352
+284.2	Block	152	-1396,55,-353
+284.2	Block	152	-1396,55,-354
+284.2	Block	152	-1396,55,-355
+284.2	Block	152	-1396,55,-356
+284.2	Block	152	-1396,55,-357
+284.2	Block	152	-1396,55,-358
+284.2	Block	0	-1399,68,-363
+284.8	Block	152	-1399,55,-363	
+284.9	Block	89	-1401,68,-351
+285	Text	&f[&5Daughter&f] &dOh papa.
+285	Block	152	-1396,55,-348
+286	Text	&f[&9Father&f] &3Yes &5Patricia&3.
+286	Block	152	-1399,55,-348
+287.4	Text	&f[&5Daughter&f] &dPapa! All these people! I'm... I'm indecent!
+287.4	Block	152	-1396,55,-347
+288.4	Block	152	-1396,55,-348
+289.4	Block	152	-1396,55,-347
+290.4	Block	152	-1396,55,-348
+291.6	Text	&f[&9Father&f] &3Heh, don't worry &5Patricia&3. They're friends.
+291.6	Block	152	-1399,55,-347
+292.6	Block	152	-1399,55,-348
+293.6	Block	152	-1399,55,-346
+294.8	Text	&3That's my teenage &5Daughter&3. She's getting ready to go to a Valentines dance across town, on one of those new horseless trolleys.
+294.8	Block	152	-1399,55,-348
+295.8	Block	152	-1399,55,-347
+296.8	Block	152	-1399,55,-346
+297.8	Block	152	-1399,55,-347
+298.8	Block	152	-1399,55,-348
+299.8	Block	152	-1399,55,-346
+300.8	Block	152	-1399,55,-347
+302.2	Text	&f[&5Daughter&f] &dI think it's very romantic, you're taking &5Mother &dout for Valentines dinner this evening.
+302.2	Block	152	-1396,55,-348
+303.2	Block	152	-1396,55,-347
+304.2	Block	152	-1396,55,-348
+305.2	Block	152	-1396,55,-347
+306.2	Block	152	-1396,55,-348
+306.9	Text	&f[&9Father&f] &3Well, you know what kind of sport I am.
+306.9	Block	152	-1399,55,-348
+307.9	Block	152	-1399,55,-346
+308.9	Block	152	-1399,55,-347
+309.3	Text	&f[&5Daughter&f] &dI only hope that I have an evening as romantic as yours and &5Mothers&d.
+309.3	Block	152	-1396,55,-347
+310.3	Block	152	-1396,55,-348
+311.3	Block	152	-1396,55,-347
+312.3	Block	152	-1396,55,-348
+313.3	Block	152	-1396,55,-347
+314.2	Text	&f[&9Father&f] &3Now you be home by nine o'clock &5Daughter&d. You hear me?
+314.2	Block	152	-1399,55,-348
+315.2	Block	152	-1399,55,-346
+316.2	Block	152	-1399,55,-347
+317.2	Text	&f[&5Daughter&f] &dYes papa.
+317.2	Block	152	-1396,55,-348
+317.4	Block	152	-1393,55,-350
+317.4	Block	152	-1393,55,-351
+317.4	Block	152	-1393,55,-352
+317.4	Block	152	-1393,55,-353
+317.4	Block	152	-1393,55,-354
+317.4	Block	152	-1393,55,-355
+317.4	Block	152	-1393,55,-356
+317.4	Block	152	-1393,55,-357
+317.4	Block	152	-1393,55,-358
+317.4	Block	152	-1393,55,-359
+317.4	Block	152	-1393,55,-360
+317.5	Block	152	-1390,55,-351
+317.5	Block	152	-1390,55,-352
+317.5	Block	152	-1390,55,-353
+317.5	Block	152	-1390,55,-354
+317.5	Block	152	-1390,55,-355
+317.5	Block	152	-1390,55,-356
+317.5	Block	152	-1390,55,-357
+317.5	Block	152	-1390,55,-358
+317.5	Block	152	-1390,55,-359
+317.5	Block	0	-1401,68,-351
+318	Block	126:11	-1401,65,-351
+318	Block	171:8	-1401,66,-351
+318	Block	0	-1401,65,-350
+318	Block	0	-1401,66,-350
+318	Block	152	-1396,56,-347
+318	Block	152	-1399,56,-346
+318.3	Text	&f[&9Father&f] &3Ahh- well with all this talking. I've worked up quite a thirst.
+318.3	Block	152	-1399,55,-348
+319.3	Block	152	-1399,55,-346
+320.3	Block	152	-1399,55,-348
+321.5	Text	&3I think I'll take one of those new fangled trolleys down to the drug store soda fountain and meet the boys for a cold sarsaparilla.
+321.5	Block	152	-1399,55,-347
+322.5	Block	152	-1399,55,-348
+323.5	Block	152	-1399,55,-346
+324.5	Block	152	-1399,55,-347
+325.5	Block	152	-1399,55,-346
+326.5	Block	152	-1399,55,-348
+327.5	Block	152	-1399,55,-347
+328.5	Block	152	-1399,55,-346
+329.2	Text	&3Oh... ha ha, I'm sorry, I forgot... we're drinking root beer now! 
+329.2	Block	152	-1399,55,-347
+330.2	Block	152	-1399,55,-348
+331.2	Block	152	-1399,55,-346
+332.2	Block	152	-1399,55,-347
+333.5	Text	&3Same kind of thing, different name.
+333.5	Block	152	-1399,55,-348
+334.5	Block	152	-1399,55,-346
+335.5	Block	152	-1399,55,-348
+336.1	Text	&3Well, that's progress for you. And ehh-
+336.1	Block	152	-1399,55,-347
+337.1	Block	152	-1399,55,-346
+338.6	Text	&3Speaking of progress...
+338.6	Block	152	-1399,55,-347
+340.2	Text	&6♫ There's a great big beautiful tomorrow ♫
+340.2	Block	152	-1399,55,-348
+341.2	Block	152	-1399,55,-347
+342.2	Block	152	-1399,55,-346
+343.2	Block	152	-1399,55,-347
+344.1	Text	&6♫ Shining at the end of every day ♫
+344.1	Block	152	-1399,55,-348
+345.1	Block	152	-1399,55,-347
+346.1	Block	152	-1399,55,-346
+347.4	Text	&6♫ There's a great big beautiful tomorrow ♫
+347.4	Block	152	-1399,55,-347
+348.4	Block	152	-1399,55,-348
+349.4	Block	152	-1399,55,-346
+350.4	Block	152	-1399,55,-347
+351.3	Text	&6♫ And tomorrow's just a dream away ♫
+351.3	Block	152	-1399,55,-348
+352.3	Block	152	-1399,55,-347
+253.3	Block	152	-1399,55,-346
+254.3	Block	152	-1399,55,-347
+355.4	Text	&6♫ Man has a dream and that's the start ♫
+355.4	Block	152	-1399,55,-348
+356	Block	152	-1396,55,-346
+#FirstSceneCLEANUP
+357	Block	5:1	-1393,63,-360
+357	Block	5:1	-1393,63,-355
+357	Block	171	-1399,66,-363
+357	Block	126:11	-1399,65,-363
+357	Block	171	-1399,66,-364
+357	Block	126:11	-1399,65,-364
+357	Block	0	-1398,65,-364
+357	Block	152	-1396,56,-348
+357	Block	152	-1399,56,-347
+357	Block	152	-1399,56,-345
+#SecondScene
+359	Text	&6♫ He follows his dream with mind and heart ♫
+362.7	Text	&6♫ And when it becomes a reality ♫
+366.5	Text	&6♫ It's a dream come true for you and me ♫
+369.8	Text	&6♫ So there's a great big beautiful tomorrow ♫
+374.2	Text	&6♫ Shining at the end of every day ♫
+377.6	Text	&6♫ There's a great big beautiful tomorrow ♫
+381.7	Text	&6♫ Just a dream away ♫
+382	Block	152	-1387,55,-345
+382	Block	152	-1387,55,-346
+382	Block	152	-1387,55,-347
+382	Block	152	-1387,55,-348
+386.7	Text	&f[&9Father&f] &3Whew, boy! Hottest Forth of July we've had in years. 
+386.7	Block	152	-1390,55,-346
+387.7	Block	152	-1390,55,-347
+388.7	Block	152	-1390,55,-345
+390	Text	&3We've come a long way though since the turn of the century over twenty some-odd years ago.
+390	Block	152	-1390,55,-346
+391	Block	152	-1390,55,-345
+392	Block	152	-1390,55,-347
+393	Block	152	-1390,55,-346
+394	Block	152	-1390,55,-345
+394.9	Text	&3You know that pilot fellah... Charles Lindberg? He's about to fly a single winged airplane all the way across the Atlantic heh.
+394.9	Block	152	-1390,55,-346
+395.9	Block	152	-1390,55,-347
+396.9	Block	152	-1390,55,-345
+397.9	Block	152	-1390,55,-346
+398.9	Block	152	-1390,55,-345
+399.9	Block	152	-1390,55,-347
+400.9	Block	152	-1390,55,-346
+401.9	Text	&3He's never gonna make it. And sports stadiums are springing up all over.
+401.9	Block	152	-1390,55,-345
+402.9	Block	152	-1390,55,-347
+403.9	Block	152	-1390,55,-346
+404.9	Block	152	-1390,55,-345
+405.9	Block	152	-1390,55,-347
+407.5	Text	&3And boy... nobody hits that old horse hide like that new fellah, Babe Ruth.
+407.5	Block	152	-1390,55,-346
+408.5	Block	152	-1390,55,-345
+409.5	Block	152	-1390,55,-347
+410.5	Block	152	-1390,55,-346
+411.5	Block	152	-1390,55,-347
+412.7	Text	&3Jazz music is the cat's meow, and there's been adds in the paper for months for a movie starring Al Jollson... 
+412.7	Block	152	-1390,55,-345
+413.7	Block	152	-1390,55,-347
+414.7	Block	152	-1390,55,-345
+415.7	Block	152	-1390,55,-346
+416.7	Block	152	-1390,55,-347
+417.7	Block	152	-1390,55,-345
+418.7	Block	152	-1390,55,-346
+419.7	Block	152	-1390,55,-347
+420.5	Text	&3and he's going to talk! And sing! Boy, I've got to see that.
+420.5	Block	152	-1390,55,-345
+421.5	Block	152	-1390,55,-346
+422.5	Block	152	-1390,55,-347
+423.5	Block	152	-1390,55,-345
+427.1	Text	&3Ha ha ha. There goes Schwarts in his hump mobile. He sure loves that horn.
+427.1	Block	152	-1390,55,-347
+428.1	Block	152	-1390,55,-346
+429.1	Block	152	-1390,55,-347
+430.1	Block	152	-1390,55,-345
+431.4	Text	&3You know, in my new Essex, I've got an electric starter! Now I don't have to crank.
+431.4	Block	152	-1390,55,-346
+432.4	Block	152	-1390,55,-345
+433.4	Block	152	-1390,55,-346
+434.4	Block	152	-1390,55,-347
+436	Text	&3We can travel from New York to Los Angeles by train in only three days. 
+436	Block	152	-1390,55,-345
+437	Block	152	-1390,55,-347
+438	Block	152	-1390,55,-346
+439	Block	152	-1390,55,-345
+441.9	Text	&3Now we've got a house full of new electrical servants.
+441.9	Block	152	-1390,55,-347
+442.9	Block	152	-1390,55,-346
+443.9	Block	152	-1390,55,-345
+445.2	Text	&3Mr. Edison sure added life to our home.
+445.2	Block	152	-1390,55,-346
+446.2	Block	152	-1390,55,-347
+446	Block	152	-1396,56,-363
+447	Block	152	-1396,56,-362
+448	Block	152	-1396,56,-363
+447.8	Block	76	-1395,63,-349
+449	Block	152	-1396,56,-362
+450	Block	152	-1396,56,-363
+451	Block	152	-1396,56,-362
+452	Block	152	-1396,56,-363
+452	Block	152	-1385,55,-345
+452	Block	152	-1385,55,-346
+452	Block	152	-1385,55,-347
+452	Block	152	-1385,55,-348
+452	Block	152	-1387,55,-345
+452	Block	152	-1387,55,-346
+452	Block	152	-1387,55,-347
+452	Block	152	-1387,55,-348
+453	Block	152	-1396,56,-362
+452	Block	152	-1385,55,-345
+452	Block	152	-1385,55,-346
+452	Block	152	-1385,55,-347
+452	Block	152	-1385,55,-348
+453	Block	152	-1387,55,-345
+453	Block	152	-1387,55,-346
+453	Block	152	-1387,55,-347
+453	Block	152	-1387,55,-348
+454	Block	152	-1396,56,-363
+451	Block	152	-1396,56,-362
+452	Block	152	-1396,56,-363
+453	Block	152	-1396,56,-362
+454	Block	152	-1396,56,-363
+454.2	Text	&3Whoa there! You'll blow a fuse!
+454.2	Block	152	-1390,55,-346
+455	Block	152	-1396,56,-362
+455.2	Block	152	-1390,55,-345
+456	Block	152	-1396,56,-363
+456	Block	0	-1393,68,-348
+456	Block	0	-1390,68,-346
+456.7	Text	&3Drat! That's the third one this week. I buy fuses by the case.
+456.7	Block	152	-1390,55,-346
+457.7	Block	152	-1390,55,-347
+458.7	Block	152	-1390,55,-345
+461.3	Text	&3Uh oh. And I've blown the whole neighborhood again.
+461.3	Block	152	-1390,55,-347
+462.3	Block	152	-1390,55,-345
+463.7	Text	&f[&cWoman&f] &cHenry! He did it again! Go over and give that neighbor of ours what for!
+469.8	Text	&f[&2Rover&f] &aGrrrr!
+470.6	Text	&f[&9Father&f] &3Easy &2Rover&3.
+470.6	Block	152	-1390,55,-346
+472.7	Text	&6Jimmy&3! Hurry up with that fuse!
+472.7	Block	152	-1390,55,-347
+473.7	Block	152	-1390,55,-346
+475.2	Text	&f[&6Son&f] &eShucks. Every time he has company, he blows a fuse. And guess who always has to change it.
+481	Text	&f[&9Father&f] &3I heard that young man! I heard that!
+481	Block	152	-1390,55,-345
+482	Block	152	-1390,55,-347
+483.7	Block	152	-1396,55,-363
+483.9	Block	89	-1388,68,-342	
+484	Text	&f[&5Mother&f] &dOh, well that's more like it. &9John&d, yours is the last costume I've got to finish before the parade starts.
+484	Block	152	-1390,56,-345
+484.3	Block	50:2	-1391,68,-346
+484.3	Block	50:3	-1393,68,-347
+484.3	Block	50:3	-1390,68,-345
+484.3	Block	50:1	-1389,68,-346
+484.3	Block	50:1	-1392,68,-348
+484.3	Block	50:4	-1393,68,-349
+484.3	Block	50:4	-1390,68,-347
+484.3	Block	95:3	-1386,66,-349
+484.3	Block	95:3	-1386,65,-349
+485	Block	152	-1390,56,-346	
+486	Block	152	-1390,56,-345
+487	Block	152	-1390,56,-346
+488	Block	152	-1390,56,-345
+489.5	Text	&f[&9Father&f] &5Sarah's &3lady's club is responsible for our town's Forth of July celebration tonight.
+489.5	Block	152	-1390,55,-346
+490.5	Block	152	-1390,55,-345
+491.5	Block	152	-1390,55,-347
+492.5	Block	152	-1390,55,-346
+493.5	Block	152	-1390,55,-347
+495	Text	&3She's got us all roped up into preforming in their program.
+495	Block	152	-1390,55,-345
+496	Block	152	-1390,55,-346
+497	Block	152	-1390,55,-347
+498.2	Text	&f[&5Mother&f] &dAnd I've decided that we're going as George and Martha Washington dear.
+498.2	Block	152	-1390,56,-345
+499.2	Block	152	-1390,56,-346
+500.2	Block	152	-1390,56,-345
+501.7	Text	&f[&9Father&f] &3Oh... the father of our country. 
+501.7	Block	152	-1390,55,-346
+502.7	Block	152	-1390,55,-345
+503.7	Block	152	-1390,55,-346
+505	Text	&3That's a role that really fits me! You know, I--
+505	Block	152	-1390,55,-346
+506	Block	152	-1390,55,-347
+507	Block	152	-1390,55,-346
+507.7	Text	&f[&5Mother&f] &dI'm so glad that we installed an electric light fixture here on the porch, because it's just to darn hot to be sewing inside.
+508.7	Block	152	-1390,56,-346
+509.7	Block	152	-1390,56,-345
+510.7	Block	152	-1390,56,-346
+511.7	Block	152	-1390,56,-345
+512.7	Block	152	-1390,56,-346
+513.7	Block	152	-1390,56,-345
+514.4	Text	&f[&9Father&f] &3Yes &5Sarah&3. You know, next year I'd like to go as Benedict Arnold! Ha ha. I--
+514.4	Block	152	-1390,55,-347
+515.4	Block	152	-1390,55,-346
+516.4	Block	152	-1390,55,-345
+517.4	Block	152	-1390,55,-346
+518.4	Block	152	-1390,55,-347
+519	Text	&f[&5Mother&f] &dWait until you see what I've got planned for the fireworks show tonight.
+519	Block	152	-1390,56,-346
+520	Block	152	-1390,56,-345
+521	Block	152	-1390,56,-346
+522.7	Text	&f[&2Rover&f] &aBark! bark!
+523.2	Text	&f[&9Father&f] &2Rover&3! Don't interrupt, while &5Sarah's &3interrupting.
+523.2	Block	152	-1390,55,-347
+524.2	Block	152	-1390,55,-346
+525.2	Block	152	-1390,55,-347
+526.2	Block	152	-1390,55,-345
+526.1	Text	&f[&5Mother&f] &dAnd guess who volunteered to choose the music for the program.
+526	Block	152	-1390,56,-345
+527	Block	152	-1390,56,-346
+528	Block	152	-1390,56,-345
+528.5	Block	0	-1388,68,-342
+528.5	Block	152	-1387,55,-350
+528.5	Block	152	-1387,55,-351
+528.5	Block	152	-1387,55,-352
+528.5	Block	152	-1387,55,-353
+528.5	Block	152	-1387,55,-354
+528.5	Block	152	-1387,55,-355
+528.5	Block	152	-1387,55,-356
+528.5	Block	152	-1387,55,-357
+528.5	Block	152	-1387,55,-358
+528.5	Block	152	-1387,55,-359
+528.6	Block	152	-1384,55,-350
+528.6	Block	152	-1384,55,-351
+528.6	Block	152	-1384,55,-352
+528.6	Block	152	-1384,55,-353
+528.6	Block	152	-1384,55,-354
+528.6	Block	152	-1384,55,-355
+528.6	Block	152	-1384,55,-356
+528.6	Block	152	-1384,55,-357
+528.6	Block	152	-1384,55,-358
+528.8	Block	152	-1396,55,-363
+529	Block	89	-1398,68,-348
+529.3	Text	&f[&6Son&f] &eI did pop! Listen to this!
+540	Block	152	-1377,54,-349	
+536.4	Text	&f[&9Father&f] &3Oh... that's a nice tune &6Jimmy&3.
+536.4	Block	152	-1390,55,-346
+537.4	Block	152	-1390,55,-345
+539	Block	20	-1377,54,-349
+540.5	Text	&f[&4Radio&f] &cPeople are starting to arrive downtown for a spectacular Forth of July parade and fireworks event tonight. Mayor Beaverfield said---
+545	Block	152	-1390,56,-347
+546.7	Block	0	-1398,68,-348
+546.7	Block	152	-1381,55,-350
+546.7	Block	152	-1381,55,-351
+546.7	Block	152	-1381,55,-352
+546.7	Block	152	-1381,55,-353
+546.7	Block	152	-1381,55,-354
+546.7	Block	152	-1381,55,-355
+546.7	Block	152	-1381,55,-356
+546.7	Block	152	-1381,55,-357
+546.7	Block	152	-1381,55,-358
+546.8	Block	152	-1378,55,-350
+546.8	Block	152	-1378,55,-351
+546.8	Block	152	-1378,55,-352
+546.8	Block	152	-1378,55,-353
+546.8	Block	152	-1378,55,-354
+546.8	Block	152	-1378,55,-355
+546.8	Block	152	-1378,55,-356
+546.8	Block	152	-1378,55,-357
+547.7	Text	&f[&9Father&f] &3Oh &5Patricia&3.
+547.7	Block	152	-1390,55,-346
+547.7	Block	0	-1388,64,-342
+547.7	Block	5:3	-1388,64,-342
+547.7	Block	171	-1388,65,-342	
+548.4	Block	152	-1396,55,-363
+548.4	Block	89	-1388,68,-342
+548.6	Text	&f[&5Daughter&f] &dYes &bFather&d?
+548.6	Block	152	-1390,56,-345
+550.1	Text	&f[&9Father&f] &3Better get a move on. The radio says people are arriving downtown.
+550.1	Block	152	-1390,55,-347
+551.1	Block	152	-1390,55,-346
+552.1	Block	152	-1390,55,-347
+553.7	Text	&f[&5Daughter&f] &dDo I really have to go?
+553.7	Block	152	-1390,56,-346
+554.7	Block	152	-1390,56,-345
+556.9	Text	&d If my new boyfriend Theodore sees me in this, it'll scare him away!
+556.9	Block	152	-1390,56,-346
+557.9	Block	152	-1390,56,-345
+558.9	Block	152	-1390,56,-346
+559.9	Block	152	-1390,56,-345
+562.2	Text	&f[&9Father&f] &3Well dear, if that happens, you'll always have that torch you can carry for him. Ha ha ha.
+562.2	Block	152	-1390,55,-345
+563.2	Block	152	-1390,55,-346
+564.2	Block	152	-1390,55,-347
+565.2	Block	152	-1390,55,-345
+566.2	Block	152	-1390,55,-346
+567	Text	&f[&5Daughter&f] &dOh &bFather&d!
+567	Block	152	-1390,56,-346
+567.5	Block	0	-1388,68,-342
+567.5	Block	152	-1387,55,-350
+567.5	Block	152	-1387,55,-351
+567.5	Block	152	-1387,55,-352
+567.5	Block	152	-1387,55,-353
+567.5	Block	152	-1387,55,-354
+567.5	Block	152	-1387,55,-355
+567.5	Block	152	-1387,55,-356
+567.5	Block	152	-1387,55,-357
+567.5	Block	152	-1387,55,-358
+567.5	Block	152	-1387,55,-359
+567.6	Block	152	-1384,55,-350
+567.6	Block	152	-1384,55,-351
+567.6	Block	152	-1384,55,-352
+567.6	Block	152	-1384,55,-353
+567.6	Block	152	-1384,55,-354
+567.6	Block	152	-1384,55,-355
+567.6	Block	152	-1384,55,-356
+567.6	Block	152	-1384,55,-357
+567.6	Block	152	-1384,55,-358	
+567.4	Text	&f[&2Rover&f] &aGrrrr!
+569.5	Text	&f[&9Father&f] &3Oh calm down &2Rover&3, I was only kidding.
+569.5	Block	152	-1390,55,-346
+570.5	Block	152	-1390,55,-345
+571.7	Text	&3By the way, we have indoor plumbing now! Oh boy, that's really great on cold nights. Especially for out perennial house guest, old &4Uncle Orville&3. 
+570	Block	152	-1390,55,-345
+570	Block	0	-1398,64,-348
+570	Block	0	-1398,64,-349
+571	Block	152	-1390,55,-346
+572	Block	152	-1390,55,-347
+573	Block	152	-1390,55,-346
+574	Block	152	-1390,55,-347
+575	Block	152	-1390,55,-345
+575	Block	156	-1398,64,-348
+576	Block	152	-1390,55,-346
+577	Block	152	-1390,55,-347
+579.7	Block	89	-1398,68,-348
+579.7	Block	152	-1396,55,-362
+582	Text	&4Uncle Orville's &3taken over the coolest spot in the house. And he's rigged up a real clever contraction. He calls it "air cooling."
+582	Block	152	-1390,55,-346
+583	Block	152	-1390,55,-347
+584	Block	152	-1390,55,-346
+585	Block	152	-1390,55,-345
+586	Block	152	-1390,55,-346
+587	Block	152	-1390,55,-345
+590.8	Text	&3Humph. To bad he's not reading the help wanted adds.
+590.8	Block	152	-1390,55,-346
+591.8	Block	152	-1390,55,-347
+593.4	Text	&f[&4Uncle Orville&f] &cNo privacy at all around this place!
+594.5	Block	0	-1398,68,-348
+594.5	Block	152	-1381,55,-350
+594.5	Block	152	-1381,55,-351
+594.5	Block	152	-1381,55,-352
+594.5	Block	152	-1381,55,-353
+594.5	Block	152	-1381,55,-354
+594.5	Block	152	-1381,55,-355
+594.5	Block	152	-1381,55,-356
+594.5	Block	152	-1381,55,-357
+594.5	Block	152	-1381,55,-358
+594.6	Block	152	-1378,55,-350
+594.6	Block	152	-1378,55,-351
+594.6	Block	152	-1378,55,-352
+594.6	Block	152	-1378,55,-353
+594.6	Block	152	-1378,55,-354
+594.6	Block	152	-1378,55,-355
+594.6	Block	152	-1378,55,-356
+594.6	Block	152	-1378,55,-357
+596.4	Text	&f[&9Father&f] &3Sorry Orville.
+596.4	Block	152	-1390,55,-346
+597.8	Text	&3You know, considering all the-
+597.8	Block	152	-1390,55,-347
+598.8	Block	152	-1390,55,-345
+599.2	Text	&f[&5Mother&f] &dJohn&d. Costume's ready.
+601.1	Text	&f[&9Father&f] &3Oh! Coming &5Martha&3! Well, as I was saying, considering all the conveniences we now have, I'd say that we're really on easy street these days.
+601.1	Block	152	-1390,55,-346
+602.1	Block	152	-1390,55,-347
+603.1	Block	152	-1390,55,-346
+604.1	Block	152	-1390,55,-345
+605.1	Block	152	-1390,55,-346
+606.1	Block	152	-1390,55,-347
+607.1	Block	152	-1390,55,-345
+608.1	Block	152	-1390,55,-346
+609.7	Text	&3 It just can't get any better! Just goes to show that--
+609.7	Block	152	-1390,55,-345
+610.7	Block	152	-1390,55,-346
+613.5	Text	&6♫ There's a great big beautiful tomorrow ♫
+613.5	Block	152	-1390,55,-347
+614.5	Block	152	-1390,55,-345
+615.5	Block	152	-1390,55,-347
+616.9	Text	&6♫ Shining at the end of every day ♫
+616.9	Block	152	-1390,55,-346
+617.9	Block	152	-1390,55,-345
+618.9	Block	152	-1390,55,-346
+620.3	Text	&6♫ There's a great big beautiful tomorrow ♫
+620.3	Block	152	-1390,55,-347
+621.3	Block	152	-1390,55,-345
+624	Text	&6♫ And tomorrow's just a dream away ♫
+624	Block	152	-1390,55,-346
+625	Block	152	-1390,55,-347
+628.3	Text	&6♫ Man has a dream and that's the start ♫
+628.3	Block	152	-1390,55,-346
+629.3	Block	152	-1390,55,-345
+#SECONDSCENECLEANUP
+630	Block	118	-1388,64,-342
+630	Block	152	-1399,63,-349
+631	Block	159:8	-1399,63,-349

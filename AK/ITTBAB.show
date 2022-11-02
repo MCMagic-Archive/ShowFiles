@@ -1,0 +1,223 @@
+Show	Location	-1937,25,4318
+Show	TextRadius	150
+#Audio
+0	Block	152	-1937,45,4316
+#Doors
+0	Block	152	-1949,23,4336
+0	Block	166	-1958,28,4333
+0	Block	166	-1957,28,4334
+0	Block	166	-1956,28,4334
+0	Block	166	-1955,28,4333
+0	Block	166	-1952,27,4333
+0	Block	166	-1951,27,4334
+0	Block	166	-1950,27,4334
+0	Block	166	-1949,27,4333
+0	Block	166	-1948,27,4334
+0	Block	166	-1947,27,4334
+0	Block	166	-1946,27,4333
+0	Block	166	-1942,26,4333
+0	Block	166	-1941,26,4334
+0	Block	166	-1940,26,4334
+0	Block	166	-1939,26,4333
+#Text
+.9	Text	&7&lThroughout today's performance;
+2.8	Text	&7&lplease refrain from buzzing, stinging and pollinating.
+7.7	Text	&7&lAnd no chirping.
+9.6	Text	&7&lThank you.
+11.1	Text	&7&lAnd now, put your wings together for the host of our show,
+15.2	Text	&7&leveryone's favorite ant, 
+17.4	Text	&aFlick!
+20.7	Text	&f[&aFlick&f] &6Pssst, fireflies, fireflies, up here.
+25.9	Text	&6No, over here. 
+28	Text	&6Way over here.  Way over, little more.
+30.7	Text	&6Little more.  Little- less.
+35.9	Text	&6Perfect!
+37.1	Text	&6Oh hi, hi, hello an-n-n-n-d welcome!
+40.9	Text	&6Welcome to our show!
+43	Text	&6You know we've been doing this act for over three-hundred million years.
+47.5	Text	&6And with bugs making out more than eighty percent of the animal world. 
+50.5	Text	&6We're the biggest cast of them all!
+53.3	Text	&6Still, you guys just don't seem to see us, so uh, 
+57.2	Text	&6that's why we gave you those special bug eyes. 
+58.8	Text	&6Now, go-go ahead,  put-t em' on.
+62.3	Text	&6N-neat, huh?  
+63.2	Text	&6Yeah, uh, now you're all honorary bugs so, uh,
+67.5	Text	&6on with the show!
+79	Text	&6Ehem.  
+80.5	Text	&6Okay, okay, thanks little fella.
+82.8	Text	&6You're done now.
+83.6	Text	&f[&5Little Butterfly&f] &cHuh?
+84	Text	&f[&aFlick&f] &6Fly.  Fly that way, off into the woods. 
+85.6	Text	&f[&5Little Butterfly&f] &cMe?
+85.8	Text	&f[&aFlick&f] &6Yes, thank you.
+86.6	Text	&f[&5Little Butterfly&f] &cOhhhhhhhhhhh. 
+88.8	Text	&f[&aFlick&f] &6Take it from an ant;
+90.1	Text	&6It's tough to be a bug.
+92	Text	&6That's why we've developed some amazing survival techniques.
+95	Text	&6For instance,
+96.2	Text	&6Deep in the jungles of South America 
+98.6	Text	&6there's a bug,
+99.6	Text	&6well, technically he's an arachnid you see, 
+101.9	Text	&6and uh-
+102.2	Text	&f[&cChili&f] &eUrgmm
+102.8	Text	&f[&aFlick&f] &6Ahh! Oh, oh!
+105.4	Text	&cChili, Chili &6I really hate when you do that,
+107.4	Text	&6I really do, that I-I, hate. 
+108.6	Text	&f&f[&cChili&f] &eOh, I'm sorry, &aFlick.
+110.5	Text	&f[&aFlick&f] &6Where-
+111.2	Text	&f&f[&cChili&f] &eFlickoo.
+111.7	Text	&f[&aFlick&f] &6Where was I? 
+112.2	Text	&6Yes!  Uhmmm, chilean tarantulas,
+114.2	Text	&6like my friend &cChili here,
+115.8	Text	&f&f[&cChili&f] &eHello.
+116.4	Text	&f[&aFlick&f] &6throw poison quills at their enemies..
+118.8	Text	&6with deadly...
+120.8	Text	&6accuracy.
+122	Text	&f&f[&cChili&f] &eI never miss..
+126.2	Text	&ePull!
+129	Text	&eCome on, keep em' coming!
+130.3	Text	&eKeep em' coming!
+131.5	Text	&eHa-ha, &cChili is &eon a roll.
+133	Text	&f[&3Mosquito&f] &2Hey, hey, hey, hey, hey, hey! 
+134.5	Text	&2What are you guys trying to pull!?
+135.7	Text	&f&f[&cChili&f] &ePull! 
+136.7	Text	&f[&3Mosquito&f] &2Woa!
+137.8	Text	&2Hey, watch it!
+139.6	Text	&f&f[&cChili&f] &eYou're messing up my ant...
+141	Text	&eHold still!
+142.2	Text	&f[&3Mosquito&f] &2Bug off.
+143.3	Text	&2Woah!  Ho-uh!   Hey!  Wee!
+145.8	Text	&2In case you hadn't noticed, four eyes.
+148	Text	&2You missed!
+150.4	Text	&2See ya!
+151	Text	&f&f[&cChili&f] &eNo one makes a fool of &cchiliman! 
+153	Text	&eCome back here and die like a bug!
+157	Text	&f[&aFlick&f] &6Alright, well, 
+159.4	Text	&6our next guest is a solider &2termite &6who defends his mound by spraying intruders 
+164	Text	&6with acid.
+165.7	Text	&6That's right, acid.
+168.2	Text	&6Welcome him now,
+169	Text	&6he's buff,
+170	Text	&6he's ready,
+171.1	Text	&6And he's- 
+172	Text	&6Woah!
+173.5	Text	&6And he is ruining our set!
+175	Text	&6You know, we have other shows to do.. uh..
+177.8	Text	&f[&2Termite Soldier&f] &eI am a lean, mean, defensive machine.
+181.7	Text	&eI am the &2Termite-a-tor.
+183.5	Text	&f[2Audience Bug&f] &7Yeah right!!  You couldn't even hurt a flea!
+187.2	Text	&f[&2Termite Soldier&f] &eOh, no? 
+191.1	Text	&eHmm..  I detect more intruders.
+195.1	Text	&f[&aFlick&f] &6No!  No, no, no, no, no!  They're not intruders.
+198	Text	&6No, no, no, they're hono-honorary bugs.
+200	Text	&f[&2Termite Soldier&f] &eNo!
+201	Text	&eIntruders must be terminated.
+203	Text	&eNo exceptions.
+212	Text	&eOh shoot. 
+213.4	Text	&eI need more amo. 
+216	Text	&eI'll be back...
+217.5	Text	&f[&aFlick&f] &6Oh, is-s everybody alright out there?  OoooOOoo.
+220.6	Text	&6I hope that none of you are allergic to acid...
+222.7	Text	&6Oh, my..
+224.2	Text	&6Best to move along...
+225.1	Text	&6Alright, our next guest.
+227	Text	&6Let's me the silent, but deadly, member of the bug world.
+232.5	Text	&6Stink bug!
+233.6	Text	&f[&2Helper Bug&f] &7Target is ready, &aFlick.
+235	Text	&f[&aFlick&f] &6Alright.
+235.7	Text	&aOh, just a sec.
+237	Text	&aLet it rip, &9Claire!
+241	Text	&f[&3Mosquito&f] &2No way!  
+242.2	Text	&2You'll never catch me!
+243.7	Text	&2Oomph!
+247.2	Text	&f[&aFlick&f] &6Take cover!
+249.1	Text	&6She's gonna blooooow!
+252.2	Text	&f[&3Mosquito&f] &2Blunt?
+252.8	Text	&2Who's gonna blunt?
+254.7	Text	&2Oh boy. 
+260	Text	&f[&aFlick&f] &6Oh, &9Claire, &6oh, lay off the churros, will ya?
+264.9	Text	&6Ohhh, I'm sorry, it'll clear, it'll clear. 
+269.6	Text	&6Hopper!
+271.2	Text	&f[&6Hopper&f] &aFlick?
+272.6	Text	&3What are these humans wearing on their heads?
+275.7	Text	&f[&aFlick&f] &6Oh! I-I-I made them honorary bugs-
+277.7	Text	&f[&6Hopper&f] &3Honorary what?!
+280.1	Text	&3They are our biggest enemy!
+282.2	Text	&f[&aFlick&f] &6No!  No, that's not true, they're my friends.
+284.7	Text	&f[&6Hopper&f] &3Friends?!
+285.9	Text	&3Get this loser out of my sight.
+289.9	Text	&f[&aFlick&f] &Hey!  Hey!
+290.8	Text	&f[&6Hopper&f] &3Bring in the evidence.
+295.7	Text	&3Friends, don't exterminate friends, do they? 
+300.7	Text	&3Don't get it?
+302.5	Text	&3Well then watch this.
+305.8	Text	&3You humans have always seen us as monsters.
+309.8	Text	&3If you had it your way you would destroy us all. 
+313	Text	&3But you never will, 
+314.6	Text	&3because we outnumber you two hundred million to one.
+319	Text	&3Maybe it's time you "honorary bugs" got a taste of your own medicine!
+326.6	Text	&3What?!  You're still alive?
+329.5	Text	&3This 
+330.4	Text	&3means 
+331.3	Text	&3war!
+336	Text	&eHornets!
+337.1	Text	&3Arm your stingers and attack!
+340.5	Text	&f[&eHornets&f] &6I'm going in for the sting!
+346.7	Text	&f[&6Hopper&f] &3Gotcha!
+349.2	Text	&3You're over your target black widow spiders! 
+352.5	Text	&3Jump!
+365	Text	&3Back off spiders.
+368.5	Text	&3They're mine.
+370.7	Text	&3Bug bombs, zappers, sticky little motels, nothing can stop us!
+377	Text	&3Ha!  Nothing!
+382	Text	&3Ahhhhh!
+388.8	Text	&f[&2Helper Bug&f] &aFlick, &7what do we do now?
+390.6	Text	&f[&aFlick&f] &6Bring out the next act.
+391.8	Text	&f[&2Helper Bug&f] &aHe refuses to come out of its cocoon. 
+394.1	Text	&f[&aFlick&f] &6Well, we'll just have to wing it, huh? 
+395.8	Text	&6Cue the finale!
+397.9	Text	&6Did I forget to mention reptiles?
+400.9	Text	&6Well, they just don't seem to care that it's tough to be a bug.
+404	Text	&6But you guys should.
+405.2	Text	&6Cause we make your world one honey of a place!
+410.7	Text	&9We're pollinators!
+413.9	Text	&9We're pollinators!
+417.2	Text	&9If you like vegetables,
+418.8	Text	&9fresh fruit and flowers,
+420.3	Text	&9give thanks to us bugs for our marvelous powers!
+423.3	Text	&9If it weren't for the fact,
+425	Text	&9that we liked the taste  
+426.2	Text	&9then you'd be out there wallowing in shoulder-high waste!
+429.8	Text	&9Shoulder high waste!
+431.5	Text	&9And if all bugs were wiped off the face of the planet
+438.4	Text	&9there'd soon be no humans around here to man it!
+442	Text	&9The best thing about us;
+444	Text	&9You can't live without us! 
+445.2	Text	&6&lIt's tough 
+446.2	Text	&6&lto 
+447.1	Text	&6&lbe 
+447.9	Text	&6&la 
+449	Text	&6&lbug! 
+452.5	Text	&f[&3Mosquito&f] &2Tough?  
+453.4	Text	&2It's a piece of cake.
+462	Text	&f[&aFlick&f] &6Well, it still has a few bugs in it, but that's our show.
+466	Text	&6And now that you're all honorary bugs;
+468	Text	&6remember, magnifying glasses are for looking at little things. 
+472.6	Text	&6Not for burning little things.
+475	Text	&6See ya!
+477.7	Text	&6Hey, hey little fella, where should you be? 
+481.3	Text	&f[&5Little Butterfly&f] &cThere?
+482.3	Text	 &f[&aFlick&f] &6That's right.
+483.8	Text	&aGood bug.
+484.8	Text	&aGood little bug.
+486.6	Text	&7&lYour attention please.
+488.3	Text	&7&lWe ask that all honorary bugs remain seated
+491.6	Text	&7&lso the beetles, maggots, and cockroaches may exit safely.
+505	Text	&7&lAt this time gather up your personal belongings and take your small grubs by their grubby little hands as you exit.
+511.3	Text	&7&lThank you.
+524.5	Text	&7&lPlease exit through the doors to your right.
+#Credits
+530	Text	&6Brought to you by:
+#533	Text	&3Boogieramon, Xavier9214, ZACx209, and Zafacon2
+536	Text	&6Plugin -- &dChiss and the MCMagic Dev Team
+539	Text	&6And of course, the &bMCMagic Parks Family&6!

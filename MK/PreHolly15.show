@@ -1,0 +1,100 @@
+﻿Show	Location	-1614,64,-488
+Show	TextRadius	150
+#Chatmute/Show start
+#Preshow start- totes add me /magic show start holipre
+690	Block	152	-1609,57,-524
+691	Block	20	-1609,57,-524
+885	Block	152	-1608,58,-517
+886	Block	20	-1608,58,-517
+900	Block	152	-1608,58,-524
+905	Block	20	-1608,58,-524
+#Time system
+0	Block	152	-1615,45,-516
+1	Block	20	-1615,45,-516
+0	Block	152	-1615,46,-516
+1	Block	20	-1615,46,-516
+300	Block	152	-1614,45,-516
+301	Block	20	-1614,45,-516
+900	Block	152	-1613,45,-516
+901	Block	20	-1613,45,-516
+900	Block	152	-1614,46,-516
+901	Block	20	-1614,46,-516
+#Signs/Audio areas
+600	Block	152	-1617,48,-517
+601	Block	20	-1617,48,-517
+670	Block	152	-1605,61,-520
+671	Block	20	-1605,61,-520
+#Text
+0	Text	&6Ladies and Gentlemen boys and girls, in just &915 Minutes &bMCMagic &6will present &9&lHoliday Wishes: &ACelebrate the Spirit of the Season! &6at /warp castle
+300	Text	&6Ladies and Gentlemen boys and girls, in just &910 Minutes &bMCMagic &6will present &9&lHoliday Wishes: &ACelebrate the Spirit of the Season! &6at /warp castle
+600	Text	&6Ladies and Gentlemen boys and girls, in just &95 Minutes &bMCMagic &6will present &9&lHoliday Wishes: &ACelebrate the Spirit of the Season! &6at /warp castle
+780	Text	&6Ladies and Gentlemen boys and girls, in just &92 Minutes &bMCMagic &6will present &9&lHoliday Wishes: &ACelebrate the Spirit of the Season! &6at /warp castle
+30	Text	&6Hear the Show music with &bMCMagic's &6Audio Server just type &a/audio
+120	Text	&6Hear the Show music with &bMCMagic's &6Audio Server just type &a/audio
+180	Text	&6Hear the Show music with &bMCMagic's &6Audio Server just type &a/audio
+240	Text	&6Hear the Show music with &bMCMagic's &6Audio Server just type &a/audio
+345	Text	&6Hear the Show music with &bMCMagic's &6Audio Server just type &a/audio
+360	Text	&6During &9&lHoliday Wishes!&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+420	Text	&6Hear the Show music with &bMCMagic's &6Audio Server just type &a/audio
+480	Text	&6During &9&lHoliday Wishes!&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+540	Text	&6Hear the Show music with &bMCMagic's &6Audio Server just type &a/audio
+645	Text	&6During &9&lHoliday Wishes!&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+660	Text	&6Hear the Show music with &bMCMagic's &6Audio Server just type &a/audio
+690	Text	&6During &9&lHoliday Wishes!&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+720	Text	&6Hear the Show music with &bMCMagic's &6Audio Server just type &a/audio
+750	Text	&6During &9&lHoliday Wishes!&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+780	Text	&6Hear the Show music with &bMCMagic's &6Audio Server just type &a/audio
+820	Text	&6During &9&lHoliday Wishes!&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+850	Text	&6Hear the Show music with &bMCMagic's &6Audio Server just type &a/audio
+885	Text	&6During &9&lHoliday Wishes!&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+890	Text	&6Hear the Show music with &bMCMagic's &6Audio Server just type &a/audio
+#/b
+0	Block	152	-1610,59,-524
+270	Block	152	-1609,59,-524
+570	Block	152	-1608,59,-524
+750	Block	152	-1610,57,-524
+1	Block	20	-1610,59,-524
+271	Block	20	-1609,59,-524
+571	Block	20	-1608,59,-524
+751	Block	20	-1610,57,-524
+#Curtain
+300	Block	159:3	-1613,72,-533
+300	Block	35:3	-1614,72,-533
+300	Block	159:3	-1615,72,-533
+303	Block	159:3	-1613,71,-533
+303	Block	35:3	-1614,71,-533
+303	Block	159:3	-1615,71,-533
+306	Block	159:0	-1616,70,-533
+306	Block	159:3	-1615,70,-533
+306	Block	35:3	-1614,70,-533
+306	Block	159:3	-1613,70,-533
+306	Block	159:0	-1612,70,-533
+309	Block	159:0	-1616,69,-533
+309	Block	159:3	-1615,69,-533
+309	Block	35:3	-1614,69,-533
+309	Block	159:3	-1613,69,-533
+309	Block	159:0	-1612,69,-533
+312	Block	159:0	-1616,68,-533
+312	Block	159:3	-1615,68,-533
+312	Block	35:3	-1614,68,-533
+312	Block	159:3	-1613,68,-533
+312	Block	159:0	-1612,68,-533
+315	Block	159:0	-1616,67,-533
+315	Block	159:3	-1615,67,-533
+315	Block	35:3	-1614,67,-533
+315	Block	159:3	-1613,67,-533
+315	Block	159:0	-1612,67,-533
+318	Block	159:0	-1616,66,-533
+318	Block	159:3	-1615,66,-533
+318	Block	35:3	-1614,66,-533
+318	Block	159:3	-1613,66,-533
+318	Block	159:0	-1612,66,-533
+#Fences
+300	Block	189	-1632,65,-498
+302	Block	189	-1631,65,-498
+304	Block	189	-1630,65,-498
+306	Block	189	-1629,65,-498
+306	Block	189	-1599,65,-498
+304	Block	189	-1598,65,-498
+302	Block	189	-1597,65,-498
+300	Block	189	-1596,65,-498

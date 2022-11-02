@@ -1,0 +1,65 @@
+Show	Location	-1613,66,-463
+Show	TextRadius	10000
+0	Lightning	-1613,91,-531
+10	Lightning	-1613,91,-531
+0	Text	&6Thank you for joining us for our Not So Scary Halloween party. 
+2	Text	&aAll of our trick or treat stations around the &eMagic Kingdom &6are now &cclosed.
+4	Text	&aHave a great evening,
+6	Text	&aand beware of hitchhiking ghosts!
+#JC
+0	Block	192	-1834,62,-381
+0	Block	192	-1826,62,-374
+0	Block	192	-1826,62,-373
+0	Block	192	-1826,62,-372
+0	Block	192	-1827,62,-372
+0	Block	192	-1827,62,-371
+0	Block	192	-1828,62,-371
+#Tiki Room
+0	Block	192	-1852,65,-423
+0	Block	192	-1858,65,-416
+#POTC
+0	Block	192	-1916,64,-395
+0	Block	192	-1914,64,-379
+#SPLM
+0	Block	192	-1981,62,-579
+0	Block	192	-1981,62,-580
+0	Block	192	-1999,62,-582
+0	Block	192	-2000,62,-582
+#TSI-crossing
+0	Block	192	-1910,64,-572
+0	Block	192	-1911,64,-572
+0	Block	192	-1911,64,-573
+0	Block	192	-1912,64,-573
+0	Block	192	-1912,64,-574
+0	Block	192	-1908,63,-568
+0	Block	192	-1907,63,-568
+#Lib Square
+0	Block	192	-1766,64,-534
+0	Block	192	-1765,64,-534
+0	Block	192	-1765,64,-533
+0	Block	192	-1771,64,-514
+0	Block	192	-1770,64,-514
+0	Block	192	-1769,64,-514
+#PPF
+0	Block	192	-1713,64,-623
+0	Block	192	-1714,64,-623
+0	Block	192	-1715,64,-616
+0	Block	192	-1716,64,-616
+#NewFL
+0	Block	192	-1610,64,-674
+0	Block	192	-1614,64,-679
+#StoryBook
+0	Block	192	-1389,65,-750
+0	Block	192	-1386,65,-759
+#SM
+0	Block	192	-1326,64,-452
+0	Block	192	-1324,64,-445
+#MickeyStarTraders
+0	Block	192	-1438,64,-454
+0	Block	192	-1430,64,-455
+#COP
+0	Block	192	-1367,64,-385
+0	Block	192	-1377,64,-390
+#SGE
+0	Block	192	-1509,64,-439
+0	Block	192	-1508,64,-430

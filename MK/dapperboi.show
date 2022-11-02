@@ -1,0 +1,117 @@
+#Dapper Dans Original Boy Band
+Show	Location	-1639,64,-264
+Show	TextRadius	25
+#Mainstreet musics
+390	Block	152	-1633,70,-296
+470	Block	152	-1633,70,-297
+#Barriers
+0	Block	166	-1649,65,-263
+0	Block	166	-1648,65,-262
+0	Block	166	-1647,65,-261
+#0	Block	152	-1644,61,-263
+#0	Block	152	-1644,60,-263
+0	Block	166	-1648,65,-270
+0	Block	166	-1649,65,-271
+0	Block	166	-1650,65,-272
+0	Block	166	-1651,65,-273
+0	Block	166	-1652,65,-274
+0	Block	166	-1653,65,-275
+#TP Out
+0	Block	152	-1645,60,-243
+#2	Block	152	-1644,61,-264
+#Announcement
+#12	Block	152	-1644,60,-264
+#WalkOut
+300	Block	152	-1638,70,-312
+#Talk
+300	Text	Ladies and gentlemen at this time our Dapper Dans will be singing a quick tune for your pleasure at /warp mainstreet
+337	Block	152	-1630,61,-262
+337	Text	&f[&5Purple Dan&f] &dYou know we've been hearing alot about these boy bands lately.
+338	Block	152	-1637,60,-260
+342	Text	&dYou know what I'm talking about, One Direction, Backstreet boys, Kitchen Sink.
+347	Text	&f[&4Red Dan&f] &cThat's N'Sync
+347	Block	152	-1624,61,-262
+352	Text	&f[&5Purple Dan&f] &dRight Right, Well anyway, They seem to be the latest craze.
+352	Block	152	-1630,61,-262
+357	Text	&f[&6Yellow Dan&f] &eAnd... a real hit with the ladies!
+357	Block	152	-1633,61,-262
+362	Text	&f[&5Purple Dan&f] &dSo I said to the Dan's 'Dans?'
+366.5	Block	152	-1637,61,-251
+366.5	Block	152	-1637,61,-250
+366.5	Block	152	-1637,61,-249
+367	Block	152	-1633,61,-262
+367.1	Block	152	-1627,61,-262
+367.2	Block	152	-1624,61,-262
+367	Text	&f[&6Yellow Dan&f] &eYes
+367.1	Text	&f[&4Red Dan&f] &cYes
+367.2	Text	&f[&9Blue Dan&f] &bYes
+370	Block	152	-1637,61,-248
+370	Block	152	-1637,61,-247
+370	Block	152	-1637,61,-246
+372	Block	152	-1630,61,-262
+372	Text	&f[&5Purple Dan&f] &dWe've been doing this for a while right?
+376	Block	152	-1640,60,-260
+377	Block	152	-1627,61,-262
+377	Text	&f[&9Blue Dan&f] &bEver since I was a tenor.
+382	Text	&f[&5Purple Dan&f] &dYou know I think that we may have invented this craze. I mean we are the original boy band.
+384	Block	152	-1640,61,-260
+387	Block	152	-1643,60,-260
+387	Text	&f[&4Red Dan&f] &cSo without further ado ladies and gentlemen, we'd like to present this song done in it's original style.
+390	Block	152	-1643,61,-260
+392	Text	&f[&5Purple Dan&f] &dHit it boys!
+392	Block	152	-1637,61,-260
+#StartSinging
+393	Block	152	-1646,60,-260
+393	Text	We're the original boy band
+396	Text	With songs we never sing
+403	Text	Everyone else in the room can see it.
+406.5	Text	Everyone else but you oo
+409.5	Text	Baby you light up my world like nobody else,
+413.5	Text	The way that you flip your hair get me overwhelmed,
+414	Block	152	-1637,61,-251
+414	Block	152	-1637,61,-250
+414	Block	152	-1637,61,-249
+417	Text	But when you smile at the ground it ain't hard to tell,
+419	Block	152	-1637,61,-248
+419	Block	152	-1637,61,-247
+419	Block	152	-1637,61,-246
+421	Text	You don't know,
+422	Text	Oh, oh,
+423	Text	You don't know you're beautiful
+426	Text	If only you saw what I can see,
+428.5	Text	You'll understand why I want you so desperately
+432.25	Text	Right now I'm looking at you and I can't believe,
+436	Text	Oh, oh, woah, oh oh
+438	Text	You don't know you're beautiful
+440.5	Text	Oh, oh, woah, oh, oh
+442.33	Text	That's what makes you beautiful
+444	Text	Oooooooooo
+450	Block	152	-1630,61,-262
+450	Text	&f[&5Purple Dan&f] &dThank you very much folks!  
+455	Block	152	-1627,61,-262
+455	Text	&f[&9Blue Dan&f] &bIf you enjoyed our show we are the Dapper Dans of Main Street. 
+#Turns right
+460	Block	152	-1633,61,-262
+460	Text	&f[&6Yellow Dan&f] &e And if you did not enjoy our show ...
+#Turns left
+462	Block	152	-1624,61,-262
+465	Text	&f[&4Red Dan&f] &cYou paid too much!
+470	Block	1	-1645,60,-243
+470	Block	152	-1645,60,-255
+470	Block	152	-1645,60,-253
+470	Block	152	-1645,60,-252
+470	Block	152	-1645,60,-251
+470	Block	152	-1645,60,-250
+500	Block	152	-1645,60,-243
+#RemoveBarriers
+395	Block	166	-1649,65,-263
+395	Block	166	-1648,65,-262
+395	Block	166	-1647,65,-261
+395	Block	152	-1642,61,-266
+395	Block	152	-1642,60,-266
+395	Block	166	-1648,65,-270
+395	Block	166	-1649,65,-271
+395	Block	166	-1650,65,-272
+395	Block	166	-1651,65,-273
+395	Block	166	-1652,65,-274
+395	Block	166	-1653,65,-275
