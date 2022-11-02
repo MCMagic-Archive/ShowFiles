@@ -1,0 +1,19 @@
+Show	Location	-314,65,287
+Show	TextRadius	4
+#Text
+0	Text	&f[&6Woody&f] &6Hey howdy hey, and welcome to our practice game!
+5	Text	&f[&aJessie&f] &aGo ahead, &e&lRight-Click &ato shoot!
+6.8	Text	&f[&9Buzz&f] &9Watch 'em fly!
+9	Text	&f[&aJessie&f] &aYee-haw, keep 'em going!
+10.5	Text	&f[&6Woody&f] &6Hey, you're doing good!
+12	Text	&f[&2Rex&f] &2Almost done!
+14	Text	&f[&6Woody&f] &6Way to play, everyone.
+15	Text	&f[&2Rex&f] &2Now you get to score points!
+#Blocks
+0	Block	152	-314,57,287
+3	Block	152	-314,61,287
+5	Block	152	-314,61,287
+8	Block	152	-314,61,287
+11	Block	152	-314,61,287
+14	Block	152	-314,53,287
+14.5	Block	152	-314,57,287

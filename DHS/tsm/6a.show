@@ -1,0 +1,37 @@
+Show	Location	-318,65,321
+Show	TextRadius	5
+#Text
+7	Text	&f[&6Pete&f] &6They're headin west.
+12	Text	&f[&6Pete&f] &6Go for the gold!
+16	Text	&f[&6Pete&f] &6Holy tarnation!
+24	Text	&f[&6Woody&f] &6It's your last game!
+32	Text	&f[&2Rex&f] &2Go! Go! Go!
+35	Text	&f[&aJessie&f] &aWow-ee!
+36	Text	&f[&6Woody&f] &6Time to go check your scores!
+#Blocks
+0	Block	152	-318,57,321
+2	Block	152	-318,61,321
+5	Block	152	-318,61,321
+8	Block	152	-318,61,321
+11	Block	152	-318,61,321
+14	Block	152	-318,61,321
+17	Block	152	-318,61,321
+20	Block	152	-318,61,321
+23	Block	152	-318,61,321
+26	Block	152	-318,61,321
+29	Block	152	-318,61,321
+32	Block	152	-318,61,321
+35	Block	152	-318,57,321
+1	Block	0	-318,57,321
+3	Block	0	-318,61,321
+6	Block	0	-318,61,321
+9	Block	0	-318,61,321
+12	Block	0	-318,61,321
+15	Block	0	-318,61,321
+18	Block	0	-318,61,321
+21	Block	0	-318,61,321
+24	Block	0	-318,61,321
+27	Block	0	-318,61,321
+30	Block	0	-318,61,321
+33	Block	0	-318,61,321
+36	Block	0	-318,57,321

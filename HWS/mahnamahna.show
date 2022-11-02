@@ -1,0 +1,356 @@
+Show	Location	-904 50 4867
+Show	TextRadius	55
+0	Block	152	-888,46,4866
+#Text
+16.4	Text	[Waldorf] 
+16.5	Text	Good grief!
+18.2	Text	Say, Statler!
+19.2	Text	[Statler]
+19.3	Text	Hmm?
+19.7	Text	[Waldorf] 
+19.8	Text	Do you think the Muppet show will be any better live?
+23	Text	[Statler] 
+23.1	Text	Waldorf, at our age
+25	Text	itís great to be around ANYTHING thatís live!!
+28.3	Text	[Waldorf & Statler]
+28.4	Text Do ho ho ho!!
+31.1	Text	[Waldorf]
+31.2	Text Well at least itís only for one night!
+33.5	Text	[Statler] 
+33.6	Text	Thatís what they told us 25 years ago!!!!
+36.9	Text	[Waldorf & Statler]
+37 	Text	Do ho h-
+40	Text	Oh no!!
+44.2	Text	[Kermit] 
+44.3	Text	Ladies and gentlemen,
+45.4	Text	Itís the Muppet Show!!
+55.5	Text	[Female Muppets]
+55.6	Text	* Itís time to play the music *
+57.7	Text	* Itís time to light the lights *
+59.8	Text	* Itís time to meet the Muppets *
+61.3	Text	* on the Muppet Show tonight! *
+63.9	Text	[Male Muppets]
+64	Text	* Itís time to put on make-up *
+66.1	Text	* Itís time to dress up right *
+68.1	Text	* Itís time to raise the curtain *
+69.9	Text	* on the Muppet Show tonight *
+78.1	Text	[Kermit]
+78.2	Text	* But now letís get things started *
+79.2	Text	[All] 
+79.3	Text	* on the most sensational *
+81.1	Text	* inspirational *
+82.2	Text	* celebrational *
+83.3	Text	* Muppetational *
+84.4	Text	* This *
+84.9	Text	* is *
+85.4	Text	* what *
+85.9	Text	* we *
+86.4	Text	* call *
+87	Text	* The *
+87.4	Text	* Muppet *
+88.4	Text	* Show!!!! *
+95.9	Text	[Kermit]
+96	Text If that werenít enough, weíve also got
+97.8	Text	Mahna Mahna...
+99.4	Text	whatever that means.
+103.4	Text	[Snowths] 
+103.5	Text	Do doo do doo
+104.4	Text	Do doo do doo do doo do
+105.6	Text	Do do doo do doo do do
+107	Text	Do doo do do doo
+111.4	Text	[Mahna Mahna] 
+111.5	Text	Mahna Mahna
+112.2	Text	[Snowths] 
+112.3	Text	Do doo do do doo
+114.1	Text	[Mahna Mahna]
+114.2	Text	Mahna Mahna
+114.8	Text	[Snowths]
+114.9	Text	Do doo do doo
+116.6	Text	[Mahna Mahna] 
+116.7	Text	Mahna Mahna
+117.4	Text	[Snowths] 
+117.5	Text	Do doo do do doo,
+119	Text	Do doo do,
+119.7	Text	Do doo do,
+120.4	Text	Do doo doo do do do doo doo do
+122.7	Text	[Mahna Mahna] 
+122.8	Text	Mahna mahna mahna mahnana
+124.6	Text	eh mah ney yah bah
+126.4	Text	Mahnanana, maah na na na na
+128.9	Text	Ee mahna eh yehÖ
+132.2	Text	Heh?
+134.8	Text	Mahna Mahna
+135.5	Text	[Snowths] 
+135.6	Text	Do doo do do doo
+137.4	Text	[Mahna Mahna]
+137.5	Text	Mahna Mahna
+138.1	Text	[Snowths] 
+138.2	Text	Do doo do doo
+140	Text	[Mahna Mahna] 
+140.1	Text	Mahna Mahna
+140.7	Text	[Snowths] 
+140.8	Text	Do doo do do doo,
+142.3	Text	Do doo do,
+143	Text	Do doo do,
+143.7	Text	Do doo doo do do do doo doo do
+146.9	Text	[Mahna Mahna] 
+147	Text	Mah na mahni mah
+149.2	Text	Mahnani mah mahna mahna nah
+152	Text	Mahnani mah mahna mahna, hewde he!!
+155.6	Text	Huh?
+158.2	Text	Hmm?
+160.4	Text	Mahna Mahna
+161.1	Text	[Snowths] 
+161.2	Text	Do doo do doo do
+162.8	Text	[Mahna Mahna] 
+162.9	Text	Mahna Mahna!!
+163.6	Text	[Snowths] 
+163.7	Text	Do doo do doo
+165.4	Text	[Mahna Mahna] 
+165.5	Text	Mahna Mahna
+166.1	Text	[Snowths]
+166.2	Text	Do doo do do doo,
+167.8	Text	Do doo do,
+168.5	Text	Do doo do,
+169.1	Text	Do doo do do do do doo doo do
+172.3	Text	[Mahna Mahna] 
+172.4	Text	Mahnee nani nee nee nee nah non
+175.1	Text	Eh mahnaney na mah nee nah
+177.4	Text	Ni ne nay ne nah ne nay nah ne nahÖ
+180.1	Text	meh
+184.5	Text	Mahna Mahna
+185.3	Text	[Snowths] 
+185.4	Text	Do doo do do doo
+187.1	Text	[Mahna Mahna] 
+187.2	Text	mahna mahna
+187.8	Text	[Snowths] 
+187.9	Text	Do doo do doo
+189.7	Text	[Mahna Mahna] 
+189.8	Text	(mahna mahna!)
+190.3	Text	[Snowths]
+190.4	Text	Do doo do do doo,
+192	Text	Do doo do,
+192.7	Text	Do doo do,
+193.3	Text	Do doo do do do do do doo doo do
+196.6	Text	[Mahna Mahna]
+196.7	Text	(nah ma mahna huh)
+199.1	Text	(mah na nah mahni nuh)
+203.1	Text	(mah na nah)
+205.8	Text	(heh?)
+210	Text	Mahna Mahna
+210.7	Text	[Snowths] 
+210.8	Text	Do doo do do doo
+212.5	Text	[Mahna Mahna] 
+212.6	Text	Mahna Mahna!!
+213.3	Text	[Snowths] 
+213.4	Text	Do doo do doo
+215.2	Text	[Mahna Mahna] 
+215.3	Text	Mahna Mahna
+215.9	Text	[Snowths]
+216	Text	Do doo do do doo,
+217.4	Text	Do doo do,
+218.1	Text	Do doo do,
+218.7	Text	Do doo do do do do doo doo do
+221.6	Text	[Mahna Mahna] 
+221.7	Text	Mahna Mahna
+222.3	Text	[Snowths] 
+222.4	Text	Do doo do do doo
+224.1	Text	[Mahna Mahna] 
+224.2	Text	Mahna Mahna!!
+224.9	Text	[Snowths] 
+225	Text	Do doo do doo
+226.6	Text	[Mahna Mahna] 
+226.7	Text	Mahna Mahna!!!!!!!!
+227.5	Text	[Snowths] 
+227.6	Text	Do doo do do doo
+229.1	Text	Do doo do
+229.7	Text	Do doo do
+230.5	Text	Do doo do do do do doo doo do
+231.7	Text	[phone rings]
+233.7	Text	[Kermit] 
+233.8	Text	Hello?
+235.1	Text	Okay.
+235.7	Text	Just a second.
+237.8	Text	Itís for you.
+239.5	Text	[Mahna Mahna] 
+239.6	Text	Mahna Mahna.
+245.5	Text	[Statler] 
+245.6	Text	The question is, what is a Mahna Mahna?
+248.4	Text	[Waldorf] 
+248.5	Text	The question is, who cares?
+252	Text	[motorcycle engine hums]
+254.6	Text	[Gonzo] 
+254.7	Text	Good evening, ladies and gentlemen!
+256.8	Text	This evening, I will perform a feat of LUNATIC daring!
+262.9	Text	Before you very eyes,
+264.1	Text	I will ride this motorcycle up this ramp
+267.4	Text	And jump directly into that box
+270	Text	landing safely between those two elderly gentlemen.
+273.9	Text	[Waldorf & Statler] 
+274	Text	What?!
+275.1	Text	[Gonzo] 
+275.2	Text	Oh, I can assure you youíll be in no danger.
+278.4	Text	[Statler] 
+278.5	Text	Youíre right!
+279.1	Text	[Waldorf] 
+279.2	Text	Weíll be in Chicago!
+280.4	Text	[Waldorf & Statler] 
+280.5	Text	Do heh heh heh heh!
+282	Text	[Gonzo] For their own safety,
+283.2	Text	while they were dozing,
+284.5	Text	I took the precaution of chaining their chairs.
+287.5	Text	[Waldorf & Statler] 
+287.6	Text	What??
+289.3	Text	Ahh! Help!!
+290.3	Text	[Gonzo]
+290.4	Text	On my mark,
+292.6	Text	get set,
+292.5	Text	go!!
+299.1	Text	Uh-oh!
+299.9	Text	Whoooooa!!
+302.4	Text	[Waldorf & Statler] 
+302.5	Text	Hooray!
+303.1	Text	[Waldorf] 
+303.2	Text	Bravo!
+303.8	Text	[Statler] 
+303.9	Text	Wonderful!
+304.5	Text	[Waldorf] 
+304.6	Text	Loved it!
+305.1	Text	[Statler] 
+305.2	Text	Encore!
+307	Text	[Kermit] 
+307.1	Text	Letís get the show underway with some musical mayhem!
+309.2	Text	Hit it, boys!
+315.1	Text	[Floyd] 
+315.2	Text	* Sunny *
+318.7	Text	* Yesterday my life was filled with rain *
+323.8	Text	[Animal] 
+323.9	Text	Too slow!!
+325	Text	[Floyd]
+325.1	Text	* Sunny *
+328.1	Text	* You smiled at me and really eased the pain *
+333.4	Text	* Dark days are done *
+335.5	Text	* Bright days are here *
+337	Text	* My sunny one shines so sincere *
+340.9	Text	* Oh sunny one so true *
+344.1	Text	* I love you *
+345.6	Text	[Animal] 
+345.7	Text	Faster!!!!
+348.5	Text	[Floyd]
+348.6	Text	* Sunny *
+349.3	Text	[Animal]
+349.4	Text	Alright!!
+351	Text	[Floyd]
+351.1	Text	* Thank you for the sunshine bouquet *
+355.2	Text	* Sunny *
+357.5	Text	* Thank you for the love youíve brought my way *
+361.7	Text	* You gave to me your all and all *
+364.9	Text	* ëAn now I feel Iím ten feet tall *
+368.1	Text	* Oh sunny one so true * 
+370.9	Text	* I love you *
+372	Text	[Animal] 
+372.1	Text	FASTER!!!!
+374.4	Text	[Floyd]
+374.5	Text	* Sunny *
+375.2	Text	[Animal] 
+375.3	Text	Sunny!!
+376.5	Text	[Floyd] 
+376.6	Text	* Thank you for the *
+377.5	Text	* truth you let me see *
+378.7	Text	W-whatís going on?
+379.6	Text	* Oh sunny *
+380.9	Text	Aw, w- whatís happe-
+381.8	Text	* Thank you for the *
+382.6	Text	* facts from A to Z *
+384.5	Text	* My life was *
+385.5	Text	* torn like *
+386.1	Text	* wind-blown sand *
+387.1	Text	* and a rock *
+387.7	Text	* was formed *
+388.2	Text	* when we held hands *
+389.5	Text	* Oh sunny one so true *
+390.7	Text	* I love - *
+392.5	Text	[Animal] 
+392.6	Text	YEAH!!!!
+393.4	Text	[Floyd]
+393.5	Text	Whatís happening? Uh
+394.7	Text	* Sunny *
+396	Text	W-wait a minute!
+396.6	Text	* Thank you for the *
+397.2	Text	* smile upon your face *
+398.9	Text	* Oh sunny *
+400	Text	Hold it, Animal!!
+402.7	Text	* Youíre my *
+403	Text	* spark *
+403.2	Text	* My natureís fire *
+404.4	Text	* Youíre my *
+404.7	Text	* complete desire *
+405.4	Text	* Oh sunny one so true *
+406.6	Text	I love you!!!!
+417.9	Text	[Newsman] 
+418	Text	This is a Muppet News flash!
+420	Text	Police announced today that a killer lamb
+422	Text	had escaped from the Department of Agricultureís
+424.3	Text	Maximum Security Sheep Station.
+427.3	Text	This lamb is one of a new kind of sheep
+429.2	Text	that has been bred to hunt wolves and is extremely dangerous.
+436.2	Text	This killer lamb has been trained to attack
+438.5	Text	at the sound of a bell.
+440.3	Text	[phone rings]
+442.3	Text	Hello?
+443.8	Text	Ahhhhhhhhhhhhhhhhhh!
+452.9	Text	[Dr. H] 
+453	Text	Doctor Bunsen Honeydew here at Muppet labs
+456.3	Text	where the future is being made today!
+458.8	Text	Well, jeepers!
+460.1	Text	Youíre about to witness the worldís FIRST demonstration
+463.2	Text	of fireproof paper.
+464.9	Text	Here is my assistant, Beaker, carrying a lighted blowtorch.
+468.4	Text	He will now show you how impossible it is
+470.6	Text	o ignite the fireproof paper in this basket.
+476	Text	There is no way this paper can burn!
+480	Text	With fireproof paper, you will always feel secure.
+483.3	Text	Tune in next time and see Muppet Labsí
+485.4	Text	NEW answer to the energy crisis:
+487.4	Text	flammable water!
+490.4	Text	Thatís all for now from Muppet Labs!
+493.4	Text	Oh dear!!
+496.4	Text	[Statler] 
+496.5	Text	What do you suppose they call that?
+498.1	Text	A novelty act?
+499.8	Text	Waldorf: I donít know, but it wasnít too bad.
+501.8	Text	Statler: Well, THATíS a novelty.
+503.3	Text	Waldorf & Statler: Haaa ha ha ha ho!
+505.5	Text	Kermit: And now, for the second time this evening,
+507.2	Text	Kermit: the Great Gonzo will attempt a motorcycle jump
+509.6	Text	Kermit: off of this stage into that box up there
+511.3	Text	Kermit: landing safely between those two elderly gentlemen.
+514.9	Text	Statler: Weíre not afraid! We know Gonzo!!
+517.2	Text	Waldorf: If at first you donít succeed,
+518.8	Text	Waldorf: fail, fail again.
+522.6	Text	Kermit: So here he is now, ladies and gentlem-
+524	Text	Gonzo: Iím ready Kermit!!!!
+525.1	Text	Kermit: Yeah, Iím introducing you.
+526.1	Text	Gonzo: Introduce fast!! Iím really ready!
+527.8	Text	Kermit: Alright, ladies and gentlemen,
+528.8	Text	Kermit: The Great Gon-whooooooooa!!
+536.4	Text	Gonzo: There! That was easy, wasnít it?
+540.9	Text	The McMuppet Show Live
+543.1	Text	Directed by anakinhappy, 84weber, Marven
+545.1	Text	Sets by Marven, anakinhappy, maddiethegreat_ and Picklee
+545.2	Text	Amazing text done by : Xavier9214 @ last minute.
+549	Text	Sketches from 101, 103, 315, 318, 418, Live
+551.3	Text	Special Thanks:
+553.2	Text	Jim Henson, Frank Oz, Jerry Nelson
+555.4	Text	Richard Hunt, Dave Goelz, Steve Whitmire, and Kevin Clash
+558.8	Text	Thanks also to all of our wonderful staff who made this show possible
+562.8	Text	Show Plugin -- Chiss, from the Mineplex Network, and the MCMagic Developer Team
+567	Text	Thank you all for watching!!
+571.9	Text	Waldorf: Eh, Statler?
+572.8	Text	Statler: Yeah? What?
+573.4	Text	Waldorf: Is that it?
+574.3	Text	Statler: Yes. Itís over.
+575.8	Text	Statler: How did you like it?
+576.9	Text	Waldorf: I donít know, I slept through the whole thing.
+579.3	Text	Statler: Well, you didnít miss much.
+580.2	Text	Have a McMagical evening!!

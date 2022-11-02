@@ -1,0 +1,16 @@
+Show	Location	-32,65,-234
+Show	TextRadius	50
+ArmorStand	1	false	skull:eyJ0aW1lc3RhbXAiOjE0NjE2MjE4MTU2NDcsInByb2ZpbGVJZCI6IjlhYjNiNGM0NzFkODQ3Yzk5ZTdkYWRmMDQwYzUzZDJiIiwicHJvZmlsZU5hbWUiOiJMZWdvYnVpbGRlcjA4MTMiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q2Y2RhMTUwNzc4NzE0YzI4Mjc4YjdkYjZjMDY0YjMyMDlmYzcxOTcxNjMzZWFhNzg4Mjc2NDQ1MGM0ZWY4ZCJ9fX0=;299;300;301(123,125,215)
+0	ArmorStand	1	Spawn	-24,68,-258
+0	Text	Spawn
+1	ArmorStand	1	Move	-27,68,-255	0.6
+1	Text	Move
+#1	ArmorStand	1	Position	HEAD	0,0,10	1
+1	Text	Position
+1	ArmorStand	1	Rotate	55	0.6
+1	Text	Rotate
+#3	ArmorStand	1	Position	ARM_LEFT	-45,-45,-10	3
+3	ArmorStand	1	Position	ARM_RIGHT	-45,45,10	0.7
+4	Text	4
+10	ArmorStand	1	Despawn
+10	Text	Bai

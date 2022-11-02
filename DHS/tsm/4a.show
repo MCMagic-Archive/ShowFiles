@@ -1,0 +1,43 @@
+Show	Location	-338,65,300
+Show	TextRadius	5
+#Text
+2	Text	&f[&6Woody&f] &6Howdy, partner. Let's play!
+3.2	Text	&f[&6Woody&f] &6Aim for the targets!
+8	Text	&f[&3Ham&f] &2Keep it going, cowboy!
+16	Text	&f[&6Woody&f] &6Wow, look at you go!
+22	Text	&f[&3Ham&f] &2The clock's a tickin!
+28.2	Text	&f[&6Woody&f] &65
+29.2	Text	&f[&6Woody&f] &64
+30.2	Text	&f[&6Woody&f] &63
+31.2	Text	&f[&6Woody&f] &62
+32.2	Text	&f[&6Woody&f] &61
+33.2	Text	&f[&6Woody&f] &6See ya later, partner!
+#Blocks
+0	Block	152	-338,57,300
+3.2	Block	152	-338,61,300
+5	Block	152	-338,61,300
+8	Block	152	-338,61,300
+11	Block	152	-338,61,300
+14	Block	152	-338,61,300
+17	Block	152	-338,61,300
+20	Block	152	-338,61,300
+23	Block	152	-338,61,300
+26	Block	152	-338,61,300
+29	Block	152	-338,61,300
+31.1	Block	152	-338,61,300
+32.7	Block	152	-338,53,300
+33.2	Block	152	-338,57,300
+1	Block	0	-338,57,300
+4.2	Block	0	-338,61,300
+6	Block	0	-338,61,300
+9	Block	0	-338,61,300
+12	Block	0	-338,61,300
+15	Block	0	-338,61,300
+18	Block	0	-338,61,300
+21	Block	0	-338,61,300
+24	Block	0	-338,61,300
+27	Block	0	-338,61,300
+30	Block	0	-338,61,300
+32.1	Block	0	-338,61,300
+33.7	Block	0	-338,53,300
+34.2	Block	0	-338,57,300

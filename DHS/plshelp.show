@@ -1,0 +1,17 @@
+﻿Show	Location	-282,65,-80
+ArmorStand	steven	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZhYWYwYzZlNmQ2YTc0M2ZhZDFkNmEyM2JiZmVjM2RmMWE0ZDVkNTI0YWYyYjdlNTI5ZTJjZmRmM2NjNzdmIn19fQ==;299(59,23,3);300(0,0,0);301(29,11,1)
+ArmorStand	tom	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGFjZTdiM2YxMDVlNWFlOGVlMTliYjM3ZDUyYjE3ZmU0YTRmNzgyYjdiNTIxOGFhODU5MjVmNjAyZmI0In19fQ==;299(49,98,235);300(0,0,0);301(29,11,1)
+ArmorStand	brad	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGIzZDEwZjhkYjY3ODcxNjcxNzZmZDNiMjlkYTljYTRkOWNmYWRjMDkxNjU2MWEzM2E2NjlkNDUyMmE1YzEyYyJ9fX0=;299(173,13,0);300(0,0,0);301(29,11,1)
+ArmorStand	joey	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTBhNDJjZDE2YjQxMmJlOGVmNzhlMDcyNWIwM2I0ODQ4ZDk4NzQ3MmIxOGM0ZTJmYmQ4NGJiYjE1MzNkNGMifX19;299(255,239,247);300(0,0,0);301(29,11,1)
+ArmorStand	joe	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTZkMDlhZGE5NDEyZmQ3MmFmOTY4ZjZjZmVkN2I1MjVkODhmZjgxODRkZDRiMmRiZDRmNzk2MmVhZjQzMjIifX19;299(31,29,30);300(0,0,0);301(29,11,1)
+ArmorStand	sit	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTZkMDlhZGE5NDEyZmQ3MmFmOTY4ZjZjZmVkN2I1MjVkODhmZjgxODRkZDRiMmRiZDRmNzk2MmVhZjQzMjIifX19;299(0,0,0);300(0,0,0);301(0,0,0)
+ArmorStand	manager	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2I5MzI2ZjgzYzQxNzVmYTEwN2Y2ZjI5YmE1ZmE4MTg1OTJmYWM0ZGFkNWI2ODk3NjUzMWFlZThkMGVlIn19fQ==;299(0,0,0);300(31,29,30);301(0,0,0)
+
+0	ArmorStand	steven	spawn	-292.5,65,-79.5
+0	ArmorStand	brad	spawn	-292.5,65,-78.5
+0	ArmorStand	joey	spawn	-293.5,66,-78.5
+0	ArmorStand	sit	spawn	-292.5,65,-80.5
+0.1	ArmorStand	sit	rotate	-45	.1
+0.1	ArmorStand	joey	rotate	-100	.1
+0.1	ArmorStand	steven	rotate	-100	.1
+0.1	ArmorStand	brad	rotate	-100	.1

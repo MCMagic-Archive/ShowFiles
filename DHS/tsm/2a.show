@@ -1,0 +1,43 @@
+Show	Location	-331,65,285
+Show	TextRadius	5
+#Text
+2	Text	&f[&6Woody&f] &6Ready to play?
+3.2	Text	&f[&6Woody&f] &6Go!
+4.8	Text	&f[&3Ham&f] &2Aim for the targets!
+16	Text	&f[&3Ham&f] &2Keep shootin' everyone!
+22	Text	&f[&6Woody&f] &6You're almost outta time!
+28.2	Text	&f[&6Woody&f] &65
+29.2	Text	&f[&6Woody&f] &64
+30.2	Text	&f[&6Woody&f] &63
+31.2	Text	&f[&6Woody&f] &62
+32.2	Text	&f[&6Woody&f] &61
+33.2	Text	&f[&6Woody&f] &6Nice shooting, partner!
+#Blocks
+0	Block	152	-331,57,285
+3.2	Block	152	-331,61,285
+5	Block	152	-331,61,285
+8	Block	152	-331,61,285
+11	Block	152	-331,61,285
+14	Block	152	-331,61,285
+17	Block	152	-331,61,285
+20	Block	152	-331,61,285
+23	Block	152	-331,61,285
+26	Block	152	-331,61,285
+29	Block	152	-331,61,285
+31.1	Block	152	-331,61,285
+32.7	Block	152	-331,53,285
+33.2	Block	152	-331,57,285
+1	Block	0	-331,57,285
+4.2	Block	0	-331,61,285
+6	Block	0	-331,61,285
+9	Block	0	-331,61,285
+12	Block	0	-331,61,285
+15	Block	0	-331,61,285
+18	Block	0	-331,61,285
+21	Block	0	-331,61,285
+24	Block	0	-331,61,285
+27	Block	0	-331,61,285
+30	Block	0	-331,61,285
+32.1	Block	0	-331,61,285
+33.7	Block	0	-331,53,285
+34.2	Block	0	-331,57,285

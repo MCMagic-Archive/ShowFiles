@@ -1,0 +1,1206 @@
+#Symphony in the Stars 2.0
+#Started on 4/8/2015 by VirusElite524
+#Finished on 5/3/2015 by VirusElite524
+
+#Show location and radius
+Show	Location	-790,68,4647
+Show	TextRadius	150
+
+
+#Firework Profile
+Effect	aqua	BALL_LARGE,Aqua
+Effect	aquab	BURST,Aqua
+Effect	black	BALL_LARGE,Black,Flicker
+Effect	blackb	BURST,Black
+Effect	blue	BALL_LARGE,Blue
+Effect	blueb	BURST,Blue
+Effect	bb	BALL,Blue
+Effect	fuchsia	BALL_LARGE,Fuchsia
+Effect	fuchsiab	BURST,Fuchsia
+Effect	gray	BALL_LARGE,Gray
+Effect	grayb	BURST,Gray
+Effect	green	BALL_LARGE,Green
+Effect	greenb	BURST,Green
+Effect	lime	BALL_LARGE,Lime
+Effect	limeb	BURST,Lime
+Effect	maroon	BALL_LARGE,Maroon
+Effect	maroonb	BURST,Maroon
+Effect	navy	BALL_LARGE,Navy
+Effect	navyb	BURST,Navy
+Effect	olive	BALL_LARGE,Olive
+Effect	oliveb	BURST,Olive
+Effect	orange	BALL_LARGE,Orange
+Effect	orangeb	BURST,Orange
+Effect	purple	BALL_LARGE,Purple
+Effect	purpleb	BURST,Purple
+Effect	red	BALL_LARGE,Red
+Effect	redb	BURST,Red
+Effect	rb	BALL,Red
+Effect	silver	BALL_LARGE,Silver
+Effect	silverb	BURST,Silver
+Effect	teal	BALL_LARGE,Teal
+Effect	tealb	BURST,Teal
+Effect	white	BALL_LARGE,White
+Effect	whiteb	BURST,White
+Effect	wb	BALL,White
+Effect	yellow	BALL_LARGE,Yellow
+Effect	yellowb	BURST,Yellow
+Effect	yb	BALL,Yellow
+
+Effect	ws	STAR,White
+Effect	f1	BALL_LARGE,White,Red
+Effect	f2	BALL_LARGE,Blue,Green
+Effect	d1	BALL_LARGE,White,Flicker
+
+#Music
+0	Block 152	-805,65,4656
+1	Block	0	-805,65,4656
+#Lights Off
+#Stage
+76	Block	123	-802,64,4635
+76	Block	123	-800,64,4641
+76	Block	123	-800,64,4647
+76	Block	123	-800,64,4653
+76	Block	123	-802,64,4659
+76	Block	123	-808,67,4647
+#Theater
+76	Block	1	-840,67,4652
+76	Block	1	-840,70,4652
+76	Block	1	-840,73,4652
+76	Block	1	-840,76,4652
+76	Block	1	-840,67,4643
+76	Block	1	-840,70,4643
+76	Block	1	-840,73,4643
+76	Block	1	-840,76,4643
+76	Block	152	-844,76,4658
+76	Block	152	-844,76,4636
+76	Block	152	-846,95,4647
+76	Block	152	-839,84,4654	
+76	Block	152	-819,82,4667
+76	Block	152	-819,82,4626
+76	Block	152	-843,61,4648
+#Main
+6 Text Isn't Star Wars awesome!?
+11	Text	Star Wars truly does have a unique and wonderful force.
+14.2	Text	It does indeed surround us, penetrate us, and bind us together.
+19.2	Text	It appeals to multiple generations and unites all.
+23.1	Text	Young, old, male, female, Rebel and Sith.
+29.2	Text	It's been a part of so many of our lives certainly for 37 years
+35	Text	and isn't it fantastic  that it's still going strong
+38	Text	and that there is more new exciting Star Wars just around the corner?
+45	Text	Yes, well we have indeed summoned the most impressive assembly of the force here tonight.
+51	Text So to all of you I say-
+53.2	Text	the force will be with you, always.
+57.2	Text	Now, 
+59	Text	unite and say with me those words that start every fantastic Star Wars adventure.
+66	Text	 
+66	Text	 
+66	Text	 
+66	Text	 
+66	Text	 
+66	Text	 
+66	Text	 
+66	Text	 
+66	Text	 
+66	Text	 
+66	Text	 
+66	Text	 
+66	Text	 
+67	Text	A long time ago in a galaxy far, far away...
+68	Text	 
+69	Text	 
+70	Text	 
+71	Text	 
+72	Text	 
+73	Text	 
+74	Text 
+75	Text	 
+#Fireworks begin
+76	Firework	-805,68,4655	yellowb	1	0,1,-1	1
+76	Firework	-805,68,4655	yellowb	1	0,1,1	1
+76	Firework	-805,68,4653	yellowb	1	0,1,-1	1
+76	Firework	-805,68,4653	yellowb	1	0,1,1	1
+76	Firework	-805,68,4651	yellowb	1	0,1,-1	1
+76	Firework	-805,68,4651	yellowb	1	0,1,1	1
+76	Firework	-805,68,4643	yellowb	1	0,1,-1	1
+76	Firework	-805,68,4643	yellowb	1	0,1,1	1
+76	Firework	-805,68,4641	yellowb	1	0,1,-1	1
+76	Firework	-805,68,4641	yellowb	1	0,1,1	1
+76	Firework	-805,68,4639	yellowb	1	0,1,-1	1
+76	Firework	-805,68,4639	yellowb	1	0,1,1	1
+82	Firework	-804,81,4657	yb	0	0,1,0	1
+82	Firework	-804,81,4653	yb	0	0,1,0	1
+82	Firework	-804,81,4650	yb	0	0,1,0	1
+82	Firework	-804,81,4644	yb	0	0,1,0	1
+82	Firework	-804,81,4641	yb	0	0,1,0	1
+82	Firework	-804,81,4638	yb	0	0,1,0	1
+83.8	Firework	-805,68,4655	yellowb	2	0,1,0	1
+83.8	Firework	-805,68,4653	yellowb	2	0,1,0	1
+83.8	Firework	-805,68,4651	yellowb	2	0,1,0	1
+83.8	Firework	-805,68,4643	yellowb	2	0,1,0	1
+83.8	Firework	-805,68,4641	yellowb	2	0,1,0	1
+83.8	Firework	-805,68,4639	yellowb	2	0,1,0	1
+86.8	Firework	-804,86,4647	blue	0	0,1,0	1
+86.8	Firework	-804,86,4647	white	0	0,1,0	1
+88.8	Firework	-804,84,4645	blue	0	0,1,0	1
+88.8	Firework	-804,84,4645	white	0	0,1,0	1
+89.8	Firework	-804,88,4651	blue	0	0,1,0	1
+89.8	Firework	-804,88,4651	white	0	0,1,0	1
+91	Firework	-804,84,4643	white	0	0,1,0	1
+91	Firework	-804,82,4647	white	0	0,1,0	1
+91	Firework	-804,82,4650	white	0	0,1,0	1
+93	Firework	-805,68,4655	yellowb	2	0,1,0	1
+93	Firework	-805,68,4653	yellowb	2	0,1,0	1
+93	Firework	-805,68,4651	yellowb	2	0,1,0	1
+93	Firework	-805,68,4643	yellowb	2	0,1,0	1
+93	Firework	-805,68,4641	yellowb	2	0,1,0	1
+93	Firework	-805,68,4639	yellowb	2	0,1,0	1
+95.8	Firework	-804,84,4648	blue	0	0,1,0	1
+95.8	Firework	-804,84,4648	white	0	0,1,0	1
+98.8	Firework	-804,86,4643	blue	0	0,1,0	1
+98.8	Firework	-804,86,4643	white	0	0,1,0	1
+100	Firework	-804,80,4648	blue	0	0,1,0	1
+100	Firework	-804,85,4646	blue	0	0,1,0	1
+100	Firework	-804,81,4643	blue	0	0,1,0	1
+103	Firework	-804,81,4645	white	0	0,1,0	1
+103	Firework	-804,78,4647	white	0	0,1,0	1
+103	Firework	-804,82,4649	white	0	0,1,0	1
+104	Firework	-804,81,4657	bb	0	0,1,0	1
+104	Firework	-804,81,4653	bb	0	0,1,0	1
+104	Firework	-804,81,4650	bb	0	0,1,0	1
+104	Firework	-804,81,4644	bb	0	0,1,0	1
+104	Firework	-804,81,4641	bb	0	0,1,0	1
+104	Firework	-804,81,4638	bb	0	0,1,0	1
+107	Firework	-804,85,4648	white	0	0,1,0	1
+107	Firework	-804,88,4644	white	0	0,1,0	1
+107	Firework	-804,89,4648	white	0	0,1,0	1
+109	Firework	-804,81,4657	bb	0	0,1,0	1
+109	Firework	-804,81,4653	bb	0	0,1,0	1
+109	Firework	-804,81,4650	bb	0	0,1,0	1
+109	Firework	-804,81,4644	bb	0	0,1,0	1
+109	Firework	-804,81,4641	bb	0	0,1,0	1
+109	Firework	-804,81,4638	bb	0	0,1,0	1
+111	Firework	-804,81,4649	white	0	0,1,0	1
+111	Firework	-804,83,4644	white	0	0,1,0	1
+112	Firework	-804,85,4646	white	0	0,1,0	1
+114	Firework	-804,81,4657	bb	0	0,1,0	1
+114	Firework	-804,81,4653	bb	0	0,1,0	1
+114	Firework	-804,81,4650	bb	0	0,1,0	1
+114	Firework	-804,81,4644	bb	0	0,1,0	1
+114	Firework	-804,81,4641	bb	0	0,1,0	1
+114	Firework	-804,81,4638	bb	0	0,1,0	1
+114	Firework	-804,82,4648	orange	0	0,1,0	1
+116.8	Firework	-805,68,4651	whiteb	1	0,1,1	1
+116.8	Firework	-805,68,4643	whiteb	1	0,1,-1	1
+117	Firework	-805,68,4651	whiteb	1	0,1,-1	1
+117	Firework	-805,68,4643	whiteb	1	0,1,1	1
+117.8	Firework	-805,68,4653	whiteb	1	0,1,1	1
+117.8	Firework	-805,68,4641	whiteb	1	0,1,-1	1
+119	Firework	-804,84,4648	blue	0	0,1,0	1
+119.2	Firework	-804,88,4646	blue	0	0,1,0	1
+119.2	Firework	-804,87,4651	blue	0	0,1,0	1
+124	Firework	-805,68,4655	yellowb	2	0,1,0	1
+124	Firework	-805,68,4653	yellowb	2	0,1,0	1
+124	Firework	-805,68,4651	yellowb	2	0,1,0	1
+124	Firework	-805,68,4643	yellowb	2	0,1,0	1
+124	Firework	-805,68,4641	yellowb	2	0,1,0	1
+124	Firework	-805,68,4639	yellowb	2	0,1,0	1
+128	Firework	-804,86,4648	blue,red	0	0,1,0	1
+134	Firework	-805,68,4655	yellowb	2	0,1,0	1
+134	Firework	-805,68,4653	yellowb	2	0,1,0	1
+134	Firework	-805,68,4651	yellowb	2	0,1,0	1
+134	Firework	-805,68,4643	yellowb	2	0,1,0	1
+134	Firework	-805,68,4641	yellowb	2	0,1,0	1
+134	Firework	-805,68,4639	yellowb	2	0,1,0	1
+137	Firework	-804,88,4652	blue,red	0	0,1,0	1
+139	Firework	-804,85,4648	blue,white	0	0,1,0	1
+140	Firework	-804,87,4642	blue,white	0	0,1,0	1
+140.5	Firework	-804,81,4644	blue	0	0,1,0	1
+140.5	Firework	-804,82,4649	blue	0	0,1,0	1
+140.5	Firework	-804,85,4646	blue	0	0,1,0	1
+141	Firework	-804,78,4649	red	0	0,1,0	1
+141	Firework	-804,79,4645	red	0	0,1,0	1
+145	Firework	-805,68,4639	redb	0	0,1,1	1
+145.5	Firework	-805,68,4639	redb	1	0,1,0	1
+145.8	Firework	-805,68,4639	redb	1	0,1,-1	1
+146	Firework	-805,68,4641	redb	1	0,1,1	1
+146.5	Firework	-805,68,4641	redb	1	0,1,0	1
+146.8	Firework	-805,68,4641	redb	1	0,1,-1	1
+147	Firework	-805,68,4643	redb	1	0,1,1	1
+147.5	Firework	-805,68,4643	redb	1	0,1,0	1
+147.8	Firework	-805,68,4643	redb	1	0,1,-1	1
+145	Firework	-805,68,4655	redb	1	0,1,-1	1
+145.5	Firework	-805,68,4655	redb	1	0,1,0	1
+145.8	Firework	-805,68,4655	redb	1	0,1,1	1
+146	Firework	-805,68,4653	redb	1	0,1,-1	1
+146.5	Firework	-805,68,4653	redb	1	0,1,0	1
+146.8	Firework	-805,68,4653	redb	1	0,1,1	1
+147	Firework	-805,68,4651	redb	1	0,1,-1	1
+147.5	Firework	-805,68,4651	redb	1	0,1,0	1
+147.8	Firework	-805,68,4651	redb	1	0,1,1	1
+149	Firework	-805,68,4651	aquab	1	0,1,1	1
+149.5	Firework	-805,68,4651	aquab	1	0,1,0	1
+149.8	Firework	-805,68,4651	aquab	1	0,1,-1	1
+149	Firework	-805,68,4643	aquab	1	0,1,1	1
+149.5	Firework	-805,68,4643	aquab	1	0,1,0	1
+149.8	Firework	-805,68,4643	aquab	1	0,1,-1	1
+158	Firework	-805,68,4643	whiteb	1	0,1,-1	1
+158.5	Firework	-805,68,4643	whiteb	1	0,1,0	1
+158.8	Firework	-805,68,4643	whiteb	1	0,1,1	1
+159	Firework	-805,68,4641	whiteb	1	0,1,-1	1
+159.5	Firework	-805,68,4641	whiteb	1	0,1,0	1
+159.8	Firework	-805,68,4641	whiteb	1	0,1,1	1
+160	Firework	-805,68,4639	whiteb	1	0,1,-1	1
+160.5	Firework	-805,68,4639	whiteb	1	0,1,0	1
+160.8	Firework	-805,68,4639	whiteb	1	0,1,1	1
+158	Firework	-805,68,4651	whiteb	1	0,1,1	1
+158.5	Firework	-805,68,4651	whiteb	1	0,1,0	1
+158.8	Firework	-805,68,4651	whiteb	1	0,1,-1	1
+159	Firework	-805,68,4653	whiteb	1	0,1,1	1
+159.5	Firework	-805,68,4653	whiteb	1	0,1,0	1
+159.8	Firework	-805,68,4653	whiteb	1	0,1,-1	1
+160	Firework	-805,68,4655	whiteb	1	0,1,1	1
+160.5	Firework	-805,68,4655	whiteb	1	0,1,0	1
+160.8	Firework	-805,68,4655	whiteb	1	0,1,-1	1
+#158-163
+#Air
+158	Firework	-803,86,4652	wb	0	0,1,0	1
+158.2	Firework	-803,85,4654	wb	0	0,1,0	1
+158.4	Firework	-803,84,4652	wb	0	0,1,0	1
+158.6	Firework	-803,85,4650	wb	0	0,1,0	1
+158.8	Firework	-803,81,4651	wb	0	0,1,0	1
+159	Firework	-803,82,4653	wb	0	0,1,0	1
+159.2	Firework	-803,86,4648	wb	0	0,1,0	1
+159.4	Firework	-803,84,4647	wb	0	0,1,0	1
+159.6	Firework	-803,82,4648	wb	0	0,1,0	1
+159.8	Firework	-803,80,4649	wb	0	0,1,0	1
+160	Firework	-803,78,4651	wb	0	0,1,0	1
+160.2	Firework	-803,79,4653	wb	0	0,1,0	1
+160.4	Firework	-803,82,4645	wb	0	0,1,0	1
+160.6	Firework	-803,80,4646	wb	0	0,1,0	1
+160.8	Firework	-803,78,4648	wb	0	0,1,0	1
+161	Firework	-803,86,4642	wb	0	0,1,0	1
+161.2	Firework	-803,85,4644	wb	0	0,1,0	1
+161.4	Firework	-803,85,4640	wb	0	0,1,0	1
+161.6	Firework	-803,84,4642	wb	0	0,1,0	1
+161.8	Firework	-803,82,4644	wb	0	0,1,0	1
+162	Firework	-803,85,4638	wb	0	0,1,0	1
+162.2	Firework	-803,83,4639	wb	0	0,1,0	1
+162.4	Firework	-803,82,4641	wb	0	0,1,0	1
+162.6	Firework	-803,80,4643	wb	0	0,1,0	1
+162.8	Firework	-803,83,4637	wb	0	0,1,0	1
+163	Firework	-803,81,4638	wb	0	0,1,0	1
+163.2	Firework	-803,80,4640	wb	0	0,1,0	1
+#Wave Left
+158	Firework	-805,68,4651	whiteb	1	0,1,1	1
+158.5	Firework	-805,68,4651	whiteb	1	0,1,0	1
+159	Firework	-805,68,4651	whiteb	1	0,1,-1	1
+159.5	Firework	-805,68,4653	whiteb	1	0,1,1	1
+160	Firework	-805,68,4653	whiteb	1	0,1,0	1
+160.5	Firework	-805,68,4653	whiteb	1	0,1,-1	1
+161	Firework	-805,68,4655	whiteb	1	0,1,1	1
+161.5	Firework	-805,68,4655	whiteb	1	0,1,0	1
+162	Firework	-805,68,4655	whiteb	1	0,1,-1	1
+#Wave Right
+158	Firework	-805,68,4643	whiteb	1	0,1,-1	1
+158.5	Firework	-805,68,4643	whiteb	1	0,1,0	1
+159	Firework	-805,68,4643	whiteb	1	0,1,1	1
+159.5	Firework	-805,68,4641	whiteb	1	0,1,-1	1
+160	Firework	-805,68,4641	whiteb	1	0,1,0	1
+160.5	Firework	-805,68,4641	whiteb	1	0,1,1	1
+161	Firework	-805,68,4639	whiteb	1	0,1,-1	1
+161.5	Firework	-805,68,4639	whiteb	1	0,1,0	1
+162	Firework	-805,68,4639	whiteb	1	0,1,1	1
+#End of Waves
+172	Firework	-805,68,4655	redb	1	0,1,1	1
+172	Firework	-805,68,4653	redb	1	0,1,1	1
+172	Firework	-805,68,4651	redb	1	0,1,1	1
+172	Firework	-805,68,4643	redb	1	0,1,-1	1
+172	Firework	-805,68,4641	redb	1	0,1,-1	1
+172	Firework	-805,68,4639	redb	1	0,1,-1	1
+174	Firework	-804,85,4647	blue	0	0,1,0	1
+175	Firework	-804,82,4655	blue	0	0,1,0	1
+175	Firework	-804,79,4645	blue	0	0,1,0	1
+176	Firework	-804,83,4646	blue	0	0,1,0	1
+176	Firework	-804,83,4651	blue	0	0,1,0	1
+176.1	Firework	-804,83,4644	blue	0	0,1,0	1
+176.1	Firework	-804,83,4649	blue	0	0,1,0	1
+176.2	Firework	-805,68,4655	redb	2	0,1,0	1
+176.2	Firework	-805,68,4653	redb	2	0,1,0	1
+176.2	Firework	-805,68,4651	redb	2	0,1,0	1
+176.2	Firework	-805,68,4643	redb	2	0,1,0	1
+176.2	Firework	-805,68,4641	redb	2	0,1,0	1
+176.2	Firework	-805,68,4639	redb	2	0,1,0	1
+180	Firework	-805,68,4655	redb	2	0,1,0	1
+180	Firework	-805,68,4653	redb	2	0,1,0	1
+180	Firework	-805,68,4651	redb	2	0,1,0	1
+180	Firework	-805,68,4643	redb	2	0,1,0	1
+180	Firework	-805,68,4641	redb	2	0,1,0	1
+180	Firework	-805,68,4639	redb	2	0,1,0	1
+183.2	Firework	-804,86,4652	blue	0	0,1,0	1
+183.2	Firework	-804,86,4652	white	0	0,1,0	1
+185	Firework	-804,83,4646	blue	0	0,1,0	1
+185	Firework	-804,83,4646	white	0	0,1,0	1
+185	Firework	-804,89,4650	blue	0	0,1,0	1
+185	Firework	-804,89,4650	white	0	0,1,0	1
+186	Firework	-804,84,4646	blue	0	0,1,0	1
+186	Firework	-804,84,4646	red	0	0,1,0	1
+188	Firework	-805,86,4555	bb	0	0,1,0	1
+188	Firework	-805,86,4653	bb	0	0,1,0	1
+188	Firework	-805,86,4651	bb	0	0,1,0	1
+188	Firework	-805,86,4643	bb	0	0,1,0	1
+188	Firework	-805,86,4641	bb	0	0,1,0	1
+188	Firework	-805,86,4639	bb	0	0,1,0	1
+188	Firework	-805,86,4555	red	0	0,1,0	1
+188	Firework	-805,86,4653	red	0	0,1,0	1
+188	Firework	-805,86,4651	red	0	0,1,0	1
+188	Firework	-805,86,4643	red	0	0,1,0	1
+188	Firework	-805,86,4641	red	0	0,1,0	1
+188	Firework	-805,86,4639	red	0	0,1,0	1
+189	Firework	-804,82,4644	blue	0	0,1,0	1
+189	Firework	-804,83,4649	blue	0	0,1,0	1
+189	Firework	-804,82,4644	red	0	0,1,0	1
+189	Firework	-804,83,4649	red	0	0,1,0	1
+191	Firework	-805,86,4555	bb	0	0,1,0	1
+191	Firework	-805,86,4653	bb	0	0,1,0	1
+191	Firework	-805,86,4651	bb	0	0,1,0	1
+191	Firework	-805,86,4643	bb	0	0,1,0	1
+191	Firework	-805,86,4641	bb	0	0,1,0	1
+191	Firework	-805,86,4639	bb	0	0,1,0	1
+191	Firework	-805,86,4555	red	0	0,1,0	1
+191	Firework	-805,86,4653	red	0	0,1,0	1
+191	Firework	-805,86,4651	red	0	0,1,0	1
+191	Firework	-805,86,4643	red	0	0,1,0	1
+191	Firework	-805,86,4641	red	0	0,1,0	1
+191	Firework	-805,86,4639	red	0	0,1,0	1
+192	Firework	-804,84,4647	white	0	0,1,0	1
+195	Firework	-804,82,4645	red	0	0,1,0	1
+195	Firework	-804,82,4645	blue	0	0,1,0	1
+198	Firework	-805,86,4555	bb	0	0,1,0	1
+198	Firework	-805,86,4653	bb	0	0,1,0	1
+198	Firework	-805,86,4651	bb	0	0,1,0	1
+198	Firework	-805,86,4643	bb	0	0,1,0	1
+198	Firework	-805,86,4641	bb	0	0,1,0	1
+198	Firework	-805,86,4639	bb	0	0,1,0	1
+198	Firework	-805,86,4555	red	0	0,1,0	1
+198	Firework	-805,86,4653	red	0	0,1,0	1
+198	Firework	-805,86,4651	red	0	0,1,0	1
+198	Firework	-805,86,4643	red	0	0,1,0	1
+198	Firework	-805,86,4641	red	0	0,1,0	1
+198	Firework	-805,86,4639	red	0	0,1,0	1
+199	Firework	-804,81,4643	blue	0	0,1,0	1
+199	Firework	-804,81,4643	red	0	0,1,0	1
+199.2	Firework	-804,83,4650	blue	0	0,1,0	1
+199.2	Firework	-804,83,4650	red	0	0,1,0	1
+200	Firework	-805,86,4555	bb	0	0,1,0	1
+200	Firework	-805,86,4653	bb	0	0,1,0	1
+200	Firework	-805,86,4651	bb	0	0,1,0	1
+200	Firework	-805,86,4643	bb	0	0,1,0	1
+200	Firework	-805,86,4641	bb	0	0,1,0	1
+200	Firework	-805,86,4639	bb	0	0,1,0	1
+200	Firework	-805,86,4555	red	0	0,1,0	1
+200	Firework	-805,86,4653	red	0	0,1,0	1
+200	Firework	-805,86,4651	red	0	0,1,0	1
+200	Firework	-805,86,4643	red	0	0,1,0	1
+200	Firework	-805,86,4641	red	0	0,1,0	1
+200	Firework	-805,86,4639	red	0	0,1,0	1
+201	Firework	-804,84,4644	blue,red	0	0,1,0	1
+201.17	Firework	-804,84,4649	blue,red	0	0,1,0	1
+205	Firework	-804,80,4647	ws	0	0,1,0	1
+206	Firework	-804,78,4649	ws	0	0,1,0	1
+206.05	Firework	-804,78,4645	ws	0	0,1,0	1
+207.08	Firework	-804,80,4645	ws	0	0,1,0	1
+208.1	Firework	-804,79,4644	ws	0	0,1,0	1
+208.1	Firework	-804,79,4647	ws	0	0,1,0	1
+#Bursts
+209.2	Firework	-805,68,4651	whiteb	1	0,1,1	1
+209.2	Firework	-805,68,4643	whiteb	1	0,1,-1	1
+210.1	Firework	-805,68,4651	whiteb	1	0,1,0	1
+210.1	Firework	-805,68,4643	whiteb	1	0,1,0	1
+211	Firework	-805,68,4651	whiteb	1	0,1,-1	1
+211	Firework	-805,68,4643	whiteb	1	0,1,1	1
+211.9	Firework	-805,68,4653	whiteb	1	0,1,1	1
+211.9	Firework	-805,68,4641	whiteb	1	0,1,-1	1
+212.4	Firework	-805,68,4653	whiteb	1	0,1,0	1
+212.4	Firework	-805,68,4641	whiteb	1	0,1,0	1
+212.9	Firework	-805,68,4653	whiteb	1	0,1,-1	1
+212.9	Firework	-805,68,4641	whiteb	1	0,1,1	1
+213.1	Firework	-805,68,4655	whiteb	1	0,1,1	1
+213.1	Firework	-805,68,4639	whiteb	1	0,1,-1	1
+213.2	Firework	-805,68,4639	whiteb	1	0,1,0	1
+213.2	Firework	-805,68,4639	whiteb	1	0,1,0	1
+213.8	Firework	-805,68,4639	whiteb	1	0,1,-1	1
+213.8	Firework	-805,68,4639	whiteb	1	0,1,1	1
+#
+212.2	Firework	-804,83,4645	f1	0	0,1,0	1
+212.2	Firework	-804,84,4647	f1	0	0,1,0	1
+212.2	Firework	-804,83,4651	f1	0	0,1,0	1
+214	Firework	-804,82,4650	f1	0	0,1,0	1
+214	Firework	-804,82,4647	f1	0	0,1,0	1
+214	Firework	-804,81,4644	f1	0	0,1,0	1
+216	Firework	-804,82,4645	f1	0	0,1,0	1
+216	Firework	-804,83,4647	f1	0	0,1,0	1
+216	Firework	-804,81,4649	f1	0	0,1,0	1
+#3:39 wave
+219	Firework	-805,68,4643	redb	1	0,1,-1	1
+219.3	Firework	-805,68,4643	redb	1	0,1,0	1
+219.6	Firework	-805,68,4643	redb	1	0,1,1	1
+219.9	Firework	-805,68,4641	redb	1	0,1,1	1
+220.2	Firework	-805,68,4641	redb	1	0,1,0	1
+220.5	Firework	-805,68,4641	redb	1	0,1,-1	1
+220.8	Firework	-805,68,4639	redb	1	0,1,-1	1
+221.1	Firework	-805,68,4639	redb	1	0,1,0	1
+221.4	Firework	-805,68,4639	redb	1	0,1,1	1
+#wave
+219	Firework	-805,68,4651	redb	1	0,1,1	1
+219.3	Firework	-805,68,4651	redb	1	0,1,0	1
+219.6	Firework	-805,68,4651	redb	1	0,1,-1	1
+219.9	Firework	-805,68,4653	redb	1	0,1,-1	1
+220.2	Firework	-805,68,4653	redb	1	0,1,0	1
+220.5	Firework	-805,68,4653	redb	1	0,1,1	1
+220.8	Firework	-805,68,4655	redb	1	0,1,1	1
+221.1	Firework	-805,68,4655	redb	1	0,1,0	1
+221.4	Firework	-805,68,4655	redb	1	0,1,-1	1
+224	Firework	-805,86,4555	rb	0	0,1,0	1
+224	Firework	-805,86,4653	rb	0	0,1,0	1
+224	Firework	-805,86,4651	rb	0	0,1,0	1
+224	Firework	-805,86,4643	rb	0	0,1,0	1
+224	Firework	-805,86,4641	rb	0	0,1,0	1
+224	Firework	-805,86,4639	rb	0	0,1,0	1
+224.2	Firework	-805,68,4655	blueb	1	0,1,1	1
+224.2	Firework	-805,68,4653	blueb	1	0,1,1	1
+224.2	Firework	-805,68,4651	blueb	1	0,1,1	1
+225.1	Firework	-805,86,4555	rb	0	0,1,0	1
+225.1	Firework	-805,86,4653	rb	0	0,1,0	1
+225.1	Firework	-805,86,4651	rb	0	0,1,0	1
+225.1	Firework	-805,86,4643	rb	0	0,1,0	1
+225.1	Firework	-805,86,4641	rb	0	0,1,0	1
+225.1	Firework	-805,86,4639	rb	0	0,1,0	1
+226	Firework	-805,68,4643	redb	1	0,1,-1	1
+226	Firework	-805,68,4641	redb	1	0,1,-1	1
+226	Firework	-805,68,4639	redb	1	0,1,-1	1
+226.2	Firework	-804,87,4649	wb	0	0,1,0	1
+226.4	Firework	-804,82,4647	wb	0	0,1,0	1
+226.6	Firework	-804,87,4646	wb	0	0,1,0	1
+226.8	Firework	-804,83,4650	wb	0	0,1,0	1
+227	Firework	-804,84,4647	wb	0	0,1,0	1
+227.2	Firework	-804,83,4645	wb	0	0,1,0	1
+227.4	Firework	-804,82,4648	wb	0	0,1,0	1
+227.6	Firework	-804,85,4646	wb	0	0,1,0	1
+227.8	Firework	-804,82,4647	wb	0	0,1,0	1
+228	Firework	-804,80,4647	wb	0	0,1,0	1
+227	Firework	-805,68,4655	wb	1	0,1,0	1
+227	Firework	-805,68,4653	wb	1	0,1,0	1
+227	Firework	-805,68,4651	wb	1	0,1,0	1
+227	Firework	-805,68,4643	wb	1	0,1,0	1
+227	Firework	-805,68,4641	wb	1	0,1,0	1
+227	Firework	-805,68,4639	wb	1	0,1,0	1
+238	Firework	-804,88,4651	whiteb	0	0,1,0	1
+239.2	Firework	-804,86,4651	whiteb	0	0,1,0	1
+240	Firework	-804,86,4644	whiteb	0	0,1,0	1
+242	Firework	-804,88,4646	whiteb	0	0,1,0	1
+244	Firework	-804,86,4648	whiteb	0	0,1,0	1
+244	Firework	-804,86,4645	whiteb	0	0,1,0	1
+245	Firework	-804,88,4648	whiteb	0	0,1,0	1
+247	Firework	-804,85,4642	whiteb	0	0,1,0	1
+254	Firework	-804,84,4647	white,yellow	0	0,1,0	1
+255	Firework	-804,87,4644	white,yellow	0	0,1,0	1
+255.2	Firework	-804,89,4648	white,yellow	0	0,1,0	1
+257	Firework	-804,88,4647	white,yellow	0	0,1,0	1
+258	Firework	-804,88,4650	white,yellow	0	0,1,0	1
+258.1	Firework	-804,86,4645	white,yellow	0	0,1,0	1
+259	Firework	-804,88,4646	white,yellow	0	0,1,0	1
+261	Firework	-804,86,4646	white,blue	0	0,1,0	1
+261.1	Firework	-804,83,4650	white,blue	0	0,1,0	1
+262	Firework	-804,82,4644	white,blue	0	0,1,0	1
+262	Firework	-804,88,4650	white,blue	0	0,1,0	1
+269	Firework	-804,86,4649	limeb	0	0,1,0	1
+271	Firework	-804,88,4654	limeb	0	0,1,0	1
+273	Firework	-804,86,4545	limeb	0	0,1,0	1
+274.2	Firework	-804,87,4646	limeb	0	0,1,0	1
+278.2	Firework	-804,85,4644	limeb	0	0,1,0	1
+284	Firework	-804,84,4653	limeb	0	0,1,0	1
+284	Firework	-804,85,4645	limeb	0	0,1,0	1
+284	Firework	-804,84,4649	limeb	0	0,1,0	1
+287	Firework	-804,87,4646	limeb	0	0,1,0	1
+#back to back waves
+270	Firework	-805,68,4655	whiteb	1	0,1,-1	1
+270	Firework	-805,68,4653	whiteb	1	0,1,-1	1
+270	Firework	-805,68,4651	whiteb	1	0,1,-1	1
+270	Firework	-805,68,4643	whiteb	1	0,1,-1	1
+270	Firework	-805,68,4641	whiteb	1	0,1,-1	1
+270	Firework	-805,68,4639	whiteb	1	0,1,-1	1
+
+271	Firework	-805,68,4655	whiteb	1	0,1,0	1
+271	Firework	-805,68,4653	whiteb	1	0,1,0	1
+271	Firework	-805,68,4651	whiteb	1	0,1,0	1
+271	Firework	-805,68,4643	whiteb	1	0,1,0	1
+271	Firework	-805,68,4641	whiteb	1	0,1,0	1
+271	Firework	-805,68,4639	whiteb	1	0,1,0	1
+
+272	Firework	-805,68,4655	whiteb	1	0,1,1	1
+272	Firework	-805,68,4653	whiteb	1	0,1,1	1
+272	Firework	-805,68,4651	whiteb	1	0,1,1	1
+272	Firework	-805,68,4643	whiteb	1	0,1,1	1
+272	Firework	-805,68,4641	whiteb	1	0,1,1	1
+272	Firework	-805,68,4639	whiteb	1	0,1,1	1
+
+273	Firework	-805,68,4655	whiteb	1	0,1,1	1
+273	Firework	-805,68,4653	whiteb	1	0,1,1	1
+273	Firework	-805,68,4651	whiteb	1	0,1,1	1
+273	Firework	-805,68,4643	whiteb	1	0,1,1	1
+273	Firework	-805,68,4641	whiteb	1	0,1,1	1
+273	Firework	-805,68,4639	whiteb	1	0,1,1	1
+
+274	Firework	-805,68,4655	whiteb	1	0,1,0	1
+274	Firework	-805,68,4653	whiteb	1	0,1,0	1
+274	Firework	-805,68,4651	whiteb	1	0,1,0	1
+274	Firework	-805,68,4643	whiteb	1	0,1,0	1
+274	Firework	-805,68,4641	whiteb	1	0,1,0	1
+274	Firework	-805,68,4639	whiteb	1	0,1,0	1
+
+275	Firework	-805,68,4655	whiteb	1	0,1,-1	1
+275	Firework	-805,68,4653	whiteb	1	0,1,-1	1
+275	Firework	-805,68,4651	whiteb	1	0,1,-1	1
+275	Firework	-805,68,4643	whiteb	1	0,1,-1	1
+275	Firework	-805,68,4641	whiteb	1	0,1,-1	1
+275	Firework	-805,68,4639	whiteb	1	0,1,-1	1
+
+276	Firework	-805,68,4655	whiteb	1	0,1,-1	1
+276	Firework	-805,68,4653	whiteb	1	0,1,-1	1
+276	Firework	-805,68,4651	whiteb	1	0,1,-1	1
+276	Firework	-805,68,4643	whiteb	1	0,1,-1	1
+276	Firework	-805,68,4641	whiteb	1	0,1,-1	1
+276	Firework	-805,68,4639	whiteb	1	0,1,-1	1
+
+277	Firework	-805,68,4655	whiteb	1	0,1,0	1
+277	Firework	-805,68,4653	whiteb	1	0,1,0	1
+277	Firework	-805,68,4651	whiteb	1	0,1,0	1
+277	Firework	-805,68,4643	whiteb	1	0,1,0	1
+277	Firework	-805,68,4641	whiteb	1	0,1,0	1
+277	Firework	-805,68,4639	whiteb	1	0,1,0	1
+
+278	Firework	-805,68,4655	whiteb	1	0,1,1	1
+278	Firework	-805,68,4653	whiteb	1	0,1,1	1
+278	Firework	-805,68,4651	whiteb	1	0,1,1	1
+278	Firework	-805,68,4643	whiteb	1	0,1,1	1
+278	Firework	-805,68,4641	whiteb	1	0,1,1	1
+278	Firework	-805,68,4639	whiteb	1	0,1,1	1
+
+279	Firework	-805,68,4655	whiteb	1	0,1,1	1
+279	Firework	-805,68,4653	whiteb	1	0,1,1	1
+279	Firework	-805,68,4651	whiteb	1	0,1,1	1
+279	Firework	-805,68,4643	whiteb	1	0,1,1	1
+279	Firework	-805,68,4641	whiteb	1	0,1,1	1
+279	Firework	-805,68,4639	whiteb	1	0,1,1	1
+
+280	Firework	-805,68,4655	whiteb	1	0,1,0	1
+280	Firework	-805,68,4653	whiteb	1	0,1,0	1
+280	Firework	-805,68,4651	whiteb	1	0,1,0	1
+280	Firework	-805,68,4643	whiteb	1	0,1,0	1
+280	Firework	-805,68,4641	whiteb	1	0,1,0	1
+280	Firework	-805,68,4639	whiteb	1	0,1,0	1
+
+281	Firework	-805,68,4655	whiteb	1	0,1,-1	1
+281	Firework	-805,68,4653	whiteb	1	0,1,-1	1
+281	Firework	-805,68,4651	whiteb	1	0,1,-1	1
+281	Firework	-805,68,4643	whiteb	1	0,1,-1	1
+281	Firework	-805,68,4641	whiteb	1	0,1,-1	1
+281	Firework	-805,68,4639	whiteb	1	0,1,-1	1
+
+282	Firework	-805,68,4655	whiteb	1	0,1,-1	1
+282	Firework	-805,68,4653	whiteb	1	0,1,-1	1
+282	Firework	-805,68,4651	whiteb	1	0,1,-1	1
+282	Firework	-805,68,4643	whiteb	1	0,1,-1	1
+282	Firework	-805,68,4641	whiteb	1	0,1,-1	1
+282	Firework	-805,68,4639	whiteb	1	0,1,-1	1
+
+283	Firework	-805,68,4655	whiteb	1	0,1,0	1
+283	Firework	-805,68,4653	whiteb	1	0,1,0	1
+283	Firework	-805,68,4651	whiteb	1	0,1,0	1
+283	Firework	-805,68,4643	whiteb	1	0,1,0	1
+283	Firework	-805,68,4641	whiteb	1	0,1,0	1
+283	Firework	-805,68,4639	whiteb	1	0,1,0	1
+
+284	Firework	-805,68,4655	whiteb	1	0,1,1	1
+284	Firework	-805,68,4653	whiteb	1	0,1,1	1
+284	Firework	-805,68,4651	whiteb	1	0,1,1	1
+284	Firework	-805,68,4643	whiteb	1	0,1,1	1
+284	Firework	-805,68,4641	whiteb	1	0,1,1	1
+284	Firework	-805,68,4639	whiteb	1	0,1,1	1
+#end of wave
+293	Firework	-803,83,4656	yellow,orange	0	0,1,0	1
+293	Firework	-803,83,4654	yellow,orange	0	0,1,0	1
+293	Firework	-803,83,4652	yellow,orange	0	0,1,0	1
+293	Firework	-803,83,4650	yellow,orange	0	0,1,0	1
+293	Firework	-803,83,4648	yellow,orange	0	0,1,0	1
+293	Firework	-803,83,4646	yellow,orange	0	0,1,0	1
+293	Firework	-803,83,4644	yellow,orange	0	0,1,0	1
+293	Firework	-803,83,4642	yellow,orange	0	0,1,0	1
+293	Firework	-803,83,4640	yellow,orange	0	0,1,0	1
+293	Firework	-803,83,4638	yellow,orange	0	0,1,0	1
+295	Firework	-803,80,4655	yellow,orange	0	0,1,0	1
+295	Firework	-803,80,4653	yellow,orange	0	0,1,0	1
+295	Firework	-803,80,4651	yellow,orange	0	0,1,0	1
+295	Firework	-803,80,4649	yellow,orange	0	0,1,0	1
+295	Firework	-803,80,4647	yellow,orange	0	0,1,0	1
+295	Firework	-803,80,4645	yellow,orange	0	0,1,0	1
+295	Firework	-803,80,4643	yellow,orange	0	0,1,0	1
+295	Firework	-803,80,4641	yellow,orange	0	0,1,0	1
+295	Firework	-803,80,4639	yellow,orange	0	0,1,0	1
+298	Firework	-803,86,4655	white,yellow	0	0,1,0	1
+298	Firework	-803,86,4653	white,yellow	0	0,1,0	1
+298	Firework	-803,86,4651	white,yellow	0	0,1,0	1
+298	Firework	-803,86,4649	white,yellow	0	0,1,0	1
+298	Firework	-803,86,4647	white,yellow	0	0,1,0	1
+298	Firework	-803,86,4645	white,yellow	0	0,1,0	1
+298	Firework	-803,86,4643	white,yellow	0	0,1,0	1
+298	Firework	-803,86,4641	white,yellow	0	0,1,0	1
+298	Firework	-803,86,4639	white,yellow	0	0,1,0	1
+305	Firework	-805,68,4655	whiteb	2	0,1,0	1
+305	Firework	-805,68,4653	whiteb	2	0,1,0	1
+305	Firework	-805,68,4651	whiteb	2	0,1,0	1
+305	Firework	-805,68,4643	whiteb	2	0,1,0	1
+305	Firework	-805,68,4641	whiteb	2	0,1,0	1
+305	Firework	-805,68,4639	whiteb	2	0,1,0	1
+309	Firework	-805,68,4655	whiteb	2	0,1,-1	1
+309	Firework	-805,68,4653	whiteb	2	0,1,-1	1
+309	Firework	-805,68,4651	whiteb	2	0,1,-1	1
+309	Firework	-805,68,4643	whiteb	2	0,1,-1	1
+309	Firework	-805,68,4641	whiteb	2	0,1,-1	1
+309	Firework	-805,68,4639	whiteb	2	0,1,-1	1
+309	Firework	-805,68,4655	whiteb	2	0,1,1	1
+309	Firework	-805,68,4653	whiteb	2	0,1,1	1
+309	Firework	-805,68,4651	whiteb	2	0,1,1	1
+309	Firework	-805,68,4643	whiteb	2	0,1,1	1
+309	Firework	-805,68,4641	whiteb	2	0,1,1	1
+309	Firework	-805,68,4639	whiteb	2	0,1,1	1
+309.2	Firework	-805,86,4555	blueb	0	0,1,0	1
+309.2	Firework	-805,86,4653	blueb	0	0,1,0	1
+309.2	Firework	-805,86,4651	blueb	0	0,1,0	1
+309.2	Firework	-805,86,4643	blueb	0	0,1,0	1
+309.2	Firework	-805,86,4641	blueb	0	0,1,0	1
+309.2	Firework	-805,86,4639	blueb	0	0,1,0	1
+313	Firework	-805,68,4655	whiteb	2	0,1,-1	1
+313	Firework	-805,68,4653	whiteb	2	0,1,-1	1
+313	Firework	-805,68,4651	whiteb	2	0,1,-1	1
+313	Firework	-805,68,4643	whiteb	2	0,1,-1	1
+313	Firework	-805,68,4641	whiteb	2	0,1,-1	1
+313	Firework	-805,68,4639	whiteb	2	0,1,-1	1
+313	Firework	-805,68,4655	whiteb	2	0,1,1	1
+313	Firework	-805,68,4653	whiteb	2	0,1,1	1
+313	Firework	-805,68,4651	whiteb	2	0,1,1	1
+313	Firework	-805,68,4643	whiteb	2	0,1,1	1
+313	Firework	-805,68,4641	whiteb	2	0,1,1	1
+313	Firework	-805,68,4639	whiteb	2	0,1,1	1
+313.2	Firework	-805,86,4555	blueb	1	0,1,0	1
+313.2	Firework	-805,86,4653	blueb	1	0,1,0	1
+313.2	Firework	-805,86,4651	blueb	1	0,1,0	1
+313.2	Firework	-805,86,4643	blueb	1	0,1,0	1
+313.2	Firework	-805,86,4641	blueb	1	0,1,0	1
+313.2	Firework	-805,86,4639	blueb	1	0,1,0	1
+317	Firework	-804,89,4652	blue,white	0	0,1,0	1
+319	Firework	-804,88,4644	blue,white	0	0,1,0	1
+319	Firework	-804,85,4649	blue,white	0	0,1,0	1
+323	Firework	-804,89,4648	f2	0	0,1,0	1
+325	Firework	-804,85,4646	f2	0	0,1,0	1
+327	Firework	-804,89,3985	f2	0	0,1,0	1
+330	Firework	-804,84,4647	f2	0	0,1,0	1
+333	Firework	-804,88,4649	f2	0	0,1,0	1
+335	Firework	-804,85,4647	f2	0	0,1,0	1
+337	Firework	-805,68,4655	whiteb	2	0,1,0	1
+337	Firework	-805,68,4653	whiteb	2	0,1,0	1
+337	Firework	-805,68,4651	whiteb	2	0,1,0	1
+337	Firework	-805,68,4643	whiteb	2	0,1,0	1
+337	Firework	-805,68,4641	whiteb	2	0,1,0	1
+337	Firework	-805,68,4639	whiteb	2	0,1,0	1
+337.2	Firework	-805,86,4555	blueb	0	0,1,0	1
+337.2	Firework	-805,86,4653	blueb	0	0,1,0	1
+337.2	Firework	-805,86,4651	blueb	0	0,1,0	1
+337.2	Firework	-805,86,4643	blueb	0	0,1,0	1
+337.2	Firework	-805,86,4641	blueb	0	0,1,0	1
+337.2	Firework	-805,86,4639	blueb	0	0,1,0	1
+341	Firework	-805,68,4655	whiteb	2	0,1,-1	1
+341	Firework	-805,68,4653	whiteb	2	0,1,-1	1
+341	Firework	-805,68,4651	whiteb	2	0,1,-1	1
+341	Firework	-805,68,4643	whiteb	2	0,1,-1	1
+341	Firework	-805,68,4641	whiteb	2	0,1,-1	1
+341	Firework	-805,68,4639	whiteb	2	0,1,-1	1
+341	Firework	-805,68,4655	whiteb	2	0,1,1	1
+341	Firework	-805,68,4653	whiteb	2	0,1,1	1
+341	Firework	-805,68,4651	whiteb	2	0,1,1	1
+341	Firework	-805,68,4643	whiteb	2	0,1,1	1
+341	Firework	-805,68,4641	whiteb	2	0,1,1	1
+341	Firework	-805,68,4639	whiteb	2	0,1,1	1
+341.2	Firework	-805,86,4555	blueb	0	0,1,0	1
+341.2	Firework	-805,86,4653	blueb	0	0,1,0	1
+341.2	Firework	-805,86,4651	blueb	0	0,1,0	1
+341.2	Firework	-805,86,4643	blueb	0	0,1,0	1
+341.2	Firework	-805,86,4641	blueb	0	0,1,0	1
+341.2	Firework	-805,86,4639	blueb	0	0,1,0	1
+346	Firework	-804,87,4647	green	0	0,1,0	1
+348	Firework	-804,85,4646	green	0	0,1,0	1
+350	Firework	-804,87,4652	green	0	0,1,0	1
+350	Firework	-804,84,4641	green	0	0,1,0	1
+352	Firework	-804,89,4647	red	0	0,1,0	1
+354	Firework	-804,86,4649	red	0	0,1,0	1
+354	Firework	-804,86,4643	red	0	0,1,0	1
+356	Firework	-804,84,4650	red,rb	0	0,1,0	1
+358	Firework	-804,87,4649	red,rb	0	0,1,0	1
+358	Firework	-804,86,4644	red,rb	0	0,1,0	1
+361	Firework	-804,88,4650	f2	0	0,1,0	1
+362	Firework	-804,85,4642	f2	0	0,1,0	1
+#Wave
+362.2	Firework	-805,68,4655	whiteb	1	0,1,0	1
+362.2	Firework	-805,68,4653	whiteb	1	0,1,0	1
+362.2	Firework	-805,68,4651	whiteb	1	0,1,0	1
+362.2	Firework	-805,68,4643	whiteb	1	0,1,0	1
+362.2	Firework	-805,68,4641	whiteb	1	0,1,0	1
+362.2	Firework	-805,68,4639	whiteb	1	0,1,0	1
+
+362.2	Firework	-805,68,4655	whiteb	1	0,1,-1	1
+362.2	Firework	-805,68,4653	whiteb	1	0,1,-1	1
+362.2	Firework	-805,68,4651	whiteb	1	0,1,-1	1
+362.2	Firework	-805,68,4643	whiteb	1	0,1,-1	1
+362.2	Firework	-805,68,4641	whiteb	1	0,1,-1	1
+362.2	Firework	-805,68,4639	whiteb	1	0,1,-1	1
+
+362.2	Firework	-805,68,4655	whiteb	1	0,1,1	1
+362.2	Firework	-805,68,4653	whiteb	1	0,1,1	1
+362.2	Firework	-805,68,4651	whiteb	1	0,1,1	1
+362.2	Firework	-805,68,4643	whiteb	1	0,1,1	1
+362.2	Firework	-805,68,4641	whiteb	1	0,1,1	1
+362.2	Firework	-805,68,4639	whiteb	1	0,1,1	1
+
+363	Firework	-804,89,4642	f2	0	0,1,0	1
+363.1	Firework	-804,87,4643	white,whiteb	0	0,1,0	1
+366	Firework	-804,84,4646	white,whiteb	0	0,1,0	1
+366	Firework	-804,83,4640	white,whiteb	0	0,1,0	1
+368	Firework	-804,86,4643	white,whiteb	0	0,1,0	1
+369	Firework	-804,82,4649	white,whiteb	0	0,1,0	1
+369	Firework	-804,83,4654	white,whiteb	0	0,1,0	1
+370	Firework	-805,68,4655	purpleb	2	0,1,-1	1
+370	Firework	-805,68,4653	purpleb	2	0,1,-1	1
+370	Firework	-805,68,4651	purpleb	2	0,1,-1	1
+370	Firework	-805,68,4643	purpleb	2	0,1,-1	1
+370	Firework	-805,68,4641	purpleb	2	0,1,-1	1
+370	Firework	-805,68,4639	purpleb	2	0,1,-1	1
+370	Firework	-805,68,4655	purpleb	2	0,1,1	1
+370	Firework	-805,68,4653	purpleb	2	0,1,1	1
+370	Firework	-805,68,4651	purpleb	2	0,1,1	1
+370	Firework	-805,68,4643	purpleb	2	0,1,1	1
+370	Firework	-805,68,4641	purpleb	2	0,1,1	1
+370	Firework	-805,68,4639	purpleb	2	0,1,1	1
+372	Firework	-805,68,4655	whiteb	1	0,1,1	1
+372	Firework	-805,68,4653	whiteb	1	0,1,1	1
+372	Firework	-805,68,4651	whiteb	1	0,1,1	1
+372	Firework	-805,68,4643	whiteb	1	0,1,1	1
+372	Firework	-805,68,4641	whiteb	1	0,1,1	1
+372	Firework	-805,68,4639	whiteb	1	0,1,1	1
+374	Firework	-805,68,4655	whiteb	1	0,1,-1	1
+374	Firework	-805,68,4653	whiteb	1	0,1,-1	1
+374	Firework	-805,68,4651	whiteb	1	0,1,-1	1
+374	Firework	-805,68,4643	whiteb	1	0,1,-1	1
+374	Firework	-805,68,4641	whiteb	1	0,1,-1	1
+374	Firework	-805,68,4639	whiteb	1	0,1,-1	1
+376	Firework	-804,88,4647	white,wb	0	0,1,0	1
+377.2	Firework	-804,90,4652	white,wb	0	0,1,0	1
+377.2	Firework	-804,90,4643	white,wb	0	0,1,0	1
+381.2	Firework	-805,68,4655	whiteb	1	0,1,1	1
+381.2	Firework	-805,68,4653	whiteb	1	0,1,1	1
+381.2	Firework	-805,68,4651	whiteb	1	0,1,1	1
+381.2	Firework	-805,68,4643	whiteb	1	0,1,1	1
+381.2	Firework	-805,68,4641	whiteb	1	0,1,1	1
+381.2	Firework	-805,68,4639	whiteb	1	0,1,1	1
+383.1	Firework	-805,68,4655	whiteb	1	0,1,-1	1
+383.1	Firework	-805,68,4653	whiteb	1	0,1,-1	1
+383.1	Firework	-805,68,4651	whiteb	1	0,1,-1	1
+383.1	Firework	-805,68,4643	whiteb	1	0,1,-1	1
+383.1	Firework	-805,68,4641	whiteb	1	0,1,-1	1
+383.1	Firework	-805,68,4639	whiteb	1	0,1,-1	1
+385	Firework	-804,88,4653	white,wb	0	0,1,0	1
+385	Firework	-804,87,4639	white,wb	0	0,1,0	1
+385	Firework	-804,90,4657	white,wb	0	0,1,0	1
+387	Firework	-804,90,4653	white,wb	0	0,1,0	1
+387	Firework	-804,88,4648	white,wb	0	0,1,0	1
+387	Firework	-804,88,4637	white,wb	0	0,1,0	1
+392	Firework	-804,88,4645	d1,wb	0	0,1,0	1
+394	Firework	-804,83,4654	d1,wb	0	0,1,0	1
+394	Firework	-804,89,4649	d1,wb	0	0,1,0	1
+397	Firework	-804,88,4653	d1,wb	0	0,1,0	1
+399	Firework	-804,88,4645	d1,wb	0	0,1,0	1
+399	Firework	-804,84,4640	d1,wb	0	0,1,0	1
+401	Firework	-804,90,4647	d1,wb	0	0,1,0	1
+401	Firework	-804,82,4651	d1,wb	0	0,1,0	1
+401	Firework	-804,84,4639	d1,wb	0	0,1,0	1
+408	Firework	-804,87,4648	white,bb	0	0,1,0	1
+408	Firework	-804,85,4646	white,bb	0	0,1,0	1
+408	Firework	-804,87,4643	white,bb	0	0,1,0	1
+408	Firework	-805,68,4655	whiteb	1	0,1,-1	1
+408	Firework	-805,68,4653	whiteb	1	0,1,-1	1
+408	Firework	-805,68,4651	whiteb	1	0,1,-1	1
+408	Firework	-805,68,4643	whiteb	1	0,1,-1	1
+408	Firework	-805,68,4641	whiteb	1	0,1,-1	1
+408	Firework	-805,68,4639	whiteb	1	0,1,-1	1
+408	Firework	-805,68,4655	whiteb	1	0,1,1	1
+408	Firework	-805,68,4653	whiteb	1	0,1,1	1
+408	Firework	-805,68,4651	whiteb	1	0,1,1	1
+408	Firework	-805,68,4643	whiteb	1	0,1,1	1
+408	Firework	-805,68,4641	whiteb	1	0,1,1	1
+408	Firework	-805,68,4639	whiteb	1	0,1,1	1
+410	Firework	-804,87,4651	white,bb	0	0,1,0	1
+410	Firework	-804,87,4643	white,bb	0	0,1,0	1
+412	Firework	-804,89,4647	white,bb	0	0,1,0	1
+412	Firework	-805,68,4655	whiteb	1	0,1,0	1
+412	Firework	-805,68,4653	whiteb	1	0,1,0	1
+412	Firework	-805,68,4651	whiteb	1	0,1,0	1
+412	Firework	-805,68,4643	whiteb	1	0,1,0	1
+412	Firework	-805,68,4641	whiteb	1	0,1,0	1
+412	Firework	-805,68,4639	whiteb	1	0,1,0	1
+414	Firework	-805,68,4655	whiteb	1	0,1,-1	1
+414	Firework	-805,68,4653	whiteb	1	0,1,-1	1
+414	Firework	-805,68,4651	whiteb	1	0,1,-1	1
+414	Firework	-805,68,4643	whiteb	1	0,1,-1	1
+414	Firework	-805,68,4641	whiteb	1	0,1,-1	1
+414	Firework	-805,68,4639	whiteb	1	0,1,-1	1
+414	Firework	-805,68,4655	whiteb	1	0,1,1	1
+414	Firework	-805,68,4653	whiteb	1	0,1,1	1
+414	Firework	-805,68,4651	whiteb	1	0,1,1	1
+414	Firework	-805,68,4643	whiteb	1	0,1,1	1
+414	Firework	-805,68,4641	whiteb	1	0,1,1	1
+414	Firework	-805,68,4639	whiteb	1	0,1,1	1
+416.2	Firework	-805,68,4655	redb	1	0,1,-1	1
+416.2	Firework	-805,68,4653	redb	1	0,1,-1	1
+416.2	Firework	-805,68,4651	redb	1	0,1,-1	1
+416.2	Firework	-805,68,4643	redb	1	0,1,-1	1
+416.2	Firework	-805,68,4641	redb	1	0,1,-1	1
+416.2	Firework	-805,68,4639	redb	1	0,1,-1	1
+416.2	Firework	-805,68,4655	redb	1	0,1,1	1
+416.2	Firework	-805,68,4653	redb	1	0,1,1	1
+416.2	Firework	-805,68,4651	redb	1	0,1,1	1
+416.2	Firework	-805,68,4643	redb	1	0,1,1	1
+416.2	Firework	-805,68,4641	redb	1	0,1,1	1
+416.2	Firework	-805,68,4639	redb	1	0,1,1	1
+417	Firework	-803,87,4649	red	0	0,1,0	1
+417	Firework	-803,87,4645	red	0	0,1,0	1
+417	Firework	-803,85,4651	red	0	0,1,0	1
+417	Firework	-803,85,4647	red	0	0,1,0	1
+417	Firework	-803,85,4643	red	0	0,1,0	1
+417	Firework	-803,83,4649	red	0	0,1,0	1
+417	Firework	-803,83,4645	red	0	0,1,0	1
+418	Firework	-805,68,4655	greenb	1	0,1,-1	1
+418	Firework	-805,68,4653	greenb	1	0,1,-1	1
+418	Firework	-805,68,4651	greenb	1	0,1,-1	1
+418	Firework	-805,68,4643	greenb	1	0,1,-1	1
+418	Firework	-805,68,4641	greenb	1	0,1,-1	1
+418	Firework	-805,68,4639	greenb	1	0,1,-1	1
+418	Firework	-805,68,4655	greenb	1	0,1,1	1
+418	Firework	-805,68,4653	greenb	1	0,1,1	1
+418	Firework	-805,68,4651	greenb	1	0,1,1	1
+418	Firework	-805,68,4643	greenb	1	0,1,1	1
+418	Firework	-805,68,4641	greenb	1	0,1,1	1
+418	Firework	-805,68,4639	greenb	1	0,1,1	1
+419	Firework	-803,87,4649	green	0	0,1,0	1
+419	Firework	-803,87,4645	green	0	0,1,0	1
+419	Firework	-803,85,4651	green	0	0,1,0	1
+419	Firework	-803,85,4647	green	0	0,1,0	1
+419	Firework	-803,85,4643	green	0	0,1,0	1
+419	Firework	-803,83,4649	green	0	0,1,0	1
+419	Firework	-803,83,4645	green	0	0,1,0	1
+419.2	Firework	-805,68,4655	yellowb	1	0,1,-1	1
+419.2	Firework	-805,68,4653	yellowb	1	0,1,-1	1
+419.2	Firework	-805,68,4651	yellowb	1	0,1,-1	1
+419.2	Firework	-805,68,4643	yellowb	1	0,1,-1	1
+419.2	Firework	-805,68,4641	yellowb	1	0,1,-1	1
+419.2	Firework	-805,68,4639	yellowb	1	0,1,-1	1
+419.2	Firework	-805,68,4655	yellowb	1	0,1,1	1
+419.2	Firework	-805,68,4653	yellowb	1	0,1,1	1
+419.2	Firework	-805,68,4651	yellowb	1	0,1,1	1
+419.2	Firework	-805,68,4643	yellowb	1	0,1,1	1
+419.2	Firework	-805,68,4641	yellowb	1	0,1,1	1
+419.2	Firework	-805,68,4639	yellowb	1	0,1,1	1
+420	Firework	-803,87,4649	yellow	0	0,1,0	1
+420	Firework	-803,87,4645	yellow	0	0,1,0	1
+420	Firework	-803,85,4651	yellow	0	0,1,0	1
+420	Firework	-803,85,4647	yellow	0	0,1,0	1
+420	Firework	-803,85,4643	yellow	0	0,1,0	1
+420	Firework	-803,83,4649	yellow	0	0,1,0	1
+420	Firework	-803,83,4645	yellow	0	0,1,0	1
+421	Firework	-805,68,4655	purpleb	1	0,1,-1	1
+421	Firework	-805,68,4653	purpleb	1	0,1,-1	1
+421	Firework	-805,68,4651	purpleb	1	0,1,-1	1
+421	Firework	-805,68,4643	purpleb	1	0,1,-1	1
+421	Firework	-805,68,4641	purpleb	1	0,1,-1	1
+421	Firework	-805,68,4639	purpleb	1	0,1,-1	1
+421	Firework	-805,68,4655	purpleb	1	0,1,1	1
+421	Firework	-805,68,4653	purpleb	1	0,1,1	1
+421	Firework	-805,68,4651	purpleb	1	0,1,1	1
+421	Firework	-805,68,4643	purpleb	1	0,1,1	1
+421	Firework	-805,68,4641	purpleb	1	0,1,1	1
+421	Firework	-805,68,4639	purpleb	1	0,1,1	1
+421.2	Firework	-803,87,4649	purple	0	0,1,0	1
+421.2	Firework	-803,87,4645	purple	0	0,1,0	1
+421.2	Firework	-803,85,4651	purple	0	0,1,0	1
+421.2	Firework	-803,85,4647	purple	0	0,1,0	1
+421.2	Firework	-803,85,4643	purple	0	0,1,0	1
+421.2	Firework	-803,83,4649	purple	0	0,1,0	1
+421.2	Firework	-803,83,4645	purple	0	0,1,0	1
+423	Firework	-805,68,4655	whiteb	1	0,1,-1	1
+423	Firework	-805,68,4653	whiteb	1	0,1,-1	1
+423	Firework	-805,68,4651	whiteb	1	0,1,-1	1
+423	Firework	-805,68,4643	whiteb	1	0,1,-1	1
+423	Firework	-805,68,4641	whiteb	1	0,1,-1	1
+423	Firework	-805,68,4639	whiteb	1	0,1,-1	1
+423	Firework	-805,68,4655	whiteb	1	0,1,1	1
+423	Firework	-805,68,4653	whiteb	1	0,1,1	1
+423	Firework	-805,68,4651	whiteb	1	0,1,1	1
+423	Firework	-805,68,4643	whiteb	1	0,1,1	1
+423	Firework	-805,68,4641	whiteb	1	0,1,1	1
+423	Firework	-805,68,4639	whiteb	1	0,1,1	1
+425	Firework	-803,85,4649	white	0	0,1,0	1
+425	Firework	-803,87,4645	white	0	0,1,0	1
+426	Firework	-803,84,4643	white	0	0,1,0	1
+426	Firework	-803,81,4646	white	0	0,1,0	1
+#Wave
+431	Firework	-805,68,4655	whiteb	1	0,1,0	1
+431	Firework	-805,68,4653	whiteb	1	0,1,0	1
+431	Firework	-805,68,4651	whiteb	1	0,1,0	1
+431	Firework	-805,68,4643	whiteb	1	0,1,0	1
+431	Firework	-805,68,4641	whiteb	1	0,1,0	1
+431	Firework	-805,68,4639	whiteb	1	0,1,0	1
+431	Firework	-805,68,4655	whiteb	1	0,1,-1	1
+431	Firework	-805,68,4653	whiteb	1	0,1,-1	1
+431	Firework	-805,68,4651	whiteb	1	0,1,-1	1
+431	Firework	-805,68,4643	whiteb	1	0,1,-1	1
+431	Firework	-805,68,4641	whiteb	1	0,1,-1	1
+431	Firework	-805,68,4639	whiteb	1	0,1,-1	1
+431	Firework	-805,68,4655	whiteb	1	0,1,1	1
+431	Firework	-805,68,4653	whiteb	1	0,1,1	1
+431	Firework	-805,68,4651	whiteb	1	0,1,1	1
+431	Firework	-805,68,4643	whiteb	1	0,1,1	1
+431	Firework	-805,68,4641	whiteb	1	0,1,1	1
+431	Firework	-805,68,4639	whiteb	1	0,1,1	1
+
+432	Firework	-805,68,4655	whiteb	1	0,1,0	1
+432	Firework	-805,68,4653	whiteb	1	0,1,0	1
+432	Firework	-805,68,4651	whiteb	1	0,1,0	1
+432	Firework	-805,68,4643	whiteb	1	0,1,0	1
+432	Firework	-805,68,4641	whiteb	1	0,1,0	1
+432	Firework	-805,68,4639	whiteb	1	0,1,0	1
+432	Firework	-805,68,4655	whiteb	1	0,1,-1	1
+432	Firework	-805,68,4653	whiteb	1	0,1,-1	1
+432	Firework	-805,68,4651	whiteb	1	0,1,-1	1
+432	Firework	-805,68,4643	whiteb	1	0,1,-1	1
+432	Firework	-805,68,4641	whiteb	1	0,1,-1	1
+432	Firework	-805,68,4639	whiteb	1	0,1,-1	1
+432	Firework	-805,68,4655	whiteb	1	0,1,1	1
+432	Firework	-805,68,4653	whiteb	1	0,1,1	1
+432	Firework	-805,68,4651	whiteb	1	0,1,1	1
+432	Firework	-805,68,4643	whiteb	1	0,1,1	1
+432	Firework	-805,68,4641	whiteb	1	0,1,1	1
+432	Firework	-805,68,4639	whiteb	1	0,1,1	1
+
+433	Firework	-805,68,4655	whiteb	1	0,1,0	1
+433	Firework	-805,68,4653	whiteb	1	0,1,0	1
+433	Firework	-805,68,4651	whiteb	1	0,1,0	1
+433	Firework	-805,68,4643	whiteb	1	0,1,0	1
+433	Firework	-805,68,4641	whiteb	1	0,1,0	1
+433	Firework	-805,68,4639	whiteb	1	0,1,0	1
+433	Firework	-805,68,4655	whiteb	1	0,1,-1	1
+433	Firework	-805,68,4653	whiteb	1	0,1,-1	1
+433	Firework	-805,68,4651	whiteb	1	0,1,-1	1
+433	Firework	-805,68,4643	whiteb	1	0,1,-1	1
+433	Firework	-805,68,4641	whiteb	1	0,1,-1	1
+433	Firework	-805,68,4639	whiteb	1	0,1,-1	1
+433	Firework	-805,68,4655	whiteb	1	0,1,1	1
+433	Firework	-805,68,4653	whiteb	1	0,1,1	1
+433	Firework	-805,68,4651	whiteb	1	0,1,1	1
+433	Firework	-805,68,4643	whiteb	1	0,1,1	1
+433	Firework	-805,68,4641	whiteb	1	0,1,1	1
+433	Firework	-805,68,4639	whiteb	1	0,1,1	1
+
+434	Firework	-805,68,4655	whiteb	1	0,1,0	1
+434	Firework	-805,68,4653	whiteb	1	0,1,0	1
+434	Firework	-805,68,4651	whiteb	1	0,1,0	1
+434	Firework	-805,68,4643	whiteb	1	0,1,0	1
+434	Firework	-805,68,4641	whiteb	1	0,1,0	1
+434	Firework	-805,68,4639	whiteb	1	0,1,0	1
+434	Firework	-805,68,4655	whiteb	1	0,1,-1	1
+434	Firework	-805,68,4653	whiteb	1	0,1,-1	1
+434	Firework	-805,68,4651	whiteb	1	0,1,-1	1
+434	Firework	-805,68,4643	whiteb	1	0,1,-1	1
+434	Firework	-805,68,4641	whiteb	1	0,1,-1	1
+434	Firework	-805,68,4639	whiteb	1	0,1,-1	1
+434	Firework	-805,68,4655	whiteb	1	0,1,1	1
+434	Firework	-805,68,4653	whiteb	1	0,1,1	1
+434	Firework	-805,68,4651	whiteb	1	0,1,1	1
+434	Firework	-805,68,4643	whiteb	1	0,1,1	1
+434	Firework	-805,68,4641	whiteb	1	0,1,1	1
+434	Firework	-805,68,4639	whiteb	1	0,1,1	1
+
+
+435	Firework	-805,68,4655	whiteb	1	0,1,0	1
+435	Firework	-805,68,4653	whiteb	1	0,1,0	1
+435	Firework	-805,68,4651	whiteb	1	0,1,0	1
+435	Firework	-805,68,4643	whiteb	1	0,1,0	1
+435	Firework	-805,68,4641	whiteb	1	0,1,0	1
+435	Firework	-805,68,4639	whiteb	1	0,1,0	1
+435	Firework	-805,68,4655	whiteb	1	0,1,-1	1
+435	Firework	-805,68,4653	whiteb	1	0,1,-1	1
+435	Firework	-805,68,4651	whiteb	1	0,1,-1	1
+435	Firework	-805,68,4643	whiteb	1	0,1,-1	1
+435	Firework	-805,68,4641	whiteb	1	0,1,-1	1
+435	Firework	-805,68,4639	whiteb	1	0,1,-1	1
+435	Firework	-805,68,4655	whiteb	1	0,1,1	1
+435	Firework	-805,68,4653	whiteb	1	0,1,1	1
+435	Firework	-805,68,4651	whiteb	1	0,1,1	1
+435	Firework	-805,68,4643	whiteb	1	0,1,1	1
+435	Firework	-805,68,4641	whiteb	1	0,1,1	1
+435	Firework	-805,68,4639	whiteb	1	0,1,1	1
+
+437	Firework	-805,68,4655	whiteb	1	0,1,0	1
+437	Firework	-805,68,4653	whiteb	1	0,1,0	1
+437	Firework	-805,68,4651	whiteb	1	0,1,0	1
+437	Firework	-805,68,4643	whiteb	1	0,1,0	1
+437	Firework	-805,68,4641	whiteb	1	0,1,0	1
+437	Firework	-805,68,4639	whiteb	1	0,1,0	1
+437	Firework	-805,68,4655	whiteb	1	0,1,-1	1
+437	Firework	-805,68,4653	whiteb	1	0,1,-1	1
+437	Firework	-805,68,4651	whiteb	1	0,1,-1	1
+437	Firework	-805,68,4643	whiteb	1	0,1,-1	1
+437	Firework	-805,68,4641	whiteb	1	0,1,-1	1
+437	Firework	-805,68,4639	whiteb	1	0,1,-1	1
+437	Firework	-805,68,4655	whiteb	1	0,1,1	1
+437	Firework	-805,68,4653	whiteb	1	0,1,1	1
+437	Firework	-805,68,4651	whiteb	1	0,1,1	1
+437	Firework	-805,68,4643	whiteb	1	0,1,1	1
+437	Firework	-805,68,4641	whiteb	1	0,1,1	1
+437	Firework	-805,68,4639	whiteb	1	0,1,1	1
+#
+432.4	Firework	-803,87,4649	red	0	0,1,0	1
+432.4	Firework	-803,87,4645	red	0	0,1,0	1
+432.4	Firework	-803,85,4651	red	0	0,1,0	1
+432.4	Firework	-803,85,4647	red	0	0,1,0	1
+432.4	Firework	-803,85,4643	red	0	0,1,0	1
+432.4	Firework	-803,83,4649	red	0	0,1,0	1
+432.4	Firework	-803,83,4645	red	0	0,1,0	1
+
+432.8	Firework	-803,87,4649	red	0	0,1,0	1
+432.8	Firework	-803,87,4645	red	0	0,1,0	1
+432.8	Firework	-803,85,4651	red	0	0,1,0	1
+432.8	Firework	-803,85,4647	red	0	0,1,0	1
+432.8	Firework	-803,85,4643	red	0	0,1,0	1
+432.8	Firework	-803,83,4649	red	0	0,1,0	1
+432.8	Firework	-803,83,4645	red	0	0,1,0	1
+
+433.4	Firework	-803,87,4649	green	0	0,1,0	1
+433.4	Firework	-803,87,4645	green	0	0,1,0	1
+433.4	Firework	-803,85,4651	green	0	0,1,0	1
+433.4	Firework	-803,85,4647	green	0	0,1,0	1
+433.4	Firework	-803,85,4643	green	0	0,1,0	1
+432.4	Firework	-803,83,4649	green	0	0,1,0	1
+433.4	Firework	-803,83,4645	green	0	0,1,0	1
+
+433.8	Firework	-803,87,4649	green	0	0,1,0	1
+433.8	Firework	-803,87,4645	green	0	0,1,0	1
+433.8	Firework	-803,85,4651	green	0	0,1,0	1
+433.8	Firework	-803,85,4647	green	0	0,1,0	1
+433.8	Firework	-803,85,4643	green	0	0,1,0	1
+433.8	Firework	-803,83,4649	green	0	0,1,0	1
+433.8	Firework	-803,83,4645	green	0	0,1,0	1
+
+434.4	Firework	-803,87,4649	yellow	0	0,1,0	1
+434.4	Firework	-803,87,4645	yellow	0	0,1,0	1
+434.4	Firework	-803,85,4651	yellow	0	0,1,0	1
+434.4	Firework	-803,85,4647	yellow	0	0,1,0	1
+434.4	Firework	-803,85,4643	yellow	0	0,1,0	1
+434.4	Firework	-803,83,4649	yellow	0	0,1,0	1
+434.4	Firework	-803,83,4645	yellow	0	0,1,0	1
+
+434.8	Firework	-803,87,4649	yellow	0	0,1,0	1
+434.8	Firework	-803,87,4645	yellow	0	0,1,0	1
+434.8	Firework	-803,85,4651	yellow	0	0,1,0	1
+434.8	Firework	-803,85,4647	yellow	0	0,1,0	1
+434.8	Firework	-803,85,4643	yellow	0	0,1,0	1
+434.8	Firework	-803,83,4649	yellow	0	0,1,0	1
+434.8	Firework	-803,83,4645	yellow	0	0,1,0	1
+
+435.4	Firework	-803,87,4649	purple	0	0,1,0	1
+435.4	Firework	-803,87,4645	purple	0	0,1,0	1
+435.4	Firework	-803,85,4651	purple	0	0,1,0	1
+435.4	Firework	-803,85,4647	purple	0	0,1,0	1
+435.4	Firework	-803,85,4643	purple	0	0,1,0	1
+435.4	Firework	-803,83,4649	purple	0	0,1,0	1
+435.4	Firework	-803,83,4645	purple	0	0,1,0	1
+
+435.8	Firework	-803,87,4649	purple	0	0,1,0	1
+435.8	Firework	-803,87,4645	purple	0	0,1,0	1
+435.8	Firework	-803,85,4651	purple	0	0,1,0	1
+435.8	Firework	-803,85,4647	purple	0	0,1,0	1
+435.8	Firework	-803,85,4643	purple	0	0,1,0	1
+435.8	Firework	-803,83,4649	purple	0	0,1,0	1
+435.8	Firework	-803,83,4645	purple	0	0,1,0	1
+
+#433-435
+433	Firework	-805,86,4555	black	0	0,1,0	1
+433	Firework	-805,86,4653	black	0	0,1,0	1
+433	Firework	-805,86,4651	black	0	0,1,0	1
+433	Firework	-805,86,4643	black	0	0,1,0	1
+433	Firework	-805,86,4641	black	0	0,1,0	1
+433	Firework	-805,86,4639	black	0	0,1,0	1
+
+433.5	Firework	-805,86,4555	black	0	0,1,0	1
+433.5	Firework	-805,86,4653	black	0	0,1,0	1
+433.5	Firework	-805,86,4651	black	0	0,1,0	1
+433.5	Firework	-805,86,4643	black	0	0,1,0	1
+433.5	Firework	-805,86,4641	black	0	0,1,0	1
+433.5	Firework	-805,86,4639	black	0	0,1,0	1
+
+434	Firework	-805,86,4555	black	0	0,1,0	1
+434	Firework	-805,86,4653	black	0	0,1,0	1
+434	Firework	-805,86,4651	black	0	0,1,0	1
+434	Firework	-805,86,4643	black	0	0,1,0	1
+434	Firework	-805,86,4641	black	0	0,1,0	1
+434	Firework	-805,86,4639	black	0	0,1,0	1
+
+434.5	Firework	-805,86,4555	black	0	0,1,0	1
+434.5	Firework	-805,86,4653	black	0	0,1,0	1
+434.5	Firework	-805,86,4651	black	0	0,1,0	1
+434.5	Firework	-805,86,4643	black	0	0,1,0	1
+434.5	Firework	-805,86,4641	black	0	0,1,0	1
+434.5	Firework	-805,86,4639	black	0	0,1,0	1
+
+435	Firework	-805,86,4555	black	0	0,1,0	1
+435	Firework	-805,86,4653	black	0	0,1,0	1
+435	Firework	-805,86,4651	black	0	0,1,0	1
+435	Firework	-805,86,4643	black	0	0,1,0	1
+435	Firework	-805,86,4641	black	0	0,1,0	1
+435	Firework	-805,86,4639	black	0	0,1,0	1
+#Lights On
+#Stage
+440	Block	89	-802,64,4635
+440	Block	89	-800,64,4641
+440	Block	89	-800,64,4647
+440	Block	89	-800,64,4653
+440	Block	89	-802,64,4659
+440	Block	89	-808,67,4647
+#Theater
+440	Block	152	-840,67,4652
+440	Block	152	-840,70,4652
+440	Block	152	-840,73,4652
+440	Block	152	-840,76,4652
+440	Block	152	-840,67,4643
+440	Block	152	-840,70,4643
+440	Block	152	-840,73,4643
+440	Block	152	-840,76,4643
+440	Block	0	-844,76,4658
+440	Block	0	-844,76,4636
+440	Block	0	-846,95,4647
+440	Block	0	-839,84,4654	
+440	Block	0	-819,82,4667
+440	Block	0	-819,82,4626
+440	Block	0	-843,61,4648
+#Credits
+440	Text	Credits:
+442	Text	Fireworks: VirusElite524
+444	Text	Plugin: Chiss, of the Mineplex Network and Legobuilder0813

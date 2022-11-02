@@ -1,0 +1,44 @@
+Show	Location	-331,65,291
+Show	TextRadius	5
+#Text
+2	Text	&f[&2Sarge&f] &2You are clear to play.
+3.2	Text	&f[&aArmy Men&f] &aSir yes sir!
+8	Text	&f[&2Rex&f] &2You're doing great!
+16	Text	&f[&2Sarge&f] &2Keep it goin!
+22	Text	&f[&2Sarge&f] &2Time is running out!
+28.2	Text	&f[&2Sarge&f] &25
+29.2	Text	&f[&2Sarge&f] &24
+30.2	Text	&f[&2Sarge&f] &23
+31.2	Text	&f[&2Sarge&f] &22
+32.2	Text	&f[&2Sarge&f] &21
+33.2	Text	&f[&2Sarge&f] &2You've earned your star. Move out!
+34.5	Text	&f[&aArmy Men&f] &aSir yes sir!
+#Blocks
+0	Block	152	-332,57,291
+3.2	Block	152	-332,61,291
+5	Block	152	-332,61,291
+8	Block	152	-332,61,291
+11	Block	152	-332,61,291
+14	Block	152	-332,61,291
+17	Block	152	-332,61,291
+20	Block	152	-332,61,291
+23	Block	152	-332,61,291
+26	Block	152	-332,61,291
+29	Block	152	-332,61,291
+31.1	Block	152	-332,61,291
+32.7	Block	152	-332,53,291
+33.2	Block	152	-332,57,291
+1	Block	0	-332,57,291
+4.2	Block	0	-332,61,291
+6	Block	0	-332,61,291
+9	Block	0	-332,61,291
+12	Block	0	-332,61,291
+15	Block	0	-332,61,291
+18	Block	0	-332,61,291
+21	Block	0	-332,61,291
+24	Block	0	-332,61,291
+27	Block	0	-332,61,291
+30	Block	0	-332,61,291
+32.1	Block	0	-332,61,291
+33.7	Block	0	-332,53,291
+34.2	Block	0	-332,57,291
